@@ -190,7 +190,7 @@
    "Priority": "A",
    "Heading": "UKWA Women",
    "Filter": "UKWA Member=Y,Gender=F",
-   "Fields": "Grouping,Name,Speed (kts)",
+   "Fields": "Name,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=1",
    "TopCount": 1,
    "Rank": "Y",
@@ -200,58 +200,18 @@
    "Name": "Forces",
    "Priority": "F",
    "Heading": "HM Forces",
-   "Filter": "Grouping%Forces",
-   "Fields": "Name,Craft Type,Speed (kts)",
+   "Filter": "Grouping=Forces - %",
+   "Fields": "Grouping,Name,Craft Type,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=1",
    "Rank": "Y",
    "WebPublish": "Y"
  },
  {
-   "Name": "Portland Pirates",
+   "Name": "Grouping",
    "Priority": "F",
-   "Heading": "Portland Pirates",
-   "Filter": "Grouping=Portland Pirates",
+   "Heading": "{Grouping}",
+   "Filter": "Grouping=%",
    "Fields": "Grouping,Name,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=1",
-   "Rank": "Y",
-   "WebPublish": "Y"
- },
- {
-   "Name": "Pitsford",
-   "Priority": "F",
-   "Heading": "Pitsford",
-   "Filter": "Grouping=pitsford",
-   "Fields": "Grouping,Name,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=1",
-   "Rank": "Y",
-   "WebPublish": "N"
- },
- {
-   "Name": "Surf Hogs",
-   "Priority": "F",
-   "Heading": "Surf Hogs",
-   "Filter": "Grouping=Surf Hogs",
-   "Fields": "Grouping,Name,Start Time,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=1",
-   "Rank": "Y",
-   "WebPublish": "Y"
- },
- {
-   "Name": "Twb",
-   "Priority": "F",
-   "Heading": "Twb",
-   "Filter": "Grouping=Twb",
-   "Fields": "Grouping,Name,Start Time,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=1",
-   "Rank": "Y",
-   "WebPublish": "Y"
- },
- {
-   "Name": "Hamworthy Heroes",
-   "Priority": "F",
-   "Heading": "Hamworthy Heroes",
-   "Filter": "Grouping=Hamworthy Heroes",
-   "Fields": "Grouping,Name,Start Time,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=1",
    "Rank": "Y",
    "WebPublish": "Y"
@@ -307,16 +267,6 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Age Class,Status,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y",
-   "WebPublish": "N"
- },
- {
-   "Name": "Team QSW",
-   "Priority": "N",
-   "Heading": "Team QSW",
-   "Filter": "Grouping%QSW",
-   "Fields": "Grouping,Name,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=1",
    "Rank": "Y",
    "WebPublish": "N"
  }
