@@ -2,7 +2,6 @@
  {
    "ID": 4,
    "Gender": "M",
-   "EnteredDateTime": "28/08/2019",
    "Title": "Mr",
    "First Name": "Simon",
    "Family Name": "Pettifer",
@@ -16,12 +15,10 @@
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "Sponsored by Duotone; Fanatic; Ion; F-Hot fins; southeast signage  and The OTC",
-   "RegDateTime": "10/05/2019 10:11"
  },
  {
    "ID": 7,
    "Gender": "M",
-   "EnteredDateTime": "29/08/2019",
    "Title": "Mr",
    "First Name": "Cartridge",
    "Family Name": "Danny",
@@ -35,12 +32,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
-   "RegDateTime": "10/04/2019 17:01"
  },
  {
    "ID": 8,
    "Gender": "M",
-   "EnteredDateTime": "29/08/2019",
    "Title": "Mr",
    "First Name": "Paul",
    "Family Name": "Sibley",
@@ -55,12 +50,10 @@
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "Starboard and Severne; discounted kit deal. ",
-   "RegDateTime": "10/05/2019 10:45"
  },
  {
    "ID": 9,
    "Gender": "M",
-   "EnteredDateTime": "29/08/2019",
    "Title": "Mr",
    "First Name": "James",
    "Family Name": "Battye",
@@ -74,12 +67,10 @@
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "Simmer \nOshea",
-   "RegDateTime": "10/04/2019 14:02"
  },
  {
    "ID": 10,
    "Gender": "M",
-   "EnteredDateTime": "29/08/2019",
    "Title": "Mr",
    "First Name": "Bob",
    "Family Name": "Cartridge",
@@ -92,12 +83,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 16:57"
  },
  {
    "ID": 12,
    "Gender": "M",
-   "EnteredDateTime": "29/08/2019",
    "Title": "Mr",
    "First Name": "Roger",
    "Family Name": "Oernvang",
@@ -111,12 +100,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "R-Tech Solution AB ",
-   "RegDateTime": "10/05/2019 16:00"
  },
  {
    "ID": 17,
    "Gender": "M",
-   "EnteredDateTime": "29/08/2019",
    "Title": "Mr",
    "First Name": "Steven",
    "Family Name": "Summerfield",
@@ -130,12 +117,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 15:56"
  },
  {
    "ID": 18,
    "Gender": "M",
-   "EnteredDateTime": "29/08/2019",
    "Title": "Mr",
    "First Name": "Trevor",
    "Family Name": "Whatford",
@@ -148,12 +133,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "Y",
-   "RegDateTime": "10/05/2019 11:42"
  },
  {
    "ID": 19,
    "Gender": "M",
-   "EnteredDateTime": "29/08/2019",
    "Title": "Mr",
    "First Name": "Adrian",
    "Family Name": "Wallis",
@@ -167,12 +150,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "Y",
-   "RegDateTime": "10/04/2019 18:08"
  },
  {
    "ID": 20,
    "Gender": "M",
-   "EnteredDateTime": "29/08/2019",
    "Title": "Mr",
    "First Name": "Jean-Marc",
    "Family Name": "De Bruyne",
@@ -186,12 +167,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "Gun sails-F2-Select fins-VW-Optic Benoit",
-   "RegDateTime": "10/04/2019 17:45"
  },
  {
    "ID": 21,
    "Gender": "M",
-   "EnteredDateTime": "29/08/2019",
    "Title": "Mr",
    "First Name": "Nick",
    "Family Name": "Deakin",
@@ -204,12 +183,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "Y",
-   "RegDateTime": "10/04/2019 17:49"
  },
  {
    "ID": 22,
    "Gender": "M",
-   "EnteredDateTime": "29/08/2019",
    "Title": "Mr",
    "First Name": "John",
    "Family Name": "Oliver",
@@ -223,12 +200,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/06/2019 09:24"
  },
  {
    "ID": 23,
    "Gender": "M",
-   "EnteredDateTime": "30/08/2019",
    "Title": "Mr",
    "First Name": "Richard",
    "Family Name": "Crosby",
@@ -243,12 +218,10 @@
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "no",
-   "RegDateTime": "10/04/2019 17:39"
  },
  {
    "ID": 24,
    "Gender": "M",
-   "EnteredDateTime": "30/08/2019",
    "Title": "Mr",
    "First Name": "Steve",
    "Family Name": "Watson",
@@ -263,12 +236,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "no",
-   "RegDateTime": "10/04/2019 18:09"
  },
  {
    "ID": 25,
    "Gender": "M",
-   "EnteredDateTime": "30/08/2019",
    "Title": "Mr",
    "First Name": "Simon",
    "Family Name": "Olley",
@@ -282,12 +253,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "Y",
-   "RegDateTime": "10/04/2019 16:23"
  },
  {
    "ID": 26,
    "Gender": "M",
-   "EnteredDateTime": "30/08/2019",
    "Title": "Mr",
    "First Name": "Simon",
    "Family Name": "Gregory",
@@ -300,12 +269,10 @@
    "Nationality": "Guernsey",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 17:54"
  },
  {
    "ID": 27,
    "Gender": "M",
-   "EnteredDateTime": "31/08/2019",
    "Title": "Mr",
    "First Name": "Olly",
    "Family Name": "Wood",
@@ -318,12 +285,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "Y",
-   "RegDateTime": "10/07/2019 09:46"
  },
  {
    "ID": 28,
    "Gender": "M",
-   "EnteredDateTime": "31/08/2019",
    "Title": "Mr",
    "First Name": "Josh",
    "Family Name": "Lane",
@@ -336,12 +301,10 @@
    "Nationality": "England",
    "EntryType": "Youth Weekend",
    "UKWA Member": "Y",
-   "RegDateTime": "10/04/2019 17:58"
  },
  {
    "ID": 29,
    "Gender": "M",
-   "EnteredDateTime": "31/08/2019",
    "Title": "Mr",
    "First Name": "Angus",
    "Family Name": "Hitchin",
@@ -355,12 +318,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 17:22"
  },
  {
    "ID": 30,
    "Gender": "M",
-   "EnteredDateTime": "01/09/2019",
    "Title": "Mr",
    "First Name": "William",
    "Family Name": "Oscroft",
@@ -375,12 +336,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
-   "RegDateTime": "10/04/2019 16:44"
  },
  {
    "ID": 32,
    "Gender": "M",
-   "EnteredDateTime": "01/09/2019",
    "Title": "Mr",
    "First Name": "Neil",
    "Family Name": "Thompson",
@@ -393,12 +352,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/05/2019 11:53"
  },
  {
    "ID": 33,
    "Gender": "M",
-   "EnteredDateTime": "02/09/2019",
    "Title": "Mr",
    "First Name": "Robin",
    "Family Name": "Russell",
@@ -412,12 +369,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/07/2019 14:18"
  },
  {
    "ID": 34,
    "Gender": "M",
-   "EnteredDateTime": "02/09/2019",
    "Title": "Mr",
    "First Name": "Peter",
    "Family Name": "Crosby",
@@ -432,12 +387,10 @@
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "No",
-   "RegDateTime": "10/05/2019 11:18"
  },
  {
    "ID": 36,
    "Gender": "M",
-   "EnteredDateTime": "03/09/2019",
    "Title": "Mr",
    "First Name": "Jeb",
    "Family Name": "Beresford",
@@ -451,12 +404,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
-   "RegDateTime": "10/04/2019 17:33"
  },
  {
    "ID": 37,
    "Gender": "F",
-   "EnteredDateTime": "03/09/2019",
    "Title": "Mrs",
    "First Name": "Tania",
    "Family Name": "Mertens",
@@ -469,12 +420,10 @@
    "Nationality": "Belgium",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 16:04"
  },
  {
    "ID": 38,
    "Gender": "M",
-   "EnteredDateTime": "03/09/2019",
    "Title": "Mr",
    "First Name": "Patrick",
    "Family Name": "Van Hoof",
@@ -488,12 +437,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "Duotone\nFanatic\nIon\nSonntag Fins\nImvano",
-   "RegDateTime": "10/04/2019 16:18"
  },
  {
    "ID": 39,
    "Gender": "M",
-   "EnteredDateTime": "04/09/2019",
    "Title": "Mr",
    "First Name": "David",
    "Family Name": "Ellerbeck",
@@ -507,12 +454,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 17:29"
  },
  {
    "ID": 40,
    "Gender": "M",
-   "EnteredDateTime": "04/09/2019",
    "Title": "Mr",
    "First Name": "Tristan",
    "Family Name": "Drane",
@@ -527,12 +472,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
-   "RegDateTime": "10/04/2019 16:45"
  },
  {
    "ID": 41,
    "Gender": "M",
-   "EnteredDateTime": "04/09/2019",
    "Title": "Mr",
    "First Name": "Fin",
    "Family Name": "Drane",
@@ -547,12 +490,10 @@
    "EntryType": "Youth Weekend",
    "UKWA Member": "N",
    "Sponsorship": "No",
-   "RegDateTime": "10/04/2019 16:50"
  },
  {
    "ID": 42,
    "Gender": "M",
-   "EnteredDateTime": "04/09/2019",
    "Title": "Mr",
    "First Name": "Jim",
    "Family Name": "Crossley",
@@ -566,12 +507,10 @@
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "4Boards; RRD;  loftsails; Unifiber; Black Salamander ",
-   "RegDateTime": "10/06/2019 10:25"
  },
  {
    "ID": 43,
    "Gender": "M",
-   "EnteredDateTime": "07/09/2019",
    "Title": "Mr",
    "First Name": "Garry",
    "Family Name": "Connell",
@@ -586,12 +525,10 @@
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "No",
-   "RegDateTime": "10/04/2019 13:18"
  },
  {
    "ID": 45,
    "Gender": "M",
-   "EnteredDateTime": "09/09/2019",
    "Title": "Mr",
    "First Name": "George",
    "Family Name": "Fulton",
@@ -605,12 +542,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "Y",
-   "RegDateTime": "10/04/2019 16:02"
  },
  {
    "ID": 46,
    "Gender": "M",
-   "EnteredDateTime": "09/09/2019",
    "Title": "Mr",
    "First Name": "James",
    "Family Name": "Longmuir",
@@ -623,12 +558,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/05/2019 09:15"
  },
  {
    "ID": 47,
    "Gender": "F",
-   "EnteredDateTime": "10/09/2019",
    "Title": "Mrs",
    "First Name": "Christine",
    "Family Name": "Daffe",
@@ -641,12 +574,10 @@
    "Nationality": "Belgium",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 17:42"
  },
  {
    "ID": 48,
    "Gender": "M",
-   "EnteredDateTime": "10/09/2019",
    "Title": "Mr",
    "First Name": "Robin",
    "Family Name": "Hofman",
@@ -660,12 +591,10 @@
    "Nationality": "Belgium",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 15:28"
  },
  {
    "ID": 49,
    "Gender": "M",
-   "EnteredDateTime": "10/09/2019",
    "Title": "Mr",
    "First Name": "Ruben",
    "Family Name": "Hofman",
@@ -679,12 +608,10 @@
    "Nationality": "Belgium",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 15:36"
  },
  {
    "ID": 50,
    "Gender": "M",
-   "EnteredDateTime": "14/09/2019",
    "Title": "Mr",
    "First Name": "Andrew",
    "Family Name": "Twinn",
@@ -698,12 +625,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
-   "RegDateTime": "10/04/2019 18:06"
  },
  {
    "ID": 51,
    "Gender": "M",
-   "EnteredDateTime": "15/09/2019",
    "Title": "Mr",
    "First Name": "David",
    "Family Name": "Williams",
@@ -717,12 +642,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "Rockerline clothing\nFlysurfer\nPc2 ",
-   "RegDateTime": "10/04/2019 18:10"
  },
  {
    "ID": 52,
    "Gender": "M",
-   "EnteredDateTime": "15/09/2019",
    "Title": "Mr",
    "First Name": "Spenser",
    "Family Name": "Arnold",
@@ -735,12 +658,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "Y",
-   "RegDateTime": "10/04/2019 17:18"
  },
  {
    "ID": 53,
    "Gender": "M",
-   "EnteredDateTime": "15/09/2019",
    "Title": "Mr",
    "First Name": "Harry",
    "Family Name": "Keenan",
@@ -755,12 +676,10 @@
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "NO",
-   "RegDateTime": "10/04/2019 17:56"
  },
  {
    "ID": 54,
    "Gender": "M",
-   "EnteredDateTime": "15/09/2019",
    "Title": "Mr",
    "First Name": "Lewis",
    "Family Name": "Limm",
@@ -773,12 +692,10 @@
    "Nationality": "England",
    "EntryType": "Youth Weekend",
    "UKWA Member": "Y",
-   "RegDateTime": "10/04/2019 18:01"
  },
  {
    "ID": 55,
    "Gender": "M",
-   "EnteredDateTime": "15/09/2019",
    "Title": "Mr",
    "First Name": "Scotty",
    "Family Name": "Stallman",
@@ -794,12 +711,10 @@
    "UKWA Member": "Y",
    "Boat Name": "GBR-68",
    "Sponsorship": "OTC-Starboard-Severne-F-hot Fins-ION-Rockerline-South East Signage",
-   "RegDateTime": "10/05/2019 09:06"
  },
  {
    "ID": 57,
    "Gender": "M",
-   "EnteredDateTime": "16/09/2019",
    "Title": "Mr",
    "First Name": "Chris ",
    "Family Name": "Cleland ",
@@ -812,12 +727,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "Y",
-   "RegDateTime": "10/06/2019 09:15"
  },
  {
    "ID": 58,
    "Gender": "M",
-   "EnteredDateTime": "19/09/2019",
    "Title": "Mr",
    "First Name": "Matt",
    "Family Name": "Roche",
@@ -830,12 +743,10 @@
    "Nationality": "England",
    "EntryType": "Youth Weekend",
    "UKWA Member": "Y",
-   "RegDateTime": "10/04/2019 18:03"
  },
  {
    "ID": 59,
    "Gender": "M",
-   "EnteredDateTime": "20/09/2019",
    "Title": "Mr",
    "First Name": "Ben",
    "Family Name": "Wisbey",
@@ -848,12 +759,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 18:12"
  },
  {
    "ID": 60,
    "Gender": "M",
-   "EnteredDateTime": "22/09/2019",
    "Title": "Mr",
    "First Name": "Martin",
    "Family Name": "Carter",
@@ -867,12 +776,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "F-One kites\nOld Guys Rule\nToad Hall Cottages ",
-   "RegDateTime": "10/05/2019 10:13"
  },
  {
    "ID": 61,
    "Gender": "M",
-   "EnteredDateTime": "22/09/2019",
    "Title": "Mr",
    "First Name": "Gavin",
    "Family Name": "Nicholson",
@@ -886,12 +793,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "Y",
-   "RegDateTime": "10/06/2019 12:16"
  },
  {
    "ID": 62,
    "Gender": "M",
-   "EnteredDateTime": "23/09/2019",
    "Title": "Mr",
    "First Name": "Will",
    "Family Name": "Trossell",
@@ -904,12 +809,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "Y",
-   "RegDateTime": "10/08/2019 09:44"
  },
  {
    "ID": 63,
    "Gender": "M",
-   "EnteredDateTime": "23/09/2019",
    "Title": "Mr",
    "First Name": "Tyler ",
    "Family Name": "Baker ",
@@ -922,12 +825,10 @@
    "Nationality": "England",
    "EntryType": "Youth Weekend",
    "UKWA Member": "Y",
-   "RegDateTime": "10/04/2019 17:36"
  },
  {
    "ID": 66,
    "Gender": "F",
-   "EnteredDateTime": "23/09/2019",
    "Title": "Miss",
    "First Name": "Jenna",
    "Family Name": "Gibson",
@@ -941,12 +842,10 @@
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "Yes; Duotone; Fanatic ; Foilworx",
-   "RegDateTime": "10/05/2019 09:32"
  },
  {
    "ID": 67,
    "Gender": "M",
-   "EnteredDateTime": "23/09/2019",
    "Title": "Mr",
    "First Name": "Paul",
    "Family Name": "Morris",
@@ -960,12 +859,10 @@
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
-   "RegDateTime": "10/06/2019 10:18"
  },
  {
    "ID": 68,
    "Gender": "M",
-   "EnteredDateTime": "23/09/2019",
    "Title": "Mr",
    "First Name": "Dave",
    "Family Name": "Strudwick",
@@ -980,12 +877,10 @@
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "No",
-   "RegDateTime": "10/05/2019 09:14"
  },
  {
    "ID": 1070,
    "Gender": "M",
-   "EnteredDateTime": "10/04/2019",
    "Title": "Mr",
    "First Name": "Michael ",
    "Family Name": "George",
@@ -999,12 +894,10 @@
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "JP / Neil Pryde",
-   "RegDateTime": "10/04/2019 14:50"
  },
  {
    "ID": 1071,
    "Gender": "M",
-   "EnteredDateTime": "10/04/2019",
    "Title": "Mr",
    "First Name": "Pete",
    "Family Name": "Young",
@@ -1017,12 +910,10 @@
    "Nationality": "England",
    "EntryType": "2-Day",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 14:58"
  },
  {
    "ID": 1072,
    "Gender": "M",
-   "EnteredDateTime": "10/04/2019",
    "Title": "Mr",
    "First Name": "Mark",
    "Family Name": "Newman",
@@ -1035,12 +926,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/04/2019 15:24"
  },
  {
    "ID": 1073,
    "Gender": "M",
-   "EnteredDateTime": "10/05/2019",
    "Title": "Mr",
    "First Name": "James",
    "Family Name": "Faley",
@@ -1054,12 +943,10 @@
    "Nationality": "England",
    "EntryType": "Youth Weekend",
    "UKWA Member": "Y",
-   "RegDateTime": "10/05/2019 09:13"
  },
  {
    "ID": 1074,
    "Gender": "M",
-   "EnteredDateTime": "10/06/2019",
    "Title": "mr",
    "First Name": "claude",
    "Family Name": "Van-martyn",
@@ -1072,12 +959,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/06/2019 09:34"
  },
  {
    "ID": 1075,
    "Gender": "M",
-   "EnteredDateTime": "10/07/2019",
    "Title": "Mr",
    "First Name": "Malcolm ",
    "Family Name": "Barnsley",
@@ -1090,12 +975,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/07/2019 09:54"
  },
  {
    "ID": 1076,
    "Gender": "M",
-   "EnteredDateTime": "10/07/2019",
    "Title": "Mr",
    "First Name": "Fred",
    "Family Name": "Ball",
@@ -1108,12 +991,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/07/2019 10:38"
  },
  {
    "ID": 1079,
    "Gender": "M",
-   "EnteredDateTime": "10/07/2019",
    "Title": "Mr",
    "First Name": "mark",
    "Family Name": "salvage",
@@ -1126,12 +1007,10 @@
    "Nationality": "England",
    "EntryType": "2-Day",
    "UKWA Member": "Y",
-   "RegDateTime": "10/07/2019 11:29"
  },
  {
    "ID": 1080,
    "Gender": "F",
-   "EnteredDateTime": "10/07/2019",
    "Title": "Ms",
    "First Name": "Katharine",
    "Family Name": "Skinner",
@@ -1144,12 +1023,10 @@
    "Nationality": "England",
    "EntryType": "2-Day",
    "UKWA Member": "Y",
-   "RegDateTime": "10/07/2019 12:05"
  },
  {
    "ID": 1081,
    "Gender": "M",
-   "EnteredDateTime": "10/07/2019",
    "Title": "mr",
    "First Name": "neil",
    "Family Name": "thompson",
@@ -1162,12 +1039,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "N",
-   "RegDateTime": "10/07/2019 12:48"
  },
  {
    "ID": 1082,
    "Gender": "M",
-   "EnteredDateTime": "10/07/2019",
    "Title": "Mr",
    "First Name": "Tom",
    "Family Name": "Joyce",
@@ -1181,12 +1056,10 @@
    "Nationality": "England",
    "EntryType": "All Week",
    "UKWA Member": "Y",
-   "RegDateTime": "10/07/2019 16:20"
  },
  {
    "ID": 1083,
    "Gender": "M",
-   "EnteredDateTime": "10/08/2019",
    "Title": "Mr",
    "First Name": "Steve",
    "Family Name": "Davison",
@@ -1199,12 +1072,10 @@
    "Nationality": "England",
    "EntryType": "2-Day",
    "UKWA Member": "N",
-   "RegDateTime": "10/08/2019 09:17"
  },
  {
    "ID": 1084,
    "Gender": "M",
-   "EnteredDateTime": "10/08/2019",
    "Title": "Mr",
    "First Name": "Neven",
    "Family Name": "Juretic",
@@ -1217,12 +1088,10 @@
    "Nationality": "England",
    "EntryType": "2-Day",
    "UKWA Member": "Y",
-   "RegDateTime": "10/08/2019 09:26"
  },
  {
    "ID": 1085,
    "Gender": "M",
-   "EnteredDateTime": "10/08/2019",
    "Title": "mr",
    "First Name": "Tom",
    "Family Name": "Squires",
@@ -1235,12 +1104,10 @@
    "Nationality": "England",
    "EntryType": "2-Day",
    "UKWA Member": "Y",
-   "RegDateTime": "10/08/2019 10:05"
  },
  {
    "ID": 1086,
    "Gender": "M",
-   "EnteredDateTime": "10/09/2019",
    "Title": "Mr",
    "First Name": "Richard",
    "Family Name": "Trubger",
@@ -1253,12 +1120,10 @@
    "Nationality": "England",
    "EntryType": "2-Day",
    "UKWA Member": "N",
-   "RegDateTime": "10/09/2019 10:13"
  },
  {
    "ID": 1087,
    "Gender": "M",
-   "EnteredDateTime": "10/09/2019",
    "Title": "Mr",
    "First Name": "Ian",
    "Family Name": "Hill",
@@ -1271,6 +1136,5 @@
    "Nationality": "England",
    "EntryType": "2-Day",
    "UKWA Member": "N",
-   "RegDateTime": "10/09/2019 12:47"
  }
 ]
