@@ -46,7 +46,7 @@
     "Nationality":"England",
     "EntryType":"All Week",
     "UKWA Member":"Y",
-    "Sponsorship":"Starboard and Severne; discounted kit deal. "
+    "Sponsorship":"Starboard and Severne; discounted kit deal."
   },
   {
     "Gender":"M",
@@ -93,7 +93,7 @@
     "Nationality":"Sweden",
     "EntryType":"All Week",
     "UKWA Member":"N",
-    "Sponsorship":"R-Tech Solution AB "
+    "Sponsorship":"R-Tech Solution AB"
   },
   {
     "Gender":"M",
@@ -476,7 +476,7 @@
     "Nationality":"England",
     "EntryType":"All Week",
     "UKWA Member":"Y",
-    "Sponsorship":"4Boards; RRD;  loftsails; Unifiber; Black Salamander "
+    "Sponsorship":"4Boards; RRD;  loftsails; Unifiber; Black Salamander"
   },
   {
     "Gender":"M",
@@ -603,7 +603,7 @@
     "Nationality":"England",
     "EntryType":"All Week",
     "UKWA Member":"N",
-    "Sponsorship":"Rockerline clothing\nFlysurfer\nPc2 "
+    "Sponsorship":"Rockerline clothing\nFlysurfer\nPc2"
   },
   {
     "Gender":"M",
@@ -673,8 +673,8 @@
   {
     "Gender":"M",
     "Title":"Mr",
-    "First Name":"Chris ",
-    "Family Name":"Cleland ",
+    "First Name":"Chris",
+    "Family Name":"Cleland",
     "First Timer":"N",
     "Status":"Amateur",
     "Craft Type":"Sailboard",
@@ -729,7 +729,7 @@
     "Nationality":"England",
     "EntryType":"All Week",
     "UKWA Member":"N",
-    "Sponsorship":"F-One kites\nOld Guys Rule\nToad Hall Cottages "
+    "Sponsorship":"F-One kites\nOld Guys Rule\nToad Hall Cottages"
   },
   {
     "Gender":"M",
@@ -765,8 +765,8 @@
   {
     "Gender":"M",
     "Title":"Mr",
-    "First Name":"Tyler ",
-    "Family Name":"Baker ",
+    "First Name":"Tyler",
+    "Family Name":"Baker",
     "First Timer":"N",
     "Status":"Amateur",
     "Craft Type":"Sailboard",
@@ -829,7 +829,7 @@
   {
     "Gender":"M",
     "Title":"Mr",
-    "First Name":"Michael ",
+    "First Name":"Michael",
     "Family Name":"George",
     "First Timer":"N",
     "Status":"Gold-Fleet",
@@ -906,7 +906,7 @@
   {
     "Gender":"M",
     "Title":"Mr",
-    "First Name":"Malcolm ",
+    "First Name":"Malcolm",
     "Family Name":"Barnsley",
     "First Timer":"N",
     "Status":"Boat-Fleet",
