@@ -1,0 +1,14 @@
+{
+   "Start Date": [
+      {
+         "Value": "09/10/2021",
+         "Description": "First day of competition (typically a Saturday) - DD/MM/YYYY"
+      }
+   ],
+   "End Date": [
+      {
+         "Value": "15/10/2021",
+         "Description": "Last day of competition (typically a Friday) - DD/MM/YYYY"
+      }
+   ]
+}
