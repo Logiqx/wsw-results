@@ -14,7 +14,6 @@
    "GT31 SN": "133200837",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "Sponsored by Duotone; Fanatic; Ion; F-Hot fins; southeast signage  and The OTC",
@@ -35,7 +34,6 @@
    "GT31 SN": "133200506",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
@@ -57,7 +55,6 @@
    "GT31 FW": "V1.4(B0315C)",
    "Grouping": "Twb",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "Starboard and Severne; discounted kit deal. ",
@@ -78,7 +75,6 @@
    "GT31 SN": "103200479",
    "GT31 FW": "V1.4(B0315C)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "Simmer \nOshea",
@@ -99,7 +95,6 @@
    "GT31 SN": "932000712",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 16:57"
@@ -119,7 +114,6 @@
    "GT31 SN": "133200018",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "Sweden",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "R-Tech Solution AB ",
@@ -141,7 +135,6 @@
    "GT31 FW": "V1.4(B0315C)",
    "Grouping": "Stan's 50Th",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 15:56"
@@ -161,7 +154,6 @@
    "GT31 SN": "832004534",
    "GT31 FW": "V1.4(D0428T)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "RegDateTime": "10/05/2019 11:42"
@@ -182,7 +174,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Forces - Royal Navy",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "RegDateTime": "10/04/2019 18:08"
@@ -202,7 +193,6 @@
    "GT31 SN": "123201188",
    "GT31 FW": "V1.4(B0315C)",
    "Nationality": "Belgium",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "Gun sails-F2-Select fins-VW-Optic Benoit",
@@ -223,7 +213,6 @@
    "GT31 SN": "932000570",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "RegDateTime": "10/04/2019 17:49"
@@ -244,7 +233,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Surf Hogs",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/06/2019 09:24"
@@ -265,7 +253,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Surf Hogs",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "no",
@@ -287,7 +274,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Surf Hogs",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "no",
@@ -309,7 +295,6 @@
    "GT31 FW": "V1.4(B0315C)",
    "Grouping": "Stan's 50Th",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "RegDateTime": "10/04/2019 16:23"
@@ -329,7 +314,6 @@
    "GT31 SN": "932000584",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "Guernsey",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 17:54"
@@ -349,7 +333,6 @@
    "GT31 SN": "832000210",
    "GT31 FW": "V1.3(B1015)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "RegDateTime": "10/07/2019 09:46"
@@ -369,7 +352,6 @@
    "GT31 SN": "932000585",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "Youth Weekend",
    "UKWA Member": "Y",
    "RegDateTime": "10/04/2019 17:58"
@@ -390,7 +372,6 @@
    "GT31 FW": "V1.4(B0315C)",
    "Grouping": "Stan's 50Th",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 17:22"
@@ -411,7 +392,6 @@
    "GT31 FW": "V1.4(B0315C)",
    "Grouping": "Stan's 50Th",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
@@ -432,7 +412,6 @@
    "GT31 SN": "123200930",
    "GT31 FW": "V1.4(B0315C)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/05/2019 11:53"
@@ -453,7 +432,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Surf Hogs",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/07/2019 14:18"
@@ -474,7 +452,6 @@
    "GT31 FW": "V1.4(D0428T)",
    "Grouping": "Surf Hogs",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "No",
@@ -495,7 +472,6 @@
    "GT31 SN": "832002092",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
@@ -516,7 +492,6 @@
    "GT31 SN": "133201596",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "Belgium",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 16:04"
@@ -536,7 +511,6 @@
    "GT31 SN": "32001288,,832001646,832004341",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "Belgium",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "Duotone\nFanatic\nIon\nSonntag Fins\nImvano",
@@ -558,7 +532,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Stan's 50Th",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 17:29"
@@ -579,7 +552,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Stan's 50Th",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
@@ -601,7 +573,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Stan's 50Th",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "Youth Weekend",
    "UKWA Member": "N",
    "Sponsorship": "No",
@@ -622,7 +593,6 @@
    "GT31 SN": "133200501",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "4Boards; RRD;  loftsails; Unifiber; Black Salamander ",
@@ -644,7 +614,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Hamworthy Heros",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "No",
@@ -666,7 +635,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Portland Pirates",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "RegDateTime": "10/04/2019 16:02"
@@ -686,7 +654,6 @@
    "GT31 SN": "113200508",
    "GT31 FW": "V1.4(B0315C)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/05/2019 09:15"
@@ -706,7 +673,6 @@
    "GT31 SN": "932000586",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "Belgium",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 17:42"
@@ -727,7 +693,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Boards & Beards",
    "Nationality": "Belgium",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 15:28"
@@ -748,7 +713,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Boards & Beards",
    "Nationality": "Belgium",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 15:36"
@@ -768,7 +732,6 @@
    "GT31 SN": "932000572",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
@@ -789,7 +752,6 @@
    "GT31 SN": "932000560",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "Rockerline clothing\nFlysurfer\nPc2 ",
@@ -810,7 +772,6 @@
    "GT31 SN": "932001083",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "RegDateTime": "10/04/2019 17:18"
@@ -831,7 +792,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Forces - Royal Navy",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "NO",
@@ -852,7 +812,6 @@
    "GT31 SN": "932000569",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "Youth Weekend",
    "UKWA Member": "Y",
    "RegDateTime": "10/04/2019 18:01"
@@ -873,7 +832,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Portland Pirates",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Boat Name": "GBR-68",
@@ -895,7 +853,6 @@
    "GT31 SN": "113200978",
    "GT31 FW": "V1.4(B0315C)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "RegDateTime": "10/06/2019 09:15"
@@ -915,7 +872,6 @@
    "GT31 SN": "932000576",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "Youth Weekend",
    "UKWA Member": "Y",
    "RegDateTime": "10/04/2019 18:03"
@@ -935,7 +891,6 @@
    "GT31 SN": "932000179",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 18:12"
@@ -955,7 +910,6 @@
    "GT31 SN": "103200708",
    "GT31 FW": "V1.4(B0315C)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "F-One kites\nOld Guys Rule\nToad Hall Cottages ",
@@ -977,7 +931,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Forces - Royal Navy",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "RegDateTime": "10/06/2019 12:16"
@@ -997,7 +950,6 @@
    "GT31 SN": "133200819",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "RegDateTime": "10/08/2019 09:44"
@@ -1017,7 +969,6 @@
    "GT31 SN": "932000571,833002174",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "Youth Weekend",
    "UKWA Member": "Y",
    "RegDateTime": "10/04/2019 17:36"
@@ -1037,7 +988,6 @@
    "GT31 SN": "123200455",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "Yes; Duotone; Fanatic ; Foilworx",
@@ -1058,7 +1008,6 @@
    "GT31 SN": "832000612",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "Sponsorship": "No",
@@ -1080,7 +1029,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Forces - Royal Navy",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "No",
@@ -1101,7 +1049,6 @@
    "GT31 SN": "123201112",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "Sponsorship": "JP / Neil Pryde",
@@ -1122,7 +1069,6 @@
    "GT31 SN": "133201112",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "2-Day",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 14:58"
@@ -1142,7 +1088,6 @@
    "GT31 SN": "932000564",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/04/2019 15:24"
@@ -1163,7 +1108,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Portland Pirates",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "Youth Weekend",
    "UKWA Member": "Y",
    "RegDateTime": "10/05/2019 09:13"
@@ -1183,7 +1127,6 @@
    "GT31 SN": "932000575",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/06/2019 09:34"
@@ -1203,7 +1146,6 @@
    "GT31 SN": "932000403",
    "GT31 FW": "V1.4(D0428T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/07/2019 09:54"
@@ -1223,7 +1165,6 @@
    "GT31 SN": "932000196",
    "GT31 FW": "V1.3(B1015)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/07/2019 10:38"
@@ -1243,7 +1184,6 @@
    "GT31 SN": "932000569",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "2-Day",
    "UKWA Member": "Y",
    "RegDateTime": "10/07/2019 11:29"
@@ -1263,7 +1203,6 @@
    "GT31 SN": "123200899",
    "GT31 FW": "V1.4(D0428T)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "2-Day",
    "UKWA Member": "Y",
    "RegDateTime": "10/07/2019 12:05"
@@ -1283,7 +1222,6 @@
    "GT31 SN": "932000588",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "N",
    "RegDateTime": "10/07/2019 12:48"
@@ -1304,7 +1242,6 @@
    "GT31 FW": "V1.4(B0803T)",
    "Grouping": "Forces - Royal Navy",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "All Week",
    "UKWA Member": "Y",
    "RegDateTime": "10/07/2019 16:20"
@@ -1324,7 +1261,6 @@
    "GT31 SN": "832000842",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "2-Day",
    "UKWA Member": "N",
    "RegDateTime": "10/08/2019 09:17"
@@ -1344,7 +1280,6 @@
    "GT31 SN": "932000585",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "2-Day",
    "UKWA Member": "Y",
    "RegDateTime": "10/08/2019 09:26"
@@ -1364,7 +1299,6 @@
    "GT31 SN": "932000169",
    "GT31 FW": "V1.4(D0428T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "2-Day",
    "UKWA Member": "Y",
    "RegDateTime": "10/08/2019 10:05"
@@ -1384,7 +1318,6 @@
    "GT31 SN": "832001510",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "N",
    "EntryType": "2-Day",
    "UKWA Member": "N",
    "RegDateTime": "10/09/2019 10:13"
@@ -1404,7 +1337,6 @@
    "GT31 SN": "932000583",
    "GT31 FW": "V1.4(B0803T)",
    "Nationality": "England",
-   "requiredGT31": "Y",
    "EntryType": "2-Day",
    "UKWA Member": "N",
    "RegDateTime": "10/09/2019 12:47"
