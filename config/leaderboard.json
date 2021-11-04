@@ -1,0 +1,323 @@
+[
+ {
+   "Name": "Overall Leaders",
+   "Priority": "F",
+   "Heading": "Top Ten Fastest",
+   "Fields": "Speed (kts),Name,Craft Type",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 10,
+   "Rank": "Y",
+   "WebPublish": "Y",
+   "TextAbove": "Results subject to Ratification"
+ },
+ {
+   "Name": "Overall Results",
+   "Priority": "F",
+   "Heading": "All Competitors",
+   "Fields": "Name,Speed (kts),Craft Type,Status,Country",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading Kites",
+   "Priority": "Q",
+   "Heading": "Overall Fastest Kite",
+   "Filter": "Craft Type=Kite Board",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading Boats",
+   "Priority": "Q",
+   "Heading": "Overall Fastest Boat",
+   "Filter": "Craft Type=Boat",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading Sailboards",
+   "Priority": "Q",
+   "Heading": "Overall Fastest Sailboard",
+   "Filter": "Craft Type=Sailboard,Status",
+   "Fields": "Name,Status,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading Ladies",
+   "Priority": "Q",
+   "Heading": "Overall Fastest Lady",
+   "Filter": "Gender=F",
+   "Fields": "Name,Craft Type,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading Youths",
+   "Priority": "Q",
+   "Heading": "Leading Youth Fleet Sailboard",
+   "Filter": "Age Class=Youth,Craft Type=Sailboard",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 5,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading First Time Sailboard",
+   "Priority": "Q",
+   "Heading": "Leading First Time Sailboard",
+   "Filter": "Craft Type=Sailboard,First Timer=Yes,Age Class<>Youth,Status=Amateur",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading Amateurs",
+   "Priority": "Q",
+   "Heading": "Leading Amateur Sailboard",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,Age Class<>Youth,First Timer=No",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 4,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading Gold Fleet",
+   "Priority": "Q",
+   "Heading": "Leading Gold Fleet Sailboard",
+   "Filter": "Status=Gold-Fleet,Craft Type=Sailboard,Age Class<>Youth",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading Professionals",
+   "Priority": "Q",
+   "Heading": "Leading Pro-Fleet Sailboard",
+   "Filter": "Status=Pro-Fleet,Craft Type=Sailboard,First Timer=No",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading Womens Fleet",
+   "Priority": "Q",
+   "Heading": "Leading Women's Fleet Sailboard",
+   "Filter": "Gender=F,Status<>Pro-Fleet,Craft Type=Sailboard,Age Class<>Youth",
+   "Fields": "Name,Craft Type,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y",
+   "TextBelow": "(Women excluding Professional)"
+ },
+ {
+   "Name": "Leading First Time Kites",
+   "Priority": "Q",
+   "Heading": "Leading First Time Kite Board Fleet",
+   "Filter": "Craft Type=Kite Board,First Timer=Yes",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading Kites",
+   "Priority": "Q",
+   "Heading": "Leading Kite Board Fleet",
+   "Filter": "Craft Type=Kite Board",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading First Time Boat",
+   "Priority": "Q",
+   "Heading": "Leading First Time Boat Fleet",
+   "Filter": "Craft Type=Boat,First Timer=Yes",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Leading Boat",
+   "Priority": "Q",
+   "Heading": "Leading Boat Fleet",
+   "Filter": "Craft Type=Boat,First Timer=No",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "UKWA Men",
+   "Priority": "A",
+   "Heading": "UKWA Men",
+   "Filter": "UKWA Member=Y,Gender=M",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 1,
+   "Rank": "Y",
+   "WebPublish": "N"
+ },
+ {
+   "Name": "UKWA Women",
+   "Priority": "A",
+   "Heading": "UKWA Women",
+   "Filter": "UKWA Member=Y,Gender=F",
+   "Fields": "Grouping,Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 1,
+   "Rank": "Y",
+   "WebPublish": "N"
+ },
+ {
+   "Name": "Forces",
+   "Priority": "F",
+   "Heading": "HM Forces",
+   "Filter": "Grouping%Forces",
+   "Fields": "Name,Craft Type,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Portland Pirates",
+   "Priority": "F",
+   "Heading": "Portland Pirates",
+   "Filter": "Grouping=Portland Pirates",
+   "Fields": "Grouping,Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Pitsford",
+   "Priority": "F",
+   "Heading": "Pitsford",
+   "Filter": "Grouping=pitsford",
+   "Fields": "Grouping,Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "Rank": "Y",
+   "WebPublish": "N"
+ },
+ {
+   "Name": "Surf Hogs",
+   "Priority": "F",
+   "Heading": "Surf Hogs",
+   "Filter": "Grouping=Surf Hogs",
+   "Fields": "Grouping,Name,Start Time,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Twb",
+   "Priority": "F",
+   "Heading": "Twb",
+   "Filter": "Grouping=Twb",
+   "Fields": "Grouping,Name,Start Time,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "Hamworthy Heroes",
+   "Priority": "F",
+   "Heading": "Hamworthy Heroes",
+   "Filter": "Grouping=Hamworthy Heroes",
+   "Fields": "Grouping,Name,Start Time,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
+   "Name": "All Sailboards",
+   "Priority": "Q",
+   "Heading": "All Sailboards",
+   "Filter": "Craft Type=Sailboard,Status",
+   "Fields": "Name,Status,First Timer,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "Rank": "Y",
+   "WebPublish": "Y",
+   "TextAbove": "All sailboard positions shown below are for information only"
+ },
+ {
+   "Name": "All by Speed Ratio",
+   "Priority": "N",
+   "Heading": "Best Speed to Wind Ratios",
+   "Sort": "Speed Ratio=DSC",
+   "Fields": "Name,Status,Craft Type,Speed (kts),Speed to (Avg) Wind Speed Ratio=Speed Ratio,Avg Wind Speed (kts),Day,Start Time",
+   "CompetitorBestRun": "Speed Ratio=1",
+   "Rank": "Y",
+   "WebPublish": "N"
+ },
+ {
+   "Name": "BKSA",
+   "Priority": "A",
+   "Heading": "British Kite Surfing Association",
+   "Filter": "Craft Type=Kite Board",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 1,
+   "Rank": "Y",
+   "WebPublish": "N"
+ },
+ {
+   "Name": "UKWA 2-Run Average",
+   "Priority": "A",
+   "Heading": "UKWA Speed Championship",
+   "Filter": "UKWA Member=Y",
+   "Sort": "2-Run Avg. Speed (kts)=DSC",
+   "Fields": "Name,Age Class,Status,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=2",
+   "Rank": "Y",
+   "WebPublish": "N"
+ },
+ {
+   "Name": "ISWC 2-Run Average",
+   "Priority": "A",
+   "Heading": "ISWC Speed Championship",
+   "Filter": "ISWC Member=Y",
+   "Sort": "2-Run Avg. Speed (kts)=DSC",
+   "Fields": "Name,Age Class,Status,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=2",
+   "Rank": "Y",
+   "WebPublish": "N"
+ },
+ {
+   "Name": "Team QSW",
+   "Priority": "N",
+   "Heading": "Team QSW",
+   "Filter": "Grouping%QSW",
+   "Fields": "Grouping,Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "Rank": "Y",
+   "WebPublish": "N"
+ }
+]
