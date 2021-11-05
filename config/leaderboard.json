@@ -20,6 +20,17 @@
    "WebPublish": "Y"
  },
  {
+   "Name": "Leading Kites",
+   "Priority": "Q",
+   "Heading": "Overall Fastest Kite",
+   "Filter": "Craft Type=Kite Board",
+   "Fields": "Name,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=1",
+   "TopCount": 3,
+   "Rank": "Y",
+   "WebPublish": "Y"
+ },
+ {
    "Name": "Leading Boats",
    "Priority": "Q",
    "Heading": "Overall Fastest Boat",
