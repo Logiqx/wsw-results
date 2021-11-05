@@ -154,17 +154,19 @@
    "WebPublish": "N"
  },
  {
-   "Name": "UKWA Verification (Leg1)",
-   "Heading": "Run Speed Verification - UKWA (Leg1)",
-   "Filter": "Start Time>10:00,End Time<13:00,UKWA Member=Y",
+   "Name": "UKWA Verification (Leg 1)",
+   "Heading": "Run Speed Verification - UKWA (Leg 1)",
+   "Filter": "UKWA Member=Y",
+   "Session": "UKWA/Leg 1",
    "Fields": "Name,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=3",
    "WebPublish": "N"
  },
  {
-   "Name": "UKWA Verification (Leg2)",
-   "Heading": "Run Speed Verification - UKWA (Leg2)",
-   "Filter": "Start Time>13:00,End Time<16:00,UKWA Member=Y",
+   "Name": "UKWA Verification (Leg 2)",
+   "Heading": "Run Speed Verification - UKWA (Leg 2)",
+   "Filter": "UKWA Member=Y",
+   "Session": "UKWA/Leg 2",
    "Fields": "Name,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=3",
    "WebPublish": "N"
@@ -172,7 +174,8 @@
  {
    "Name": "UKWA Leg 1 Men",
    "Heading": "UKWA Leg 1 Men",
-   "Filter": "Start Time>10:00,End Time<13:00,UKWA Member=Y,Gender=M",
+   "Filter": "UKWA Member=Y,Gender=M",
+   "Session": "UKWA/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
@@ -181,7 +184,8 @@
  {
    "Name": "UKWA Leg 2 Men",
    "Heading": "UKWA Leg 2 Men",
-   "Filter": "Start Time>13:00,End Time<17:00,UKWA Member=Y,Gender=M",
+   "Filter": "UKWA Member=Y,Gender=M",
+   "Session": "UKWA/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
@@ -190,7 +194,8 @@
  {
    "Name": "UKWA Leg 1 Women",
    "Heading": "UKWA Leg 1 Women",
-   "Filter": "Start Time>10:00,End Time<13:00,UKWA Member=Y,Gender=F",
+   "Filter": "UKWA Member=Y,Gender=F",
+   "Session": "UKWA/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
@@ -199,7 +204,8 @@
  {
    "Name": "UKWA Leg 2 Women",
    "Heading": "UKWA Leg 2 Women",
-   "Filter": "Start Time>13:00,End Time<17:00,UKWA Member=Y,Gender=F",
+   "Filter": "UKWA Member=Y,Gender=F",
+   "Session": "UKWA/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
@@ -208,7 +214,8 @@
  {
    "Name": "UKWA Leg 1 All",
    "Heading": "UKWA Leg 1 All",
-   "Filter": "Start Time>10:00,End Time<13:00,UKWA Member=Y",
+   "Filter": "UKWA Member=Y",
+   "Session": "UKWA/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
@@ -217,7 +224,8 @@
  {
    "Name": "UKWA Leg 2 All",
    "Heading": "UKWA Leg 2 All",
-   "Filter": "Start Time>13:00,End Time<17:00,UKWA Member=Y",
+   "Filter": "UKWA Member=Y",
+   "Session": "UKWA/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
@@ -257,7 +265,8 @@
  {
    "Name": "ISWC Leg 1 Men",
    "Heading": "ISWC Leg 1 Men",
-   "Filter": "Start Time>11:00,End Time<13:00,ISWC Member=Y,Gender=M",
+   "Filter": "ISWC Member=Y,Gender=M",
+   "Session": "ISWC/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
@@ -266,7 +275,8 @@
  {
    "Name": "ISWC Leg 2 Men",
    "Heading": "ISWC Leg 2 Men",
-   "Filter": "Start Time>11:00,End Time<16:00,ISWC Member=Y,Gender=M",
+   "Filter": "ISWC Member=Y,Gender=M",
+   "Session": "ISWC/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
@@ -275,7 +285,8 @@
  {
    "Name": "ISWC Leg 1 Women",
    "Heading": "ISWC Leg 1 Women",
-   "Filter": "Start Time>11:00,End Time<13:00,ISWC Member=Y,Gender=F",
+   "Filter": "ISWC Member=Y,Gender=F",
+   "Session": "ISWC/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
@@ -284,7 +295,8 @@
  {
    "Name": "ISWC Leg 2 Women",
    "Heading": "ISWC Leg 2 Women",
-   "Filter": "Start Time>13:00,End Time<16:00,ISWC Member=Y,Gender=F",
+   "Filter": "ISWC Member=Y,Gender=F",
+   "Session": "ISWC/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
