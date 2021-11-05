@@ -1,13 +1,4 @@
 {
   "Start Date": "2019-10-05",
-  "End Date": "2019-10-11",
-  "Series": {
-    "UKWA": {
-      "Name": "UKWA Speed Championship",
-      "Round": "Weymouth",
-      "Banner": "ukwa_logo.jpg",
-      "Qualifying Round %": 25,
-      "Qualifying Speed": 25
-    }
-  }
+  "End Date": "2019-10-11"
 }
