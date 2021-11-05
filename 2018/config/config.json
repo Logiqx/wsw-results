@@ -1,14 +1,13 @@
 {
-   "Start Date": [
-      {
-         "Value": "13/10/2018",
-         "Description": "First day of competition (typically a Saturday) - DD/MM/YYYY"
-      }
-   ],
-   "End Date": [
-      {
-         "Value": "19/10/2018",
-         "Description": "Last day of competition (typically a Friday) - DD/MM/YYYY"
-      }
-   ]
+  "Start Date": "13/10/2018",
+  "End Date": "19/10/2018",
+  "Series": {
+    "UKWA": {
+      "Name": "UKWA Speed Championship",
+      "Round": "Weymouth",
+      "Banner": "ukwa_logo.jpg",
+      "Qualifying Round %": 25,
+      "Qualifying Speed": 25
+    }
+  }
 }
