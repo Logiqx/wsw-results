@@ -129,7 +129,7 @@
    "WebPublish": "Y"
  },
  {
-   "Name": "Women-Times",
+   "Name": "Womens Sailboard",
    "Priority": "F",
    "Heading": "Women's Fleet Sailboard",
    "Filter": "Gender=F,Status<>Pro-Fleet,Craft Type=Sailboard,Age Class<>Youth",
@@ -237,17 +237,6 @@
    "WebPublish": "N"
  },
  {
-   "Name": "UKWA Leg 1 Men (early)",
-   "Priority": "N",
-   "Heading": "UKWA Leg 1 Men",
-   "Filter": "Start Time>09:00,End Time<13:00,UKWA Member=Y,Gender=M",
-   "Sort": "2-Run Avg. Speed (kts)=DSC",
-   "Fields": "Name,Craft Type,Course,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y",
-   "WebPublish": "N"
- },
- {
    "Name": "UKWA Leg 1 Men",
    "Priority": "N",
    "Heading": "UKWA Leg 1 Men",
@@ -263,17 +252,6 @@
    "Priority": "N",
    "Heading": "UKWA Leg 2 Men",
    "Filter": "Start Time>13:00,End Time<17:00,UKWA Member=Y,Gender=M",
-   "Sort": "2-Run Avg. Speed (kts)=DSC",
-   "Fields": "Name,Craft Type,Course,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y",
-   "WebPublish": "N"
- },
- {
-   "Name": "UKWA Leg 1 Women (early)",
-   "Priority": "N",
-   "Heading": "UKWA Leg 1 Women",
-   "Filter": "Start Time>09:00,End Time<13:00,UKWA Member=Y,Gender=F",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
