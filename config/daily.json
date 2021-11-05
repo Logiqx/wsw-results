@@ -439,15 +439,5 @@
    "CompetitorBestRun": "Speed (kts)=2",
    "Rank": "Y",
    "WebPublish": "N"
- },
- {
-   "Name": "UKWA Verification (AM)",
-   "Priority": "N",
-   "Heading": "Run Speed Verification - UKWA (Leg1)",
-   "Filter": "Start Time>10:00,End Time<11:38,UKWA Member=Y",
-   "Fields": "Name,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=3",
-   "Rank": "Y",
-   "WebPublish": "N"
  }
 ]
