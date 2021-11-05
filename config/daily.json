@@ -194,7 +194,8 @@
    "Filter": "Course=Harbour %",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=1",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "Shore Course Results",
@@ -203,7 +204,8 @@
    "Filter": "Course=Shore %",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=1",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "Verification",
@@ -211,7 +213,8 @@
    "Heading": "Run Speed Verification",
    "Fields": "Name,Craft Type,Age Class,Status,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=10",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA Verification (Leg1)",
@@ -220,7 +223,8 @@
    "Filter": "Start Time>10:00,End Time<13:00,UKWA Member=Y",
    "Fields": "Name,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=3",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA Verification (Leg2)",
@@ -229,7 +233,8 @@
    "Filter": "Start Time>13:00,End Time<16:00,UKWA Member=Y",
    "Fields": "Name,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=3",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA Leg 1 Men (early)",
@@ -239,7 +244,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA Leg 1 Men",
@@ -249,7 +255,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA Leg 2 Men",
@@ -259,7 +266,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA Leg 1 Women (early)",
@@ -269,7 +277,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA Leg 1 Women",
@@ -279,7 +288,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA Leg 2 Women",
@@ -289,7 +299,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA Leg 1 All",
@@ -299,7 +310,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA Leg 2 All",
@@ -309,7 +321,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "Youth runs by time",
@@ -317,7 +330,8 @@
    "Heading": "Youth Runs by Name and Time",
    "Filter": "Age Class=Youth",
    "Sort": "Name=ASC,Start Time=ASC",
-   "Fields": "Name,Craft Type,Start Time,Speed (kts)"
+   "Fields": "Name,Craft Type,Start Time,Speed (kts)",
+   "WebPublish": "N"
  },
  {
    "Name": "Forces",
@@ -326,7 +340,8 @@
    "Filter": "Grouping=Forces - %",
    "Fields": "Grouping,Name,Craft Type,Start Time,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=1",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "Grouping",
@@ -335,7 +350,8 @@
    "Filter": "Grouping=%",
    "Fields": "Grouping,Name,Start Time,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=1",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA 2-Run Average",
@@ -345,7 +361,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Age Class,Status,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "ISWC Leg 1 Men",
@@ -355,7 +372,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "ISWC Leg 2 Men",
@@ -365,7 +383,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "ISWC Leg 1 Women",
@@ -375,7 +394,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "ISWC Leg 2 Women",
@@ -385,7 +405,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "ISWC Verification",
@@ -394,7 +415,8 @@
    "Filter": "ISWC Member=Y",
    "Fields": "Name,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=3",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "Int 2-Run Average",
@@ -404,7 +426,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Age Class,Status,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "ISWC 2-Run Average",
@@ -414,7 +437,8 @@
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Age Class,Status,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  },
  {
    "Name": "UKWA Verification (AM)",
@@ -423,6 +447,7 @@
    "Filter": "Start Time>10:00,End Time<11:38,UKWA Member=Y",
    "Fields": "Name,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=3",
-   "Rank": "Y"
+   "Rank": "Y",
+   "WebPublish": "N"
  }
 ]
