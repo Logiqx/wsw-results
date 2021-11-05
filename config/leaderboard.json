@@ -20,7 +20,7 @@
    "WebPublish": "Y"
  },
  {
-   "Name": "Leading Kites",
+   "Name": "Overall Kites",
    "Priority": "Q",
    "Heading": "Overall Fastest Kite",
    "Filter": "Craft Type=Kite Board",
@@ -31,7 +31,7 @@
    "WebPublish": "Y"
  },
  {
-   "Name": "Leading Boats",
+   "Name": "Overall Boats",
    "Priority": "Q",
    "Heading": "Overall Fastest Boat",
    "Filter": "Craft Type=Boat",
@@ -42,7 +42,7 @@
    "WebPublish": "Y"
  },
  {
-   "Name": "Leading Sailboards",
+   "Name": "Overall Sailboards",
    "Priority": "Q",
    "Heading": "Overall Fastest Sailboard",
    "Filter": "Craft Type=Sailboard",
@@ -53,7 +53,7 @@
    "WebPublish": "Y"
  },
  {
-   "Name": "Leading Ladies",
+   "Name": "Overall Ladies",
    "Priority": "Q",
    "Heading": "Overall Fastest Lady",
    "Filter": "Gender=F",
