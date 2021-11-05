@@ -191,7 +191,7 @@
    "Name": "Harbour Course Results",
    "Priority": "A",
    "Heading": "Harbour Course",
-   "Filter": "Course%Harbour",
+   "Filter": "Course=Harbour %",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=1",
    "Rank": "Y"
@@ -200,7 +200,7 @@
    "Name": "Shore Course Results",
    "Priority": "A",
    "Heading": "Shore Course",
-   "Filter": "Course%Shore",
+   "Filter": "Course=Shore %",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=1",
    "Rank": "Y"
