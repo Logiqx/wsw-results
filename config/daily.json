@@ -407,23 +407,6 @@
    "Rank": "Y"
  },
  {
-   "Name": "All by Speed Ratio",
-   "Priority": "A",
-   "Heading": "Best Speed to Wind Ratios",
-   "Sort": "Speed Ratio=DSC",
-   "Fields": "Name,Status,Craft Type,Speed (kts),Speed to (Avg) Wind Speed Ratio=Speed Ratio,Avg Wind Speed (kts),Start Time",
-   "CompetitorBestRun": "Speed Ratio=1",
-   "Rank": "Y"
- },
- {
-   "Name": "Best runs by time - Wind",
-   "Priority": "A",
-   "Heading": "Best runs by time - Wind",
-   "Sort": "Name=ASC,Start Time=ASC",
-   "Fields": "Name,Craft Type,Start Time,Speed (kts),Avg Wind Speed (kts),Avg Wind Direction (degrees),Course Sailed (degrees),Course Off The Wind (degrees)",
-   "CompetitorBestRun": "Speed (kts)=1"
- },
- {
    "Name": "ISWC 2-Run Average",
    "Priority": "N",
    "Heading": "ISWC Speed Championship",

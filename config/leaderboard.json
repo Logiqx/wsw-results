@@ -228,16 +228,6 @@
    "TextAbove": "All sailboard positions shown below are for information only"
  },
  {
-   "Name": "All by Speed Ratio",
-   "Priority": "N",
-   "Heading": "Best Speed to Wind Ratios",
-   "Sort": "Speed Ratio=DSC",
-   "Fields": "Name,Status,Craft Type,Speed (kts),Speed to (Avg) Wind Speed Ratio=Speed Ratio,Avg Wind Speed (kts),Day,Start Time",
-   "CompetitorBestRun": "Speed Ratio=1",
-   "Rank": "Y",
-   "WebPublish": "N"
- },
- {
    "Name": "BKSA",
    "Priority": "A",
    "Heading": "British Kite Surfing Association",
