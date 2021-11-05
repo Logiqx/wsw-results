@@ -1,7 +1,6 @@
 [
  {
    "Name": "Overall Leaders",
-   "Priority": "F",
    "Heading": "Top Ten Fastest",
    "Fields": "Speed (kts),Name,Craft Type",
    "CompetitorBestRun": "Speed (kts)=1",
@@ -12,7 +11,6 @@
  },
  {
    "Name": "Overall Results",
-   "Priority": "F",
    "Heading": "All Competitors",
    "Fields": "Name,Speed (kts),Craft Type,Status,Country",
    "CompetitorBestRun": "Speed (kts)=1",
@@ -21,7 +19,6 @@
  },
  {
    "Name": "Overall Kites",
-   "Priority": "Q",
    "Heading": "Overall Fastest Kite",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Speed (kts)",
@@ -32,7 +29,6 @@
  },
  {
    "Name": "Overall Boats",
-   "Priority": "Q",
    "Heading": "Overall Fastest Boat",
    "Filter": "Craft Type=Boat",
    "Fields": "Name,Speed (kts)",
@@ -43,7 +39,6 @@
  },
  {
    "Name": "Overall Sailboards",
-   "Priority": "Q",
    "Heading": "Overall Fastest Sailboard",
    "Filter": "Craft Type=Sailboard",
    "Fields": "Name,Status,Speed (kts)",
@@ -54,7 +49,6 @@
  },
  {
    "Name": "Overall Ladies",
-   "Priority": "Q",
    "Heading": "Overall Fastest Lady",
    "Filter": "Gender=F",
    "Fields": "Name,Craft Type,Speed (kts)",
@@ -65,7 +59,6 @@
  },
  {
    "Name": "Leading Youths",
-   "Priority": "Q",
    "Heading": "Leading Youth Fleet Sailboard",
    "Filter": "Age Class=Youth,Craft Type=Sailboard",
    "Fields": "Name,Speed (kts)",
@@ -76,7 +69,6 @@
  },
  {
    "Name": "Leading First Time Sailboard",
-   "Priority": "Q",
    "Heading": "Leading First Time Sailboard",
    "Filter": "Craft Type=Sailboard,First Timer=Yes,Age Class<>Youth,Status=Amateur",
    "Fields": "Name,Speed (kts)",
@@ -87,7 +79,6 @@
  },
  {
    "Name": "Leading Amateurs",
-   "Priority": "Q",
    "Heading": "Leading Amateur Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Amateur,Age Class<>Youth,First Timer=No",
    "Fields": "Name,Speed (kts)",
@@ -98,7 +89,6 @@
  },
  {
    "Name": "Leading Gold Fleet",
-   "Priority": "Q",
    "Heading": "Leading Gold Fleet Sailboard",
    "Filter": "Status=Gold-Fleet,Craft Type=Sailboard,Age Class<>Youth",
    "Fields": "Name,Speed (kts)",
@@ -109,7 +99,6 @@
  },
  {
    "Name": "Leading Professionals",
-   "Priority": "Q",
    "Heading": "Leading Pro-Fleet Sailboard",
    "Filter": "Status=Pro-Fleet,Craft Type=Sailboard,First Timer=No",
    "Fields": "Name,Speed (kts)",
@@ -120,7 +109,6 @@
  },
  {
    "Name": "Leading Womens Fleet",
-   "Priority": "Q",
    "Heading": "Leading Women's Fleet Sailboard",
    "Filter": "Gender=F,Status<>Pro-Fleet,Craft Type=Sailboard,Age Class<>Youth",
    "Fields": "Name,Craft Type,Speed (kts)",
@@ -132,7 +120,6 @@
  },
  {
    "Name": "Leading First Time Kites",
-   "Priority": "Q",
    "Heading": "Leading First Time Kite Board Fleet",
    "Filter": "Craft Type=Kite Board,First Timer=Yes",
    "Fields": "Name,Speed (kts)",
@@ -143,7 +130,6 @@
  },
  {
    "Name": "Leading Kites",
-   "Priority": "Q",
    "Heading": "Leading Kite Board Fleet",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Speed (kts)",
@@ -154,7 +140,6 @@
  },
  {
    "Name": "Leading First Time Boat",
-   "Priority": "Q",
    "Heading": "Leading First Time Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=Yes",
    "Fields": "Name,Speed (kts)",
@@ -165,7 +150,6 @@
  },
  {
    "Name": "Leading Boat",
-   "Priority": "Q",
    "Heading": "Leading Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=No",
    "Fields": "Name,Speed (kts)",
@@ -176,7 +160,6 @@
  },
  {
    "Name": "Forces",
-   "Priority": "F",
    "Heading": "HM Forces",
    "Filter": "Grouping=Forces - %",
    "Fields": "Grouping,Name,Craft Type,Speed (kts)",
@@ -186,7 +169,6 @@
  },
  {
    "Name": "Grouping",
-   "Priority": "F",
    "Heading": "{Grouping}",
    "Filter": "Grouping=%",
    "Fields": "Grouping,Name,Speed (kts)",
@@ -196,7 +178,6 @@
  },
  {
    "Name": "All Sailboards",
-   "Priority": "Q",
    "Heading": "All Sailboards",
    "Filter": "Craft Type=Sailboard",
    "Fields": "Name,Status,First Timer,Speed (kts)",
