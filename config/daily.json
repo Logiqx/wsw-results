@@ -43,56 +43,56 @@
  {
    "Name": "Youths",
    "Heading": "Fastest Youth Fleet Sailboard",
-   "Filter": "Age Class=Youth,Craft Type=Sailboard",
+   "Filter": "Craft Type=Sailboard,Age Class=Youth",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Youths(Boys)-Times",
    "Heading": "Fastest Youths - Boys",
-   "Filter": "Age Class=Youth,Gender=M,Craft Type=Sailboard",
+   "Filter": "Craft Type=Sailboard,Age Class=Youth,Gender=M",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Youths(Girls)-Times",
    "Heading": "Fastest Youths - Girls",
-   "Filter": "Age Class=Youth,Gender=F,Craft Type=Sailboard",
+   "Filter": "Craft Type=Sailboard,Age Class=Youth,Gender=F",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "First Time Sailboard",
    "Heading": "First Time Sailboard",
-   "Filter": "Craft Type=Sailboard,First Timer=Yes,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Yes,Age Class<>Youth",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Amateur Sailboard",
    "Heading": "Amateur Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,Age Class<>Youth,First Timer=No",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=No,Age Class<>Youth",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Gold Fleet",
    "Heading": "Gold Fleet Sailboard",
-   "Filter": "Status=Gold-Fleet,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Status=Gold-Fleet,Age Class<>Youth",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Professionals",
    "Heading": "Pro-Fleet Sailboard",
-   "Filter": "Status=Pro-Fleet",
+   "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,Age Class<>Youth",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Womens Sailboard",
    "Heading": "Women's Fleet Sailboard",
-   "Filter": "Gender=F,Status<>Pro-Fleet,Craft Type=Sailboard,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet,Age Class<>Youth",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y",
    "TextBelow": "(Women excluding Professional)"

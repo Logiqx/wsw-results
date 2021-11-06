@@ -48,7 +48,7 @@
  {
    "Name": "Leading Youths",
    "Heading": "Leading Youth Fleet Sailboard",
-   "Filter": "Age Class=Youth,Craft Type=Sailboard",
+   "Filter": "Craft Type=Sailboard,Age Class=Youth",
    "Fields": "Name,Speed (kts)",
    "TopCount": 5,
    "WebPublish": "Y"
@@ -56,7 +56,7 @@
  {
    "Name": "Leading First Time Sailboard",
    "Heading": "Leading First Time Sailboard",
-   "Filter": "Craft Type=Sailboard,First Timer=Yes,Age Class<>Youth,Status=Amateur",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Yes,Age Class<>Youth",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
    "WebPublish": "Y"
@@ -64,7 +64,7 @@
  {
    "Name": "Leading Amateurs",
    "Heading": "Leading Amateur Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,Age Class<>Youth,First Timer=No",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=No,Age Class<>Youth",
    "Fields": "Name,Speed (kts)",
    "TopCount": 4,
    "WebPublish": "Y"
@@ -72,7 +72,7 @@
  {
    "Name": "Leading Gold Fleet",
    "Heading": "Leading Gold Fleet Sailboard",
-   "Filter": "Status=Gold-Fleet,Craft Type=Sailboard,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Status=Gold-Fleet,Age Class<>Youth",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
    "WebPublish": "Y"
@@ -80,7 +80,7 @@
  {
    "Name": "Leading Professionals",
    "Heading": "Leading Pro-Fleet Sailboard",
-   "Filter": "Status=Pro-Fleet,Craft Type=Sailboard,First Timer=No",
+   "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,Age Class<>Youth",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
    "WebPublish": "Y"
@@ -88,7 +88,7 @@
  {
    "Name": "Leading Womens Fleet",
    "Heading": "Leading Women's Fleet Sailboard",
-   "Filter": "Gender=F,Status<>Pro-Fleet,Craft Type=Sailboard,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet,Age Class<>Youth",
    "Fields": "Name,Craft Type,Speed (kts)",
    "TopCount": 3,
    "WebPublish": "Y",
