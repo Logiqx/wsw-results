@@ -234,7 +234,7 @@
  {
    "Name": "Youth runs by time",
    "Heading": "Youth Runs by Name and Time",
-   "Filter": "Age Class=Youth",
+   "Filter": "Craft Type=Sailboard,Age Class=Youth",
    "Sort": "Name=ASC,Start Time=ASC",
    "Fields": "Name,Craft Type,Start Time,Speed (kts)",
    "WebPublish": "N"
