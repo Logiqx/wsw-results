@@ -43,56 +43,56 @@
  {
    "Name": "Youths",
    "Heading": "Fastest Youth Fleet Sailboard",
-   "Filter": "Craft Type=Sailboard,Age Class=Youth",
+   "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Youths(Boys)-Times",
    "Heading": "Fastest Youths - Boys",
-   "Filter": "Craft Type=Sailboard,Age Class=Youth,Gender=M",
+   "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend,Gender=M",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Youths(Girls)-Times",
    "Heading": "Fastest Youths - Girls",
-   "Filter": "Craft Type=Sailboard,Age Class=Youth,Gender=F",
+   "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend,Gender=F",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "First Time Sailboard",
    "Heading": "First Time Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,EntryType<>Youth Weekend",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Amateur Sailboard",
    "Heading": "Amateur Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=N,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=N,EntryType<>Youth Weekend",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Gold Fleet",
    "Heading": "Gold Fleet Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Gold-Fleet,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Status=Gold-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Professionals",
    "Heading": "Pro-Fleet Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Womens Sailboard",
    "Heading": "Women's Fleet Sailboard",
-   "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y",
    "TextBelow": "(Women excluding Professional)"
@@ -234,7 +234,7 @@
  {
    "Name": "Youth runs by time",
    "Heading": "Youth Runs by Name and Time",
-   "Filter": "Craft Type=Sailboard,Age Class=Youth",
+   "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Sort": "Name=ASC,Start Time=ASC",
    "Fields": "Name,Craft Type,Start Time,Speed (kts)",
    "WebPublish": "N"
