@@ -156,7 +156,7 @@
  {
    "Name": "UKWA Verification (Leg 1)",
    "Heading": "Run Speed Verification - UKWA (Leg 1)",
-   "Filter": "UKWA Member=Y",
+   "Filter": "Craft Type=Sailboard,UKWA Member=Y",
    "Session": "UKWA/Leg 1",
    "Fields": "Name,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=3",
@@ -165,7 +165,7 @@
  {
    "Name": "UKWA Verification (Leg 2)",
    "Heading": "Run Speed Verification - UKWA (Leg 2)",
-   "Filter": "UKWA Member=Y",
+   "Filter": "Craft Type=Sailboard,UKWA Member=Y",
    "Session": "UKWA/Leg 2",
    "Fields": "Name,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=3",
@@ -174,7 +174,7 @@
  {
    "Name": "UKWA Leg 1 Men",
    "Heading": "UKWA Leg 1 Men",
-   "Filter": "UKWA Member=Y,Gender=M",
+   "Filter": "Craft Type=Sailboard,UKWA Member=Y,Gender=M",
    "Session": "UKWA/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
@@ -184,7 +184,7 @@
  {
    "Name": "UKWA Leg 2 Men",
    "Heading": "UKWA Leg 2 Men",
-   "Filter": "UKWA Member=Y,Gender=M",
+   "Filter": "Craft Type=Sailboard,UKWA Member=Y,Gender=M",
    "Session": "UKWA/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
@@ -194,7 +194,7 @@
  {
    "Name": "UKWA Leg 1 Women",
    "Heading": "UKWA Leg 1 Women",
-   "Filter": "UKWA Member=Y,Gender=F",
+   "Filter": "Craft Type=Sailboard,UKWA Member=Y,Gender=F",
    "Session": "UKWA/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
@@ -204,7 +204,7 @@
  {
    "Name": "UKWA Leg 2 Women",
    "Heading": "UKWA Leg 2 Women",
-   "Filter": "UKWA Member=Y,Gender=F",
+   "Filter": "Craft Type=Sailboard,UKWA Member=Y,Gender=F",
    "Session": "UKWA/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
@@ -214,7 +214,7 @@
  {
    "Name": "UKWA Leg 1 All",
    "Heading": "UKWA Leg 1 All",
-   "Filter": "UKWA Member=Y",
+   "Filter": "Craft Type=Sailboard,UKWA Member=Y",
    "Session": "UKWA/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
@@ -224,7 +224,7 @@
  {
    "Name": "UKWA Leg 2 All",
    "Heading": "UKWA Leg 2 All",
-   "Filter": "UKWA Member=Y",
+   "Filter": "Craft Type=Sailboard,UKWA Member=Y",
    "Session": "UKWA/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
@@ -256,7 +256,7 @@
  {
    "Name": "UKWA 2-Run Average",
    "Heading": "UKWA Speed Championship",
-   "Filter": "UKWA Member=Y",
+   "Filter": "Craft Type=Sailboard,UKWA Member=Y",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Age Class,Status,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
@@ -265,7 +265,7 @@
  {
    "Name": "ISWC Leg 1 Men",
    "Heading": "ISWC Leg 1 Men",
-   "Filter": "ISWC Member=Y,Gender=M",
+   "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=M",
    "Session": "ISWC/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
@@ -275,7 +275,7 @@
  {
    "Name": "ISWC Leg 2 Men",
    "Heading": "ISWC Leg 2 Men",
-   "Filter": "ISWC Member=Y,Gender=M",
+   "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=M",
    "Session": "ISWC/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
@@ -285,7 +285,7 @@
  {
    "Name": "ISWC Leg 1 Women",
    "Heading": "ISWC Leg 1 Women",
-   "Filter": "ISWC Member=Y,Gender=F",
+   "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=F",
    "Session": "ISWC/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
@@ -295,7 +295,7 @@
  {
    "Name": "ISWC Leg 2 Women",
    "Heading": "ISWC Leg 2 Women",
-   "Filter": "ISWC Member=Y,Gender=F",
+   "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=F",
    "Session": "ISWC/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Craft Type,Course,Speed (kts)",
@@ -305,7 +305,7 @@
  {
    "Name": "ISWC Verification",
    "Heading": "ISWC Run Speed Verification",
-   "Filter": "ISWC Member=Y",
+   "Filter": "Craft Type=Sailboard,ISWC Member=Y",
    "Fields": "Name,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=3",
    "WebPublish": "N"
@@ -322,7 +322,7 @@
  {
    "Name": "ISWC 2-Run Average",
    "Heading": "ISWC Speed Championship",
-   "Filter": "ISWC Member=Y",
+   "Filter": "Craft Type=Sailboard,ISWC Member=Y",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Age Class,Status,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=2",
