@@ -119,7 +119,7 @@
    "WebPublish": "Y"
  },
  {
-   "Name": "Leading Boat",
+   "Name": "Leading Boats",
    "Heading": "Leading Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=No",
    "Fields": "Name,Speed (kts)",

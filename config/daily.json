@@ -119,7 +119,7 @@
    "WebPublish": "Y"
  },
  {
-   "Name": "Boats-Fleet",
+   "Name": "Boat",
    "Heading": "Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=No",
    "Fields": "Name,Start Time,Speed (kts)",
