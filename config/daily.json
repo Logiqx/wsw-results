@@ -64,14 +64,14 @@
  {
    "Name": "First Time Sailboard",
    "Heading": "First Time Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Yes,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,Age Class<>Youth",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Amateur Sailboard",
    "Heading": "Amateur Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=No,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=N,Age Class<>Youth",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
@@ -100,7 +100,7 @@
  {
    "Name": "First Time Kite Board",
    "Heading": "First Time Kite Board Fleet",
-   "Filter": "Craft Type=Kite Board,First Timer=Yes",
+   "Filter": "Craft Type=Kite Board,First Timer=Y",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
@@ -114,14 +114,14 @@
  {
    "Name": "First Time Boat",
    "Heading": "First Time Boat Fleet",
-   "Filter": "Craft Type=Boat,First Timer=Yes",
+   "Filter": "Craft Type=Boat,First Timer=Y",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Boat",
    "Heading": "Boat Fleet",
-   "Filter": "Craft Type=Boat,First Timer=No",
+   "Filter": "Craft Type=Boat,First Timer=N",
    "Fields": "Name,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },

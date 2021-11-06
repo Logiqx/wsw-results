@@ -56,7 +56,7 @@
  {
    "Name": "Leading First Time Sailboard",
    "Heading": "Leading First Time Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Yes,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,Age Class<>Youth",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
    "WebPublish": "Y"
@@ -64,7 +64,7 @@
  {
    "Name": "Leading Amateurs",
    "Heading": "Leading Amateur Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=No,Age Class<>Youth",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=N,Age Class<>Youth",
    "Fields": "Name,Speed (kts)",
    "TopCount": 4,
    "WebPublish": "Y"
@@ -97,7 +97,7 @@
  {
    "Name": "Leading First Time Kites",
    "Heading": "Leading First Time Kite Board Fleet",
-   "Filter": "Craft Type=Kite Board,First Timer=Yes",
+   "Filter": "Craft Type=Kite Board,First Timer=Y",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
    "WebPublish": "Y"
@@ -113,7 +113,7 @@
  {
    "Name": "Leading First Time Boat",
    "Heading": "Leading First Time Boat Fleet",
-   "Filter": "Craft Type=Boat,First Timer=Yes",
+   "Filter": "Craft Type=Boat,First Timer=Y",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
    "WebPublish": "Y"
@@ -121,7 +121,7 @@
  {
    "Name": "Leading Boats",
    "Heading": "Leading Boat Fleet",
-   "Filter": "Craft Type=Boat,First Timer=No",
+   "Filter": "Craft Type=Boat,First Timer=N",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
    "WebPublish": "Y"
