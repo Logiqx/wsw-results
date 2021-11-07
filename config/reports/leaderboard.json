@@ -2,7 +2,7 @@
  {
    "Name": "Overall Leaders",
    "Heading": "Top Ten Fastest",
-   "Fields": "Speed (kts),Name,Craft Type",
+   "Fields": "Name,Craft Type,Status,Country,Speed (kts),",
    "TopCount": 10,
    "WebPublish": "Y",
    "TextAbove": "Results subject to Ratification"
@@ -10,7 +10,7 @@
  {
    "Name": "Overall Results",
    "Heading": "All Competitors",
-   "Fields": "Name,Speed (kts),Craft Type,Status,Country",
+   "Fields": "Name,Craft Type,Status,Country,Speed (kts)",
    "WebPublish": "Y"
  },
  {
@@ -50,7 +50,7 @@
    "Heading": "Leading Youth Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Fields": "Name,Speed (kts)",
-   "TopCount": 5,
+   "TopCount": 3,
    "WebPublish": "Y"
  },
  {
@@ -66,7 +66,7 @@
    "Heading": "Leading Amateur Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=N,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
-   "TopCount": 4,
+   "TopCount": 3,
    "WebPublish": "Y"
  },
  {
@@ -89,7 +89,7 @@
    "Name": "Leading Womens Fleet",
    "Heading": "Leading Women's Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet,EntryType<>Youth Weekend",
-   "Fields": "Name,Craft Type,Speed (kts)",
+   "Fields": "Name,Speed (kts)",
    "TopCount": 3,
    "WebPublish": "Y",
    "TextBelow": "(Women excluding Professional)"
@@ -137,7 +137,7 @@
    "Name": "Grouping",
    "Heading": "{Grouping}",
    "Filter": "Grouping<>Forces - %",
-   "Fields": "Grouping,Name,Speed (kts)",
+   "Fields": "Grouping,Name,Craft Type,Speed (kts)",
    "WebPublish": "Y"
  },
  {
