@@ -6,7 +6,7 @@
    "Session": "UKWA/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Course,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=2",
+   "Average": 2,
    "WebPublish": "N"
  },
  {
@@ -16,7 +16,7 @@
    "Session": "UKWA/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Course,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=2",
+   "Average": 2,
    "WebPublish": "N"
  },
  {
@@ -26,7 +26,7 @@
    "Session": "UKWA/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Course,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=2",
+   "Average": 2,
    "WebPublish": "N"
  },
  {
@@ -36,7 +36,7 @@
    "Session": "UKWA/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Course,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=2",
+   "Average": 2,
    "WebPublish": "N"
  },
  {
@@ -46,7 +46,7 @@
    "Session": "UKWA/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Course,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=2",
+   "Average": 2,
    "WebPublish": "N"
  },
  {
@@ -56,7 +56,7 @@
    "Session": "UKWA/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
    "Fields": "Name,Course,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=2",
+   "Average": 2,
    "WebPublish": "N"
  }
 ]

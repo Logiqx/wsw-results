@@ -3,7 +3,7 @@
    "Name": "Verification",
    "Title": "Run Speed Verification",
    "Fields": "Name,Craft Type,Status,EntryType,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=10",
+   "ShowSpeeds": 10,
    "WebPublish": "N"
  },
  {
