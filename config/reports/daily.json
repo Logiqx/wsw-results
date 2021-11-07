@@ -24,7 +24,7 @@
  },
  {
    "Title": "Amateur Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=N,EntryType<>Youth Weekend",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,EntryType<>Youth Weekend",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
@@ -55,7 +55,7 @@
  },
  {
    "Title": "Kite Fleet",
-   "Filter": "Craft Type=Kite Board,First Timer=N",
+   "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
@@ -67,7 +67,7 @@
  },
  {
    "Title": "Wing Fleet",
-   "Filter": "Craft Type=Wing Board,First Timer=N",
+   "Filter": "Craft Type=Wing Board",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
@@ -79,7 +79,7 @@
  },
  {
    "Title": "Boat Fleet",
-   "Filter": "Craft Type=Boat,First Timer=N",
+   "Filter": "Craft Type=Boat",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  }

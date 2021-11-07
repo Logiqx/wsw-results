@@ -70,7 +70,7 @@
  },
  {
    "Title": "Leading Amateur Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=N,EntryType<>Youth Weekend",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
@@ -111,7 +111,7 @@
  },
  {
    "Title": "Leading Kite Fleet",
-   "Filter": "Craft Type=Kite Board,First Timer=N",
+   "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
@@ -127,7 +127,7 @@
  },
  {
    "Title": "Leading Wing Fleet",
-   "Filter": "Craft Type=Wing Board,First Timer=N",
+   "Filter": "Craft Type=Wing Board",
    "Fields": "Name,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
@@ -143,7 +143,7 @@
  },
  {
    "Title": "Leading Boat Fleet",
-   "Filter": "Craft Type=Boat,First Timer=N",
+   "Filter": "Craft Type=Boat",
    "Fields": "Name,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
