@@ -51,6 +51,8 @@ The Excel macros will be completely replaced in 2022 so most of the legacy issue
 
 However, still keep an eye out for the following during the week:
 
+- Session times can be specified within the daily reporting as well as GPSResults; belt and braces!
+  - If any runs are output by GPSResults but rejected by the reporting then the time limits need to be checked.
 - People in the wrong fleet. For example:
   - Previous podium in the amateur fleet or winner of the gold fleet.
   - Sponsored riders should not be in the amateur fleet.
@@ -58,5 +60,4 @@ However, still keep an eye out for the following during the week:
   - e.g. Harbour courses should set as a "500m start line" if the buoys drifted during the session.
 - Queries about seemingly slow speeds should not be common occurrence if the GPSResults checklists are followed
   - e.g. Thursday of 2021 initially used the default "track length" option of "500m" instead of "500m start line".
-
 - Riders will be missing from the daily UKWA results if they didn't tick the "UKWA member" box during registration.
