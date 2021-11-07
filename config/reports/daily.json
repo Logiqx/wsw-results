@@ -49,7 +49,7 @@
  },
  {
    "Title": "Kite Fleet",
-   "Filter": "Craft Type=Kite Board",
+   "Filter": "Craft Type=Kite Board,First Timer=N",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
