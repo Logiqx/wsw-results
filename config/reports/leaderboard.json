@@ -3,6 +3,7 @@
    "Name": "Overall Leaders",
    "Title": "Top Ten Fastest",
    "Fields": "Name,Craft Type,Status,Country,Speed (kts)",
+   "Period": "Week",
    "Limit": 10,
    "WebPublish": "Y"
  },
@@ -10,6 +11,7 @@
    "Name": "Overall Results",
    "Title": "All Competitors",
    "Fields": "Name,Craft Type,Status,Country,Speed (kts)",
+   "Period": "Week",
    "WebPublish": "Y"
  },
  {
@@ -17,6 +19,7 @@
    "Title": "Overall Fastest Kite",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -25,6 +28,7 @@
    "Title": "Overall Fastest Boat",
    "Filter": "Craft Type=Boat",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -33,6 +37,7 @@
    "Title": "Overall Fastest Sailboard",
    "Filter": "Craft Type=Sailboard",
    "Fields": "Name,Status,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -41,6 +46,7 @@
    "Title": "Overall Fastest Lady",
    "Filter": "Gender=F",
    "Fields": "Name,Craft Type,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -49,6 +55,7 @@
    "Title": "Leading Youth Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -57,6 +64,7 @@
    "Title": "Leading First Time Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -65,6 +73,7 @@
    "Title": "Leading Amateur Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=N,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -73,6 +82,7 @@
    "Title": "Leading Gold Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Gold-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -81,6 +91,7 @@
    "Title": "Leading Pro-Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -90,6 +101,7 @@
    "Subtitle": "(Women excluding Professional)",
    "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -98,6 +110,7 @@
    "Title": "Leading First Time Kite Board Fleet",
    "Filter": "Craft Type=Kite Board,First Timer=Y",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -106,6 +119,7 @@
    "Title": "Leading Kite Board Fleet",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -114,6 +128,7 @@
    "Title": "Leading First Time Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=Y",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -122,6 +137,7 @@
    "Title": "Leading Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=N",
    "Fields": "Name,Speed (kts)",
+   "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
  },
@@ -130,6 +146,7 @@
    "Title": "HM Forces",
    "Filter": "Grouping=Forces - %",
    "Fields": "Grouping,Name,Craft Type,Speed (kts)",
+   "Period": "Week",
    "WebPublish": "Y"
  },
  {
@@ -137,6 +154,7 @@
    "Title": "{Grouping}",
    "Filter": "Grouping<>Forces - %",
    "Fields": "Grouping,Name,Craft Type,Speed (kts)",
+   "Period": "Week",
    "WebPublish": "Y"
  },
  {
@@ -145,6 +163,7 @@
    "Subtitle": "All sailboard positions shown below are for information only",
    "Filter": "Craft Type=Sailboard",
    "Fields": "Name,Status,First Timer,Speed (kts)",
+   "Period": "Week",
    "WebPublish": "Y"
  }
 ]
