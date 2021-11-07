@@ -1,36 +1,44 @@
 [
  {
-   "Name": "Top 10",
-   "Heading": "Daily Top 10",
-   "Fields": "Speed (kts),Name,Craft Type,Country",
-   "TopCount": 10,
-   "WebPublish": "Y"
+   "Name": "Verification",
+   "Heading": "Run Speed Verification",
+   "Fields": "Name,Craft Type,Status,EntryType,Speed (kts)",
+   "CompetitorBestRun": "Speed (kts)=10",
+   "WebPublish": "N"
  },
  {
-   "Name": "Top Run per Person",
-   "Heading": "Personal Daily Best Runs",
-   "Fields": "Name,Craft Type,Status,Start Time,Speed (kts)",
-   "WebPublish": "Y"
+   "Name": "Harbour Course Results",
+   "Heading": "Harbour Course",
+   "Filter": "Course=Harbour %",
+   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
+   "WebPublish": "N"
+ },
+ {
+   "Name": "Shore Course Results",
+   "Heading": "Shore Course",
+   "Filter": "Course=Shore %",
+   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
+   "WebPublish": "N"
  },
  {
    "Name": "Kite-Times",
    "Heading": "Fastest Kites",
    "Filter": "Craft Type=Kite Board",
-   "Fields": "Name,Start Time,Speed (kts)",
+   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Boats-Times",
    "Heading": "Fastest Boats",
    "Filter": "Craft Type=Boat",
-   "Fields": "Name,Start Time,Speed (kts)",
+   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Sailboard-Times",
    "Heading": "Fastest Sailboards",
    "Filter": "Craft Type=Sailboard",
-   "Fields": "Name,Status,Start Time,Speed (kts)",
+   "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
@@ -122,57 +130,36 @@
    "Name": "Boat",
    "Heading": "Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=N",
-   "Fields": "Name,Start Time,Speed (kts)",
+   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "All runs by time",
    "Heading": "All Runs by Name and Time",
    "Sort": "Name=ASC,Start Time=ASC",
-   "Fields": "Name,Craft Type,Start Time,Speed (kts)",
+   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
- },
- {
-   "Name": "Harbour Course Results",
-   "Heading": "Harbour Course",
-   "Filter": "Course=Harbour %",
-   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Name": "Shore Course Results",
-   "Heading": "Shore Course",
-   "Filter": "Course=Shore %",
-   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Name": "Verification",
-   "Heading": "Run Speed Verification",
-   "Fields": "Name,Craft Type,Age Class,Status,Speed (kts)",
-   "CompetitorBestRun": "Speed (kts)=10",
-   "WebPublish": "N"
  },
  {
    "Name": "Youth runs by time",
    "Heading": "Youth Runs by Name and Time",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Sort": "Name=ASC,Start Time=ASC",
-   "Fields": "Name,Craft Type,Start Time,Speed (kts)",
+   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Forces",
    "Heading": "HM Forces",
    "Filter": "Grouping=Forces - %",
-   "Fields": "Grouping,Name,Craft Type,Start Time,Speed (kts)",
+   "Fields": "Grouping,Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Grouping",
    "Heading": "{Grouping}",
    "Filter": "Grouping<>Forces - %",
-   "Fields": "Grouping,Name,Start Time,Speed (kts)",
+   "Fields": "Grouping,Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  }
 ]
