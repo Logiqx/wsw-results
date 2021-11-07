@@ -18,7 +18,7 @@
  },
  {
    "Title": "First Time Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,EntryType<>Youth Weekend",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,EntryType<>Youth Weekend,First Timer=Y",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
