@@ -2,10 +2,9 @@
  {
    "Name": "Overall Leaders",
    "Title": "Top Ten Fastest",
-   "Fields": "Name,Craft Type,Status,Country,Speed (kts),",
+   "Fields": "Name,Craft Type,Status,Country,Speed (kts)",
    "TopCount": 10,
-   "WebPublish": "Y",
-   "TextAbove": "Results subject to Ratification"
+   "WebPublish": "Y"
  },
  {
    "Name": "Overall Results",
@@ -88,11 +87,11 @@
  {
    "Name": "Leading Womens Fleet",
    "Title": "Leading Women's Fleet Sailboard",
+   "Subtitle": "(Women excluding Professional)"
    "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
-   "WebPublish": "Y",
-   "TextBelow": "(Women excluding Professional)"
+   "WebPublish": "Y"
  },
  {
    "Name": "Leading First Time Kites",
@@ -143,9 +142,9 @@
  {
    "Name": "All Sailboards",
    "Title": "All Sailboards",
+   "Subtitle": "All sailboard positions shown below are for information only",
    "Filter": "Craft Type=Sailboard",
    "Fields": "Name,Status,First Timer,Speed (kts)",
-   "WebPublish": "Y",
-   "TextAbove": "All sailboard positions shown below are for information only"
+   "WebPublish": "Y"
  }
 ]
