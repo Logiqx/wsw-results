@@ -111,7 +111,7 @@
  },
  {
    "Title": "Leading Kite Fleet",
-   "Filter": "Craft Type=Kite Board",
+   "Filter": "Craft Type=Kite Board,First Timer=N",
    "Fields": "Name,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
