@@ -152,14 +152,14 @@
  {
    "Title": "HM Forces",
    "Filter": "Grouping=Forces - %",
-   "Fields": "Grouping,Name,Craft Type,Speed (kts)",
+   "Fields": "Grouping,Name,Craft Type,Status,Speed (kts)",
    "Period": "Week",
    "WebPublish": "Y"
  },
  {
    "Title": "{Grouping}",
    "Filter": "Grouping<>Forces - %",
-   "Fields": "Grouping,Name,Craft Type,Speed (kts)",
+   "Fields": "Grouping,Name,Craft Type,Status,Speed (kts)",
    "Period": "Week",
    "WebPublish": "Y"
  },
@@ -167,7 +167,7 @@
    "Title": "All Sailboards",
    "Subtitle": "All sailboard positions shown below are for information only",
    "Filter": "Craft Type=Sailboard",
-   "Fields": "Name,Status,First Timer,Speed (kts)",
+   "Fields": "Name,Status,First Timer,Country,Speed (kts)",
    "Period": "Week",
    "WebPublish": "Y"
  },
@@ -175,7 +175,7 @@
    "Title": "All Kites",
    "Subtitle": "All kite positions shown below are for information only",
    "Filter": "Craft Type=Kite Board",
-   "Fields": "Name,Status,First Timer,Speed (kts)",
+   "Fields": "Name,First Timer,Country,Speed (kts)",
    "Period": "Week",
    "WebPublish": "Y"
  },
@@ -183,7 +183,7 @@
    "Title": "All Wings",
    "Subtitle": "All wing positions shown below are for information only",
    "Filter": "Craft Type=Wing Board",
-   "Fields": "Name,Status,First Timer,Speed (kts)",
+   "Fields": "Name,First Timer,Country,Speed (kts)",
    "Period": "Week",
    "WebPublish": "Y"
  },
@@ -191,7 +191,7 @@
    "Title": "All Boats",
    "Subtitle": "All boat positions shown below are for information only",
    "Filter": "Craft Type=Boat",
-   "Fields": "Name,Status,First Timer,Speed (kts)",
+   "Fields": "Name,First Timer,Country,Speed (kts)",
    "Period": "Week",
    "WebPublish": "Y"
  }

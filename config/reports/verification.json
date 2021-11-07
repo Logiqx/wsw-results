@@ -50,13 +50,13 @@
  {
    "Title": "HM Forces",
    "Filter": "Grouping=Forces - %",
-   "Fields": "Grouping,Name,Craft Type,Course,Start Time,Speed (kts)",
+   "Fields": "Grouping,Name,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Title": "{Grouping}",
    "Filter": "Grouping<>Forces - %",
-   "Fields": "Grouping,Name,Craft Type,Course,Start Time,Speed (kts)",
+   "Fields": "Grouping,Name,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  }
 ]
