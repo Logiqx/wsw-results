@@ -57,7 +57,7 @@ However, still keep an eye out for the following during the week:
   - e.g. Harbour courses should set as a "500m start line" if the buoys drifted during the session.
 - Queries about seemingly slow speeds should not be common occurrence if the GPSResults checklists are followed
   - e.g. Thursday of 2021 initially used the default "track length" option of "500m" instead of "500m start line".
-- People in the wrong fleet. For example:
-  - Previous podium in the amateur fleet or winner of the gold fleet.
+- People may accidentally sign up to the wrong fleet. For example:
+  - People who were previously on the podium of the amateur fleet or winner of the gold fleet.
   - Sponsored riders should not be in the amateur fleet.
 - Riders will be missing from the daily UKWA results if they didn't tick the "UKWA member" box during registration.
