@@ -20,48 +20,30 @@
  {
    "Title": "Fastest Sailboards",
    "Filter": "Craft Type=Sailboard",
-   "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Title": "Fastest Kites",
    "Filter": "Craft Type=Kite Board",
-   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Title": "Fastest Wings",
    "Filter": "Craft Type=Wing Board",
-   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Title": "Fastest Boats",
    "Filter": "Craft Type=Boat",
-   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Title": "Fastest Lady",
    "Filter": "Gender=F",
-   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "Fastest Youth Fleet Sailboard",
-   "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
-   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "Fastest Youths - Boys",
-   "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend,Gender=M",
-   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "Fastest Youths - Girls",
-   "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend,Gender=F",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },

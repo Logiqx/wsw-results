@@ -11,6 +11,12 @@
    "WebPublish": "Y"
  },
  {
+   "Title": "Youth Fleet Sailboard",
+   "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
+   "Fields": "Name,Course,Start Time,Speed (kts)",
+   "WebPublish": "Y"
+ },
+ {
    "Title": "First Time Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,EntryType<>Youth Weekend",
    "Fields": "Name,Course,Start Time,Speed (kts)",
