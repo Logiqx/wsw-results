@@ -1,7 +1,7 @@
 [
  {
    "Name": "ISWC Leg 1 All",
-   "Heading": "ISWC Leg 1 All",
+   "Title": "ISWC Leg 1 All",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y",
    "Session": "ISWC/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
@@ -11,7 +11,7 @@
  },
  {
    "Name": "ISWC Leg 2 All",
-   "Heading": "ISWC Leg 2 All",
+   "Title": "ISWC Leg 2 All",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y",
    "Session": "ISWC/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
@@ -21,7 +21,7 @@
  },
  {
    "Name": "ISWC Leg 1 Men",
-   "Heading": "ISWC Leg 1 Men",
+   "Title": "ISWC Leg 1 Men",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=M",
    "Session": "ISWC/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
@@ -31,7 +31,7 @@
  },
  {
    "Name": "ISWC Leg 2 Men",
-   "Heading": "ISWC Leg 2 Men",
+   "Title": "ISWC Leg 2 Men",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=M",
    "Session": "ISWC/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
@@ -41,7 +41,7 @@
  },
  {
    "Name": "ISWC Leg 1 Women",
-   "Heading": "ISWC Leg 1 Women",
+   "Title": "ISWC Leg 1 Women",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=F",
    "Session": "ISWC/Leg 1",
    "Sort": "2-Run Avg. Speed (kts)=DSC",
@@ -51,7 +51,7 @@
  },
  {
    "Name": "ISWC Leg 2 Women",
-   "Heading": "ISWC Leg 2 Women",
+   "Title": "ISWC Leg 2 Women",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=F",
    "Session": "ISWC/Leg 2",
    "Sort": "2-Run Avg. Speed (kts)=DSC",

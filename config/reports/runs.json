@@ -1,7 +1,7 @@
 [
  {
    "Name": "All runs by time",
-   "Heading": "All Runs by Name and Time",
+   "Title": "All Runs by Name and Time",
    "Rank": "N",
    "Sort": "Name=ASC,Start Time=ASC",
    "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
@@ -9,7 +9,7 @@
  },
  {
    "Name": "Youth runs by time",
-   "Heading": "Youth Runs by Name and Time",
+   "Title": "Youth Runs by Name and Time",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Rank": "N",
    "Sort": "Name=ASC,Start Time=ASC",

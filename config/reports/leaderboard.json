@@ -1,7 +1,7 @@
 [
  {
    "Name": "Overall Leaders",
-   "Heading": "Top Ten Fastest",
+   "Title": "Top Ten Fastest",
    "Fields": "Name,Craft Type,Status,Country,Speed (kts),",
    "TopCount": 10,
    "WebPublish": "Y",
@@ -9,13 +9,13 @@
  },
  {
    "Name": "Overall Results",
-   "Heading": "All Competitors",
+   "Title": "All Competitors",
    "Fields": "Name,Craft Type,Status,Country,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Overall Kites",
-   "Heading": "Overall Fastest Kite",
+   "Title": "Overall Fastest Kite",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -23,7 +23,7 @@
  },
  {
    "Name": "Overall Boats",
-   "Heading": "Overall Fastest Boat",
+   "Title": "Overall Fastest Boat",
    "Filter": "Craft Type=Boat",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -31,7 +31,7 @@
  },
  {
    "Name": "Overall Sailboards",
-   "Heading": "Overall Fastest Sailboard",
+   "Title": "Overall Fastest Sailboard",
    "Filter": "Craft Type=Sailboard",
    "Fields": "Name,Status,Speed (kts)",
    "TopCount": 3,
@@ -39,7 +39,7 @@
  },
  {
    "Name": "Overall Ladies",
-   "Heading": "Overall Fastest Lady",
+   "Title": "Overall Fastest Lady",
    "Filter": "Gender=F",
    "Fields": "Name,Craft Type,Speed (kts)",
    "TopCount": 3,
@@ -47,7 +47,7 @@
  },
  {
    "Name": "Leading Youths",
-   "Heading": "Leading Youth Fleet Sailboard",
+   "Title": "Leading Youth Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -55,7 +55,7 @@
  },
  {
    "Name": "Leading First Time Sailboard",
-   "Heading": "Leading First Time Sailboard",
+   "Title": "Leading First Time Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -63,7 +63,7 @@
  },
  {
    "Name": "Leading Amateurs",
-   "Heading": "Leading Amateur Sailboard",
+   "Title": "Leading Amateur Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=N,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -71,7 +71,7 @@
  },
  {
    "Name": "Leading Gold Fleet",
-   "Heading": "Leading Gold Fleet Sailboard",
+   "Title": "Leading Gold Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Gold-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -79,7 +79,7 @@
  },
  {
    "Name": "Leading Professionals",
-   "Heading": "Leading Pro-Fleet Sailboard",
+   "Title": "Leading Pro-Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -87,7 +87,7 @@
  },
  {
    "Name": "Leading Womens Fleet",
-   "Heading": "Leading Women's Fleet Sailboard",
+   "Title": "Leading Women's Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -96,7 +96,7 @@
  },
  {
    "Name": "Leading First Time Kites",
-   "Heading": "Leading First Time Kite Board Fleet",
+   "Title": "Leading First Time Kite Board Fleet",
    "Filter": "Craft Type=Kite Board,First Timer=Y",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -104,7 +104,7 @@
  },
  {
    "Name": "Leading Kites",
-   "Heading": "Leading Kite Board Fleet",
+   "Title": "Leading Kite Board Fleet",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -112,7 +112,7 @@
  },
  {
    "Name": "Leading First Time Boat",
-   "Heading": "Leading First Time Boat Fleet",
+   "Title": "Leading First Time Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=Y",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -120,7 +120,7 @@
  },
  {
    "Name": "Leading Boats",
-   "Heading": "Leading Boat Fleet",
+   "Title": "Leading Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=N",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
@@ -128,21 +128,21 @@
  },
  {
    "Name": "Forces",
-   "Heading": "HM Forces",
+   "Title": "HM Forces",
    "Filter": "Grouping=Forces - %",
    "Fields": "Grouping,Name,Craft Type,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "Grouping",
-   "Heading": "{Grouping}",
+   "Title": "{Grouping}",
    "Filter": "Grouping<>Forces - %",
    "Fields": "Grouping,Name,Craft Type,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Name": "All Sailboards",
-   "Heading": "All Sailboards",
+   "Title": "All Sailboards",
    "Filter": "Craft Type=Sailboard",
    "Fields": "Name,Status,First Timer,Speed (kts)",
    "WebPublish": "Y",

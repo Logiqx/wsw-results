@@ -1,84 +1,84 @@
 [
  {
    "Name": "Verification",
-   "Heading": "Run Speed Verification",
+   "Title": "Run Speed Verification",
    "Fields": "Name,Craft Type,Status,EntryType,Speed (kts)",
    "CompetitorBestRun": "Speed (kts)=10",
    "WebPublish": "N"
  },
  {
    "Name": "Harbour Course Results",
-   "Heading": "Harbour Course",
+   "Title": "Harbour Course",
    "Filter": "Course=Harbour %",
    "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Shore Course Results",
-   "Heading": "Shore Course",
+   "Title": "Shore Course",
    "Filter": "Course=Shore %",
    "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Kite-Times",
-   "Heading": "Fastest Kites",
+   "Title": "Fastest Kites",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Boats-Times",
-   "Heading": "Fastest Boats",
+   "Title": "Fastest Boats",
    "Filter": "Craft Type=Boat",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Sailboard-Times",
-   "Heading": "Fastest Sailboards",
+   "Title": "Fastest Sailboards",
    "Filter": "Craft Type=Sailboard",
    "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Women-Times",
-   "Heading": "Fastest Lady",
+   "Title": "Fastest Lady",
    "Filter": "Gender=F",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Youths",
-   "Heading": "Fastest Youth Fleet Sailboard",
+   "Title": "Fastest Youth Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Youths(Boys)-Times",
-   "Heading": "Fastest Youths - Boys",
+   "Title": "Fastest Youths - Boys",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend,Gender=M",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Youths(Girls)-Times",
-   "Heading": "Fastest Youths - Girls",
+   "Title": "Fastest Youths - Girls",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend,Gender=F",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Forces",
-   "Heading": "HM Forces",
+   "Title": "HM Forces",
    "Filter": "Grouping=Forces - %",
    "Fields": "Grouping,Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
    "Name": "Grouping",
-   "Heading": "{Grouping}",
+   "Title": "{Grouping}",
    "Filter": "Grouping<>Forces - %",
    "Fields": "Grouping,Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
