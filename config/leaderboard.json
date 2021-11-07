@@ -136,7 +136,7 @@
  {
    "Name": "Grouping",
    "Heading": "{Grouping}",
-   "Filter": "Grouping=%",
+   "Filter": "Grouping<>Forces - %",
    "Fields": "Grouping,Name,Speed (kts)",
    "WebPublish": "Y"
  },
