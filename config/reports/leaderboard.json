@@ -87,7 +87,7 @@
  {
    "Name": "Leading Womens Fleet",
    "Title": "Leading Women's Fleet Sailboard",
-   "Subtitle": "(Women excluding Professional)"
+   "Subtitle": "(Women excluding Professional)",
    "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
    "TopCount": 3,
