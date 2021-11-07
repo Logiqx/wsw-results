@@ -3,7 +3,7 @@
    "Title": "All Runs by Name and Time",
    "Rank": "N",
    "Sort": "Name=ASC,Start Time=ASC",
-   "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  }
 ]

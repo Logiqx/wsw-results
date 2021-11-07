@@ -4,7 +4,7 @@
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Rank": "N",
    "Sort": "Name=ASC,Start Time=ASC",
-   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  }
 ]
