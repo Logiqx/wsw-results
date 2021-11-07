@@ -1,6 +1,5 @@
 [
  {
-   "Name": "Youth runs by time",
    "Title": "Youth Runs by Name and Time",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Rank": "N",

@@ -1,6 +1,5 @@
 [
  {
-   "Name": "All runs by time",
    "Title": "All Runs by Name and Time",
    "Rank": "N",
    "Sort": "Name=ASC,Start Time=ASC",

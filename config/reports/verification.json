@@ -1,83 +1,71 @@
 [
  {
-   "Name": "Verification",
    "Title": "Run Speed Verification",
    "Fields": "Name,Craft Type,Status,EntryType,Speed (kts)",
    "ShowSpeeds": 10,
    "WebPublish": "N"
  },
  {
-   "Name": "Harbour Course Results",
    "Title": "Harbour Course",
    "Filter": "Course=Harbour %",
    "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
-   "Name": "Shore Course Results",
    "Title": "Shore Course",
    "Filter": "Course=Shore %",
    "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
-   "Name": "Kite-Times",
    "Title": "Fastest Kites",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
-   "Name": "Boats-Times",
    "Title": "Fastest Boats",
    "Filter": "Craft Type=Boat",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
-   "Name": "Sailboard-Times",
    "Title": "Fastest Sailboards",
    "Filter": "Craft Type=Sailboard",
    "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
-   "Name": "Women-Times",
    "Title": "Fastest Lady",
    "Filter": "Gender=F",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
-   "Name": "Youths",
    "Title": "Fastest Youth Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
-   "Name": "Youths(Boys)-Times",
    "Title": "Fastest Youths - Boys",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend,Gender=M",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
-   "Name": "Youths(Girls)-Times",
    "Title": "Fastest Youths - Girls",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend,Gender=F",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
-   "Name": "Forces",
    "Title": "HM Forces",
    "Filter": "Grouping=Forces - %",
    "Fields": "Grouping,Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
-   "Name": "Grouping",
    "Title": "{Grouping}",
    "Filter": "Grouping<>Forces - %",
    "Fields": "Grouping,Name,Craft Type,Course,Start Time,Speed (kts)",

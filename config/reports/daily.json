@@ -1,47 +1,40 @@
 [
  {
-   "Name": "Top 10",
    "Title": "Daily Top 10",
    "Fields": "Name,Craft Type,Status,Country,Speed (kts)",
    "Limit": 10,
    "WebPublish": "Y"
  },
  {
-   "Name": "Top Run per Person",
    "Title": "Personal Daily Best Runs",
    "Fields": "Name,Craft Type,Status,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Name": "First Time Sailboard",
    "Title": "First Time Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y,EntryType<>Youth Weekend",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Name": "Amateur Sailboard",
    "Title": "Amateur Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=N,EntryType<>Youth Weekend",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Name": "Gold Fleet",
    "Title": "Gold Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Gold-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Name": "Professionals",
    "Title": "Pro-Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Name": "Womens Sailboard",
    "Title": "Women's Fleet Sailboard",
    "Subtitle": "(Women excluding Professional)",
    "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet,EntryType<>Youth Weekend",
@@ -49,28 +42,24 @@
    "WebPublish": "Y"
  },
  {
-   "Name": "First Time Kite Board",
    "Title": "First Time Kite Board Fleet",
    "Filter": "Craft Type=Kite Board,First Timer=Y",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Name": "Kite Board",
    "Title": "Kite Board Fleet",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Name": "First Time Boat",
    "Title": "First Time Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=Y",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Name": "Boat",
    "Title": "Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=N",
    "Fields": "Name,Course,Start Time,Speed (kts)",

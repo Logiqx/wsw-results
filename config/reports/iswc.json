@@ -1,6 +1,5 @@
 [
  {
-   "Name": "ISWC Leg 1 All",
    "Title": "ISWC Leg 1 All",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y",
    "Session": "ISWC/Leg 1",
@@ -9,7 +8,6 @@
    "WebPublish": "N"
  },
  {
-   "Name": "ISWC Leg 2 All",
    "Title": "ISWC Leg 2 All",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y",
    "Session": "ISWC/Leg 2",
@@ -18,7 +16,6 @@
    "WebPublish": "N"
  },
  {
-   "Name": "ISWC Leg 1 Men",
    "Title": "ISWC Leg 1 Men",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=M",
    "Session": "ISWC/Leg 1",
@@ -27,7 +24,6 @@
    "WebPublish": "N"
  },
  {
-   "Name": "ISWC Leg 2 Men",
    "Title": "ISWC Leg 2 Men",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=M",
    "Session": "ISWC/Leg 2",
@@ -36,7 +32,6 @@
    "WebPublish": "N"
  },
  {
-   "Name": "ISWC Leg 1 Women",
    "Title": "ISWC Leg 1 Women",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=F",
    "Session": "ISWC/Leg 1",
@@ -45,7 +40,6 @@
    "WebPublish": "N"
  },
  {
-   "Name": "ISWC Leg 2 Women",
    "Title": "ISWC Leg 2 Women",
    "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=F",
    "Session": "ISWC/Leg 2",
