@@ -1,13 +1,13 @@
 [
  {
    "Title": "Daily Top 10",
-   "Fields": "Name,Craft Type,Status,Country,Speed (kts)",
+   "Fields": "Name,Craft Type,Country,Speed (kts)",
    "Limit": 10,
    "WebPublish": "Y"
  },
  {
    "Title": "Personal Daily Best Runs",
-   "Fields": "Name,Craft Type,Status,Country,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Craft Type,Status,First Timer,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
@@ -29,7 +29,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Pro-Fleet Sailboard",
+   "Title": "Pro Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"

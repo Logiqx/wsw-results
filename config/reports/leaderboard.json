@@ -1,14 +1,14 @@
 [
  {
-   "Title": "Top Ten Fastest",
-   "Fields": "Name,Craft Type,Status,Country,Speed (kts)",
+   "Title": "Top 10 Fastest",
+   "Fields": "Name,Craft Type,Country,Speed (kts)",
    "Period": "Week",
    "Limit": 10,
    "WebPublish": "Y"
  },
  {
    "Title": "All Competitors",
-   "Fields": "Name,Craft Type,Status,Country,Speed (kts)",
+   "Fields": "Name,Craft Type,Status,First Timer,Country,Speed (kts)",
    "Period": "Week",
    "WebPublish": "Y"
  },
@@ -85,7 +85,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading Pro-Fleet Sailboard",
+   "Title": "Leading Pro Fleet Sailboard",
    "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Speed (kts)",
    "Period": "Week",
