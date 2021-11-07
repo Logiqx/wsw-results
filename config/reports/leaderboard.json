@@ -13,8 +13,24 @@
    "WebPublish": "Y"
  },
  {
+   "Title": "Overall Fastest Sailboard",
+   "Filter": "Craft Type=Sailboard",
+   "Fields": "Name,Status,Speed (kts)",
+   "Period": "Week",
+   "Limit": 3,
+   "WebPublish": "Y"
+ },
+ {
    "Title": "Overall Fastest Kite",
    "Filter": "Craft Type=Kite Board",
+   "Fields": "Name,Speed (kts)",
+   "Period": "Week",
+   "Limit": 3,
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "Overall Fastest Wing",
+   "Filter": "Craft Type=Wing Board",
    "Fields": "Name,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
@@ -24,14 +40,6 @@
    "Title": "Overall Fastest Boat",
    "Filter": "Craft Type=Boat",
    "Fields": "Name,Speed (kts)",
-   "Period": "Week",
-   "Limit": 3,
-   "WebPublish": "Y"
- },
- {
-   "Title": "Overall Fastest Sailboard",
-   "Filter": "Craft Type=Sailboard",
-   "Fields": "Name,Status,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
@@ -94,7 +102,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading First Time Kite Board Fleet",
+   "Title": "Leading First Time Kite Fleet",
    "Filter": "Craft Type=Kite Board,First Timer=Y",
    "Fields": "Name,Speed (kts)",
    "Period": "Week",
@@ -102,7 +110,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading Kite Board Fleet",
+   "Title": "Leading Kite Fleet",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Speed (kts)",
    "Period": "Week",
@@ -110,7 +118,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading First Time Wing Board Fleet",
+   "Title": "Leading First Time Wing Fleet",
    "Filter": "Craft Type=Wing Board,First Timer=Y",
    "Fields": "Name,Speed (kts)",
    "Period": "Week",
@@ -118,7 +126,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading Wing Board Fleet",
+   "Title": "Leading Wing Fleet",
    "Filter": "Craft Type=Wing Board,First Timer=N",
    "Fields": "Name,Speed (kts)",
    "Period": "Week",
@@ -164,16 +172,16 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "All Kite Boards",
-   "Subtitle": "All kite board positions shown below are for information only",
+   "Title": "All Kites",
+   "Subtitle": "All kite positions shown below are for information only",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Status,First Timer,Speed (kts)",
    "Period": "Week",
    "WebPublish": "Y"
  },
  {
-   "Title": "All Wing Boards",
-   "Subtitle": "All wing board positions shown below are for information only",
+   "Title": "All Wings",
+   "Subtitle": "All wing positions shown below are for information only",
    "Filter": "Craft Type=Wing Board",
    "Fields": "Name,Status,First Timer,Speed (kts)",
    "Period": "Week",

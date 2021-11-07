@@ -18,8 +18,20 @@
    "WebPublish": "N"
  },
  {
+   "Title": "Fastest Sailboards",
+   "Filter": "Craft Type=Sailboard",
+   "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
+   "WebPublish": "N"
+ },
+ {
    "Title": "Fastest Kites",
    "Filter": "Craft Type=Kite Board",
+   "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
+   "WebPublish": "N"
+ },
+ {
+   "Title": "Fastest Wings",
+   "Filter": "Craft Type=Wing Board",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
@@ -27,12 +39,6 @@
    "Title": "Fastest Boats",
    "Filter": "Craft Type=Boat",
    "Fields": "Name,Craft Type,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "Fastest Sailboards",
-   "Filter": "Craft Type=Sailboard",
-   "Fields": "Name,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
  },
  {
