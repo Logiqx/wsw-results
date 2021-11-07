@@ -54,6 +54,18 @@
    "WebPublish": "Y"
  },
  {
+   "Title": "First Time Wing Board Fleet",
+   "Filter": "Craft Type=Wing Board,First Timer=Y",
+   "Fields": "Name,Course,Start Time,Speed (kts)",
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "Wing Board Fleet",
+   "Filter": "Craft Type=Wing Board,First Timer=N",
+   "Fields": "Name,Course,Start Time,Speed (kts)",
+   "WebPublish": "Y"
+ },
+ {
    "Title": "First Time Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=Y",
    "Fields": "Name,Course,Start Time,Speed (kts)",

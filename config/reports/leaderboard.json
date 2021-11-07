@@ -110,6 +110,22 @@
    "WebPublish": "Y"
  },
  {
+   "Title": "Leading First Time Wing Board Fleet",
+   "Filter": "Craft Type=Wing Board,First Timer=Y",
+   "Fields": "Name,Speed (kts)",
+   "Period": "Week",
+   "Limit": 3,
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "Leading Wing Board Fleet",
+   "Filter": "Craft Type=Wing Board,First Timer=N",
+   "Fields": "Name,Speed (kts)",
+   "Period": "Week",
+   "Limit": 3,
+   "WebPublish": "Y"
+ },
+ {
    "Title": "Leading First Time Boat Fleet",
    "Filter": "Craft Type=Boat,First Timer=Y",
    "Fields": "Name,Speed (kts)",
@@ -143,6 +159,30 @@
    "Title": "All Sailboards",
    "Subtitle": "All sailboard positions shown below are for information only",
    "Filter": "Craft Type=Sailboard",
+   "Fields": "Name,Status,First Timer,Speed (kts)",
+   "Period": "Week",
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "All Kite Boards",
+   "Subtitle": "All kite board positions shown below are for information only",
+   "Filter": "Craft Type=Kite Board",
+   "Fields": "Name,Status,First Timer,Speed (kts)",
+   "Period": "Week",
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "All Wing Boards",
+   "Subtitle": "All wing board positions shown below are for information only",
+   "Filter": "Craft Type=Wing Board",
+   "Fields": "Name,Status,First Timer,Speed (kts)",
+   "Period": "Week",
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "All Boats",
+   "Subtitle": "All boat positions shown below are for information only",
+   "Filter": "Craft Type=Boat",
    "Fields": "Name,Status,First Timer,Speed (kts)",
    "Period": "Week",
    "WebPublish": "Y"

@@ -30,8 +30,8 @@ A couple of oddities in the reporting filters need to be clarified:
 
 
 
-Some additional rankings could also be added for 2022:
+Some additional rankings have provisionally been added for 2022:
 
-1. "All Kite Boards" could be added beneath "All Sailboards" on the leaderboard web page.
-2. Wings could also be added in their own right, much like the kite and boat rankings.
+1. "All Kite Boards" added beneath "All Sailboards" on the leaderboard web page.
+2. Wings added in their own right, much like the kite and boat rankings; daily and leaderboard.
 
