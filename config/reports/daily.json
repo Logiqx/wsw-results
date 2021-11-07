@@ -3,7 +3,7 @@
    "Name": "Top 10",
    "Title": "Daily Top 10",
    "Fields": "Name,Craft Type,Status,Country,Speed (kts)",
-   "TopCount": 10,
+   "Limit": 10,
    "WebPublish": "Y"
  },
  {
