@@ -1,4 +1,4 @@
-# Gotchas
+## Gotchas
 
 2018 saw quite a few technical issues, many of which have been remedied through enhancements and fixes to the software.
 
@@ -6,7 +6,7 @@ A few of the issues cannot be remedied through software alone so these notes hav
 
 
 
-## Registration
+### Registration
 
 During registration there are several possible reasons that GT-31's are not being read by the laptop.
 
@@ -27,7 +27,7 @@ Problem 3 - 2021:
 
 
 
-## GPSResults
+### GPSResults
 
 Checklist for timings:
 
@@ -45,7 +45,7 @@ Checklist for harbour course:
 
 
 
-## Reports
+### Reports
 
 The Excel macros will be completely replaced in 2022 so most of the legacy issues will disappear.
 
