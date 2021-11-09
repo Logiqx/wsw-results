@@ -50,19 +50,19 @@
  {
    "Title": "Kite Fleet",
    "Filter": "Craft Type=Kite Board",
-   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Country,First Timer,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Title": "Wing Fleet",
    "Filter": "Craft Type=Wing Board",
-   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Country,First Timer,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Title": "Boat Fleet",
    "Filter": "Craft Type=Boat",
-   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Country,First Timer,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  }
 ]
