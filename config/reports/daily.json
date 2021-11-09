@@ -11,72 +11,72 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Fastest Sailboard",
+   "Title": "Fastest Sailboards",
    "Filter": "Craft Type=Sailboard",
    "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)",
    "Limit": 3,
    "WebPublish": "Y"
  },
  {
-   "Title": "Fastest Kite",
+   "Title": "Fastest Kites",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "Limit": 3,
    "WebPublish": "Y"
  },
  {
-   "Title": "Fastest Wing",
+   "Title": "Fastest Wings",
    "Filter": "Craft Type=Wing Board",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "Limit": 3,
    "WebPublish": "Y"
  },
  {
-   "Title": "Fastest Boat",
+   "Title": "Fastest Boats",
    "Filter": "Craft Type=Boat",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "Limit": 3,
    "WebPublish": "Y"
  },
  {
-   "Title": "Fastest Lady",
+   "Title": "Fastest Ladies",
    "Filter": "Gender=F",
    "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
    "Limit": 3,
    "WebPublish": "Y"
  },
  {
-   "Title": "Youth Fleet Sailboard",
+   "Title": "Youth Fleet Sailboards",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Title": "First Time Sailboard",
+   "Title": "First Time Sailboards",
    "Filter": "Craft Type=Sailboard,Status=Amateur,EntryType<>Youth Weekend,First Timer=Y",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Title": "Amateur Sailboard",
+   "Title": "Amateur Sailboards",
    "Filter": "Craft Type=Sailboard,Status=Amateur,EntryType<>Youth Weekend,First Timer=N",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Title": "Gold Fleet Sailboard",
+   "Title": "Gold Fleet Sailboards",
    "Filter": "Craft Type=Sailboard,Status=Gold-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Title": "Pro Fleet Sailboard",
+   "Title": "Pro Fleet Sailboards",
    "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
-   "Title": "Women's Fleet Sailboard",
+   "Title": "Women's Fleet Sailboards",
    "Subtitle": "(Women excluding Professional)",
    "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",

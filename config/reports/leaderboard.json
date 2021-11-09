@@ -13,7 +13,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Overall Fastest Sailboard",
+   "Title": "Overall Fastest Sailboards",
    "Filter": "Craft Type=Sailboard",
    "Fields": "Name,Country,Status,Speed (kts)",
    "Period": "Week",
@@ -21,7 +21,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Overall Fastest Kite",
+   "Title": "Overall Fastest Kites",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
@@ -29,7 +29,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Overall Fastest Wing",
+   "Title": "Overall Fastest Wings",
    "Filter": "Craft Type=Wing Board",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
@@ -37,7 +37,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Overall Fastest Boat",
+   "Title": "Overall Fastest Boats",
    "Filter": "Craft Type=Boat",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
@@ -45,7 +45,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Overall Fastest Lady",
+   "Title": "Overall Fastest Ladies",
    "Filter": "Gender=F",
    "Fields": "Name,Country,Craft Type,Speed (kts)",
    "Period": "Week",
@@ -53,7 +53,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading Youth Fleet Sailboard",
+   "Title": "Leading Youth Fleet Sailboards",
    "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
@@ -61,7 +61,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading First Time Sailboard",
+   "Title": "Leading First Time Sailboards",
    "Filter": "Craft Type=Sailboard,Status=Amateur,EntryType<>Youth Weekend,First Timer=Y",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
@@ -69,7 +69,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading Amateur Sailboard",
+   "Title": "Leading Amateur Sailboards",
    "Filter": "Craft Type=Sailboard,Status=Amateur,EntryType<>Youth Weekend,First Timer=N",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
@@ -77,7 +77,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading Gold Fleet Sailboard",
+   "Title": "Leading Gold Fleet Sailboards",
    "Filter": "Craft Type=Sailboard,Status=Gold-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
@@ -85,7 +85,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading Pro Fleet Sailboard",
+   "Title": "Leading Pro Fleet Sailboards",
    "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,EntryType<>Youth Weekend",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
@@ -93,7 +93,7 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading Women's Fleet Sailboard",
+   "Title": "Leading Women's Fleet Sailboards",
    "Subtitle": "(Women excluding Professional)",
    "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet",
    "Fields": "Name,Country,Speed (kts)",
