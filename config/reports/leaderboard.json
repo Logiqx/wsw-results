@@ -70,7 +70,7 @@
  },
  {
    "Title": "Leading Amateur Sailboard",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,EntryType<>Youth Weekend",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,EntryType<>Youth Weekend,First Timer=N",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
@@ -102,14 +102,6 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading First Time Kite Fleet",
-   "Filter": "Craft Type=Kite Board,First Timer=Y",
-   "Fields": "Name,Country,Speed (kts)",
-   "Period": "Week",
-   "Limit": 3,
-   "WebPublish": "Y"
- },
- {
    "Title": "Leading Kite Fleet",
    "Filter": "Craft Type=Kite Board",
    "Fields": "Name,Country,Speed (kts)",
@@ -118,24 +110,8 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading First Time Wing Fleet",
-   "Filter": "Craft Type=Wing Board,First Timer=Y",
-   "Fields": "Name,Country,Speed (kts)",
-   "Period": "Week",
-   "Limit": 3,
-   "WebPublish": "Y"
- },
- {
    "Title": "Leading Wing Fleet",
    "Filter": "Craft Type=Wing Board",
-   "Fields": "Name,Country,Speed (kts)",
-   "Period": "Week",
-   "Limit": 3,
-   "WebPublish": "Y"
- },
- {
-   "Title": "Leading First Time Boat Fleet",
-   "Filter": "Craft Type=Boat,First Timer=Y",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
