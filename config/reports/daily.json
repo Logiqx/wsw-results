@@ -1,13 +1,48 @@
 [
  {
-   "Title": "Daily Top 10",
+   "Title": "Top 10",
    "Fields": "Name,Country,Craft Type,Speed (kts)",
    "Limit": 10,
    "WebPublish": "Y"
  },
  {
-   "Title": "Personal Daily Best Runs",
+   "Title": "Best Runs",
    "Fields": "Name,Country,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)",
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "Fastest Sailboard",
+   "Filter": "Craft Type=Sailboard",
+   "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)",
+   "Limit": 3,
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "Fastest Kite",
+   "Filter": "Craft Type=Kite Board",
+   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
+   "Limit": 3,
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "Fastest Wing",
+   "Filter": "Craft Type=Wing Board",
+   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
+   "Limit": 3,
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "Fastest Boat",
+   "Filter": "Craft Type=Boat",
+   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
+   "Limit": 3,
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "Fastest Lady",
+   "Filter": "Gender=F",
+   "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
+   "Limit": 3,
    "WebPublish": "Y"
  },
  {

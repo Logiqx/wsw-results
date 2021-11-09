@@ -1,13 +1,13 @@
 [
  {
-   "Title": "Top 10 Fastest",
+   "Title": "Overall Top 10",
    "Fields": "Name,Country,Craft Type,Speed (kts)",
    "Period": "Week",
    "Limit": 10,
    "WebPublish": "Y"
  },
  {
-   "Title": "All Competitors",
+   "Title": "Overall Best Runs",
    "Fields": "Name,Country,Craft Type,Status,First Timer,Speed (kts)",
    "Period": "Week",
    "WebPublish": "Y"
