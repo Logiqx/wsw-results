@@ -810,17 +810,6 @@
   },
   {
     "Gender": "M",
-    "First Name": "Baxter",
-    "Family Name": "Bradford",
-    "First Timer": "N",
-    "Status": "Kite-Fleet",
-    "Craft Type": "Kite Board",
-    "EntryType": "2-Day",
-    "UKWA Member": "N",
-    "Sponsorship": "No"
-  },
-  {
-    "Gender": "M",
     "First Name": "Anders",
     "Family Name": "Bjorkqvist",
     "First Timer": "N",
@@ -1093,30 +1082,6 @@
     "GT31 SN":168601505,
     "Nationality": "England",
     "EntryType": "All Week",
-    "UKWA Member": "N"
-  },
-  {
-    "Gender": "M",
-    "First Name": "Fred",
-    "Family Name": "Ball",
-    "First Timer": "N",
-    "Status": "Boat-Fleet",
-    "Craft Type": "Boat",
-    "GT31 ID": "Ball79Fred",
-    "GT31 SN":932000196,
-    "Nationality": "England",
-    "EntryType": "2-Day",
-    "UKWA Member": "N"
-  },
-  {
-    "Gender": "M",
-    "First Name": "Fred",
-    "Family Name": "Ball",
-    "First Timer": "N",
-    "Status": "Boat-Fleet",
-    "Craft Type": "Boat",
-    "Nationality": "England",
-    "EntryType": "2-Day",
     "UKWA Member": "N"
   },
   {
