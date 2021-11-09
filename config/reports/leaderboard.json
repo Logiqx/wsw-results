@@ -102,30 +102,6 @@
    "WebPublish": "Y"
  },
  {
-   "Title": "Leading Kite Fleet",
-   "Filter": "Craft Type=Kite Board",
-   "Fields": "Name,Country,Speed (kts)",
-   "Period": "Week",
-   "Limit": 3,
-   "WebPublish": "Y"
- },
- {
-   "Title": "Leading Wing Fleet",
-   "Filter": "Craft Type=Wing Board",
-   "Fields": "Name,Country,Speed (kts)",
-   "Period": "Week",
-   "Limit": 3,
-   "WebPublish": "Y"
- },
- {
-   "Title": "Leading Boat Fleet",
-   "Filter": "Craft Type=Boat",
-   "Fields": "Name,Country,Speed (kts)",
-   "Period": "Week",
-   "Limit": 3,
-   "WebPublish": "Y"
- },
- {
    "Title": "HM Forces",
    "Filter": "Grouping=Forces - %",
    "Fields": "Name,Grouping,Craft Type,Status,Speed (kts)",
