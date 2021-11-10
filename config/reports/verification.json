@@ -16,47 +16,5 @@
    "Filter": "Course=Shore %",
    "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "N"
- },
- {
-   "Title": "Fastest Sailboards",
-   "Filter": "Craft Type=Sailboard",
-   "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "Fastest Kites",
-   "Filter": "Craft Type=Kite Board",
-   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "Fastest Wings",
-   "Filter": "Craft Type=Wing Board",
-   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "Fastest Boats",
-   "Filter": "Craft Type=Boat",
-   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "Fastest Lady",
-   "Filter": "Gender=F",
-   "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "HM Forces",
-   "Filter": "Grouping=Forces - %",
-   "Fields": "Name,Grouping,Craft Type,Status,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "{Grouping}",
-   "Filter": "Grouping<>Forces - %",
-   "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
  }
 ]
