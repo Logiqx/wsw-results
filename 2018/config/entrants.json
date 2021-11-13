@@ -356,7 +356,7 @@
     "Status": "Gold-Fleet",
     "Craft Type": "Sailboard",
     "GT31 ID": "Robin7Bill",
-    "GT31 SN":932000559,
+    "GT31 SN":"932000559,932000571",
     "GT31 FW": "V1.4(B0803T)",
     "EntryType": "All Week",
     "UKWA Member": "N"
@@ -816,7 +816,7 @@
     "Status": "Pro-Fleet",
     "Craft Type": "Sailboard",
     "GT31 ID": "Bjork11Ander",
-    "GT31 SN":932000574,
+    "GT31 SN": "932000574,932001502",
     "GT31 FW": "V1.4(B0803T)",
     "Nationality": "Sweden",
     "EntryType": "All Week",
@@ -1023,7 +1023,7 @@
     "Status": "Pro-Fleet",
     "Craft Type": "Sailboard",
     "GT31 ID": "kinga25leigh",
-    "GT31 SN":168602306,
+    "GT31 SN":"168602306,932000169",
     "Nationality": "England",
     "EntryType": "All Week",
     "UKWA Member": "Y"
