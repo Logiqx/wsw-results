@@ -1,7 +1,7 @@
 [
  {
    "Title": "Run Speed Verification",
-   "Fields": "Name,Country,Craft Type,Status,EntryType,Speed (kts)",
+   "Fields": "Name,Country,Craft Type,Status,Entry Type,Speed (kts)",
    "ShowSpeeds": 10,
    "WebPublish": "N"
  },

@@ -54,7 +54,7 @@
  },
  {
    "Title": "Leading Youth Fleet Sailboards",
-   "Filter": "Craft Type=Sailboard,EntryType=Youth Weekend",
+   "Filter": "Craft Type=Sailboard,Entry Type=Youth Weekend",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
@@ -62,7 +62,7 @@
  },
  {
    "Title": "Leading First Time Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,EntryType<>Youth Weekend,First Timer=Y",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,Entry Type<>Youth Weekend,First Timer=Y",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
@@ -70,7 +70,7 @@
  },
  {
    "Title": "Leading Amateur Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,EntryType<>Youth Weekend,First Timer=N",
+   "Filter": "Craft Type=Sailboard,Status=Amateur,Entry Type<>Youth Weekend,First Timer<>Y",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
@@ -78,7 +78,7 @@
  },
  {
    "Title": "Leading Gold Fleet Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=Gold-Fleet,EntryType<>Youth Weekend",
+   "Filter": "Craft Type=Sailboard,Status=Gold-Fleet,Entry Type<>Youth Weekend",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
@@ -86,7 +86,7 @@
  },
  {
    "Title": "Leading Pro Fleet Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,EntryType<>Youth Weekend",
+   "Filter": "Craft Type=Sailboard,Status=Pro-Fleet,Entry Type<>Youth Weekend",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
