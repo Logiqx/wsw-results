@@ -113,6 +113,15 @@
    "WebPublish": "Y"
  },
  {
+   "Title": "Leading Unclassified Sailboards",
+   "Subtitle": "(status is TBC)",
+   "Filter": "Craft Type=Sailboard,Status=TBC",
+   "Fields": "Name,Country,Speed (kts)",
+   "Period": "Week",
+   "Limit": 3,
+   "WebPublish": "Y"
+ },
+ {
    "Title": "Leading First Time Kites",
    "Filter": "Craft Type=Kiteboard,Status=First Time",
    "Fields": "Name,Country,Speed (kts)",
@@ -192,6 +201,14 @@
    "Title": "All Boats",
    "Subtitle": "All boat positions shown below are for information only",
    "Filter": "Craft Type=Boat",
+   "Fields": "Name,Country,Status,Speed (kts)",
+   "Period": "Week",
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "All Unclassified Craft",
+   "Subtitle": "All unclassified positions shown below are for information only",
+   "Filter": "Craft Type=TBC",
    "Fields": "Name,Country,Status,Speed (kts)",
    "Period": "Week",
    "WebPublish": "Y"

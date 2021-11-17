@@ -92,6 +92,13 @@
    "WebPublish": "Y"
  },
  {
+   "Title": "Unclassified Sailboards",
+   "Subtitle": "(status is TBC)",
+   "Filter": "Craft Type=Sailboard,Status=TBC",
+   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
+   "WebPublish": "Y"
+ },
+ {
    "Title": "First Time Kites",
    "Filter": "Craft Type=Kiteboard,Status=First Time",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
@@ -142,6 +149,13 @@
  {
    "Title": "All Boats",
    "Filter": "Craft Type=Boat",
+   "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)",
+   "WebPublish": "Y"
+ },
+ {
+   "Title": "All Unclassified Craft",
+   "Subtitle": "(craft type is TBC)",
+   "Filter": "Craft Type=TBC",
    "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  }
