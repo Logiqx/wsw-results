@@ -53,13 +53,13 @@
  },
  {
    "Title": "First Time Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y",
+   "Filter": "Craft Type=Sailboard,Status=First Time",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Title": "Amateur Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y",
+   "Filter": "Craft Type=Sailboard,Status=Amateur",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },

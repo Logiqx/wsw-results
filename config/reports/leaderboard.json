@@ -62,7 +62,7 @@
  },
  {
    "Title": "Leading First Time Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y",
+   "Filter": "Craft Type=Sailboard,Status=First Time",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
@@ -70,7 +70,7 @@
  },
  {
    "Title": "Leading Amateur Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer<>Y",
+   "Filter": "Craft Type=Sailboard,Status=Amateur",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
