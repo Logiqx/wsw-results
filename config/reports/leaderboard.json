@@ -45,6 +45,15 @@
    "WebPublish": "Y"
  },
  {
+   "Title": "Overall Fastest Men",
+   "Filter": "Gender=M",
+   "Fields": "Name,Country,Craft Type,Speed (kts)",
+   "Period": "Week",
+   "Limit": 3,
+   "WebPublish": "Y",
+   "Years": "2010-2014"
+ },
+ {
    "Title": "Overall Fastest Ladies",
    "Filter": "Gender=F",
    "Fields": "Name,Country,Craft Type,Speed (kts)",
@@ -54,6 +63,7 @@
  },
  {
    "Title": "Leading Youth Fleet Sailboards",
+   "Subtitle": "(first weekend only)",
    "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
@@ -70,6 +80,7 @@
  },
  {
    "Title": "Leading Amateur Sailboards",
+   "Subtitle": "(excluding first timers)",
    "Filter": "Craft Type=Sailboard,Status=Amateur",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
@@ -94,12 +105,50 @@
  },
  {
    "Title": "Leading Women's Fleet Sailboards",
-   "Subtitle": "(Women excluding Professional)",
+   "Subtitle": "(excluding professionals)",
    "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
    "Fields": "Name,Country,Speed (kts)",
    "Period": "Week",
    "Limit": 3,
    "WebPublish": "Y"
+ },
+ {
+   "Title": "Leading First Time Kites",
+   "Filter": "Craft Type=Kiteboard,Status=First Time",
+   "Fields": "Name,Country,Speed (kts)",
+   "Period": "Week",
+   "Limit": 3,
+   "WebPublish": "Y",
+   "Years": "2010-2017"
+ },
+ {
+   "Title": "Leading Kites",
+   "Subtitle": "(excluding first timers)",
+   "Filter": "Craft Type=Kiteboard,Status<>First Time",
+   "Fields": "Name,Country,Speed (kts)",
+   "Period": "Week",
+   "Limit": 3,
+   "WebPublish": "Y",
+   "Years": "2010-2017"
+ },
+ {
+   "Title": "Leading First Time Boats",
+   "Filter": "Craft Type=Boat,Status=First Time",
+   "Fields": "Name,Country,Speed (kts)",
+   "Period": "Week",
+   "Limit": 3,
+   "WebPublish": "Y",
+   "Years": "2010-2017"
+ },
+ {
+   "Title": "Leading Boats",
+   "Subtitle": "(excluding first timers)",
+   "Filter": "Craft Type=Boat,Status<>First Time",
+   "Fields": "Name,Country,Speed (kts)",
+   "Period": "Week",
+   "Limit": 3,
+   "WebPublish": "Y",
+   "Years": "2010-2017"
  },
  {
    "Title": "HM Forces",
