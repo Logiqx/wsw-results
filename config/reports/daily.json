@@ -19,14 +19,14 @@
  },
  {
    "Title": "Fastest Kites",
-   "Filter": "Craft Type=Kite Board",
+   "Filter": "Craft Type=Kiteboard",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "Limit": 3,
    "WebPublish": "Y"
  },
  {
    "Title": "Fastest Wings",
-   "Filter": "Craft Type=Wing Board",
+   "Filter": "Craft Type=Wingboard",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "Limit": 3,
    "WebPublish": "Y"
@@ -90,13 +90,13 @@
  },
  {
    "Title": "Kites",
-   "Filter": "Craft Type=Kite Board",
+   "Filter": "Craft Type=Kiteboard",
    "Fields": "Name,Country,First Timer,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Title": "Wings",
-   "Filter": "Craft Type=Wing Board",
+   "Filter": "Craft Type=Wingboard",
    "Fields": "Name,Country,First Timer,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
