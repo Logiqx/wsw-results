@@ -47,7 +47,7 @@
  },
  {
    "Title": "Youth Fleet Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=Youth-Fleet",
+   "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
@@ -65,20 +65,20 @@
  },
  {
    "Title": "Gold Fleet Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=Gold-Fleet",
+   "Filter": "Craft Type=Sailboard,Status=Gold Fleet",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Title": "Pro Fleet Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=Pro-Fleet",
+   "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Title": "Women's Fleet Sailboards",
    "Subtitle": "(Women excluding Professional)",
-   "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro-Fleet",
+   "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
