@@ -7,7 +7,7 @@
  },
  {
    "Title": "Best Runs",
-   "Fields": "Name,Country,Craft Type,Status,First Timer,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
@@ -85,25 +85,25 @@
  {
    "Title": "Sailboards",
    "Filter": "Craft Type=Sailboard",
-   "Fields": "Name,Country,Status,First Timer,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Title": "Kites",
    "Filter": "Craft Type=Kiteboard",
-   "Fields": "Name,Country,First Timer,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Title": "Wings",
    "Filter": "Craft Type=Wingboard",
-   "Fields": "Name,Country,First Timer,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
  {
    "Title": "Boats",
    "Filter": "Craft Type=Boat",
-   "Fields": "Name,Country,First Timer,Course,Start Time,Speed (kts)",
+   "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  }
 ]
