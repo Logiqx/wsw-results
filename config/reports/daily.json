@@ -61,7 +61,7 @@
  },
  {
    "Title": "First Time Sailboards",
-   "Filter": "Craft Type=Sailboard,Status=First Time",
+   "Filter": "Craft Type=Sailboard,Status=First Timer",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y"
  },
@@ -100,7 +100,7 @@
  },
  {
    "Title": "First Time Kites",
-   "Filter": "Craft Type=Kiteboard,Status=First Time",
+   "Filter": "Craft Type=Kiteboard,Status=First Timer",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y",
    "Years": "2010-2017"
@@ -108,14 +108,14 @@
  {
    "Title": "Kites",
    "Subtitle": "(excluding first timers)",
-   "Filter": "Craft Type=Kiteboard,Status<>First Time",
+   "Filter": "Craft Type=Kiteboard,Status<>First Timer",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y",
    "Years": "2010-2017"
  },
  {
    "Title": "First Time Boats",
-   "Filter": "Craft Type=Boat,Status=First Time",
+   "Filter": "Craft Type=Boat,Status=First Timer",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y",
    "Years": "2010-2017"
@@ -123,7 +123,7 @@
  {
    "Title": "Boats",
    "Subtitle": "(excluding first timers)",
-   "Filter": "Craft Type=Boat,Status<>First Time",
+   "Filter": "Craft Type=Boat,Status<>First Timer",
    "Fields": "Name,Country,Course,Start Time,Speed (kts)",
    "WebPublish": "Y",
    "Years": "2010-2017"
