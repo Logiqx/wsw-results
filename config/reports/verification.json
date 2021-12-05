@@ -6,15 +6,9 @@
    "WebPublish": "N"
  },
  {
-   "Title": "Harbour Course",
-   "Filter": "Course=Harbour %",
-   "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "Shore Course",
-   "Filter": "Course=Shore %",
-   "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)",
+   "Title": "{Course}",
+   "Fields": "Name,Country,Craft Type,Status,Start Time,Speed (kts)",
+   "Period": "Course",
    "WebPublish": "N"
  }
 ]
