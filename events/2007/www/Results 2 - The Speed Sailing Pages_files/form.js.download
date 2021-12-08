@@ -1,0 +1,36 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+document.write("<style>\n.link,\n.link a,\n.signupframe\n{\n	color: #BA2684;\n	font-family: Arial, Helvetica, sans-serif;\n	font-size: 13px;\n	}\n	.link,\n	.link a {\n		text-decoration: none;\n		}\n	.signupframe {\n		border: 1px solid #000000;\n		background: #ccffff;\n		}\n.signupframe .required {\n	font-size: 10px;\n	}\n<\/style>\n<form method=post action=\"http://app.icontact.com/icp/signup.php\" name=\"icpsignup\" id=\"icpsignup697\" accept-charset=\"UTF-8\" onsubmit=\"return verifyRequired697();\" >\n<input type=hidden name=redirect value=\"http://www.speedsailing.com/thankyou.htm\" />\n<input type=hidden name=errorredirect value=\"http://www.icontact.com/www/signup/error.html\" />\n\n<div id=\"SignUp\">\n<table width=\"260\" class=\"signupframe\" border=\"0\" cellspacing=\"0\" cellpadding=\"5\">\n	<tr>\n      <td valign=top align=right>\n        <span class=\"required\">*<\/span>&nbsp;Email\n      <\/td>\n      <td align=left>\n        <input type=text name=\"fields_email\">\n      <\/td>\n    <\/tr>\n	<tr>\n      <td valign=top align=right>\n        &nbsp;First Name\n      <\/td>\n      <td align=left>\n        <input type=text name=\"fields_fname\">\n      <\/td>\n    <\/tr>\n	<tr>\n      <td valign=top align=right>\n        &nbsp;Last Name\n      <\/td>\n      <td align=left>\n        <input type=text name=\"fields_lname\">\n      <\/td>\n    <\/tr>\n	<tr>\n      <td valign=top align=right>\n        &nbsp;Country of residence\n      <\/td>\n      <td align=left>\n        <input type=text name=\"fields_country\">\n      <\/td>\n    <\/tr>\n    <input type=hidden name=\"listid\" value=\"7241\">\n    <input type=hidden name=\"specialid:7241\" value=\"MO9Z\">\n\n    <input type=hidden name=clientid value=\"149394\">\n    <input type=hidden name=formid value=\"697\">\n    <input type=hidden name=reallistid value=\"1\">\n    <input type=hidden name=doubleopt value=\"0\">\n    <tr>\n      <td>&nbsp;<\/td>\n      <td><span class=\"required\">*<\/span> = Required Field<\/td>\n    <\/tr>\n    <tr>\n      <td>&nbsp;<\/td>\n      <td><input type=\"submit\" name=\"Submit\" value=\"Submit\"><\/td>\n    <\/tr>\n    <\/table>\n<\/div>\n<\/form>\n<script type=\"text/javascript\">\n\nvar icpForm697 = document.getElementById(\'icpsignup697\');\n\nif (document.location.protocol === \"https:\")\n\n	icpForm697.action = \"https://app.icontact.com/icp/signup.php\";\nfunction verifyRequired697() {\n  if (icpForm697[\"fields_email\"].value == \"\") {\n    icpForm697[\"fields_email\"].focus();\n    alert(\"The Email field is required.\");\n    return false;\n  }\n\n\nreturn true;\n}\n<\/script>\n");
+
+}
+/*
+     FILE ARCHIVED ON 09:37:44 Feb 08, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:37:20 Dec 08, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 108.233
+  exclusion.robots: 0.231
+  exclusion.robots.policy: 0.212
+  RedisCDXSource: 0.926
+  esindex: 0.016
+  LoadShardBlock: 76.567 (3)
+  PetaboxLoader3.datanode: 46.263 (4)
+  CDXLines.iter: 26.553 (3)
+  load_resource: 33.656
+  PetaboxLoader3.resolve: 23.006
+*/
