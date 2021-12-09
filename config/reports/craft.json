@@ -12,7 +12,7 @@
       "HideFields": "Course,Start Time"
     }
   ],
-  "Profile": True,
+  "Profile": true,
   "Reports": [
     {
       "Title": "Fastest Overall",
