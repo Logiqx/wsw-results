@@ -1,14 +1,15 @@
-[
- {
-   "Title": "Run Speed Verification",
-   "Fields": "Name,Country,Craft Type,Status,Entry Type,Speed (kts)",
-   "ShowSpeeds": 10,
-   "WebPublish": "N"
- },
- {
-   "Title": "{Course}",
-   "Fields": "Name,Country,Craft Type,Status,Start Time,Speed (kts)",
-   "Period": "Course",
-   "WebPublish": "N"
- }
-]
+{
+  "Title": "Verification Reports",
+  "Fields": "Name,Country,Craft Type,Status,Speed (kts)",
+  "ShowSpeeds": 10,
+  "Reports": [
+    {
+      "Title": "All Courses",
+      "Period": "Session"
+    },
+    {
+      "Title": "{Course}",
+      "Period": "Course"
+    }
+  ]
+}

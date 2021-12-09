@@ -1,10 +1,13 @@
-[
- {
-   "Title": "Youth Runs by Name and Time",
-   "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
-   "Rank": "N",
-   "Sort": "Name=ASC,Start Time=ASC",
-   "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
-   "WebPublish": "N"
- }
-]
+{
+  "Title": "All Youth Sailboard Runs of the Day",
+  "Period": "Session",
+  "Reports": [
+    {
+      "Title": "All Runs by Name and Time",
+      "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
+      "Rank": "N",
+      "Sort": "Name=ASC,Start Time=ASC",
+      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+    }
+  ]
+}

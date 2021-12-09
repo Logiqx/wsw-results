@@ -1,9 +1,12 @@
-[
- {
-   "Title": "All Runs by Name and Time",
-   "Rank": "N",
-   "Sort": "Name=ASC,Start Time=ASC",
-   "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)",
-   "WebPublish": "Y"
- }
-]
+{
+  "Title": "All Runs of the Day",
+  "Period": "Session",
+  "Reports": [
+    {
+      "Title": "All Runs by Name and Time",
+      "Rank": "N",
+      "Sort": "Name=ASC,Start Time=ASC",
+      "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)"
+    }
+  ]
+}

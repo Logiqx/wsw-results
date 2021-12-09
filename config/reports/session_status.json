@@ -1,33 +1,7 @@
 {
-  "Title": "Fastest of the Day",
-  "Limit": 3,
+  "Title": "Session Rankings by Status",
   "Period": "Session",
   "Reports": [
-    {
-      "Title": "Top 10",
-      "Fields": "Name,Country,Craft Type,Speed (kts)",
-      "Limit": 10
-    },
-    {
-      "Title": "Fastest Sailboards",
-      "Filter": "Craft Type=Sailboard",
-      "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)"
-    },
-    {
-      "Title": "Fastest Kites",
-      "Filter": "Craft Type=Kiteboard",
-      "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)"
-    },
-    {
-      "Title": "Fastest Wings",
-      "Filter": "Craft Type=Wingboard",
-      "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)"
-    },
-    {
-      "Title": "Fastest Boats",
-      "Filter": "Craft Type=Boat",
-      "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)"
-    },
     {
       "Title": "Fastest Men",
       "Filter": "Gender=M",

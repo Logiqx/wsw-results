@@ -1,23 +1,20 @@
-[
- {
-   "Title": "UKWA Combined",
-   "Filter": "Craft Type=Sailboard,UKWA Member=Y",
-   "Series": "UKWA",
-   "Fields": "Name,Country,Course,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "UKWA Men",
-   "Filter": "Craft Type=Sailboard,UKWA Member=Y,Gender=M",
-   "Series": "UKWA",
-   "Fields": "Name,Country,Course,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "UKWA Women",
-   "Filter": "Craft Type=Sailboard,UKWA Member=Y,Gender=F",
-   "Series": "UKWA",
-   "Fields": "Name,Country,Course,Speed (kts)",
-   "WebPublish": "N"
- }
-]
+{
+  "Title": "Daily UKWA Results",
+  "Series": "UKWA",
+  "Period": "Round",
+  "Fields": "Name,Country,Course,Speed (kts)",
+  "Reports": [
+    {
+      "Title": "UKWA Combined",
+      "Filter": "Craft Type=Sailboard,UKWA Member=Y"
+    },
+    {
+      "Title": "UKWA Men",
+      "Filter": "Craft Type=Sailboard,UKWA Member=Y,Gender=M"
+    },
+    {
+      "Title": "UKWA Women",
+      "Filter": "Craft Type=Sailboard,UKWA Member=Y,Gender=F"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Session Rankings within Groups",
+  "Period": "Session",
+  "Reports": [
+    {
+      "Title": "HM Forces",
+      "Filter": "Grouping=Forces - %",
+      "Fields": "Name,Grouping,Craft Type,Status,Speed (kts)"
+    },
+    {
+      "Title": "{Grouping}",
+      "Filter": "Grouping<>Forces - %",
+      "Fields": "Name,Country,Craft Type,Status,Speed (kts)"
+    }
+  ]
+}

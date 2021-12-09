@@ -1,23 +1,20 @@
-[
- {
-   "Title": "ISWC Combined",
-   "Filter": "Craft Type=Sailboard,ISWC Member=Y",
-   "Series": "ISWC",
-   "Fields": "Name,Country,Course,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "ISWC Men",
-   "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=M",
-   "Series": "ISWC",
-   "Fields": "Name,Country,Course,Speed (kts)",
-   "WebPublish": "N"
- },
- {
-   "Title": "ISWC Women",
-   "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=F",
-   "Series": "ISWC",
-   "Fields": "Name,Country,Course,Speed (kts)",
-   "WebPublish": "N"
- }
-]
+{
+  "Title": "Daily ISWC Results",
+  "Series": "ISWC",
+  "Period": "Round",
+  "Fields": "Name,Country,Course,Speed (kts)",
+  "Reports": [
+    {
+      "Title": "ISWC Combined",
+      "Filter": "Craft Type=Sailboard,ISWC Member=Y",
+    },
+    {
+      "Title": "ISWC Men",
+      "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=M",
+    },
+    {
+      "Title": "ISWC Women",
+      "Filter": "Craft Type=Sailboard,ISWC Member=Y,Gender=F",
+    }
+  ]
+}
