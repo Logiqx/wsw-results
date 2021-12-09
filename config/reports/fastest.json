@@ -18,40 +18,40 @@
       "Title": "Fastest Overall",
       "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
       "Limit": 10,
-      "Trophy": False
+      "Trophy": false
     },
     {
       "Title": "Fastest Sailboard",
       "Filter": "Craft Type=Sailboard",
-      "Trophy": True
+      "Trophy": true
     },
     {
       "Title": "Fastest Kite",
       "Filter": "Craft Type=Kiteboard",
-      "Trophy": True
+      "Trophy": true
     },
     {
       "Title": "Fastest Wing",
       "Filter": "Craft Type=Wingboard",
-      "Trophy": False
+      "Trophy": false
     },
     {
       "Title": "Fastest Boat",
       "Filter": "Craft Type=Boat",
-      "Trophy": True
+      "Trophy": true
     },
     {
       "Title": "Men's Fleet",
       "Filter": "Gender=M",
       "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
       "Years": "2010-2014",
-      "Trophy": True
+      "Trophy": true
     },
     {
       "Title": "Women's Fleet",
       "Filter": "Gender=F",
       "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
-      "Trophy": True
+      "Trophy": true
     },
     {
       "Title": "Youth Fleet Sailboard",

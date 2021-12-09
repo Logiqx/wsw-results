@@ -12,20 +12,20 @@
       "HideFields": "Course,Start Time"
     }
   ],
-  "Profile": True,
+  "Profile": true,
   "Reports": [
     {
       "Title": "Men's Fleet",
       "Filter": "Gender=M",
       "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
       "Years": "2010-2014",
-      "Trophy": True
+      "Trophy": true
     },
     {
       "Title": "Women's Fleet",
       "Filter": "Gender=F",
       "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
-      "Trophy": True
+      "Trophy": true
     },
     {
       "Title": "Youth Fleet Sailboard",
