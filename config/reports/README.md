@@ -10,7 +10,7 @@ Reports can have the following details in the JSON:
 | Filter     |           |    text    | Filter conditions                                            |
 | HideFields |           |    text    | List of fields to be hidden from output                                  |
 | Limit      |           |  integer   | The maximum number of people to list in the report           |
-| Period     | Y |   "week"   | Whether to use fastest speeds of week. Default is day / session. |
+| Period     |  |   "Session" or "Event"   | Whether to use fastest speeds of week. Default is "Session". |
 | Periods     |          |   JSON dict   | Templating function to re-use report definitions (e.g. session and event) |
 | Prizes     |          | integer | The number of prizes to be awarded for the category. Default is 0. |
 | Profile     |          | "Y" or "N" | Whether to include position in daily / weekly profiles. Default is "N". |
@@ -25,3 +25,4 @@ Reports can have the following details in the JSON:
 | Trophy     |           | "Y" or "N" | Whether a trophy is to be awarded for the category. Default is "N" |
 | Years      |           |    text    | Only for reference purposes and will be deprecated in the future |
 
+N.B. There is a system of "inheritance" so that properties can be shared by multiple reports.
