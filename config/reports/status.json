@@ -12,15 +12,16 @@
       "HideFields": "Course,Start Time"
     }
   ],
+  "Profile": True,
   "Reports": [
     {
-      "Title": "Men",
+      "Title": "Men's Fleet",
       "Filter": "Gender=M",
       "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
       "Years": "2010-2014"
     },
     {
-      "Title": "Women",
+      "Title": "Women's Fleet",
       "Filter": "Gender=F",
       "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)"
     },
@@ -53,7 +54,7 @@
     },
     {
       "Title": "Unclassified Sailboard",
-      "Subtitle": "(status is TBC)",
+      "Subtitle": "(status TBC)",
       "Filter": "Craft Type=Sailboard,Status=TBC"
     },
     {
@@ -80,7 +81,7 @@
     },
     {
       "Title": "Unclassified Craft",
-      "Subtitle": "(craft type is TBC)",
+      "Subtitle": "(craft type TBC)",
       "Filter": "Craft Type=TBC"
     }
   ]

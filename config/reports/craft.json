@@ -12,7 +12,7 @@
       "HideFields": "Course,Start Time"
     }
   ],
-  "Subtitle": "All positions shown below are for information only",
+  "Profile": True,
   "Reports": [
     {
       "Title": "All Craft",
@@ -36,7 +36,7 @@
     },
     {
       "Title": "Unclassified Craft",
-      "Subtitle": "(craft type is TBC)",
+      "Subtitle": "(craft type TBC)",
       "Filter": "Craft Type=TBC"
     }
   ]

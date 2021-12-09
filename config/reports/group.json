@@ -10,6 +10,7 @@
       "HideFields": "Course,Start Time"
     }
   ],
+  "Profile": True,
   "Reports": [
     {
       "Title": "HM Forces",
