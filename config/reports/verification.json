@@ -1,5 +1,5 @@
 {
-  "Title": "Verification Reports",
+  "SupTitle": "Verification Reports",
   "Fields": "Name,Country,Craft Type,Status,Speed (kts)",
   "ShowSpeeds": 10,
   "Reports": [

@@ -1,5 +1,5 @@
 {
-  "Title": "Daily ISWC Results",
+  "SupTitle": "Daily ISWC Results",
   "Series": "ISWC",
   "Period": "Round",
   "Fields": "Name,Country,Course,Speed (kts)",

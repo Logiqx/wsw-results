@@ -1,12 +1,21 @@
 {
-  "Title": "All Runs of the Day",
-  "Period": "Session",
-  "Reports": [
+  "Periods": [
     {
-      "Title": "All Runs by Name and Time",
+      "SupTitle": "All Runs of the Day",
+      "Period": "Session",
       "Rank": "N",
       "Sort": "Name=ASC,Start Time=ASC",
+    }
+  ],
+  "Reports": [
+    {
+      "Title": "All Craft",
       "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)"
+    },
+    {
+      "Title": "All Youth Sailboards",
+      "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
+      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
     }
   ]
 }

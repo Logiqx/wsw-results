@@ -1,5 +1,5 @@
 {
-  "Title": "Daily UKWA Results",
+  "SupTitle": "Daily UKWA Results",
   "Series": "UKWA",
   "Period": "Round",
   "Fields": "Name,Country,Course,Speed (kts)",

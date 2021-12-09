@@ -1,7 +1,18 @@
 {
-  "Title": "Fastest of the Day",
+  "Periods": [
+    {
+      "SupTitle": "Fastest of the Day",
+      "Period": "Session",
+      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+    },
+    {
+      "SupTitle": "Fastest of the Week",
+      "Period": "Event",
+      "Fields": "Name,Country,Speed (kts)",
+      "HideFields": "Course,Start Time"
+    }
+  ],
   "Limit": 3,
-  "Period": "Session",
   "Reports": [
     {
       "Title": "Top 10",
@@ -15,23 +26,20 @@
     },
     {
       "Title": "Fastest Kites",
-      "Filter": "Craft Type=Kiteboard",
-      "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)"
+      "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "Fastest Wings",
-      "Filter": "Craft Type=Wingboard",
-      "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)"
+      "Filter": "Craft Type=Wingboard"
     },
     {
       "Title": "Fastest Boats",
-      "Filter": "Craft Type=Boat",
-      "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)"
+      "Filter": "Craft Type=Boat"
     },
     {
       "Title": "Fastest Men",
       "Filter": "Gender=M",
-      "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
       "Years": "2010-2014"
     },
     {
@@ -42,73 +50,61 @@
     {
       "Title": "Youth Fleet Sailboards",
       "Subtitle": "(weekend only)",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=Youth Fleet"
     },
     {
       "Title": "First Time Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=First Timer",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=First Timer"
     },
     {
       "Title": "Amateur Sailboards",
       "Subtitle": "(excluding first timers)",
-      "Filter": "Craft Type=Sailboard,Status=Amateur",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
       "Title": "Gold Fleet Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Gold Fleet",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
       "Title": "Pro Fleet Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "Women's Fleet Sailboards",
       "Subtitle": "(excluding professionals)",
-      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet"
     },
     {
       "Title": "Unclassified Sailboards",
       "Subtitle": "(status is TBC)",
-      "Filter": "Craft Type=Sailboard,Status=TBC",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=TBC"
     },
     {
       "Title": "First Time Kites",
       "Filter": "Craft Type=Kiteboard,Status=First Timer",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)",
       "Years": "2010-2017"
     },
     {
       "Title": "Kites",
       "Subtitle": "(excluding first timers)",
       "Filter": "Craft Type=Kiteboard,Status<>First Timer",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)",
       "Years": "2010-2017"
     },
     {
       "Title": "First Time Boats",
       "Filter": "Craft Type=Boat,Status=First Timer",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)",
       "Years": "2010-2017"
     },
     {
       "Title": "Boats",
       "Subtitle": "(excluding first timers)",
       "Filter": "Craft Type=Boat,Status<>First Timer",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)",
       "Years": "2010-2017"
     },
     {
       "Title": "Unclassified Craft",
       "Subtitle": "(craft type is TBC)",
-      "Filter": "Craft Type=TBC",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+      "Filter": "Craft Type=TBC"
     }
   ]
-}
+}  

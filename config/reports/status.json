@@ -1,88 +1,87 @@
 {
-  "Title": "Event Rankings by Status",
-  "Period": "Event",
+  "Periods": [
+    {
+      "SupTitle": "Session Rankings by Status",
+      "Period": "Session",
+      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+    },
+    {
+      "SupTitle": "Event Rankings by Status",
+      "Period": "Event",
+      "Fields": "Name,Country,Speed (kts)",
+      "HideFields": "Course,Start Time"
+    }
+  ],
   "Reports": [
     {
       "Title": "Fastest Men",
       "Filter": "Gender=M",
-      "Fields": "Name,Country,Craft Type,Status,Speed (kts)",
+      "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
       "Years": "2010-2014"
     },
     {
       "Title": "Fastest Ladies",
       "Filter": "Gender=F",
-      "Fields": "Name,Country,Craft Type,Speed (kts)"
+      "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "Youth Fleet Sailboards",
       "Subtitle": "(weekend only)",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
-      "Fields": "Name,Country,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=Youth Fleet"
     },
     {
       "Title": "First Time Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=First Timer",
-      "Fields": "Name,Country,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=First Timer"
     },
     {
       "Title": "Amateur Sailboards",
       "Subtitle": "(excluding first timers)",
-      "Filter": "Craft Type=Sailboard,Status=Amateur",
-      "Fields": "Name,Country,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
       "Title": "Gold Fleet Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Gold Fleet",
-      "Fields": "Name,Country,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
       "Title": "Pro Fleet Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
-      "Fields": "Name,Country,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "Women's Fleet Sailboards",
       "Subtitle": "(excluding professionals)",
-      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
-      "Fields": "Name,Country,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet"
     },
     {
       "Title": "Unclassified Sailboards",
       "Subtitle": "(status is TBC)",
-      "Filter": "Craft Type=Sailboard,Status=TBC",
-      "Fields": "Name,Country,Speed (kts)"
+      "Filter": "Craft Type=Sailboard,Status=TBC"
     },
     {
       "Title": "First Time Kites",
       "Filter": "Craft Type=Kiteboard,Status=First Timer",
-      "Fields": "Name,Country,Speed (kts)",
       "Years": "2010-2017"
     },
     {
       "Title": "Kites",
       "Subtitle": "(excluding first timers)",
       "Filter": "Craft Type=Kiteboard,Status<>First Timer",
-      "Fields": "Name,Country,Speed (kts)",
       "Years": "2010-2017"
     },
     {
       "Title": "First Time Boats",
       "Filter": "Craft Type=Boat,Status=First Timer",
-      "Fields": "Name,Country,Speed (kts)",
       "Years": "2010-2017"
     },
     {
       "Title": "Boats",
       "Subtitle": "(excluding first timers)",
       "Filter": "Craft Type=Boat,Status<>First Timer",
-      "Fields": "Name,Country,Speed (kts)",
       "Years": "2010-2017"
     },
     {
       "Title": "Unclassified Craft",
       "Subtitle": "(craft type is TBC)",
-      "Filter": "Craft Type=TBC",
-      "Fields": "Name,Country,Speed (kts)"
+      "Filter": "Craft Type=TBC"
     }
   ]
-}  
+}
