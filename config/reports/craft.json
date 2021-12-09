@@ -1,12 +1,12 @@
 {
   "Periods": [
     {
-      "SupTitle": "Session Rankings by Craft Type",
+      "SupTitle": "Day Rankings by Craft Type",
       "Period": "Session",
       "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)"
     },
     {
-      "SupTitle": "Event Rankings by Craft Type",
+      "SupTitle": "Week Rankings by Craft Type",
       "Period": "Event",
       "Fields": "Name,Country,Status,Speed (kts)",
       "HideFields": "Course,Start Time"
@@ -19,23 +19,23 @@
       "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)"
     },
     {
-      "Title": "All Sailboards",
+      "Title": "Sailboard",
       "Filter": "Craft Type=Sailboard"
     },
     {
-      "Title": "All Kites",
+      "Title": "Kite",
       "Filter": "Craft Type=Kiteboard"
     },
     {
-      "Title": "All Wings",
+      "Title": "Wing",
       "Filter": "Craft Type=Wingboard"
     },
     {
-      "Title": "All Boats",
+      "Title": "Boat",
       "Filter": "Craft Type=Boat"
     },
     {
-      "Title": "All Unclassified Craft",
+      "Title": "Unclassified Craft",
       "Subtitle": "(craft type is TBC)",
       "Filter": "Craft Type=TBC"
     }

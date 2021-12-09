@@ -13,7 +13,7 @@
       "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)"
     },
     {
-      "Title": "All Youth Sailboards",
+      "Title": "All Youth Sailboard",
       "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
       "Fields": "Name,Country,Course,Start Time,Speed (kts)"
     }
