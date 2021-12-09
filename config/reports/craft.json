@@ -6,7 +6,7 @@
       "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)"
     },
     {
-      "SupTitle": "Week Rankings by Craft Type",
+      "SupTitle": "Overall Rankings by Craft Type",
       "Period": "Event",
       "Fields": "Name,Country,Status,Speed (kts)",
       "HideFields": "Course,Start Time"
@@ -15,29 +15,35 @@
   "Profile": True,
   "Reports": [
     {
-      "Title": "All Craft",
-      "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)"
+      "Title": "Fastest Overall",
+      "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)",
+      "Trophy": False
     },
     {
-      "Title": "Sailboard",
-      "Filter": "Craft Type=Sailboard"
+      "Title": "Fastest Sailboard",
+      "Filter": "Craft Type=Sailboard",
+      "Trophy": True
     },
     {
-      "Title": "Kite",
-      "Filter": "Craft Type=Kiteboard"
+      "Title": "Fastest Kite",
+      "Filter": "Craft Type=Kiteboard",
+      "Trophy": True
     },
     {
-      "Title": "Wing",
-      "Filter": "Craft Type=Wingboard"
+      "Title": "Fastest Wing",
+      "Filter": "Craft Type=Wingboard",
+      "Trophy": False
     },
     {
-      "Title": "Boat",
-      "Filter": "Craft Type=Boat"
+      "Title": "Fastest Boat",
+      "Filter": "Craft Type=Boat",
+      "Trophy": True
     },
     {
-      "Title": "Unclassified Craft",
+      "Title": "Fastest Unclassified Craft",
       "Subtitle": "(craft type TBC)",
-      "Filter": "Craft Type=TBC"
+      "Filter": "Craft Type=TBC",
+      "Trophy": False
     }
   ]
 }

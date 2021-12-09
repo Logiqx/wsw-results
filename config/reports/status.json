@@ -6,7 +6,7 @@
       "Fields": "Name,Country,Course,Start Time,Speed (kts)"
     },
     {
-      "SupTitle": "Week Rankings by Status",
+      "SupTitle": "Overall Rankings by Status",
       "Period": "Event",
       "Fields": "Name,Country,Speed (kts)",
       "HideFields": "Course,Start Time"
@@ -18,71 +18,85 @@
       "Title": "Men's Fleet",
       "Filter": "Gender=M",
       "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
-      "Years": "2010-2014"
+      "Years": "2010-2014",
+      "Trophy": True
     },
     {
       "Title": "Women's Fleet",
       "Filter": "Gender=F",
-      "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
+      "Trophy": True
     },
     {
       "Title": "Youth Fleet Sailboard",
       "Subtitle": "(weekend only)",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet"
+      "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
+      "Prizes": 3
     },
     {
       "Title": "First Time Sailboard",
-      "Filter": "Craft Type=Sailboard,Status=First Timer"
+      "Filter": "Craft Type=Sailboard,Status=First Timer",
+      "Prizes": 1
     },
     {
       "Title": "Amateur Sailboard",
       "Subtitle": "(excluding first timers)",
-      "Filter": "Craft Type=Sailboard,Status=Amateur"
+      "Filter": "Craft Type=Sailboard,Status=Amateur",
+      "Prizes": 3
     },
     {
       "Title": "Gold Fleet Sailboard",
-      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet",
+      "Prizes": 3
     },
     {
       "Title": "Pro Fleet Sailboard",
-      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet",
+      "Prizes": 1
     },
     {
       "Title": "Women's Fleet Sailboard",
       "Subtitle": "(excluding professionals)",
-      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet"
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
+      "Prizes": 1
     },
     {
       "Title": "Unclassified Sailboard",
       "Subtitle": "(status TBC)",
-      "Filter": "Craft Type=Sailboard,Status=TBC"
+      "Filter": "Craft Type=Sailboard,Status=TBC",
+      "Prizes": 0
     },
     {
       "Title": "First Time Kite",
       "Filter": "Craft Type=Kiteboard,Status=First Timer",
-      "Years": "2010-2017"
+      "Years": "2010-2017",
+      "Prizes": 1
     },
     {
       "Title": "Kite",
       "Subtitle": "(excluding first timers)",
       "Filter": "Craft Type=Kiteboard,Status<>First Timer",
-      "Years": "2010-2017"
+      "Years": "2010-2017",
+      "Prizes": 1
     },
     {
       "Title": "First Time Boat",
       "Filter": "Craft Type=Boat,Status=First Timer",
-      "Years": "2010-2017"
+      "Years": "2010-2017",
+      "Prizes": 1
     },
     {
       "Title": "Boat",
       "Subtitle": "(excluding first timers)",
       "Filter": "Craft Type=Boat,Status<>First Timer",
-      "Years": "2010-2017"
+      "Years": "2010-2017",
+      "Prizes": 1
     },
     {
       "Title": "Unclassified Craft",
       "Subtitle": "(craft type TBC)",
-      "Filter": "Craft Type=TBC"
+      "Filter": "Craft Type=TBC",
+      "Prizes": 0
     }
   ]
 }
