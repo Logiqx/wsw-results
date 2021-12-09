@@ -1,14 +1,13 @@
 {
+  "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)",
   "Periods": [
     {
       "SupTitle": "Day Rankings by Craft Type",
-      "Period": "Session",
-      "Fields": "Name,Country,Status,Course,Start Time,Speed (kts)"
+      "Period": "Session"
     },
     {
       "SupTitle": "Overall Rankings by Craft Type",
       "Period": "Event",
-      "Fields": "Name,Country,Status,Speed (kts)",
       "HideFields": "Course,Start Time"
     }
   ],

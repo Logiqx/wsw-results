@@ -1,14 +1,13 @@
 {
+  "Fields": "Name,Country,Course,Start Time,Speed (kts)",
   "Periods": [
     {
       "SupTitle": "Fastest of the Day",
-      "Period": "Session",
-      "Fields": "Name,Country,Course,Start Time,Speed (kts)"
+      "Period": "Session"
     },
     {
       "SupTitle": "Fastest of the Week",
       "Period": "Event",
-      "Fields": "Name,Country,Speed (kts)",
       "HideFields": "Course,Start Time"
     }
   ],
