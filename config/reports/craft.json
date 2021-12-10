@@ -42,7 +42,8 @@
       "Title": "Fastest Unclassified Craft",
       "Subtitle": "(craft type TBC)",
       "Filter": "Craft Type=TBC",
-      "Trophy": false
+      "Trophy": false,
+      "Warning": true
     }
   ]
 }

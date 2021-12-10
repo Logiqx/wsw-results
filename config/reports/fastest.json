@@ -89,7 +89,8 @@
       "Title": "Unclassified Sailboard",
       "Subtitle": "(status TBC)",
       "Filter": "Craft Type=Sailboard,Status=TBC",
-      "Prizes": 0
+      "Prizes": 0,
+      "Warning": true
     },
     {
       "Title": "First Time Kite",
@@ -121,7 +122,8 @@
       "Title": "Unclassified Craft",
       "Subtitle": "(craft type TBC)",
       "Filter": "Craft Type=TBC",
-      "Prizes": 0
+      "Prizes": 0,
+      "Warning": true
     }
   ]
 }  
