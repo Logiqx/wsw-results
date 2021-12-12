@@ -1,0 +1,7 @@
+Note that 300m record on 2 Oct is 37.02 in day results but 37.03 in the full list of runs.
+
+Suspect day results round down to the nearest 100th (correctly) but all runs do not (incorrectly).
+
+Potentially affects all years between 2000 and 2009.
+
+Note: This was not an issue in 1998 and 1999 because 3 decimal places were used in the full list of runs.
