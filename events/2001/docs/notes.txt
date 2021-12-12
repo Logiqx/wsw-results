@@ -1,0 +1,5 @@
+Changed sail number 14 to 671 in rundata/20011002_H1.csv
+Those runs were attributed to Paul Sleightholm in the weekly results
+
+Sail number 14 was used by Ian Hill on 20011005 but he was missing from the weekly results
+
