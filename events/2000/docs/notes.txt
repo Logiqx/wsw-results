@@ -1,3 +1,5 @@
+Changed sail number of Danny Norris + Will Oscroft on the tandem to 6222.
+
 Note that 300m record on 2 Oct is 37.02 in day results but 37.03 in the full list of runs.
 
 Suspect day results round down to the nearest 100th (correctly) but all runs do not (incorrectly).
