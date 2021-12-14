@@ -1,3 +1,5 @@
 Changed sail number 43 to 430 and 56 to 560 in rundata/20041003_S1.csv
 
 The numbers 43 and 56 were used by GBR-43 (Simon Langley) and GBR-56 (Keith Atkinson) on the Tue/Wed.
+
+Determined that sail number 670 was probably Eddie Murrell. He was competing as sail 670 in subsequent years.
