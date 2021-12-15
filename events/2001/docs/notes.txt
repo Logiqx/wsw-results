@@ -7,4 +7,4 @@ On reflection, I think this was incorrect and Ian Hill was using sail number 14 
 - Sail number 14 was used by Ian Hill on 5 Oct 2001 but he was missing from the weekly results.
 - Sail number 14 was used by Ian Hill in 2001, 2003, 2004 and 2005.
 
-I have reverted the runs on 20011002 back to sail number 14, attributing them to Ian Hill.
+I have reverted the runs on 20011002 back to sail number 14, attributing those runs to Ian Hill.

@@ -2,7 +2,7 @@ Sail number changes:
 
 - Changed sail number of Danny Norris + Will Oscroft on the tandem to 6222, distinct from Danny Norris 622.
 - Changed sail number of Chris Evans and Philip Middleton to 99, leaving sail number 15 as Stephen Corps.
-- Decided that sail number 5 was likely to be Graham Holbert since he competed on that number in 1999 + 2001.
+- Decided that sail no. 5 was likely to be Graham Holbert/Hulbert since he competed as sail no. 5 in 1999 + 2001.
 
 Notes about rounding of 3 decimal places:
 
