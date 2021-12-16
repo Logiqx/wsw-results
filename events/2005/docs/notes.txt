@@ -1,0 +1,6 @@
+Handling of missing data:
+
+- Full list of runs for 20051008 is not available as the web page is mangled
+- Used the best runs from 20051008 instead of the full list
+- Alex Montgomery (sail no. 1) was missing from the top of all runs on 20051010
+- Added the best run from 20051010 to the list of all runs
