@@ -1,0 +1,4 @@
+Tweaks to the data:
+
+- Removed Dave Standing 0.16 knots from all runs on 20091010.
+- Results for sail 559 (Tony Attfield) were attributed to Tim Frampton. Corrected this error.
