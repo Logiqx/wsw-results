@@ -2,3 +2,4 @@ Notes:
 
 - Results for 20081004 were re-published some time after 20081009 and were slightly different.
 - Times were HH:MM so changed them to be HH:MM:00 for the benefit of simpler code.
+- Removed speeds for 111 (RIB / Bike) and 0 (Bike) on 20081006 and 20081008
