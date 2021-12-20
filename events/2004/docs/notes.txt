@@ -7,3 +7,7 @@ Determined that sail number 670 was probably Eddie Murrell:
 
 - He was competing as sail 670 in subsequent years.
 - Edward Murrell (sail 76) was shown on the entrants list but had no associated results so likely using 670.
+
+Missing rundata:
+- Some rundata must be missing which corresponds to RESULTS_20041003_S1.csv
+- e.g. 34,27.97,Sailboard,David Ellerbeck,8,42
