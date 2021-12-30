@@ -5,10 +5,10 @@ Sail number changes:
 
 20061002:
 
-- Nick Brumfitt (1.68 knots) not in day results. This is fine as the new software will list it.
-- Gordon roach had a run of 127.72 knots at 13:10:12 which I've removed manually.
-- Michael John Roberts in day results as 29.48 but not in all runs - still TODO
+- Nick Brumfitt had a run of 1.68 knots (not shown in published results) which I've removed manually.
+- Gordon roach had a run of 127.72 knots at 13:10:12 which I've removed manually. Added 24.31 to session results.
+- Michael John Roberts in day results as 29.48 but not in all runs. Added manually to all runs.
 
 20061006:
 
-- Les Paley missing from day results. Left 4.98 in all runs as the new software will list it.
+- Les Paley had a run of 4.98 knots (not shown in published results) which I've removed manually.
