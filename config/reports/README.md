@@ -24,6 +24,5 @@ Reports can have the following details in the JSON:
 | Title      |     Y     |    text    | Title for the individual table / report                 |
 | Trophy     |           | true or false | Whether a trophy is to be awarded for the category. Default is false |
 | Warning    |           | true or false | Whether a warning should be output to the console. Default is false |
-| Years      |           |    text    | Only for reference purposes. This will be deprecated in the future |
 
 N.B. There is a system of object orientation / inheritance so that properties can be shared by multiple reports.
