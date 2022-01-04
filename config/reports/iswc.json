@@ -2,7 +2,7 @@
   "Suptitle": "Daily ISWC Results",
   "Series": "ISWC",
   "Period": "Round",
-  "Fields": "Name,Country,Course,Speed (kts)",
+  "Fields": "Name,Nationality,Course,Speed (kts)",
   "Reports": [
     {
       "Title": "ISWC Combined",

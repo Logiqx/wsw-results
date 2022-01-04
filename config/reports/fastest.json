@@ -1,5 +1,5 @@
 {
-  "Fields": "Name,Country,Course,Start Time,Speed (kts)",
+  "Fields": "Name,Nationality,Course,Start Time,Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Fastest of the Day",
@@ -15,7 +15,7 @@
   "Reports": [
     {
       "Title": "Fastest Overall",
-      "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nationality,Craft Type,Course,Start Time,Speed (kts)",
       "Limit": 10,
       "Trophy": false
     },
@@ -42,14 +42,14 @@
     {
       "Title": "Men's Fleet",
       "Filter": "Gender=M",
-      "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nationality,Craft Type,Course,Start Time,Speed (kts)",
       "Years": "2010-2014",
       "Trophy": true
     },
     {
       "Title": "Women's Fleet",
       "Filter": "Gender=F",
-      "Fields": "Name,Country,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nationality,Craft Type,Course,Start Time,Speed (kts)",
       "Trophy": true
     },
     {

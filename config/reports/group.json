@@ -20,7 +20,7 @@
     {
       "Title": "{Grouping}",
       "Filter": "Grouping<>Forces - %",
-      "Fields": "Name,Country,Craft Type,Status,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nationality,Craft Type,Status,Course,Start Time,Speed (kts)"
     }
   ]
 }
