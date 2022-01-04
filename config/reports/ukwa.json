@@ -2,7 +2,7 @@
   "Suptitle": "Daily UKWA Results",
   "Series": "UKWA",
   "Period": "Round",
-  "Fields": "Name,Nationality,Course,Speed (kts)",
+  "Fields": "Name,Nation,Course,Speed (kts)",
   "Reports": [
     {
       "Title": "UKWA Combined",

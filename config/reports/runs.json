@@ -6,12 +6,12 @@
   "Reports": [
     {
       "Title": "All Craft",
-      "Fields": "Name,Nationality,Craft Type,Status,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "All Youth Sailboard",
       "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
-      "Fields": "Name,Nationality,Course,Start Time,Speed (kts)"
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "Fields": "Name,Nationality,Course,Start Time,Speed (kts)",
+  "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Day Rankings by Status",
@@ -16,14 +16,14 @@
     {
       "Title": "Men's Fleet",
       "Filter": "Gender=M",
-      "Fields": "Name,Nationality,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
       "Years": "2010-2014",
       "Trophy": true
     },
     {
       "Title": "Women's Fleet",
       "Filter": "Gender=F",
-      "Fields": "Name,Nationality,Craft Type,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Course,Start Time,Speed (kts)",
       "Trophy": true
     },
     {

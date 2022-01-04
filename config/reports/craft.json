@@ -1,5 +1,5 @@
 {
-  "Fields": "Name,Nationality,Status,Course,Start Time,Speed (kts)",
+  "Fields": "Name,Nation,Status,Course,Start Time,Speed (kts)",
   "Periods": [
     {
       "Suptitle": "Day Rankings by Craft Type",
@@ -15,7 +15,7 @@
   "Reports": [
     {
       "Title": "Fastest Overall",
-      "Fields": "Name,Nationality,Craft Type,Status,Course,Start Time,Speed (kts)",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
       "Trophy": false
     },
     {
