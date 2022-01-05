@@ -6,6 +6,7 @@ Reports can have the following details in the JSON:
 
 | Name       | Mandatory |   Values   | Comment                                                      |
 | ---------- | :-------: | :--------: | ------------------------------------------------------------ |
+| Comment    |           |    text    | Optional comment for the report                             |
 | Fields     |     Y     |    text    | List of fields to be output                                  |
 | Filter     |           |    text    | Filter conditions                                            |
 | HideFields |           |    text    | List of fields to be hidden from output                                  |
@@ -19,7 +20,6 @@ Reports can have the following details in the JSON:
 | Series     |           |    text    | Used to lookup time limits and scoring for UKWA / ISWC sessions |
 | ShowSpeeds |           |  integer   | Can be used to report up to the 10 best speeds (e.g. verification report) |
 | Sort       |           |    text    | Specify custom sort specification. Used for "all runs" report |
-| Subtitle   |           |    text    | Optional subtitle for the report                             |
 | Suptitle   |           |    text    | Optional main title for the web page                    |
 | Title      |     Y     |    text    | Title for the individual table / report                 |
 | Trophy     |           | true or false | Whether a trophy is to be awarded for the category. Default is false |

@@ -54,7 +54,7 @@
     },
     {
       "Title": "Youth Fleet Sailboard",
-      "Subtitle": "(weekend only)",
+      "Comment": "(weekend only)",
       "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
       "Prizes": 3
     },
@@ -65,7 +65,7 @@
     },
     {
       "Title": "Amateur Sailboard",
-      "Subtitle": "(excluding first timers)",
+      "Comment": "(excluding first timers)",
       "Filter": "Craft Type=Sailboard,Status=Amateur",
       "Prizes": 3
     },
@@ -81,13 +81,13 @@
     },
     {
       "Title": "Women's Fleet Sailboard",
-      "Subtitle": "(excluding professionals)",
+      "Comment": "(excluding professionals)",
       "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
       "Prizes": 1
     },
     {
       "Title": "Unclassified Sailboard",
-      "Subtitle": "(status TBC)",
+      "Comment": "(status TBC)",
       "Filter": "Craft Type=Sailboard,Status=TBC",
       "Prizes": 0,
       "Warning": true
@@ -100,7 +100,7 @@
     },
     {
       "Title": "Kite",
-      "Subtitle": "(excluding first timers)",
+      "Comment": "(excluding first timers)",
       "Filter": "Craft Type=Kiteboard,Status<>First Timer",
       "Years": "2010-2017",
       "Prizes": 1
@@ -113,14 +113,14 @@
     },
     {
       "Title": "Boat",
-      "Subtitle": "(excluding first timers)",
+      "Comment": "(excluding first timers)",
       "Filter": "Craft Type=Boat,Status<>First Timer",
       "Years": "2010-2017",
       "Prizes": 1
     },
     {
       "Title": "Unclassified Craft",
-      "Subtitle": "(craft type TBC)",
+      "Comment": "(craft type TBC)",
       "Filter": "Craft Type=TBC",
       "Prizes": 0,
       "Warning": true
