@@ -1,6 +1,6 @@
 {
   "Suptitle": "Verification Reports",
-  "Fields": "Name,Nation,Craft Type,Status,Speed (kts)",
+  "Fields": "Name,Nation,Craft Type,Status,Speed (kts),Other Run Speeds (kts)",
   "ShowSpeeds": 10,
   "Reports": [
     {
