@@ -17,6 +17,7 @@ Reports can have the following details in the JSON:
 | Profile     |          | true or false | Whether to include position in daily / weekly profiles. Default is false |
 | Rank       |           | true or false | Whether the results should be ranked. Default is true         |
 | Reports   | Y |   JSON list   | List of JSON report definitions |
+| Runs       |           | true or false | Whether runs should be listed. Default is true         |
 | Series     |           |    text    | Used to lookup time limits and scoring for UKWA / ISWC sessions |
 | ShowSpeeds |           |  integer   | Can be used to report up to the 10 best speeds (e.g. verification report) |
 | Sort       |           |    text    | Specify custom sort specification. Used for "all runs" report |
