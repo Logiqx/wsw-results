@@ -3,6 +3,10 @@ Sail number changes:
 - Changed Jay Gwynn to sail 3333 to avoid conflict with Mark Hayford. No runs associated with Jay.
 - Changed Ralph Morris to sail 311 to avoid conflict with Paul Morris. No runs associated with Ralph.
 
+Classifications:
+
+- Declared Austin Hind and Cory Percival as windsurfers based on Facebook profiles.
+
 20061002:
 
 - Nick Brumfitt had a run of 1.68 knots (not shown in published results) which I've removed manually.
