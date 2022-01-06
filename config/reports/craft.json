@@ -15,34 +15,28 @@
   "Reports": [
     {
       "Title": "Fastest Overall",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)",
-      "Trophy": false
+      "Fields": "Name,Nation,Craft Type,Status,Course,Start Time,Speed (kts)"
     },
     {
       "Title": "Fastest Sailboard",
-      "Filter": "Craft Type=Sailboard",
-      "Trophy": true
+      "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "Fastest Kite",
-      "Filter": "Craft Type=Kiteboard",
-      "Trophy": true
+      "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "Fastest Wing",
-      "Filter": "Craft Type=Wingboard",
-      "Trophy": false
+      "Filter": "Craft Type=Wingboard"
     },
     {
       "Title": "Fastest Boat",
-      "Filter": "Craft Type=Boat",
-      "Trophy": true
+      "Filter": "Craft Type=Boat"
     },
     {
       "Title": "Fastest Unclassified Craft",
       "Comment": "(craft type TBC)",
       "Filter": "Craft Type=TBC",
-      "Trophy": false,
       "Warning": true
     }
   ]
