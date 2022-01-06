@@ -8,6 +8,7 @@ Handling of missing data:
 Handling of bad data:
 
 - Removed 109.87 knot run for Mark Minter at 14:18:27
+- Changed Sat result to 24.90 for Dan Simpson since it was the winning youth time
 - Changed Wed result to 26.41 for Bob Cunningham since 27.21 was not listed in all runs
 - Changed Fri result to 21.17 for Mike Coombes since 21.83 was not listed in all runs
 - Removed Non Entrant (sail 420) sailing Tornado Cat
