@@ -1,5 +1,7 @@
 Notes:
 
-- Results for 20081004 were re-published some time after 20081009 and were slightly different.
+- Results for 20081004 were re-published after a discrepancy in the course length was discovered.
+- e.g. Anders Bringdal harbour record was originally 38.48 but subsquently updated to 38.54.
+- Jane Sanderson (sail 780) was awarded second place lady for a result of John Sanderson (sail 180).
 - Times were HH:MM so changed them to be HH:MM:00 for the benefit of simpler code.
-- Removed speeds for 111 (RIB / Bike) and 0 (Bike) on 20081006 and 20081008
+- Removed speeds for 111 (RIB / Bike) and 0 (Bike) on 20081006 and 20081008.
