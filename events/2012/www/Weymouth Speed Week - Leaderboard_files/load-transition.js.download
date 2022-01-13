@@ -1,0 +1,64 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+/**
+ * @package		Gantry Template Framework - RocketTheme
+ * @version		1.5 February 9, 2012
+ * @author		RocketTheme http://www.rockettheme.com
+ * @copyright 	Copyright (C) 2007 - 2012 RocketTheme, LLC
+ * @license		http://www.rockettheme.com/legal/license.php RocketTheme Proprietary Use License
+ */
+
+((function(){
+
+var animation = function(){
+	var body = document.id('rt-transition');
+
+	if (Browser.Engine.gecko19 || (Browser.Engine.trident && !Browser.Engine.trident7)){
+		if (body){
+			body.set('tween', {duration: 800, transition: 'quad:out'});
+			body.setStyles({'visibility': 'hidden', 'opacity': 0});
+			body.removeClass('rt-hidden').fade('in');
+		}
+		
+		return;
+	}
+	
+	if (body) body.removeClass('rt-hidden').addClass('rt-visible');
+};
+
+window.addEvent('load', animation);
+
+})());
+
+}
+/*
+     FILE ARCHIVED ON 13:08:47 Mar 21, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:49:04 Jan 13, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 399.336
+  exclusion.robots: 0.143
+  exclusion.robots.policy: 0.133
+  cdx.remote: 0.086
+  esindex: 0.012
+  LoadShardBlock: 358.704 (3)
+  PetaboxLoader3.datanode: 333.904 (4)
+  CDXLines.iter: 16.591 (3)
+  load_resource: 236.846
+  PetaboxLoader3.resolve: 56.882
+*/

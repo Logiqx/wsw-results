@@ -1,0 +1,42 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+/*
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2012 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+window.addEvent("domready",function(){var b=document.id("gantry-totop");if(b){var a=new Fx.Scroll(window);b.setStyle("outline","none").addEvent("click",function(c){c.stop();
+a.toTop();});}});
+
+}
+/*
+     FILE ARCHIVED ON 13:10:22 Mar 21, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:49:04 Jan 13, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 346.317
+  exclusion.robots: 0.204
+  exclusion.robots.policy: 0.191
+  RedisCDXSource: 19.566
+  esindex: 0.025
+  LoadShardBlock: 296.51 (3)
+  PetaboxLoader3.datanode: 321.35 (4)
+  CDXLines.iter: 25.159 (3)
+  load_resource: 108.138
+  PetaboxLoader3.resolve: 55.993
+*/
