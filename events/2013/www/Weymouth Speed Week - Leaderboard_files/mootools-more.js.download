@@ -841,7 +841,7 @@ Form.Validator.add("validate-currency-yuan",{errorMsg:function(){return Form.Val
 }
 /*
      FILE ARCHIVED ON 08:25:42 Jul 03, 2014 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 14:42:37 Jan 13, 2022.
+     INTERNET ARCHIVE ON 15:03:31 Jan 13, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -849,14 +849,14 @@ Form.Validator.add("validate-currency-yuan",{errorMsg:function(){return Form.Val
 */
 /*
 playback timings (ms):
-  captures_list: 643.837
-  exclusion.robots: 0.142
-  exclusion.robots.policy: 0.13
-  RedisCDXSource: 26.191
-  esindex: 0.015
-  LoadShardBlock: 582.445 (3)
-  PetaboxLoader3.datanode: 424.1 (5)
-  CDXLines.iter: 27.915 (3)
-  load_resource: 600.066 (2)
-  PetaboxLoader3.resolve: 272.053 (2)
+  captures_list: 1734.381
+  exclusion.robots: 0.137
+  exclusion.robots.policy: 0.126
+  cdx.remote: 0.096
+  esindex: 0.012
+  LoadShardBlock: 1703.126 (3)
+  PetaboxLoader3.datanode: 742.776 (5)
+  CDXLines.iter: 16.607 (3)
+  PetaboxLoader3.resolve: 1570.126 (3)
+  load_resource: 828.34 (2)
 */

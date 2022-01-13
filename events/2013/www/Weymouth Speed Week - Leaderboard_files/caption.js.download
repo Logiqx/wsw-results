@@ -19,7 +19,7 @@ var JCaption=new Class({initialize:function(a){this.selector=a;$$(a).each(functi
 }
 /*
      FILE ARCHIVED ON 10:05:03 Jul 03, 2014 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 14:42:33 Jan 13, 2022.
+     INTERNET ARCHIVE ON 15:03:28 Jan 13, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -27,14 +27,14 @@ var JCaption=new Class({initialize:function(a){this.selector=a;$$(a).each(functi
 */
 /*
 playback timings (ms):
-  captures_list: 608.608
-  exclusion.robots: 0.148
-  exclusion.robots.policy: 0.138
-  RedisCDXSource: 7.752
-  esindex: 0.009
-  LoadShardBlock: 576.084 (3)
-  PetaboxLoader3.datanode: 468.617 (5)
-  CDXLines.iter: 20.862 (3)
-  load_resource: 660.033 (2)
-  PetaboxLoader3.resolve: 380.556 (2)
+  captures_list: 311.488
+  exclusion.robots: 0.091
+  exclusion.robots.policy: 0.085
+  RedisCDXSource: 22.609
+  esindex: 0.008
+  LoadShardBlock: 271.235 (3)
+  PetaboxLoader3.datanode: 180.348 (5)
+  CDXLines.iter: 15.193 (3)
+  load_resource: 274.061 (2)
+  PetaboxLoader3.resolve: 122.955 (2)
 */

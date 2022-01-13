@@ -28,7 +28,7 @@ html{margin-bottom:1px;height:100%;}body{height:100%;margin-bottom:1px;font-fami
 .menutop{z-index:1;list-style:none;position:relative;display:inline-block;margin:0;padding:0;}.menutop li{height:auto;position:relative;list-style:none;margin:0;padding:0;}.menutop em{font-size:80%;font-weight:400;display:block;font-style:normal;}.menutop li .item,.menutop li.active .item{display:block;text-decoration:none;float:none;width:auto;margin:0;}.menutop li .fusion-submenu-wrapper{float:none;left:-999em;position:absolute;z-index:500;}.menutop li:hover li ul,.menutop li.sfHover li ul{top:-999em;}.menutop li:hover ul,.menutop li.sfHover ul{top:0;}.menutop li.root{float:left;transition:background-color .3s linear;margin:0 0 0 1px;padding:0;}.menutop li.root > .item{white-space:nowrap;display:block;font-size:1.5em;z-index:100;cursor:pointer;position:relative;outline:none;font-weight:400;letter-spacing:1px;margin:0;padding:0;}.menutop li.root > span.item{cursor:default;}.menutop li.root .subtext{line-height:24px;}.menutop li.root > .item span{display:block;outline:none;height:45px;line-height:45px;width:auto;padding:0 10px;}.menutop li.parent.root .item span .daddyicon,.menutop li.root .daddy.item .daddyicon{width:12px;height:9px;position:absolute;right:-7px;margin-left:-3px;bottom:18px;background-position:0 -801px;background-repeat:no-repeat;padding:0;}.menutop li.parent.root{padding:0 15px 0 0;}.menutop li.root > .subtext span{line-height:35px;padding:0 10px;}.menutop li.root > .item em{font-size:10px;display:block;font-style:normal;line-height:100%;text-align:left;text-transform:none;letter-spacing:normal;margin-top:-8px;}.menutop li.root > .item img{margin:12px 10px 12px 0;}.menutop li.active.root > .item span,.menutop li.root:hover > .item span,.menutop li.f-mainparent-itemfocus > .item span{background-position:50% 100%;background-repeat:no-repeat;}.menutop .f-submenu-pad{padding:0 6px;}.menutop ul{float:left;margin:0;padding:0;}.menutop .drop-bot{height:1px;overflow:hidden;clear:both;}.menutop .fusion-submenu-wrapper{height:auto!important;box-shadow:4px 4px 0 rgba(0,0,0,0.2);padding:0;}.menutop ul li{display:block;background-position:6px 17px;background-repeat:no-repeat;}.menutop ul li > .item{height:auto;display:block;font-size:16px;line-height:100%;font-weight:400;letter-spacing:normal;padding:15px 15px 15px 25px;}.menutop ul li > .item:hover span,.menutop ul li.active > .item span,.menutop ul li.f-menuparent-itemfocus > .item span{margin:0;}.menutop li > .bullet{padding-left:10px;}.menutop li .item img{float:left;vertical-align:top;margin:0 6px 0 0;}.menutop li > .item span{display:block;width:auto;padding:0;}.menutop li a.item{cursor:pointer;}.menutop li span.item{cursor:default;outline:none;}.menutop ul li .subtext em{line-height:14px;}.menutop ul .readon span{width:auto;}.menutop ul li > .daddy span{background-position:100% 2px;background-repeat:no-repeat;}.menutop li.root:hover > .fusion-submenu-wrapper{top:71px;left:0;}.menutop ul li:hover > .fusion-submenu-wrapper{left:180px;top:-5px;}.fusion-js-container{display:block;height:0;left:0;overflow:visible;position:absolute;top:0;z-index:600000!important;background:transparent!important;}.fusion-js-subs{display:none;overflow:hidden;position:absolute;margin:0;padding:0;}.fusion-grouped{padding-bottom:10px;padding-left:15px;}.menutop .fusion-grouped ol li .item{padding:4px 15px;}.fusion-grouped ol li span{font-size:11px;padding-left:10px;}.menutop .fusion-grouped ol li{margin-left:0;background-image:none;padding:0;}.menutop .type-module ol{background-image:none;padding:0;}.menutop .type-module ol li .fusion-module{background:none;overflow:hidden;padding:0;}.menutop .fusion-module em{display:inline;font-size:inherit;font-style:italic;}.menutop .fusion-module a{font-size:inherit;line-height:130%;}.menutop .fusion-module p{line-height:160%;}.fusion-module.module-padding{padding:10px;}.menutop li.root > .f-submenu-pad,.fusion-grouped ol,.menutop .type-module ol li{padding:0;}.menutop ul li .nolink span,.menutop .fusion-module,.menutop .fusion-modules,.menutop .fusion-grouped{display:block;}.menutop ul li > .fusion-modules.item:hover,.menutop .type-module ol li .fusion-modules,.menutop ul li.grouped-parent > .daddy span{background:none;}
 /*
      FILE ARCHIVED ON 09:47:34 Jul 03, 2014 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 14:42:40 Jan 13, 2022.
+     INTERNET ARCHIVE ON 15:03:29 Jan 13, 2022.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -36,14 +36,14 @@ html{margin-bottom:1px;height:100%;}body{height:100%;margin-bottom:1px;font-fami
 */
 /*
 playback timings (ms):
-  captures_list: 5776.929
-  exclusion.robots: 0.284
-  exclusion.robots.policy: 0.264
-  RedisCDXSource: 423.258
-  esindex: 0.016
-  LoadShardBlock: 5322.771 (3)
-  PetaboxLoader3.datanode: 6008.116 (5)
-  CDXLines.iter: 23.889 (3)
-  load_resource: 2147.837 (2)
-  PetaboxLoader3.resolve: 1134.41 (2)
+  captures_list: 191.245
+  exclusion.robots: 0.227
+  exclusion.robots.policy: 0.206
+  RedisCDXSource: 10.74
+  esindex: 0.019
+  LoadShardBlock: 145.721 (3)
+  PetaboxLoader3.datanode: 170.697 (5)
+  CDXLines.iter: 26.018 (3)
+  load_resource: 245.212 (2)
+  PetaboxLoader3.resolve: 108.65 (2)
 */
