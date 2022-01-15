@@ -9,6 +9,7 @@
        https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables
        https://www.w3schools.com/tags/tag_tfoot.asp
     - National Flags
+    - Craft icons
 
 
 
