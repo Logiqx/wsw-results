@@ -1,9 +1,7 @@
 ### Enhancements
 
+- Implement "Youth Weekend" using DOW filter
 - Create index.html for events + sessions + years
-- Filters on run fields - IMPORTANT
-  - Youth *weekend*
-  - 200m / 300m / 700m courses in 2000 and 2001
 - Aesthetics
   - Event banners
   - Style sheets
