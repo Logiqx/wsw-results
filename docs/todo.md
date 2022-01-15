@@ -18,17 +18,16 @@
 - WSW Records
   - Requires a "Record" class as the foundation
   - Rocket emoji to show runs that are faster than the record at the start of the day
-- Filter improvements
-  - BKSA should be country GBR?
-  - Ensure women sailboards exclude youths (various years to check)
 - Additional info
-  - Course length in 2000 and 2001
   - Timestamps for reports
   - Report number of entrants + count of countries. Maybe add to all tables without ranking?
   - Report number of runs; daily "all runs" and event. Maybe show for each person as well?
-  - Session comments (e.g. runs for first day of 2005)
-    - Event comments e.g. 2006 (~20% of sailboard fleet have unknown status). 2005 and 2008 also have "top 3" limitations.
-    - 2011 pro/gold/am kite reports have been intentionally omitted
+  - Event comments
+    - 2005 and 2008 have "top 3" limitations
+    - 2006 ~20% of sailboard fleet have unknown status
+- Filter improvements
+  - BKSA should be country GBR?
+  - Ensure women sailboards exclude youths (various years to check)
 - Data cleansing
   - Case insensitive fixing of status / craft (Wing-fleet, etc)
   - Intelligent handling of 's' for prizes - 3 sailboards / 1 sailboard
@@ -42,28 +41,32 @@
 - Prize histories
 - Record histories
 - Series (UKWA / ISWC / early speed week ranking)
-- Charts - Scatter plots, histograms, box and whiskers
+- Charts
+  - Scatter plots (showing all runs)
+  - Histograms (distributions of times)
+  - Box and whisker charts (craft comparison / day comparison)
 - Entrants
 
   - Prize photos
-    - Create entrants pages for events + sessions.
-      - Create an index.html inside the entrants folder(s).
-    - Profile pages
+  - Create entrants pages for events + sessions.
+    - Create an index.html inside the entrants folder(s).
+  - Profile pages
+  - Indices to all years
 
 
 
 ### Data Fixes
 
 - "The Swedish guy that came over with Bjorn originally put himself down as an amateur fleet and we moved him to gold" (Pete D)
-  - Confirm if this was this Erik Larsson in 2021
+  - Confirmed this was this Erik Larsson in 2021. Need to add comment.
 
 
 
 ### Documentation
 
-- reconciliation documentation
+- Reconciliation documentation
   - Move various notes.txt into reconciliation.md
-- tech documentation
+- Tech documentation
   - Summarise reports
     - Weekly: Craft, Status, Fastest (fastest from craft and status), groups, entrants
     - Daily: Same as weekly (albeit with course + time) + verification report + all runs (by name and course)
