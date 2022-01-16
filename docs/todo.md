@@ -1,6 +1,7 @@
 ### Enhancements
 
-- Create index.html for events + sessions + years
+- Create indices / index.html
+  - Events + sessions + years
 - Aesthetics
   - Event banners
   - Style sheets
@@ -9,14 +10,14 @@
        https://www.w3schools.com/tags/tag_tfoot.asp
     - National Flags
     - Craft icons
+- WSW Records
+  - Requires a "Record" class as the foundation
+  - Rocket emoji to show runs that are faster than the record at the start of the day
 
 
 
 ### Tweaks
 
-- WSW Records
-  - Requires a "Record" class as the foundation
-  - Rocket emoji to show runs that are faster than the record at the start of the day
 - Additional info
   - Timestamps for reports
   - Report number of entrants + count of countries. Maybe add to all tables without ranking?
@@ -27,10 +28,11 @@
 - Filter improvements
   - BKSA should be country GBR?
   - Ensure women sailboards exclude youths (various years to check)
-- Data cleansing
-  - Case insensitive fixing of status / craft (Wing-fleet, etc)
+- General
   - Intelligent handling of 's' for prizes - 3 sailboards / 1 sailboard
-- Rename "status" reports to to "category"?
+- Rename reports
+  - Rename "verification" to "bests"?
+  - Rename "status" reports to to "category"?
 
 
 
@@ -38,7 +40,10 @@
 
 - Prize histories
 - Record histories
-- Series (UKWA / ISWC / early speed week ranking)
+- Series
+  - UKWA - 2008 onwards but 2009 was not qualifying
+  - ISWC - 2008 to 2012 but 2009 was not qualifying
+  - WSW 2004
 - Charts
   - Scatter plots (showing all runs)
   - Histograms (distributions of times)
