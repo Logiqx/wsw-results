@@ -73,6 +73,8 @@
     - Groupings - do not need to worry about bad case in entrants.csv
     - Make a note about odd reports like "eligible" (2014 + 2015)
     - Course lengths in 2000 + 2001
+    - Youths
+    - Need to sort when using run filters; e.g. course length and youths
   - Docker, etc
     - Windows/OSX/Linux, WSL
     - Jupyter
