@@ -35,7 +35,7 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
     - 2006 ~20% of sailboard fleet have unknown status
 - Filter improvements
   - Should BKSA title include United Kingdom in the filter? James Longmuir to confirm
-  - Ensure women sailboards exclude youths; various early years to check
+  - Ensure women sailboards exclude youths; various early years to check - 2005 to 2011?
 - General
   - Intelligent handling of 's' for prizes - e.g. 3 sailboards / 1 sailboard
 - Rename report sets
@@ -50,7 +50,7 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
   - Prize histories - Gold Fleet, etc.
   - Record histories - [Report new WSW records](https://github.com/Logiqx/wsw-results/issues/7) + [Report historical WSW records](https://github.com/Logiqx/wsw-results/issues/8)
 - Series
-  - UKWA - 2008 onwards but 2009 was not qualifying
+  - UKWA - 2007 onwards but 2009 was not qualifying
   - ISWC - 2008 to 2012 but 2009 was not qualifying
   - WSW 2004 + any others?
 - Charts
