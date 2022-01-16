@@ -30,7 +30,6 @@
 - Data cleansing
   - Case insensitive fixing of status / craft (Wing-fleet, etc)
   - Intelligent handling of 's' for prizes - 3 sailboards / 1 sailboard
-  - Detect switched names?
 - Rename "status" reports to to "category"?
 
 
