@@ -1,6 +1,5 @@
 ### Enhancements
 
-- Implement "Youth Weekend" using DOW filter
 - Create index.html for events + sessions + years
 - Aesthetics
   - Event banners
