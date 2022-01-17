@@ -18,11 +18,11 @@ Junior / Youth Fleet:
 
 - There were no results for 4 Oct since they were lost prior to publication.
 - Sail numbers assigned:
-  - Assigned sail no. 99 to Philip Middleton since he used it in all other years between 1998 to 2002.
-  - Assigned sail no. 68 to Kim Newman since he/she also used it in 2000 and 2001.
+  - Assigned sail number 99 to Philip Middleton since he used it in all other years between 1998 to 2002.
+  - Assigned sail number 68 to Kim Newman since he/she also used it in 2000 and 2001.
 - Small observations:
-  - Noted that Matthew Spooner (150) was missing from the top of daily results on 2 Oct and 3 Oct.
-  - Noted that Cygnus Sails (220) was missing from the top of the daily results on 7 Oct.
+  - Noted that Matthew Spooner (sail 150) was missing from the original daily results on 2 Oct and 3 Oct.
+  - Noted that Cygnus Sails (sail 220) was missing from the original daily results on 7 Oct.
 
 
 
@@ -30,8 +30,8 @@ Junior / Youth Fleet:
 
 - Sail number changes:
   - Changed sail number of Danny Norris + Will Oscroft on the tandem to 6222, distinct from Danny Norris 622.
-  - Changed sail number of Chris Evans and Philip Middleton to 99, leaving sail number 15 as Stephen Corps.
-  - Decided that sail no. 5 was likely to be Graham Holbert (Hulbert?) since he competed as sail no. 5 in 1999 + 2001.
+  - Changed sail number of Chris Evans and Philip Middleton to 99. Stephen Corps retains sail number 15 in the results.
+  - Decided that sail number 5 was likely to be Graham Holbert (Hulbert?) since he competed as sail number 5 in 1999 + 2001.
 - Notes about rounding of 3 decimal places:
   - Note that 300m record on 2 Oct is 37.02 in day results but 37.03 in the full list of runs.
   - Day results rounded down to the nearest 100th (correctly) but all runs rounded to the nearest 10th which is technically incorrect.
@@ -69,8 +69,8 @@ Junior / Youth Fleet:
   - Entrants list showed John Langdown using sail 42 but results showed David Ellerbeck using sail 42.
   - Entrants list showed Charlie Wilson using sail 43 but results showed Danny Norris using sail 43.
   - Sail numbers for Hans-Jürgen and Theo Theinert were switched on the entrants list.
-- Missing rundata:
-  - Some rundata must have been missing which corresponded to RESULTS_20041003_S1.csv
+- Missing run data:
+  - Some run data must have been missing which corresponded to RESULTS_20041003_S1.csv
     - e.g. 34,27.97,Sailboard,David Ellerbeck,8,42
 
 
@@ -84,7 +84,7 @@ There are many Wayback Machine captures, including [6 Nov 2005](https://web.arch
 - Handling of missing data:
   - Full list of runs for 8 Oct is unavailable as the web page was mangled
     - Took the best runs for 8 Oct  instead of using the truncated "all runs" data
-  - Alex Montgomery (sail no. 1) was missing from the top of "all runs" on 10 Oct
+  - Alex Montgomery (sail number 1) was missing from the top of "all runs" on 10 Oct
     - Added the best run from 10 Oct to the list of all runs with a time of 12:00:00
 - Handling of bad data:
   - Removed 109.87 knot run for Mark Minter at 14:18:27
