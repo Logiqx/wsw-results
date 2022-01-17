@@ -75,8 +75,6 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
 
 ### Documentation
 
-- Reconciliation documentation
-  - Move various notes.txt into reconciliation.md
 - Tech documentation
   - Summarise reports
     - Weekly: Craft, Status, Fastest (fastest from craft and status), groups, entrants
