@@ -88,10 +88,10 @@ There are many Wayback Machine captures, including [6 Nov 2005](https://web.arch
     - Added the best run from 10 Oct to the list of all runs with a time of 12:00:00
 - Handling of bad data:
   - Removed 109.87 knot run for Mark Minter at 14:18:27
-  - Changed Dan Simpson's Sat result to 24.90 since it was the winning youth time
-  - Changed Bob Cunningham's Wed result to 26.41 since 27.21 was not listed in all runs
-  - Changed Mike Coombes' Fri result to 21.17 since 21.83 was not listed in all runs
   - Removed "Non Entrant" on sail 420 who was sailing a Tornado Cat
+  - Changed Dan Simpson's Sat result of 24.18 to 24.90 because that was his winning "Youth" speed
+  - Noted that Bob Cunningham's Wed result was 26.41 because 27.21 was not listed in all runs
+  - Noted that Mike Coombes' Fri result was 21.17 because 21.83 was not listed in all runs
 
 
 
