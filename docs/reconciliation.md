@@ -34,7 +34,7 @@ Junior / Youth Fleet:
   - Decided that sail number 5 was likely to be Graham Holbert (Hulbert?) since he competed as sail number 5 in 1999 + 2001.
 - Notes about rounding of 3 decimal places:
   - Note that 300m record on 2 Oct is 37.02 in day results but 37.03 in the full list of runs.
-  - Day results rounded down to the nearest 100th (correctly) but all runs rounded to the nearest 10th which is technically incorrect.
+  - Day results rounded *down* to the nearest 100th but all runs rounded *up or down* to the nearest 100th.
   - This was not an issue in 1998 and 1999 because 3 decimal places were used in the full list of runs.
   - This issue affected all years between 2000 and 2004.
 
@@ -264,4 +264,4 @@ The Wayback Machine captures include [6 Aug 2020](https://web.archive.org/web/20
 - Erik Larsson was registered as a first time novice but was been moved into Gold Fleet.
 - **Still need to get hold of all 2021 event data from Nick. Currently showing partial results.**
 
-
+1
