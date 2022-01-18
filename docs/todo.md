@@ -15,7 +15,7 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
     - Table formatting, text alignment, etc.
        https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables
        https://www.w3schools.com/tags/tag_tfoot.asp
-    - National Flags
+    - National Flags. Be sure to handle TBC.
     - Craft type icons, maybe even group reports based on craft type?
 - WSW Records
   - Requires a "Record" class as the foundation
