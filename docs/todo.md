@@ -66,6 +66,16 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
 - Data quality
   - 2021 results are incomplete. Require data from Nick.
   - [Avoid duplicate runs in SBP + SBN files](https://github.com/Logiqx/wsw-results/issues/4)
+    - Prior to 2010 there were runs with matching start times but different end times. Possibly issue in matching starts + ends?
+    - Prior to 2010 there were runs which occurred too soon after the previous one. Possible sail identification issues?
+    - 2010 onwards were GPS events so timing issues cannot be a factor.
+    - 2010 specific issues - first year of GPS:
+      - The course results on 18 Oct 2010 overlapped (H1/S1/S2) which resulted in "duplicate" runs during the session.
+      - Fortunately this didn't affect the UKWA rankings which were entirely based on results of 19 Oct 2010.
+      - Also included some runs back up the course - e.g. Neil Hardwick on 20 Oct; 14:39:52 (90.0°) and 14:41:21 (278.4°).
+    - 2010 onwards:
+      - SPB + SBN - e.g. Patrick Van Hoof
+      - Multiple units - e.g. Alastair Nicholls
   - [Report people exceeding their entry type (e.g. 2 days)](https://github.com/Logiqx/wsw-results/issues/12)
   - [Report people in the wrong fleet - amateur / gold / pro](https://github.com/Logiqx/wsw-results/issues/13)
   - [Report duplicate entrant names / IDs](https://github.com/Logiqx/wsw-results/issues/11)
