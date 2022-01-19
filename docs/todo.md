@@ -115,7 +115,7 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
 History to be confirmed and applied to past results:
 
 - Fastest Master - Windtek "Fastest Master" shield 2005-2008 confirmed, assume up to 2011 (last year of master)
-- Fastest Youth - Tushingham "Fastest Youth" Shield 2005-2010 confirmed, maybe beyond?
+- Fastest Youth - Tushingham "Fastest Youth" Shield 2005 onwards. Scott says it was in the shape of a windsurfer; 2014-16.
 - Fastest Overall - Thommen T1 Shield 2005-2008 ("Fastest of the Week" in 2005-2011, "Fastest Man" from 2012-2014)
 - Fastest Lady - "The OTC Fastest Lady Award" 2005-2021 (formerly "Windtek Fastest Lady Shield"). When was it OTC?
 - Gold Fleet - "Gold Fleet Fastest Sailor" 2008-2021
