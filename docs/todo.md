@@ -76,8 +76,9 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
     - 2010 onwards:
       - SPB + SBN - e.g. Patrick Van Hoof
       - Multiple units - e.g. Alastair Nicholls
-    - Additional idea 1 - remove runs going the wrong way; e.g. angle >= 135° different to the fastest runs on the course?
-    - Additional idea 2 - detect course overlaps such as 20101018 where S1 and S2 overlapped, suspect changed around 13:30?
+    - Additional idea - remove runs going the wrong way; e.g. angle >= 135° different to the fastest runs on the course?
+      - WARNING: Duplicate runs found for Neil Hardwick on 20101020 - 11% dupes (times >1s apart)
+      - WARNING: Duplicate runs found for Thomas Jundt on 20101020 - 14% dupes (times >1s apart)
   - [Report people exceeding their entry type (e.g. 2 days)](https://github.com/Logiqx/wsw-results/issues/12)
   - [Report people in the wrong fleet - amateur / gold / pro](https://github.com/Logiqx/wsw-results/issues/13)
   - [Report duplicate entrant names / IDs](https://github.com/Logiqx/wsw-results/issues/11)

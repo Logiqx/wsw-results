@@ -168,6 +168,8 @@ The Wayback Machine captures include [15 Oct 2009](https://web.archive.org/web/2
 The Wayback Machine captures only include [17 Oct 2010](https://web.archive.org/web/20111017205719/http://www.speedsailing.com/2010ResultsTHUR.htm).
 
 - These are only the end of day results so used the SSERPANT archive for reconciliation.
+- The S1 + S2 course results overlapped on 18 Oct 2010 which resulted in lots of "duplicate" runs. Fixed the S2 data.
+  - Fortunately this didn't affect the UKWA rankings which were entirely based on results of 19 Oct 2010.
 - SSERPANT's full list of results had Tony Morris and Tris Best appearing twice, listing 98 entrants in stead of 96.
   - This issue is not present in the results produced by this project.
 
