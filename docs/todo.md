@@ -35,7 +35,8 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
     - 2006 ~20% of sailboard fleet have unknown status
 - Filter improvements
   - Should BKSA title include United Kingdom in the filter? James Longmuir to confirm
-  - Ensure women sailboards exclude youths; various early years to check - 2005 to 2011?
+  - Decide if women sailboards exclude youths; 2005 to 2010?
+  - Decided if fastest man and fastest woman exclude youths?
 - General
   - Intelligent handling of 's' for prizes - e.g. 3 sailboards / 1 sailboard
 - Rename report sets
