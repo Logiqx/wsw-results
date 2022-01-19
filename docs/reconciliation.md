@@ -1,6 +1,9 @@
 ## WSW Results Reconciliation
 
-Junior / Youth Fleet:
+This document relates to the re-generation of past WSW results and how they reconcile with the original results.
+
+To begin with a quick note about the criteria for Junior / Youth Fleet:
+
 - 2005-2011 defined juniors / youths as less than 17 years of age on the first day of speed week.
 - 2012 and onwards defined youths as less than 18 years of age on the 31st October.
 
@@ -146,6 +149,7 @@ The Wayback Machine captures include [18 Oct 2008](https://web.archive.org/web/2
 - Speeds for 2nd and 3rd youths were originally a copy / paste error as they match the 2nd and 3rd place kite results.
   - This is not an issue in the newly generated results of this project and the speeds are correctly reported.
 - Removed speeds for 111 (RIB / Bike) and 0 (Bike) on 6 Oct and 8 Oct.
+- TBC - I'm not sure whether J.R. Morris is John Morris from 2006 and 2007. Left unchanged in case he is a different person.
 
 
 
