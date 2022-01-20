@@ -82,8 +82,6 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
       - WARNING: Duplicate runs found for Thomas Jundt on 20101020 - 14% dupes (times >1s apart)
   - [Report people exceeding their entry type (e.g. 2 days)](https://github.com/Logiqx/wsw-results/issues/12)
   - [Report people in the wrong fleet - amateur / gold / pro](https://github.com/Logiqx/wsw-results/issues/13)
-  - [Report duplicate entrant names / IDs](https://github.com/Logiqx/wsw-results/issues/11)
-  - [Auto-match unrecognised GPS units](https://github.com/Logiqx/wsw-results/issues/9)
 
 
 
