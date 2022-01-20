@@ -5,7 +5,7 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
 
 
 
-### Enhancements
+### Features
 
 - Create indices / index.html
   - Events + sessions + years
@@ -34,9 +34,9 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
     - 2005 and 2008 have "top 3" limitations
     - 2006 ~20% of sailboard fleet have unknown status
 - Filter improvements
-  - Should BKSA title include United Kingdom in the filter? James Longmuir to confirm
-  - Decide if women sailboards exclude youths; 2005 to 2010?
-  - Decided if fastest man and fastest woman exclude youths?
+  - BKSA title may require United Kingdom in the report filter; James Longmuir to confirm
+  - Decide if women sailboards should exclude youths; 2005 to 2010?
+  - Decide if fastest man and fastest woman should also exclude youths?
 - General
   - Intelligent handling of 's' for prizes - e.g. 3 sailboards / 1 sailboard
 - Rename report sets
@@ -65,22 +65,13 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
   - Indices to all years
   - Prize photos for past years
 - Data quality
-  - 2021 results are incomplete. Require data from Nick.
-  - [Avoid duplicate runs in SBP + SBN files](https://github.com/Logiqx/wsw-results/issues/4)
-    - Prior to 2010 there were runs with matching start times but different end times. Possibly issue in matching starts + ends?
-    - Prior to 2010 there were runs which occurred too soon after the previous one. Possible sail identification issues?
-    - 2010 onwards were GPS events so timing issues cannot be a factor.
-    - 2010 specific issues - first year of GPS:
-      - The course results on 18 Oct 2010 overlapped (H1/S1/S2) which resulted in "duplicate" runs during the session.
-      - Fortunately this didn't affect the UKWA rankings which were entirely based on results of 19 Oct 2010.
-      - Also included some runs back up the course - e.g. Neil Hardwick on 20 Oct; 14:39:52 (90.0°) and 14:41:21 (278.4°).
-    - 2010 onwards:
-      - SPB + SBN - e.g. Patrick Van Hoof
-      - Multiple units - e.g. Alastair Nicholls
-    - Additional idea - remove runs going the wrong way; e.g. angle >= 135° different to the fastest runs on the course?
-      - WARNING: Duplicate runs found for Neil Hardwick on 20101020 - 11% dupes (times >1s apart)
-      - WARNING: Duplicate runs found for Thomas Jundt on 20101020 - 14% dupes (times >1s apart)
+  - **2021 results are incomplete. Require data from Nick.**
   - [Report people in the wrong fleet - amateur / gold / pro](https://github.com/Logiqx/wsw-results/issues/13)
+  - Remove runs going back up the course?
+    - Originally identified by the presence of "duplicate" runs < 2 mins apart.
+    - e.g. Neil Hardwick on 20 Oct 2010; 14:39:52 (90.0°) and 14:41:21 (278.4°).
+      - This issue is also evident for Thomas Jundt on the same day in 2010
+    - Possible identification when angle >= 135° different to the fastest runs on the course?
 
 
 
@@ -96,6 +87,10 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
     - Course lengths in 2000 + 2001
     - Youths
     - Need to sort when using run filters; e.g. course length and youths
+    - "Duplicate" runs
+      - Prior to 2010 there were runs with matching start times but different end times. Possibly issue in matching starts + ends?
+      - Prior to 2010 there were runs which occurred too soon after the previous one. Possible sail identification issues?
+      - 2010 onwards had genuine duplicate runs; SPB + SBN (Patrick Van Hoof) or multiple units (Alastair Nicholls)
   - Docker, etc
     - Windows/OSX/Linux, WSL
     - Jupyter
