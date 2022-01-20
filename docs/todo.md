@@ -108,6 +108,10 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
   - Use of jq command. For example:
     - jq '.Event.Name, .Entrants.Grouping' events/\*/c\*/ev\*
     - jq '.Event.Name, .Entrants."Craft Type"' events/\*/c\*/ev\*
+  - Use of csvkit
+    - sudo apt install python3-csvkit
+    - csvcut -c "GT31 ID" events/2014/config/entrants.csv
+    - csvcut -c "GT31 ID" events/2014/config/entrants.csv | sed 's/[A-Za-z]//g' | sort -n
 
 
 
