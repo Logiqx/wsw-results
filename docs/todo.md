@@ -80,7 +80,6 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
     - Additional idea - remove runs going the wrong way; e.g. angle >= 135° different to the fastest runs on the course?
       - WARNING: Duplicate runs found for Neil Hardwick on 20101020 - 11% dupes (times >1s apart)
       - WARNING: Duplicate runs found for Thomas Jundt on 20101020 - 14% dupes (times >1s apart)
-  - [Report people exceeding their entry type (e.g. 2 days)](https://github.com/Logiqx/wsw-results/issues/12)
   - [Report people in the wrong fleet - amateur / gold / pro](https://github.com/Logiqx/wsw-results/issues/13)
 
 
