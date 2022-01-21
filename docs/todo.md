@@ -14,6 +14,7 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
   - Useful references:
     - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables
     - https://www.w3schools.com/cssref/css_selectors.asp
+    - http://www.javascriptkit.com/dhtmltutors/cssmediaqueries2.shtml
 - WSW Records
   - Requires a "Record" class as the foundation
   - Rocket emoji to show runs that are faster than the record at the start of the day
