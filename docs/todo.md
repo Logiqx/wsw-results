@@ -4,18 +4,16 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
 
 
 
-
 ### Features
 
 - Create indices / index.html
   - Events + sessions + years
+- Add "Pushy" menu for navigation
 - Aesthetics
-  - Event banners
-  - Style sheets
-    - Table formatting, text alignment, etc.
-       https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables
-       https://www.w3schools.com/tags/tag_tfoot.asp
-    - Craft type icons, maybe even group reports based on craft type?
+  - Craft type icons, maybe even group all of the reports based on craft type?
+  - Useful references:
+    - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables
+    - https://www.w3schools.com/cssref/css_selectors.asp
 - WSW Records
   - Requires a "Record" class as the foundation
   - Rocket emoji to show runs that are faster than the record at the start of the day
@@ -65,6 +63,7 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
   - Prize photos for past years
 - Data quality
   - **2021 results are incomplete. Require data from Nick.**
+  - Check youth fleet ages in XLSX files - 2010 onwards.
   - [Report people in the wrong fleet - amateur / gold / pro](https://github.com/Logiqx/wsw-results/issues/13)
   - Remove runs going back up the course?
     - Originally identified by the presence of "duplicate" runs < 2 mins apart.
