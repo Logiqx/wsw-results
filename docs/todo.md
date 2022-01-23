@@ -6,8 +6,6 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
 
 ### Features
 
-- Create indices / index.html
-  - Events + sessions + years
 - Add "Pushy" menu for navigation
 - Aesthetics
   - Craft type icons, maybe even group all of the reports based on craft type?
