@@ -4,21 +4,6 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
 
 
 
-### Features
-
-- Add "Pushy" menu for navigation
-- Aesthetics
-  - Craft type icons, maybe even group all of the reports based on craft type?
-  - Useful references:
-    - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables
-    - https://www.w3schools.com/cssref/css_selectors.asp
-    - http://www.javascriptkit.com/dhtmltutors/cssmediaqueries2.shtml
-- WSW Records
-  - Requires a "Record" class as the foundation
-  - Rocket emoji to show runs that are faster than the record at the start of the day
-
-
-
 ### Tweaks
 
 - Additional info
@@ -29,20 +14,27 @@ A list of ideas + things left to do on this project. I'll pick away at these ite
   - Event comments
     - 2005 and 2008 have "top 3" limitations
     - 2006 ~20% of sailboard fleet have unknown status
+- Aesthetics
+  - Craft type icons, maybe even group all of the reports based on craft type?
+  - Useful references:
+    - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables
+    - https://www.w3schools.com/cssref/css_selectors.asp
+    - http://www.javascriptkit.com/dhtmltutors/cssmediaqueries2.shtml
 - Filter improvements
   - BKSA title may require United Kingdom in the report filter; James Longmuir to confirm
   - Decide if women sailboards should exclude youths; 2005 to 2010?
   - Decide if fastest man and fastest woman should also exclude youths?
 - General
   - Intelligent handling of 's' for prizes - e.g. 3 sailboards / 1 sailboard
-- Rename report sets
-  - Rename "verification" to "bests"?
-  - Rename "status" reports to "category"?
 
 
 
-### Later
+### Features
 
+- Add "Pushy" menu for navigation
+- WSW Records
+  - Requires a "Record" class as the foundation
+  - Rocket emoji to show runs that are faster than the record at the start of the day
 - Histories
   - Prize histories - Gold Fleet, etc.
   - Record histories - [Report new WSW records](https://github.com/Logiqx/wsw-results/issues/7) + [Report historical WSW records](https://github.com/Logiqx/wsw-results/issues/8)
