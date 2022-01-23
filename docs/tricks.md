@@ -44,8 +44,9 @@ csvgrep -c "Grouping" -m "Portland Pirates" events/2021/config/entrants.csv | cs
 
 List all members of a grouping such as "Portland Pirates" across all years since 2010:
 ```
-for i in events/20[12]?/config/entrants.csv
+GROUPING="Portland Pirates"
+for CSV in events/20[12]?/config/entrants.csv
 do
-  csvgrep -c "Grouping" -m "Portland Pirates" $i | csvcut -c "First Name,Family Name"
+  csvgrep -c "Grouping" -m "$GROUPING" $CSV | csvcut -c "First Name,Family Name"
 done | grep -v "First Name,Family Name" | sort -u
 ```
