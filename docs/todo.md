@@ -1,6 +1,6 @@
 ## TODO
 
-A list of ideas + things left to do on this project. I'll pick away at these items over the next few weeks / months.
+A list of ideas + things left to do on this project. I'll pick away at these items over the next few months.
 
 
 
