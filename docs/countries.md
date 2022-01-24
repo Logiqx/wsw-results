@@ -50,7 +50,7 @@ The results for Weymouth Speed Week prioritise country codes as follows:
 
 
 
-A few tweaks have been made after applying the above priories since the ISO 3166 code can be confusing:
+A few tweaks have been made after applying the above priories since the ISO 3166 code may be confusing:
 
 - Guernsey; "GSY "instead of "GGY"
 - Jersey; "JSY "instead of  "JEY"
