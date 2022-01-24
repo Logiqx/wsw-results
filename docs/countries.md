@@ -54,7 +54,6 @@ A few tweaks have been made after applying the above priories since the ISO 3166
 
 - Guernsey; "GSY "instead of "GGY"
 - Jersey; "JSY "instead of  "JEY"
-- Northern Mariana Islands; "NMI "instead of "NMP"
 - Western Sahara; "WSH "instead of "ESH"
 
 
