@@ -33,7 +33,7 @@ There are 146 current Member National Authorities with a 3-letter code.
 
 A few notes:
 
-- Taiwan ("TWN") is referred to as [Chinese Taipei]((https://en.wikipedia.org/wiki/Chinese_Taipei)) ("TPE") by the IOC and WSO.
+- Taiwan ("TWN") is referred to as [Chinese Taipei](https://en.wikipedia.org/wiki/Chinese_Taipei) ("TPE") by the IOC and WSO.
 - [Netherland Antilles](https://en.wikipedia.org/wiki/Netherlands_Antilles) (Curacao and St Maarten) have a joint MNA code of "AHO" but different codes in ISO 3166; "CUW "and "SXM".
 - There are currently 3 countries with an MNA code that is different to the latest IOC code; Iran, Lebanon and Nigeria.
 - There are currently 3 countries with an MNA code but no IOC code; Montserrat, Tahiti and the Turks and Caicos Islands.
