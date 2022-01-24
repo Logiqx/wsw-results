@@ -33,10 +33,10 @@ There are 146 current Member National Authorities with a 3-letter code.
 
 A few notes:
 
-- Taiwan (TWN) is known as Chinese Taipei (TPE) by the IOC and WSO.
-- Netherland Antilles (Curacao and St Maarten) have a joint code of AHO but different codes in ISO 3166; CUW and SXM.
-- There are a few countries with an MNA code that is different to the latest IOC code; Iran, Lebanon, Nigeria.
-- There are a few countries with an MNA code but no IOC code; Montserrat, Tahiti, Turks and Caicos Islands.
+- Taiwan ("TWN") is referred to as [Chinese Taipei]((https://en.wikipedia.org/wiki/Chinese_Taipei)) ("TPE") by the IOC and WSO.
+- [Netherland Antilles](https://en.wikipedia.org/wiki/Netherlands_Antilles) (Curacao and St Maarten) have a joint MNA code of "AHO" but different codes in ISO 3166; "CUW "and "SXM".
+- There are currently 3 countries with an MNA code that is different to the latest IOC code; Iran, Lebanon and Nigeria.
+- There are currently 3 countries with an MNA code but no IOC code; Montserrat, Tahiti and the Turks and Caicos Islands.
 
 
 
@@ -52,14 +52,15 @@ The results for Weymouth Speed Week prioritise country codes as follows:
 
 A few tweaks have been made after applying the above priories since the ISO 3166 code can be confusing:
 
-- Guernsey; GSY instead of GGY
-- Jersey; JSY instead of  JEY
-- Northern Mariana Islands; NMI instead of NMP
-- Western Sahara; WSH instead of ESH
+- Guernsey; "GSY "instead of "GGY"
+- Jersey; "JSY "instead of  "JEY"
+- Northern Mariana Islands; "NMI "instead of "NMP"
+- Western Sahara; "WSH "instead of "ESH"
 
 
 
 Note: There are 251 countries in total which is 2 more than the current list of ISO 3166 countries.
 
-- Kosovo and Tahiti have been added from the World Sailing Organisation's list of Member National Authorities.
+- Kosovo has been added from the International Olympic Committee's list of National Olympic Committees.
+- Tahiti has been added from the World Sailing Organisation's list of Member National Authorities.
 
