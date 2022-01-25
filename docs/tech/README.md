@@ -9,6 +9,7 @@ This page provides quick access to individual pages.
 ### Overview
 
 - [todo](todo.md)
+- [technologies](technologies.md)
 
 
 
@@ -20,6 +21,7 @@ This page provides quick access to individual pages.
 
 ### Testing
 
+- [testing](testing.md)
 - [reconciliation](reconciliation.md)
 
 

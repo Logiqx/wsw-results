@@ -1,5 +1,23 @@
 ## Reporting
 
+### Overview
+
+- TODO
+  - Summarise reports
+    - Weekly: Craft, Status, Fastest (fastest from craft and status), groups, entrants
+    - Daily: Same as weekly (albeit with course + time) + verification report + all runs (by name and course)
+    - Groupings - do not need to worry about bad case in entrants.csv
+    - Make a note about odd reports like "eligible" (2014 + 2015)
+    - Youths - weekend filter
+    - Course lengths in 2000 + 2001
+    - Need to sort when using run filters; e.g. course length and youths
+    - "Duplicate" runs
+      - Prior to 2010 there were runs with matching start times but different end times. Possibly issue in matching starts + ends?
+      - Prior to 2010 there were runs which occurred too soon after the previous one. Possible sail identification issues?
+      - 2010 onwards had genuine duplicate runs; SPB + SBN (Patrick Van Hoof) or multiple units (Alastair Nicholls)
+
+
+
 ### Configuration
 
 Reports can have the following details in the JSON:
