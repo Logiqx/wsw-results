@@ -28,7 +28,7 @@ TODO - Topics to be documented:
 
 
 
-### Version Control
+### Git
 
 TODO - Summarise version control and web hosting:
 
