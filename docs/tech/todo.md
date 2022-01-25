@@ -26,7 +26,6 @@ There are some trivial data items to add to several pages:
 - Add timestamps to pages, perhaps using the timestamp of the GPSDATA / RUNDATA?
 - Report the number of entrants + countries. Maybe add to all tables without rankings?
 - Report number of runs; daily "all runs" and during the event. Maybe show for each person as well?
-  - GitHub - [Report total number of runs in the day / week](https://github.com/Logiqx/wsw-results/issues/22)
 - Add event comments where applicable. For example:
   - 2005 and 2008 have "top 3" limitations with the categories.
   - 2006 ~20% of sailboard fleet have unknown status.
@@ -76,10 +75,14 @@ The capability to generate series results 100% automatically will be shared by v
 
 The record history of WSW is of particular interest.
 
-- Requires a "Record" class to be created as the foundation.
-- Rocket emoji 🚀 to indicate the presence of runs that were faster than the previous record at the start of the day.
-  - GitHub - [Report new WSW records](https://github.com/Logiqx/wsw-results/issues/7)
-  - GitHub - [Report historical WSW records](https://github.com/Logiqx/wsw-results/issues/8)
+- Requires a dedicated "Record" class to be created in the Python project.
+- Rocket emoji 🚀 to indicate the occurrence of runs that were faster than the previous record.
+  - When overall records are broken this should be made clear in the appropriate reports.
+    - Craft Type and gender combinations make for 6 different types of records; e.g. "female windsurfer".
+    - "Fastest overall" and "fastest female" (regardless of craft type) are a further 2 records.
+  - New records can potentially occur several times in a single session; e.g. Thu and Fri in 2019.
+  - Maybe add a "Blistering Runs" section at the top of the daily report pages?
+- Create a page (or multiple pages) listing all known WSW records; past and present.
 
 #### Prizes
 
@@ -95,15 +98,22 @@ Once the above features have been implemented it would be nice to show more info
 - Session and event summaries for all entrants.
 - Create index.html pages for all entrants inside the sessions and event folders.
 - Profile pages showing entrant participation over all available years, linking to event summaries.
-  - GitHub - [Report people in the wrong fleet - amateur / gold / pro](https://github.com/Logiqx/wsw-results/issues/13)
+- Report people in the wrong fleet - amateur / gold / pro
 
 #### Charts
 
 The final set of ideas for new features is some charts / visualisations for sessions and events.
 
-  - Scatter plots, showing all runs
-  - Histograms, showing distributions of times
-  - Box and whisker charts, showing craft comparisons / day comparison
+- Scatter plots, showing all runs
+- Histograms, showing distributions of times
+- Box and whisker charts, showing craft comparisons / day comparison
+
+#### Excel Sync
+
+Add XLSX to CSV conversion to extract entrant details for the event.
+
+- Create Python script to convert the XLSX into a CSV, rather than doing it manually.
+- Create Python script to sync the latest XLSX to the CSV, rather than doing it manually.
 
 
 
