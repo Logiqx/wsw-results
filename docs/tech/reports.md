@@ -1,6 +1,6 @@
-# Configuration
+## Reporting
 
-## Reports
+### Configuration
 
 Reports can have the following details in the JSON:
 
