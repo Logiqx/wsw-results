@@ -1,8 +1,10 @@
 ## Technical Docs
 
-The documentation for this project has been broken up into separate smaller topics.
+The documentation for this project has been broken down into a number of smaller topics.
 
-All of the documentation has been created as [Markdown](https://en.wikipedia.org/wiki/Markdown) due to the simplicity of the language and native support on [GitHub](https://en.wikipedia.org/wiki/GitHub).
+All of the documentation has been written in [Markdown](https://en.wikipedia.org/wiki/Markdown) due to the simplicity of the language and native support on [GitHub](https://en.wikipedia.org/wiki/GitHub).
+
+Several of the topics have yet to be completed and may have little more than a working skeleton present, thus labelled "incomplete".
 
 
 
@@ -10,29 +12,34 @@ All of the documentation has been created as [Markdown](https://en.wikipedia.org
 
 - [Technologies](technologies.md) (incomplete) - overview of technologies used by this project.
 - [Usage](usage.md) (incomplete) - summary of machine requirements, basic usage, development, etc.
-- [TODO](todo.md) - list of additional features and minor tweaks to be implemented.
-
-
-
-### Tricks and Tips
-
 - [Gotchas](gotchas.md) - list of possible gotchas and solutions for the organisation team.
-- [Reporting](reports.md) (incomplete) - overview of reporting features, configuration, etc.
+
+
+
+### Intricacies
+
+- [Reporting](reports.md) (incomplete) - overview of reporting capabilities, configuration, etc.
 - [Configuration](configuration.md) (incomplete) - overview of application and event configuration.
-- [Tricks](tricks.md) - examples of various technical tricks and tips .
+- [Tricks and Tips](tricks.md) - various technical tricks and tips when working from the command line.
 
 
 
-### Testing
+### Future Plans
 
-- [Testing](testing.md) (incomplete) - summary of unit testing and manual testing available.
-- [Reconciliation](reconciliation.md) - summary of any differences between these results and those originally published.
-
+- [TODO](todo.md) - list of additional features and minor tweaks still to be implemented.
 
 
-### Reference Data
 
-- [Countries](countries.md) - summary of country codes, etc.
+### Audits
+
+- [Testing](testing.md) (incomplete) - summary of unit testing, system testing and manual testing.
+- [Reconciliation](reconciliation.md) - summary of differences between these results and the results originally published.
+
+
+
+### References
+
+- [Countries](countries.md) - overview of the country codes used by this project, etc.
 - [Prizes](prizes.md) - historical summary of the various craft types, categories and prizes.
-- [Trophies](trophies.md) - historical summary of the various trophies awarded.
-- [Links](links.md) - various links to useful websites.
+- [Trophies / Shields](trophies.md) - historical summary of the various trophies and shields awarded.
+- [Links](links.md) - various links to useful resources / websites.

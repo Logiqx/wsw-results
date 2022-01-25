@@ -49,7 +49,7 @@ TODO - document session configuration; course times, comments, etc.
 
 TODO - Summarise the reference data for nationalities and flags.
 
-- config/countries.txt
+- config/countries.txt - separate [document](countries.md) explains how this was created this in great detail.
 - config/nationalities.txt
 
 

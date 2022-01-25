@@ -1,4 +1,4 @@
-## WSW Results Reconciliation
+## Reconciliation
 
 This document relates to the re-generation of past WSW results and how they reconcile with the original results.
 
