@@ -1,8 +1,8 @@
 ## Weymouth Speed Week
 
-The results for all years between 1998 and 2021 are now [available](results/index.html).
+The text below has been copied from the event [background](https://speedsailing.com/index.php/eventinformation/background) page of the [WSW](https://www.speedsailing.com/) home page.
 
-The following text is from the [event background](https://speedsailing.com/index.php/eventinformation/background) page of the WSW [website](https://www.speedsailing.com/).
+The results for all years between 1998 and 2021 are now [available](results/index.html). Technical project documentation is also being [maintained](tech/README.md) on GitHub.
 
 
 
