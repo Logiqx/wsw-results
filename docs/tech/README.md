@@ -6,30 +6,27 @@ All of the documentation has been created as [Markdown](https://en.wikipedia.org
 
 
 
-### General
+### Overview
 
-- [Technologies](technologies.md) - list of technologies, etc.
+- [Technologies](technologies.md) (incomplete) - overview of technologies used by this project.
+- [Usage](usage.md) (incomplete) - summary of machine requirements, basic usage, development, etc.
 - [TODO](todo.md) - list of additional features and minor tweaks to be implemented.
-
-
-
-### Reporting
-
-- [Reports](reports.md) - documentation about the report configuration, etc.
-
-
-
-### Testing
-
-- [Testing](testing.md) - summary of unit testing and manual testing.
-- [Reconciliation](reconciliation.md) - summary of (minor) differences between these results and the ones originally published.
 
 
 
 ### Tricks and Tips
 
-- [Gotchas](gotchas.md) - descriptions of the various gotchas for the organisation team.
+- [Gotchas](gotchas.md) - list of possible gotchas and solutions for the organisation team.
+- [Reporting](reports.md) (incomplete) - overview of reporting features, configuration, etc.
+- [Configuration](configuration.md) (incomplete) - overview of application and event configuration.
 - [Tricks](tricks.md) - examples of various technical tricks and tips .
+
+
+
+### Testing
+
+- [Testing](testing.md) (incomplete) - summary of unit testing and manual testing available.
+- [Reconciliation](reconciliation.md) - summary of any differences between these results and those originally published.
 
 
 

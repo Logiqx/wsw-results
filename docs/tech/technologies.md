@@ -11,19 +11,6 @@ TODO - Topics to be documented:
 
 
 
-### Configuration
-
-TODO - Choices and uses to be documented:
-
-- Formats
-  - [JSON](https://en.wikipedia.org/wiki/JSON)
-  - [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
-- Configuration
-  - Tweaking existing events; e.g. what should / should not be done.
-  - Creating new event; e.g. how to set up a new event by cloning a previous event.
-
-
-
 ### Python
 
 TODO - Topics to be documented:
@@ -38,15 +25,6 @@ TODO - Topics to be documented:
   - jinja
   - PIL
   - unittest
-
-
-
-### Development
-
-TODO - Explain how to develop, test, build and run via Docker.
-
-- [Jupyter](https://jupyter.org/)
-  - [Docker Compose](https://docs.docker.com/compose/)
 
 
 
