@@ -4,8 +4,6 @@ The documentation for this project has been broken up into separate smaller topi
 
 All of the documentation has been created as [Markdown](https://en.wikipedia.org/wiki/Markdown) due to the simplicity of the language and native support on [GitHub](https://en.wikipedia.org/wiki/GitHub).
 
-This page provides quick access to individual pages.
-
 
 
 ### General
