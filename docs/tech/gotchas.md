@@ -27,6 +27,19 @@ Problem 3 - 2021:
 
 
 
+### GPS Devices
+
+TODO - document the following scenarios:
+
+- What to do if an entrant's GPS needs to be replaced mid-competition.
+- What to do when a competitor uses the wrong GPS during a session.
+  - e.g. A windsurf + kite entrant (i.e. two GPS units) takes their windsurf GPS out whilst kiting.
+  - Another example might be a competitor who realises their battery has gone flat out mid-session so takes their other device.
+- What to do if a GPS being taken onto the water with the wrong username.
+  - Although this should not happen due to the registration process it is not an impossibility!
+
+
+
 ### GPSResults
 
 Checklist for timings:
