@@ -32,7 +32,7 @@ Basic notes:
 
 - Introduced Master and Under 17, independent of craft type.
   - n.b. Robin Penna was 1st Master.
-- Overall and Novice.
+- Included Overall and Novice.
 - The old tabular results published since 1998 were replaced in 2005.
 
 Link(s) to Wayback Machine:
@@ -45,7 +45,7 @@ Link(s) to Wayback Machine:
 
 Basic notes:
 
-- Pro / Am / Novice (reported as Rookie).
+- Included Pro / Am / Novice (reported as Rookie).
   - n.b. Robin Penna was 2nd Amateur and 1st Master (i.e. multiple categories and 1st master for the second year).
 
 Link(s) to Wayback Machine:
@@ -58,8 +58,8 @@ Link(s) to Wayback Machine:
 
 Basic notes:
 
-- Pro / Am / Novice.
-- Master / Junior.
+- Included Pro / Am / Novice.
+- Included Master / Junior.
   - n.b. Theo Theinert was 3rd Amateur and 2nd Master (i.e. multiple categories).
 - Another slight tweak to the formatting of results.
 
@@ -73,7 +73,7 @@ Link(s) to Wayback Machine:
 
 Basic notes:
 
-- Pro / Gold / Am / Novice.
+- Included Pro / Gold / Am / Novice.
   - n.b. Ian Richards was 1st Novice, 2nd Master and 3rd Amateur (i.e. multiple categories).
 
 Link(s) to Wayback Machine:
@@ -114,7 +114,7 @@ Link(s) to Wayback Machine:
 
 Basic notes:
 
-- Pro / Gold / Am / Novice.
+- Included Pro / Gold / Am / Novice.
 - n.b. #1 Patrick Van Hoof was 2nd Pro Fleet and 1st Master (i.e. multiple categories).
 - n.b. #2 Torsten Mallon was 3rd Pro and 2nd Master (i.e. multiple categories).
 
@@ -128,7 +128,7 @@ Link(s) to Wayback Machine:
 
 Basic notes:
 
-- Pro / Gold / Am / First Timer.
+- Included Pro / Gold / Am / First Timer.
 - Removed Master.
 
 Link(s) to Wayback Machine:

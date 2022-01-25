@@ -9,7 +9,7 @@ All of the documentation has been created as [Markdown](https://en.wikipedia.org
 ### General
 
 - [Technologies](technologies.md) - list of technologies, etc.
-- [Todo](todo.md) - list of ideas to be implemented.
+- [TODO](todo.md) - list of additional features and minor tweaks to be implemented.
 
 
 

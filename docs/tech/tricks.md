@@ -1,15 +1,15 @@
 ## Tricks and Tips
 
-All of the configuration files are either a JSON or CSV.
+All of the configuration files for this project are either JSON or CSV.
 
-It is possible to search them efficiently using tools such as *jq* and *csvkit*.
+It is possible to search them efficiently from the command prompt using tools such as [jq](https://stedolan.github.io/jq/) and [csvkit](https://csvkit.readthedocs.io/en/latest/).
 
 
 
 
 ### jq
 
-Install *jq* with `sudo apt-get install python3-csvkit`
+Install "jq" with `sudo apt-get install python3-csvkit`
 
 List of the the groupings being reported:
 ```
@@ -25,7 +25,7 @@ jq '.Event.Name, .Entrants."Craft Type"' events/*/config/event.json
 
 ### csvkit
 
-Install *csvkit* with `sudo apt install python3-csvkit`
+Install "csvkit" with `sudo apt install python3-csvkit`
 
 List all of the GT-31 IDs in a specific year:
 ```
