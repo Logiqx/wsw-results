@@ -36,5 +36,6 @@ This page provides quick access to individual pages.
 ### Reference Data
 
 - [countries](countries.md)
+- [prizes](prizes.md)
 - [trophies](trophies.md)
 - [links](links.md)
