@@ -1,18 +1,6 @@
 ## Configuration
 
-### Data Formats
-
-TODO - Choices and uses to be documented:
-
-- Formats
-  - [JSON](https://en.wikipedia.org/wiki/JSON)
-  - [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
-
-
-
-### Configuration
-
-#### Application Configuration
+### Application Configuration
 
 TODO - document application configuration.
 
@@ -23,17 +11,18 @@ TODO - document application configuration.
 
 
 
-#### Event Configuration
+### Event Configuration
 
 TODO - document event configuration.
 
 - events/*yyyy*/config/event.json
     - Tweaking existing events; e.g. what should / should not be done.
     - Creating new event; e.g. how to set up a new event by cloning a previous event.
+- events/*yyyy*/config/entrants.csv
 
 
 
-#### Session Configuration
+### Session Configuration
 
 TODO - document session configuration; course times, comments, etc.
 
@@ -44,6 +33,10 @@ TODO - document session configuration; course times, comments, etc.
 
 
 ### Reference Data
+
+The reference files described in this section should not need further editing, either prior to or during a Weymouth Speed Week event.
+
+
 
 #### Nationalities
 

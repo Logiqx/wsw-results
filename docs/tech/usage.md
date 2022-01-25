@@ -8,19 +8,16 @@ TODO - Summary of machine requirements; Docker, WSL2, etc.
 
 ### Installation
 
-TODO - Explain how to clone the project from GitHub and build the Docker image.
+TODO - Explain how to clone the project from GitHub and build a Docker image.
 
 
 
 ### Reporting
 
-TODO - Explain how to generate the reports via Docker.
+TODO - Explain how to refresh all of the reports by running a Docker container.
 
 
 
-### Development
+### Publishing
 
-TODO - Explain how to develop, test, build and run via Docker.
-
-- [Jupyter](https://jupyter.org/)
-  - [Docker Compose](https://docs.docker.com/compose/)
+TODO - Explain how to publish the latest reports via GitHub.

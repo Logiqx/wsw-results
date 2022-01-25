@@ -8,38 +8,44 @@ Several of the topics have yet to be completed and may have little more than a w
 
 
 
-### Overview
+### Technical Overviews
 
 - [Technologies](technologies.md) (incomplete) - overview of technologies used by this project.
-- [Usage](usage.md) (incomplete) - summary of machine requirements, basic usage, development, etc.
-- [Gotchas](gotchas.md) - list of possible gotchas and solutions for the organisation team.
+- [Usage](usage.md) (incomplete) - overview of how to use the software, refresh the reports, publish the results, etc.
+- [Development](development.md) (incomplete) - overview the development lifecycle, testing approaches, etc.
 
 
 
-### Intricacies
+### Technical Details
 
-- [Reporting](reports.md) (incomplete) - overview of reporting capabilities, configuration, etc.
-- [Configuration](configuration.md) (incomplete) - overview of application and event configuration.
-- [Tricks and Tips](tricks.md) - various technical tricks and tips when working from the command line.
+- [Configuration](configuration.md) (incomplete) - details of application, event and session configuration files.
+- [Reports](reports.md) (incomplete) - details of reporting engine, report definitions, configuration, etc.
+- [Countries](countries.md) - details of the country codes used by this project, just for the sake of completeness.
+
+
+
+### Helpful Hints
+
+- [Gotchas](gotchas.md) - list of possible "gotchas" that can be foreseen and known solutions for the organisation team.
+- [Tricks and Tips](tricks.md) - technical "tricks and tips" for interrogating configuration files from the command line.
 
 
 
 ### Future Plans
 
-- [TODO](todo.md) - list of additional features and minor tweaks still to be implemented.
+- [TODO](todo.md) - list of additional features and minor tweaks still to be implemented in this project.
 
 
 
-### Audits
+### Quality Assurances
 
 - [Testing](testing.md) (incomplete) - summary of unit testing, system testing and manual testing.
 - [Reconciliation](reconciliation.md) - summary of differences between these results and the results originally published.
 
 
 
-### References
+### Historical Summaries
 
-- [Countries](countries.md) - overview of the country codes used by this project, etc.
 - [Prizes](prizes.md) - historical summary of the various craft types, categories and prizes.
 - [Trophies / Shields](trophies.md) - historical summary of the various trophies and shields awarded.
-- [Links](links.md) - various links to useful resources / websites.
+- [Links](links.md) - various links to useful resources / websites providing historical information.
