@@ -18,17 +18,17 @@ Prerequisites:
 
 #### Linux Distribution
 
-[WSL2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) is recommended as the backend for Docker but it also allows Linux commands to be run natively on Windows
+[WSL2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) is the recommended backend for Docker Desktop on Windows but it also allows Linux commands to be run natively:
 
-- Native Linux commands such as find, grep, sed and awk.
+- Useful commands such as find, grep, sed and awk.
 - Packages such as git, jq and csvkit.
 - Entire shell scripts.
 
 WSL is incredibly useful and brings the power of the Linux command line to Windows.
 
-To gain these benefits you will need to install a Linux distribution within WSL.
+To gain the full benefits of WSL you will also need to install a Linux distribution on your Windows machine.
 
-This task can be performed via the Microsoft store. Ubuntu is the distribution of choice for this project.
+This task can be performed via the Microsoft store; Ubuntu is the distribution of choice for this project.
 
 
 
