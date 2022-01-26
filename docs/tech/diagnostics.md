@@ -8,8 +8,8 @@ This document provides insight into what the application can handle and the sign
 
 There are 3 classes of message written to the console:
 
-- "INFO" messages are shown for the **current year** by default. They can be enabled for previous years in config/app.json.
-- "WARNING "messages are shown for the **all years** by default. They can be disabled for previous years in config/app.json.
+- "INFO" messages are shown for the current year by default. They can be enabled for previous years in the app configuration.
+- "WARNING "messages are shown for the all years by default. They can be disabled for previous years in the app configuration.
 - "ERROR" messages will only be output in the event of a critical failure, usually accompanied by a stack trace to aid diagnostics.
 
 
@@ -29,13 +29,15 @@ The current list of info messages is relatively short:
 - INFO: Possible middle name for NAME - remove if not needed
   - This will report people who provide multiple first names. This may be desirable for some entrants.
 
-Note: Info messages are purely for **informational** purposes and do not require any follow up activity.
+Note: Info messages are purely for informational purposes and do not require any follow up activity.
 
 
 
 ### Warning Messages
 
 Since there are so many different warning messages they have been split into "Entrant Details" and "Session Results".
+
+When a warning is issued it may be important for the details to be corrected in the entrants list, allowing for a re-run of the reports.
 
 
 
@@ -56,30 +58,38 @@ The event config contains a list of possible values for each attribute, enabling
 - WARNING: NAME had a UKWA flag of "XXX" - changed to ?
 - WARNING: NAME had a ISWC flag of "XXX" - changed to ?
 
-Note: It **may** be important for the entrant details to be corrected in entrants.csv, allowing for a **re-run** of the reports.
+Note: It may be important for the appropriate details to be corrected in the entrants list, allowing for a re-run of the reports.
 
 
 
-Gold Fleet and Pro Fleet competitors cannot be a "first timer", formerly known as a "novice":
+Gold Fleet and Pro Fleet competitors cannot be entered as a "first timer", formerly known as a "novice":
 
 - WARNING: NAME was entered as a first timer but is STATUS - changed first timer flag to N
   - The status of the entrant means they are excluded from being a first timer.
 - WARNING: NAME was entered as a novice but is STATUS - changed novice flag to N
   - The status of the entrant means they are excluded from being a novice.
 
+Note: It may be desirable for the appropriate details to be corrected in the entrants list, thus eliminating these warnings.
+
+
+
 Checks for duplicate entrants or possible errors in the name; similar but not identical to previous years:
 
 - WARNING: Duplicate name NAME (CRAFT TYPE) in YEAR
-  - This **may** be important as it indicates something is wrong in entrants.json
+  - This may be important as it indicates something is wrong in the entrants list
 - WARNING: Similar names - NAME_1 vs NAME_2 YEARS
-  - This **may** be important if the profile pages require identical names across all years.
+  - This may be important if the profile pages require identical names across all years.
+
+Note: It may be required for the appropriate details to be corrected in the entrants list, allowing for a re-run of the reports.
+
+
 
 An unrecognised nationality will result in the following warning:
 
 - WARNING: Unrecognised nationality for NAME - NATIONALITY
-  - This **may** be important if the presence of a national flag is desirable on the results pages.
+  - This may be important if the presence of a national flag is desirable on the results pages.
 
-Note: It **may** be important for the entrant details to be corrected in entrants.csv, allowing for a **re-run** of the reports.
+Note: It may be desirable for the appropriate details to be corrected in the entrants list, allowing for a re-run of the reports.
 
 
 
@@ -88,27 +98,27 @@ Note: It **may** be important for the entrant details to be corrected in entrant
 When processing session results the following warnings may be generated:
 
 - WARNING: Runs found before course XX opened on YYYY-MM-DD - earliest was HH:MM:SS
-  - This **will** be important and you should check / fix the "start time" defined in the related courses.json file.
+  - This will be important and you should check / fix the "start time" defined in the course configuration file.
 - WARNING: Runs found after course XX closed on YYYY-MM-DD - latest was HH:MM:SS
-  - This **will** be important and you should check / fix the "end time" defined in the related courses.json file.
+  - This will be important and you should check / fix the "end time" defined in the course configuration file.
 
 If the reporting engine encounters results for an unknown craft type it may generate the following warnings:
 
 - WARNING: "Craft Type TBC" report on YYYY-MM-DD generated results
-  - This **may** be important and the craft type needs to be correctly specified in the entrants list.
+  - This may be important and the craft type needs to be correctly specified in the entrants list.
 - WARNING: "Craft Type TBC" report generated results
-  - This **may** be important and the craft type needs to be correctly specified in the entrants list.
+  - This may be important and the craft type needs to be correctly specified in the entrants list.
 
 When processing GPS results the following warnings may be generated:
 
 - WARNING: Unrecognised GT-31 ID XXX on YYYY-MM-DD
-  - This **will** be important as it occurs when a GT-31 cannot be matched to an existing entrant.
+  - This will be important as it occurs when a GT-31 cannot be matched to an existing entrant; craft type=TBC, status=TBC, etc.
 - WARNING: Auto-matched GT-31 ID XXX to NAME (CRAFT TYPE)
-  - This **may** be important as it occurs after auto-matching the ID of a GT-31 such as "GEORG8MICHA" to "Michael George"
+  - This may be important as it occurs after auto-matching the ID of a GT-31 such as "GEORG8MICHA" to "Michael George".
 - WARNING: Unrecognised GT-31 SN for NAME (CRAFT TYPE) on YYYY-MM-DD - NNN vs NNN
-  - This **may** be important as it occurs when a GT-31 ID is re-used on a second GT-31 device
+  - This may be important as it occurs when a GT-31 ID is re-used on a second GT-31 device.
 
-Note: These warning messages listed above will not prevent results from being generated / published but they should be carefully considered. It may be **important** for the entrant details to be corrected in entrants.csv, allowing for a **re-run** of the reports.
+Note: These warning messages listed above will not prevent results from being generated / published but they should be carefully considered. It may be important for the appropriate details to be corrected in the entrants list, allowing for a re-run of the reports.
 
 
 
