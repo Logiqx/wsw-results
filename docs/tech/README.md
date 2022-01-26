@@ -26,7 +26,8 @@ Several of the topics have yet to be completed and may have little more than a w
 
 ### Helpful Hints
 
-- [Gotchas](gotchas.md) - list of possible "gotchas" that can be foreseen and known solutions for the organisation team.
+- [Diagnostics](diagnostics.md) - explains the significance of any messages output; automatic data fixes, sanity checks, etc.
+- [Gotchas](gotchas.md) - list of possible "gotchas" that may be foreseen and some possible solutions / workarounds.
 - [Tricks and Tips](tricks.md) - technical "tricks and tips" for interrogating configuration files from the command line.
 
 
