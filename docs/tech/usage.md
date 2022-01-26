@@ -79,7 +79,7 @@ cd wsw-results
 bin/docker_build.sh
 ```
 
-Note: The build will convert the Jupyter Notebooks to regular Python scripts, build an image and run all of the unit tests.
+Note: The build script will convert the Jupyter Notebooks to regular Python scripts, build a Docker image, run all of the unit tests and run the actual reports. If all of these steps are successful then the Docker image will be tagged as the "latest" and will be available for re-use.
 
 
 
@@ -106,7 +106,7 @@ git status
 git diff
 ```
 
-The safest way to commit changes is to specifically "add" files prior to the "commit":
+The safest way to commit changes is to specifically "add" files, prior to the "commit":
 
 ```
 git add docs/results
@@ -120,10 +120,10 @@ git commit -m "Meaningful message about the update" docs/results
 git status
 ```
 
-Pushing the local changes to GitHub will cause the website to automatically refresh:
+Pushing the local changes to GitHub will cause the website to automatically refresh, approximately a minute or so later:
 
 ```
 git push
 ```
 
-The deployment history can be [reviewed](https://github.com/Logiqx/wsw-results/deployments/activity_log?environment=github-pages) if there are any issues or delays.
+The GitHub Pages deployment history can be [reviewed](https://github.com/Logiqx/wsw-results/deployments/activity_log?environment=github-pages) if there are any issues or delays.
