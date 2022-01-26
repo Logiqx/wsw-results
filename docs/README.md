@@ -2,7 +2,7 @@
 
 The text below has been copied from the event [background](https://speedsailing.com/index.php/eventinformation/background) page of the [WSW](https://www.speedsailing.com/) home page.
 
-The results for all years between 1998 and 2021 are now [available](results/index.html). Technical project documentation is also being [maintained](tech/README.md) on GitHub.
+The [results](results/index.html) for all years between 1998 and 2021 are now available. Technical project [documentation](tech/README.md) is also being maintained on GitHub.
 
 
 
