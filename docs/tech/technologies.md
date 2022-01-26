@@ -2,36 +2,43 @@
 
 ### Docker
 
-The project utilises [Docker](https://en.wikipedia.org/wiki/Docker_(software)) so that it can be developed, implemented and maintained on a variety of operating systems with minimal effort. e.g. Windows, Mac or Linux.
+[Docker](https://en.wikipedia.org/wiki/Docker_(software)) allows this project to be developed, tested and maintained on a variety of operating systems without modification.
 
-TODO - Topics to be documented:
+Docker runs the reporting in a [container](https://www.docker.com/resources/what-container), automatically handling pre-requisites such as Python and third-party libraries.
 
-- [WSL2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) to use Linux commands on Windows; e.g. "find", "grep", "sed", "awk", "jq" and csvkit.
-- How to download the project from GitHub. How to build + run the Docker image.
+There is no need to install specific pre-requisites on the host machine, aside from Docker itself to run the application within a container.
+
+It doesn't matter whether you use Windows, Mac or Linux as your OS. The reporting will run fine thanks to the magic of containers!
+
+
+
+### WSL
+
+[WSL2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) is the backend for Docker Desktop on Windows but it also allows Linux commands to be run natively:
+
+- Native Linux commands such as find, grep, sed and awk.
+- Packages such as git, jq and csvkit.
+- Entire shell scripts.
+
+WSL is incredibly useful and brings the power of the Linux command line to Windows.
 
 
 
 ### Python
 
-TODO - Topics to be documented:
+The application code has been written entirely in [Python](https://www.python.org/) due to its high productivity and wide choice of third-party libraries.
 
-- Use of [Jupyter](https://jupyter.org/) notebooks
-  - Mention plans for Visual Studio Code
-- Describe the modular design
-  - Summarise the use of unit tests, etc.
-- List the required Python libraries; automatically handled by the Docker "build "process.
-  - csv + json
-  - pyphonetics + Levenshtein
-  - jinja
-  - PIL
-  - unittest
+This project used [Jupyter Notebook](https://jupyter.org/) as the [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment). This is a popular choice for data scientists but less so for software developers.
+
+The project will probably migrate over to Microsoft's [Visual Studio Code](https://code.visualstudio.com/) at some time in the future.
 
 
 
 ### Git
 
-TODO - Summarise version control and web hosting:
+[Git](https://git-scm.com/) is the most popular version control system in use today, suitable for small and large projects alike.
 
-- GitHub
-- GitHub Pages
+This [project](https://github.com/Logiqx/wsw-results) is entirely open source and the repository (source code, data and documentation) is stored on [GitHub](https://en.wikipedia.org/wiki/GitHub).
+
+The web pages for Weymouth Speed Week [results](https://logiqx.github.io/wsw-results/results/index.html) are hosted on [GitHub Pages](https://pages.github.com/) due to it's native integration with GitHub.
 

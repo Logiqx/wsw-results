@@ -1,5 +1,9 @@
 ## Configuration
 
+PLEASE NOTE: THIS DOCUMENT IS ONLY A SKELETON AND YET TO BE WRITTEN.
+
+
+
 ### Application Configuration
 
 TODO - document the application configuration.
