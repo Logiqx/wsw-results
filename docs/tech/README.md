@@ -34,7 +34,7 @@ Several of the topics have yet to be completed and may have little more than a w
 
 ### Future Plans
 
-- [TODO](todo.md) - list of additional features and minor tweaks still to be implemented in this project.
+- [Todo](todo.md) - list of additional features and minor tweaks still to be implemented in this project.
 
 
 

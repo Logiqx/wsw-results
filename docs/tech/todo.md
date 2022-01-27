@@ -1,4 +1,4 @@
-## TODO
+## Todo
 
 This document contains a list of ideas + plans left to implement for this project. Where applicable I have added links to items on GitHub.
 
