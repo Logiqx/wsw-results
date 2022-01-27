@@ -53,6 +53,12 @@ Clone the project repository to create a local copy:
 git clone git@github.com:Logiqx/wsw-results.git
 ```
 
+If the above command fails, you may not have set up a password protected SSH key. You may prefer to use HTTPS instead:
+
+```
+git clone https://github.com/Logiqx/wsw-results.git
+```
+
 Note: The project repository contains numerous large files and was approximately 370MB in size on 26 Jan 2022.
 
 
