@@ -29,14 +29,27 @@ Problem 3 - 2021:
 
 ### GT-31s
 
-TODO - document how to handle the following scenarios:
+Scenario 1 - What to do if an entrant's GT-31 needs to be replaced mid-competition:
+  - Option 1: Register a second GT-31 via "event registration" on the SSERPANT laptop.
+      - n.b. This will assign a new tally number and should register an additional GT-31 ID against the entrant.
+  - Option  2: Manually configure a new GT-31 to have the same ID as the original; e.g. GEORG8MICHA.
+      - n.b. This allows the tally number to be retained by the entrant and may reduce the risk of any confusion.
 
-- What to do if an entrant's GT-31 needs to be replaced mid-competition.
-- What to do when a competitor uses the wrong GT-31 during a session.
-  - For example, sailboard + kiteboard entrant (two GT-31 units) takes their sailboard GT-31 out whilst kiteboarding.
-  - Another example might be a competitor who realises their battery is low mid-session so starts using their other GT-31.
-- What to do if a GT-31 being taken onto the water with the wrong username.
-  - Although this should not happen due to the registration process it is not an impossibility!
+Scenario 2 - What to do when a competitor uses the wrong GT-31 during a session.
+
+- Option 1: Temporarily change the ID of the GT-31, "save to card" and try to re-read the card using the "end of day" process.
+  - n.b. This can only be done if "end of day" process is still underway.
+- Option 2: Temporarily change the ID of the GT-31, "save to card" and manually copy the file onto the GPSResults laptop.
+  - n.b. This can only be done if the GPSResults analysis has not been completed.
+- Option 3: If the course runs have already been processed by GPSResults then it might be pragmatic to modify the output CSV.
+  - n.b. This may be the only practical option available if the GPSResults analysis has been completed.
+
+**IMPORTANT**: 
+
+- Using the wrong GT-31 could lead to spurious results and rankings. How this is handled will therefore require careful consideration!
+- Will need to **check** if the original SBN/SBP files were copied to the SSERPANT laptop (during "end of day") and GPSResults laptop.
+- Will have to **delete** the original SBN/SBP files that were copied to the SSERPANT laptop (during "end of day") and GPSResults laptop.
+- Modification of the GPSResults output may be pragmatic but the original SBN/SBP files should still be removed from other laptops.
 
 
 
@@ -73,7 +86,7 @@ However, still keep an eye out for the following during the week:
 - People may accidentally sign up for the wrong fleet. For example:
   - People who were previously on the podium of the amateur fleet or the winner of the gold fleet.
   - Sponsored riders should not be in the amateur fleet.
-  - Experienced competitors should not be be down as a "first timer".
+  - Experienced amateurs should not be be down as a "first timer".
 - Riders will be excluded from the daily UKWA results if they didn't tick the "UKWA member" box during registration.
-  - The UKWA flag can be updated on their entry details and the UKWA reports can then be re-run.
+  - The UKWA flag can be manually updated on their entry details, followed by a simple re-run of the reports.
 
