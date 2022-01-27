@@ -37,7 +37,7 @@ Note: Info messages are purely for informational purposes and do not require any
 
 Since there are so many different warning messages they have been split into "Entrant Details" and "Session Results".
 
-When a warning is issued it may be important for the details to be corrected in the entrants list, allowing for a re-run of the reports.
+When a warning is issued it may be important for the details to be corrected in the entrants list, followed by a re-run of the reports.
 
 
 
@@ -58,7 +58,7 @@ The event config contains a list of possible values for each attribute, enabling
 - WARNING: NAME had a UKWA flag of "XXX" - changed to ?
 - WARNING: NAME had a ISWC flag of "XXX" - changed to ?
 
-Note: It may be important for the appropriate details to be corrected in the entrants list, allowing for a re-run of the reports.
+Note: It may be important for the appropriate details to be corrected in the entrants list, followed by a re-run of the reports.
 
 
 
@@ -80,7 +80,7 @@ Checks for duplicate entrants or possible errors in the name; similar but not id
 - WARNING: Similar names - NAME_1 vs NAME_2 YEARS
   - This may be important if the profile pages require identical names across all years.
 
-Note: It may be required for the appropriate details to be corrected in the entrants list, allowing for a re-run of the reports.
+Note: It may be required for the appropriate details to be corrected in the entrants list, followed by a re-run of the reports.
 
 
 
@@ -89,7 +89,7 @@ An unrecognised nationality will result in the following warning:
 - WARNING: Unrecognised nationality for NAME - NATIONALITY
   - This may be important if the presence of a national flag is desirable on the results pages.
 
-Note: It may be desirable for the appropriate details to be corrected in the entrants list, allowing for a re-run of the reports.
+Note: It may be desirable for the appropriate details to be corrected in the entrants list, followed by a re-run of the reports.
 
 
 
@@ -118,7 +118,7 @@ When processing GPS results the following warnings may be generated:
 - WARNING: Unrecognised GT-31 SN for NAME (CRAFT TYPE) on YYYY-MM-DD - NNN vs NNN
   - This may be important as it occurs when a GT-31 ID is re-used on a second GT-31 device.
 
-Note: These warning messages listed above will not prevent results from being generated / published but they should be carefully considered. It may be important for the appropriate details to be corrected in the entrants list, allowing for a re-run of the reports.
+Note: These warning messages listed above will not prevent results from being generated / published but they should be carefully considered. It may be important for the appropriate details to be corrected in the entrants list, followed by a re-run of the reports.
 
 
 
