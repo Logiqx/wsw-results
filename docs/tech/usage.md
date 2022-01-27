@@ -66,7 +66,7 @@ Once Docker is installed and can be managed as a non-root user, Ubuntu is ready 
 
 Although Docker will automatically "pull" the required base images when building the application image it is preferable to pull them manually, prior to the build.
 
-```
+```shell
 docker pull jupyter/base-notebook:notebook-6.4.6
 docker pull python:3.10-slim-bullseye
 ```
@@ -79,20 +79,20 @@ Note: These are the Docker base images on 26 Jan 2022 but the version tags can b
 
 You may need to install git:
 
-```
+```shell
 sudo apt-get update
 sudo apt-get install git-all
 ```
 
 Clone the project repository to create a local copy:
 
-```
+```shell
 git clone git@github.com:Logiqx/wsw-results.git
 ```
 
 If the clone command fails, you may not have set up a password protected SSH key. You may therefore prefer to use HTTPS instead:
 
-```
+```shell
 git clone https://github.com/Logiqx/wsw-results.git
 ```
 
@@ -104,7 +104,7 @@ Note: The project repository contains numerous large files and was approximately
 
 The Docker image for the project is created by running a shell script from within the project root:
 
-```
+```shell
 cd wsw-results
 bin/docker_build.sh
 ```
@@ -119,7 +119,7 @@ Note: The very first build will take a lot longer to complete because it has to 
 
 The reports can be refreshed by running a shell script from within the project root:
 
-```
+```shell
 cd wsw-results
 bin/results.sh
 ```
@@ -132,28 +132,28 @@ Note: It usually takes around 10 seconds in total to run all of the reports for 
 
 Changes to the web pages can be identified using git commands from within the project root:
 
-```
+```shell
 git status
 git diff
 ```
 
 The safest way to commit changes is to specifically "add" files, prior to the "commit":
 
-```
+```shell
 git add docs/results
 git status
 ```
 
 After reviewing the status, changes can be committed to git:
 
-```
+```shell
 git commit -m "Meaningful message about the update" docs/results
 git status
 ```
 
 Pushing the local changes to GitHub will cause the website to automatically refresh, approximately a minute or so later:
 
-```
+```shell
 git push
 ```
 
