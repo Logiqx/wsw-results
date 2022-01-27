@@ -124,6 +124,8 @@ $ cd wsw-results
 $ bin/results.sh
 ```
 
+To gain an insight into what occurs during the processing, reading the [diagnostics](diagnostics.md) section is highly recommended.
+
 Note: It usually takes around 10 seconds in total to run all of the reports for 1998 to 2021.
 
 
