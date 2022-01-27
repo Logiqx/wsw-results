@@ -14,7 +14,7 @@ It doesn't matter whether you use Windows, Mac or Linux as your OS. The reportin
 
 ### Windows Subsystem for Linux (WSL)
 
-[WSL2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) is the recommended backend for Docker Desktop on Windows but it also allows Linux commands to be run natively:
+[WSL 2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) is the recommended backend for Docker Desktop on Windows but it also allows Linux commands to be run natively:
 
 - Useful commands such as find, grep, sed and awk.
 - Packages such as git, jq and csvkit.

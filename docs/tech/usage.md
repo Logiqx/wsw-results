@@ -1,16 +1,22 @@
 ## Usage
 
-### Requirements
+### Operating Systems
 
-#### Docker Desktop
+Since this project uses [Docker](https://www.docker.com/) you can run it on a range of operating systems; Windows, Linux, Mac, etc.
 
-To run Docker on a Windows machine you need [Docker Desktop](https://www.docker.com/products/docker-desktop) which is included in the free subscription plan [Docker Personal](https://www.docker.com/products/personal).
+This document will provide details for users of Windows (Docker Desktop) and Linux (Docker CE).
 
-When using Docker Desktop on Windows machine you should use the [WSL 2 backend](https://docs.docker.com/desktop/windows/wsl/).
+
+
+### Windows Requirements
+
+#### WSL 2
+
+To run Docker Desktop on a Windows machine it is recommended that you use the [WSL 2 backend](https://docs.docker.com/desktop/windows/wsl/).
 
 Prerequisites:
 
-1. Install Windows 10, version 1903 or higher or Windows 11.
+1. Windows 10, version 1903 or higher or Windows 11.
 2. Enable WSL 2 feature on Windows. For detailed instructions, refer to the [Microsoft documentation](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 3. Download and install the [Linux kernel update package](https://docs.microsoft.com/windows/wsl/wsl2-kernel).
 
@@ -18,52 +24,45 @@ Prerequisites:
 
 #### Linux Distribution
 
-[WSL2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) is the recommended backend for Docker Desktop on Windows but it also allows Linux commands to be run natively:
+[WSL 2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) is the recommended backend for Docker Desktop but it also allows Linux commands to be run natively:
 
 - Useful commands such as find, grep, sed and awk.
 - Packages such as git, jq and csvkit.
 - Entire shell scripts.
 
-WSL is incredibly useful and brings the power of the Linux command line to Windows.
+WSL 2 is incredibly useful and brings the power of the Linux command line to Windows.
 
-To gain the full benefits of WSL you will also need to install a Linux distribution on your Windows machine.
+To gain the full benefits of WSL 2 you will will need to install a Linux distribution on your Windows machine.
 
-This task can be performed via the Microsoft store; Ubuntu is the distribution of choice for this project.
+The installation can be done via the Microsoft store; Ubuntu is the distribution of choice for this project.
 
 
 
-#### Linux Packages
+#### Docker Desktop
 
-Install git:
+To run Docker on a Windows machine you need [Docker Desktop](https://www.docker.com/products/docker-desktop), included in the free subscription plan [Docker Personal](https://www.docker.com/products/personal).
 
-```
-sudo apt-get update
-sudo apt-get install git-all
-```
+To install Docker Desktop, simply follow the installation [instructions](https://docs.docker.com/desktop/windows/install/) provided by Docker.
+
+
+
+### Ubuntu Requirements
+
+#### Docker CE
+
+To run Docker on a Ubuntu machine you need Docker installed; typically Docker CE (Community Edition).
+
+Simply follow the installation [instructions](https://docs.docker.com/engine/install/ubuntu/) provided by Docker. Installing using the Docker [repository](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) is the recommended approach.
+
+Once Docker is installed and the "hello-world" example runs via "sudo", follow the described [steps](https://docs.docker.com/engine/install/linux-postinstall/) to manage Docker as a non-root user.
+
+Once Docker is installed and can be managed as a non-root user, Ubuntu is ready for the WSW application.
 
 
 
 ### Application Installation
 
-#### Clone the GitHub Repository
-
-Clone the project repository to create a local copy:
-
-```
-git clone git@github.com:Logiqx/wsw-results.git
-```
-
-If the above command fails, you may not have set up a password protected SSH key. You may prefer to use HTTPS instead:
-
-```
-git clone https://github.com/Logiqx/wsw-results.git
-```
-
-Note: The project repository contains numerous large files and was approximately 370MB in size on 26 Jan 2022.
-
-
-
-#### Pull the Docker Base Images
+#### Docker Base Images
 
 Although Docker will automatically "pull" the required base images when building the application image it is preferable to pull them manually, prior to the build.
 
@@ -76,6 +75,31 @@ Note: These are the Docker base images on 26 Jan 2022 but the version tags can b
 
 
 
+#### Clone the WSW Repository
+
+You may need to install git:
+
+```
+sudo apt-get update
+sudo apt-get install git-all
+```
+
+Clone the project repository to create a local copy:
+
+```
+git clone git@github.com:Logiqx/wsw-results.git
+```
+
+If the clone command fails, you may not have set up a password protected SSH key. You may therefore prefer to use HTTPS instead:
+
+```
+git clone https://github.com/Logiqx/wsw-results.git
+```
+
+Note: The project repository contains numerous large files and was approximately 370MB in size on 26 Jan 2022.
+
+
+
 #### Build the Docker Image
 
 The Docker image for the project is created by running a shell script from within the project root:
@@ -85,11 +109,13 @@ cd wsw-results
 bin/docker_build.sh
 ```
 
-Note: The build script will convert the Jupyter Notebooks to regular Python scripts, build a Docker image, run all of the unit tests and run the actual reports. If all of these steps are successful then the Docker image will be tagged as the "latest" and will be available for re-use.
+The build script will convert the Jupyter Notebooks to regular Python scripts, build a Docker image, run all of the unit tests and run the actual reports. If all of these steps are successful then the Docker image will be tagged as the "latest" and will be available for re-use.
+
+Note: The very first build will take a lot longer to complete because it has to build image layers for Python and Jupyter; bundling up all of the required third party libraries, etc.
 
 
 
-### Refreshing the Reports
+### Running the Reports
 
 The reports can be refreshed by running a shell script from within the project root:
 
