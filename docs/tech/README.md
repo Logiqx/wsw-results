@@ -12,7 +12,7 @@ Several of the topics have yet to be completed and may have little more than a w
 
 - [Technologies](technologies.md) - overview of technologies used by this project.
 - [Usage](usage.md) - overview of how to use the software, refresh the reports, publish the results, etc.
-- [Development](development.md) (incomplete) - overview the development lifecycle, testing approaches, etc.
+- [Development](development.md) - overview the development lifecycle, testing approaches, etc.
 
 
 
