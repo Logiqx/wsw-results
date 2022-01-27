@@ -133,7 +133,6 @@ Note: It usually takes around 10 seconds in total to run all of the reports for 
 Changes to the web pages can be identified using git commands from within the project root:
 
 ```
-cd wsw-results
 git status
 git diff
 ```
