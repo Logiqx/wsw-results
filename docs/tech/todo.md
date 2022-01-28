@@ -95,6 +95,11 @@ There are some trivial data items to add to several pages:
 
 The pages are relatively clean looking but some minor improvements might be worthwhile.
 
+- Better banners; need to speak to Nick:
+  - 2007, 2008, 2010, 2011 and 2012 are perfect
+  - 2009 may exist somewhere?
+  - 2013 is low resolution and there may be a better one somewhere?
+  - The font for generic banners can be improved. What is the TTF font name?
 - Page descriptions (browser tab names) should be improved for the main page and event pages.
   - "Weymouth Speed Week" or "Weymouth Speed Week 2021") would be better than "Events" or "Event".
 - Craft type icons, maybe even group all of the reports based on craft type?
