@@ -77,9 +77,8 @@ Add an XLSX to CSV conversion to extract all of the entrant details for the even
 
 The website requires some improved navigational features:
 
-- Add "banner" navigation; clicking on the banner should go to the main event page.
-- Add an off-screen menu for site navigation.
-  - n.b. Plan to use [Pushy](https://chrisyee.ca/pushy/) from another recent web project.
+- Add an off-screen menu for site navigation?
+  - Can easily use [Pushy](https://chrisyee.ca/pushy/) from another recent web project.
 
 #### Additional Information
 
