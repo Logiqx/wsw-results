@@ -4,7 +4,7 @@ PROJ_NAME=$(basename $PROJ_DIR)
 IMAGE_NAME=logiqx/$PROJ_NAME
 IMAGE_TAG=1.0.0
 
-WORK_DIR=/home/jovyan/work/$PROJ_NAME
+WORK_DIR=/home/jovyan/work/sse-results
 
 run_py_script()
 {
