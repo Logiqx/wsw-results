@@ -6,7 +6,7 @@ All of the documentation has been written in [Markdown](https://en.wikipedia.org
 
 The majority of the technical documentation can be found within the [sse-results](https://github.com/Logiqx/sse-results) project on GitHub.
 
-The aforementioned technical [documentation](https://logiqx.github.io/wsw-results/tech/) for sse-results can be found on GitHub pages.
+The aforementioned technical [documentation](https://logiqx.github.io/sse-results/tech/) for sse-results can be found on GitHub pages.
 
 Some of the technical documentation will be partially duplicated here, but any duplication will be kept to a minimum.
 

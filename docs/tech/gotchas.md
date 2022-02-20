@@ -1,4 +1,4 @@
-## Gotchas
+## Weymouth Speed Week Gotchas
 
 2018 saw quite a few technical issues, many of which have been remedied through enhancements and fixes to the SSERPANT software and within this project.
 

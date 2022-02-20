@@ -10,6 +10,21 @@ The installation and configuration of the Docker daemon is detailed for Windows 
 
 
 
+#### Docker Base Images
+
+The Docker image for wsw-results utilizes the image layers of sse-results; i.e. generic application features and python libraries.
+
+Although Docker will automatically "pull" the required image layers when building the application image it is preferable to pull them manually, prior to the build.
+
+```shell
+$ docker pull jupyter/base-notebook:notebook-6.4.6
+$ docker pull logiqx/sse-results:1.0.0
+```
+
+Note: These are the appropriate Docker images on 20 Feb 2022 but the version tags can be confirmed in the project [Dockerfile](https://docs.docker.com/engine/reference/builder/).
+
+
+
 #### Docker Compose
 
 In addition to the Docker daemon you need [Docker Compose](https://docs.docker.com/compose/) to do any further development.
@@ -129,13 +144,16 @@ n.b. After modifications to an individual module, re-running this script will be
 
 #### Build
 
-The Docker build process will convert any Jupyter notebooks (.ipynb files) to regular Python (.py files), run all of the unit tests, system tests and finally, run the reporting itself. If all of these steps are successful then the newly built Docker image will be tagged "latest".
+The Docker image for the project is created by running a shell script from within the project root:
 
 ```shell
+$ cd wsw-results
 $ bin/docker_build.sh
 ```
 
-n.b. After a successful build the reports can subsequently be run by running `bin/reports.sh`.
+The build script will convert the Jupyter Notebooks to regular Python scripts, build a Docker image, run all of the unit tests and run the actual reports. If all of these steps are successful then the Docker image will be tagged as the "latest" and will be available for re-use.
+
+After a successful build the reports can subsequently be run by running `bin/reports.sh`.
 
 
 
@@ -150,37 +168,5 @@ You will have to find your own way around the code from this point onwards. Afte
 #### Future
 
 There is a vague intention to migrate this project from Jupyter to [Visual Studio Code](https://code.visualstudio.com/) in the future.
-
-
-
-### Libraries
-
-A number of third party Python libraries are used by this project.
-
-The list below is purely for informational purposes, providing some insight into functionality within the application.
-
-A couple of libraries are used whilst performing "name matching":
-
-- [Levenshtein](https://pypi.org/project/Levenshtein/) for "distance" matches
-- [pyphonetics](https://pypi.org/project/pyphonetics/) for "soundex" values
-
-Web pages are generated with the help of the templating engine [Jinja](https://jinja.palletsprojects.com/en/3.0.x/):
-
-- [Jinja2](https://pypi.org/project/Jinja2/)
-
-The Excel files produced by SSERPANT (entrants data) will be read using the xlrd library:
-
-- [xlrd](https://pypi.org/project/xlrd/)
-
-Parsing of HTML files (maybe in the future) will be achieved using Beautiful Soup:
-
-- [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
-- [lxml](https://pypi.org/project/lxml/) is pre-requisite of beautifulsoup4
-
-Future plans for charts and visualisations will make use of matplotlib, numpy and scipy:
-
-- [matplotlib](https://pypi.org/project/matplotlib/)
-- [numpy](https://pypi.org/project/numpy/)
-- [scipy](https://pypi.org/search/?q=scipy)
 
 

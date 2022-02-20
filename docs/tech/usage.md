@@ -62,20 +62,17 @@ Once Docker is installed and can be managed as a non-root user, Ubuntu is ready 
 
 ### Application Installation
 
-#### Docker Base Images
+#### Pull the Docker Image
 
-Although Docker will automatically "pull" the required base images when building the application image it is preferable to pull them manually, prior to the build.
+Although Docker will automatically "pull" the required image layers when running the application image it may be preferable to issue a pull command manually.
 
 ```shell
-$ docker pull jupyter/base-notebook:notebook-6.4.6
-$ docker pull python:3.10-slim-bullseye
+$ docker pull logiqx/wsw-results
 ```
 
-Note: These are the Docker base images on 26 Jan 2022 but the version tags can be confirmed in the project [Dockerfile](https://docs.docker.com/engine/reference/builder/).
 
 
-
-#### Clone the WSW Repository
+#### Clone the Project Repository
 
 You may need to install git:
 
@@ -96,22 +93,7 @@ If the git command fails, you may not have set up a password protected SSH key. 
 $ git clone https://github.com/Logiqx/wsw-results.git
 ```
 
-Note: The project repository contains numerous large files and was approximately 370MB in size on 26 Jan 2022.
-
-
-
-#### Build the Docker Image
-
-The Docker image for the project is created by running a shell script from within the project root:
-
-```shell
-$ cd wsw-results
-$ bin/docker_build.sh
-```
-
-The build script will convert the Jupyter Notebooks to regular Python scripts, build a Docker image, run all of the unit tests and run the actual reports. If all of these steps are successful then the Docker image will be tagged as the "latest" and will be available for re-use.
-
-Note: The very first build will take a lot longer to complete because it has to build image layers for Python and Jupyter; bundling up all of the required third party libraries, etc.
+Note: The project repository contains is pretty small and was approximately 4MB in size on 20 Feb 2022.
 
 
 
@@ -126,7 +108,7 @@ $ bin/results.sh
 
 To gain an insight into what occurs during the processing, reading the [diagnostics](diagnostics.md) section is highly recommended.
 
-Note: It usually takes around 10 seconds in total to run all of the reports for 1998 to 2021.
+Note: It usually takes around 10 seconds in total to run all of the WSW reports for 1998 to 2021.
 
 
 
