@@ -1,10 +1,14 @@
-## Technical Docs
+## Weymouth Speed Week - Technical Docs
 
 The documentation for this project has been broken down into a number of smaller topics.
 
 All of the documentation has been written in [Markdown](https://en.wikipedia.org/wiki/Markdown) due to the simplicity of the language and native support on [GitHub](https://en.wikipedia.org/wiki/GitHub).
 
-Several of the topics have yet to be completed and may have little more than a working skeleton present, thus labelled "incomplete".
+The majority of the technical documentation can be found within the [sse-results](https://github.com/Logiqx/sse-results) project on GitHub.
+
+The aforementioned technical [documentation](https://logiqx.github.io/wsw-results/tech/) for sse-results can be found on GitHub pages.
+
+Some of the technical documentation will be partially duplicated here, but any duplication will be kept to a minimum.
 
 
 
@@ -20,7 +24,6 @@ Several of the topics have yet to be completed and may have little more than a w
 
 - [Configuration](configuration.md) (incomplete) - details of application, event and session configuration files.
 - [Reports](reports.md) (incomplete) - details of reporting engine, report definitions, configuration, etc.
-- [Countries](countries.md) - details of the country codes used by this project, just for the sake of completeness.
 
 
 
@@ -41,7 +44,7 @@ Several of the topics have yet to be completed and may have little more than a w
 ### Quality Assurances
 
 - [Testing](testing.md) (incomplete) - summary of unit testing, system testing and manual testing.
-- [Reconciliation](reconciliation.md) - summary of differences between these results and the results originally published.
+- [Reconciliation](reconciliation.md) - summary of differences between these WSW results and the results originally published.
 
 
 
