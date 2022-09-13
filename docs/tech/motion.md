@@ -78,14 +78,14 @@ The remainder of this document attempts to summarize how the various technical p
 
 2022
 
-- 2022 is a combination of the existing GT-31 processes and some new processes for the Motion Mini.
+- 2022 will be a combination of the existing GT-31 processes and some new processes for the Motion Mini.
 - During the 2022 event, Motion Minis will be set up in advance and the WSW team will oversee the download of daily data via the event WiFi.
 - Reporting will use some newly created software, allowing results to published as quickly and efficiently as possible.
 
 2023
 
-- 2023 is likely to use the Motion Mini for all fleets. Each competitor will have the option to entirely self-serve; registration and daily download.
-- Registration will involve a quick WiFi test to check that the Motion can connect to the event WiFi and is set up correctly; e.g. 5 Hz logging.
+- 2023 is likely to use the Motion Mini for all fleets. Each competitor will have the option to entirely self-serve; setup, registration and daily download.
+- Registration will involve a quick WiFi test to check that the Motion Mini can connect to the event WiFi and is set up correctly; e.g. 5 Hz logging.
 - Automatic downloads of daily GPS data can be initiated by the competitors themselves (with technical support available) via the event WiFi.
 - Reporting will use the same software as 2022, allowing results to published as quickly and efficiently as possible.
 
@@ -93,4 +93,4 @@ The remainder of this document attempts to summarize how the various technical p
 
 We are very much looking forward to the trial of the Motion Mini during Weymouth Speed Week 2022.
 
-We hope you will join us!
+We hope to see you at the event!
