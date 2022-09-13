@@ -37,6 +37,7 @@ Some of the technical documentation will be partially duplicated here, but any d
 
 ### Future Plans
 
+- [Motion](motion.md) - self-serve processes and the goal of an "easy life" for the team during Weymouth Speed Week.
 - [Todo](todo.md) - list of additional features and minor tweaks still to be implemented in this project.
 
 
