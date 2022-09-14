@@ -4,7 +4,7 @@
 
 During WSW 2022 we will trial the [Motion Mini](https://logiqx.github.io/gps-guides/devices/motion/mini/) for all of the pro fleet sailboards and hopefully the pro kiters as well (if we have enough devices).
 
-We believe the Motion Mini is perfect for Weymouth Speed Week. It's a handy little device that does not require an aqua pack as it is completely waterproof and there are no SD cards to handle at the end of each day. The built-in WiFi lends itself to self-service and much higher levels of automation.
+We believe the Motion Mini is perfect for Weymouth Speed Week. It's a handy little device that does not require an aqua pack as it is completely waterproof and there are no SD cards to handle at the end of each day. The built-in WiFi support lends itself to self-service and much higher levels of automation.
 
 
 
@@ -29,15 +29,15 @@ The remainder of this document attempts to summarize how the various technical p
 - GT-31s:
   - GT-31 devices will be set up by competitors as per previous years; i.e. using one of the self-serve laptops, typically during  Fri (pm) or Sat (am).
 - Motions:
-  - Motion devices will be set up by the WSW team prior to the event (e.g. 5 Hz logging + 5 knots min speed + WiFi details) and name labels attached (e.g. GEO25MIC).
+  - Motion devices will be set up by the WSW team prior to the event (e.g. 5 Hz logging + 5 knots min speed + event WiFi details) and name labels attached (e.g. GEO25MIC).
 
 2023
 
 - Motions:
-  - Motion devices owned by competitors should be set up prior to the event; e.g. 5 Hz logging + 5 knots min speed. The latest Motion firmware will contain the WiFi details.
-  - Motion devices owned by WSW will be set up prior to the event; e.g. 5 Hz logging + 5 knots min speed. The latest Motion firmware will contain the WiFi details.
-- During registration competitors should attach their name labels, connect their Motion to the WiFi and check that it appears on the event dashboard.
-  - If the Motion does no appear on the event dashboard then the firmware and / or WiFi details can be checked / fixed.
+  - Motion devices owned by competitors should be set up prior to the event; e.g. 5 Hz logging + 5 knots min speed. The latest Motion firmware will contain the event WiFi details.
+  - Motion devices owned by WSW will be set up prior to the event; e.g. 5 Hz logging + 5 knots min speed. The latest Motion firmware will contain the event WiFi details.
+- During registration competitors should attach their name labels, connect their Motion to the event WiFi and check that it appears on the event dashboard.
+  - If the Motion does not appear on the event dashboard then the firmware and / or WiFi details can be checked / fixed.
   - If the Motion appears on the dashboard but is set up incorrectly (e.g. not logging at 5 Hz or min speed < 5 knots) then the issue(s) will be highlighted and the relevant setting(s) will automatically be pushed to the device.
 
 
@@ -56,7 +56,7 @@ The remainder of this document attempts to summarize how the various technical p
 2023:
 
 - Motions will be handled by the competitors themselves (with technical support available) and new data will be automatically downloaded to the event laptop via the event WiFi.
-- Personal Motions may be taken away by competitors once the new data has been downloaded, whereas hired devices will be put on charge and available for collection the next day.
+- Personal Motions may be taken away by competitors once the new data has been downloaded, whereas hired devices will be put on charge and available for collection the following day.
 
 
 
@@ -88,7 +88,7 @@ Note: The newly created reporting software has already been used to produce [res
 2023
 
 - 2023 is likely to use the Motion Mini for all fleets. Every competitor will have the opportunity to entirely self-serve; setup, registration and daily downloads.
-- Registration will involve a quick WiFi test to check that the Motion Mini can connect to the event WiFi and is set up correctly; e.g. 5 Hz logging and 5 knots min speed. If these settings are incorrect then they will be updated automatically.
+- Registration will involve a quick test to confirm that the Motion Mini can connect to the event WiFi and is set up correctly; e.g. 5 Hz logging and 5 knots min speed. If these settings are incorrect then they will be updated automatically.
 - Automatic downloads of the daily GPS data to the event laptop will be initiated by the competitors themselves (with technical support available) via the event WiFi.
 - Reporting will use the same software as 2022, allowing results to be published as quickly and efficiently as possible.
 
