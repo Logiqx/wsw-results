@@ -27,18 +27,18 @@ The remainder of this document attempts to summarize how the various technical p
 2022
 
 - GT-31s:
-  - GT-31 devices will be set up by competitors as per previous years; i.e. using one of the self-serve laptops, typically during on Fri (pm) or Sat (am).
+  - GT-31 devices will be set up by competitors as per previous years; i.e. using one of the self-serve laptops, typically during  Fri (pm) or Sat (am).
 - Motions:
   - Motion devices will be set up by the WSW team prior to the event (e.g. 5 Hz logging + 5 knots min speed + WiFi details) and name labels attached (e.g. GEO25MIC).
 
 2023
 
 - Motions:
-  - Motion devices owned by competitors should be set up prior to the event; e.g. 5 Hz logging + 5 knots min speed. The Motion firmware will contain the WiFi details.
-  - Motion devices owned by WSW will be set up prior to the event; e.g. 5 Hz logging + 5 knots min speed. The Motion firmware will contain the WiFi details.
+  - Motion devices owned by competitors should be set up prior to the event; e.g. 5 Hz logging + 5 knots min speed. The latest Motion firmware will contain the WiFi details.
+  - Motion devices owned by WSW will be set up prior to the event; e.g. 5 Hz logging + 5 knots min speed. The latest Motion firmware will contain the WiFi details.
 - During registration competitors should attach their name labels, connect their Motion to the WiFi and check that it appears on the event dashboard.
   - If the Motion does no appear on the event dashboard then the firmware and / or WiFi details can be checked / fixed.
-  - If the Motion appears on the dashboard but is set up incorrectly (e.g. not logging at 5 Hz or min speed < 5 knots) then the issue will be highlighted and the relevant setting(s) will automatically be applied to the device.
+  - If the Motion appears on the dashboard but is set up incorrectly (e.g. not logging at 5 Hz or min speed < 5 knots) then the issue(s) will be highlighted and the relevant setting(s) will automatically be pushed to the device.
 
 
 
@@ -47,7 +47,7 @@ The remainder of this document attempts to summarize how the various technical p
 2022
 
 - GT-31s:
-  - GT-31 devices will be handed in and the data downloaded using the existing processes.
+  - GT-31 devices will be handed in and the data downloaded using the existing "end-of-day" processes.
   - Personal GT-31s will be available for collection once the data has been downloaded whereas hired GT-31s will be put on charge.
 - Motions:
   - Motion devices will be handed in and the data downloaded straight to the event laptop using a new process that utilizes the event WiFi.
@@ -56,7 +56,7 @@ The remainder of this document attempts to summarize how the various technical p
 2023:
 
 - Motions will be handled by the competitors themselves (with technical support available) and new data will be automatically downloaded to the event laptop via the event WiFi.
-- Personal devices may be taken away by competitors once the data has been downloaded, whereas hired Motions will be put on charge.
+- Personal Motions may be taken away by competitors once the new data has been downloaded, whereas hired devices will be put on charge and available for collection the next day.
 
 
 
@@ -64,7 +64,7 @@ The remainder of this document attempts to summarize how the various technical p
 
 2022
 
-- GT-31 and Motion tracks will be processed by GPSResults.
+- GT-31 and Motion tracks will be processed by GPSResults as in previous years.
 - Newly created reporting software will use the output of GPSResults to generate the daily rankings and update the weekly rankings.
 
 2023
@@ -80,17 +80,17 @@ Note: The newly created reporting software has already been used to produce [res
 
 2022
 
-- 2022 will be a combination of the existing GT-31 processes and some new processes for the Motion Mini.
-- GT-31 devices will be set up by competitors using the self-serve laptops and the WSW team will download daily data.
+- 2022 will use a combination of the existing GT-31 processes and some new processes for the Motion Mini.
+- GT-31 devices will be set up by competitors using the self-serve laptops and the WSW team will download the daily data.
 - Motion Minis will be set up in advance and the WSW team will oversee the download of daily data via the event WiFi.
-- Reporting will use some newly created software, allowing results to published as quickly and efficiently as possible.
+- Reporting will use some newly created software, allowing results to be published as quickly and efficiently as possible.
 
 2023
 
 - 2023 is likely to use the Motion Mini for all fleets. Every competitor will have the opportunity to entirely self-serve; setup, registration and daily downloads.
 - Registration will involve a quick WiFi test to check that the Motion Mini can connect to the event WiFi and is set up correctly; e.g. 5 Hz logging and 5 knots min speed. If these settings are incorrect then they will be updated automatically.
-- Automatic downloads of daily GPS data to the event laptop will be initiated by the competitors themselves (with technical support available) via the event WiFi.
-- Reporting will use the same software as 2022, allowing results to published as quickly and efficiently as possible.
+- Automatic downloads of the daily GPS data to the event laptop will be initiated by the competitors themselves (with technical support available) via the event WiFi.
+- Reporting will use the same software as 2022, allowing results to be published as quickly and efficiently as possible.
 
 
 
