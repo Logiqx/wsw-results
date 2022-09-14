@@ -29,7 +29,7 @@ The remainder of this document attempts to summarize how the various technical p
 - GT-31s:
   - GT-31 devices will be set up by competitors as per previous years; i.e. using one of the self-serve laptops, typically during on Fri (pm) or Sat (am).
 - Motions:
-  - Motion devices will be set up by the WSW team prior to the event (e.g. 5 Hz logging + WiFi details) and name labels attached (e.g. GEO25MIC).
+  - Motion devices will be set up by the WSW team prior to the event (e.g. 5 Hz logging + 5 knots min speed + WiFi details) and name labels attached (e.g. GEO25MIC).
 
 2023
 
