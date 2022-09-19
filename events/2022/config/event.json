@@ -3,7 +3,7 @@
     "Name": "Weymouth Speed Week 2022",
     "Start Date": "2022-10-15",
     "End Date": "2022-10-21",
-    "Banner": "wswhdr_2022.png"
+    "Banner": "wswlogo_2022.png"
   },
   "Decimals": 3,
   "Courses": {
@@ -24,8 +24,6 @@
       "Amateur",
       "Gold Fleet",
       "Pro Fleet",
-      "Freeride",
-      "Open Class",
       "Kite Fleet",
       "Boat Fleet",
       "Wing Fleet",
@@ -61,6 +59,7 @@
       "Portland Pirates",
       "Surf Hogs",
       "Twb",
+      "-",
       "TBC"
     ]
   },
