@@ -82,22 +82,22 @@
     },
     {
       "Title": "Fastest Lady Sailboards",
-      "Comment": "(excluding pros and youths)",
+      "Comment": "(excluding pros)",
       "Fields": "Name,Nation,Status,First Timer,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet"
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet"
     },
     {
-      "Title": "Fastest Youth Sailboards",
+      "Title": "Fastest Youths",
       "Comment": "(age <18 on 31st Oct)",
       "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet",
+      "Filter": "Entry Type=Youth Weekend",
       "Period": "Session"
     },
     {
-      "Title": "Fastest Youth Sailboards",
+      "Title": "Fastest Youths",
       "Comment": "(age <18 on 31st Oct)",
       "Fields": "Name,Nation,First Timer,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet,Weekend=Y",
+      "Filter": "Entry Type=Youth Weekend,Weekend=Y",
       "Sort": "Speed (kts)=DSC",
       "Period": "Event"
     }
