@@ -1,0 +1,27 @@
+{
+  "motion": {
+    "wifi": "station",
+    "username": "WSW",
+    "identifier": 611,
+    "hardware": {
+      "code": 105,
+      "name": "Wireless Mini M10"
+    },
+    "firmware": {
+      "code": 9001,
+      "name": "9001 Weymouth Speed Week",
+      "special": "This firmware is event specific and most settings are locked. Please upgrade to the latest stable firmware after the event."
+    },
+    "filesystem": {
+      "level": 0
+    },
+    "battery": {
+      "level": 84,
+      "charging": false
+    },
+    "units": {
+      "speed": "kn",
+      "distance": "km"
+    }
+  }
+}
