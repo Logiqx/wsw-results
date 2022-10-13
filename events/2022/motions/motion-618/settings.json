@@ -13,19 +13,23 @@
     "wifi": [
       {
         "login": "WSW",
-        "password_length": "8"
+        "password_length": "8",
+        "trust": "0"
       },
       {
         "login": "",
-        "password_length": "0"
+        "password_length": "0",
+        "trust": "0"
       },
       {
         "login": "",
-        "password_length": "0"
+        "password_length": "0",
+        "trust": "0"
       },
       {
         "login": "WSW",
-        "password_length": "8"
+        "password_length": "8",
+        "trust": "1"
       }
     ],
     "custom_led": {
