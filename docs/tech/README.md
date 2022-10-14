@@ -29,6 +29,7 @@ Some of the technical documentation will be partially duplicated here, but any d
 
 ### Helpful Hints
 
+- [Tips](tips.md) - Simple tips for the office staff, intended as a quick reference.
 - [Diagnostics](diagnostics.md) - explains the significance of any messages output; automatic data fixes, sanity checks, etc.
 - [Gotchas](gotchas.md) - list of possible "gotchas" that may be foreseen and some possible solutions / workarounds.
 - [Tricks and Tips](tricks.md) - technical "tricks and tips" for interrogating configuration files from the command line.
