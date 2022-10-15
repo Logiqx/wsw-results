@@ -3,7 +3,7 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 71,M,Mr,Alastair,Nichol,England,N,Sailboard,Gold-Fleet,,NICHO48ALAST,932000514,V1.4(B0803T),"Puravida Allstars","All Week",Y
 22,M,Mr,Alfie,Wade,England,Y,Kiteboard,Freeride,,WADE40ALFIE,932000579,V1.4(B0803T),,"Youth Weekend",N
 60,M,Mr,Anders,Bjorkqvist,Sweden,N,Sailboard,Gold-Fleet,,,,,,"All Week",N
-98,M,Mr,ANDRE,Bruno,France,Y,Sailboard,Pro-Fleet,,,,,,"All Week",N
+98,M,Mr,Bruno,Andre,France,N,Sailboard,Pro-Fleet,,,,,,"All Week",N
 8,M,Mr,Andrew,Twinn,England,N,Sailboard,Gold-Fleet,,TWINN38ANDRE,832002101,V1.4(B0803T),,"All Week",Y
 90,M,Mr,Andy,Stuart-William,England,N,Sailboard,Gold-Fleet,,STUAR36ANDY,133200511,V1.4(B0803T),,"All Week",Y
 79,M,Mr,Arjan,Vos,Netherlands,Y,Sailboard,Amateur,,VOS39ARJAN,932000551,V1.4(B0803T),,"All Week",N
@@ -17,7 +17,7 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 18,M,Mr,Danny,Cartridge,England,N,Sailboard,Gold-Fleet,,CARTR6DANNY,133200506,V1.4(B0803T),"Hamworthy Heroes","All Week",N
 80,M,Mr,Dave,Strudwick,England,N,Sailboard,Gold-Fleet,,STRUD73DAVE,832004640,V1.4(B0803T),"Forces - Royal Navy","All Week",Y
 55,M,Mr,David,Williams,England,N,Kiteboard,"Open Class",,WILLI43DAVID,932000533,V1.4(B0803T),,"All Week",N
-94,M,Mr,"david ",williams,England,N,Wingboard,Boat-Fleet,,,,,,"2 Days",N
+94,M,Mr,"david ",williams,England,N,Wingboard,Wing-Fleet,,,,,,"2 Days",N
 40,M,Mr,Ed,Sibson,England,N,Boat,Boat-Fleet,Icarus,SIBSO33ED,932000546,V1.4(B0803T),,"All Week",N
 41,M,Mr,Eddie,Marsh,England,Y,Sailboard,Amateur,,MARSH44EDDIE,932000564,V1.4(B0803T),,"All Week",Y
 92,M,Mr,Emeric,Mouret,France,Y,Wingboard,Wing-Fleet,,MOURE25EMERI,932001083,V1.4(B0803T),,"All Week",N
@@ -32,7 +32,7 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 74,M,Mr,"Graham ",Colam,England,Y,Sailboard,Amateur,,COLAM8GRAHA,932000584,V1.4(B0803T),,"All Week",N
 51,M,Mr,Harry,Keenan,England,N,Wingboard,Wing-Fleet,,,,,"Forces - Royal Navy","All Week",N
 45,M,Mr,Harry,Keenan,England,N,Sailboard,Amateur,,KEENA17HARRY,932000569,V1.4(B0803T),"Forces - Royal Navy","All Week",N
-99,F,miss,helena,darvelid,England,N,Boat,Boat-Fleet,,DARVE75HELEN,932000179,V1.4(B0803T),,"All Week",N
+99,F,miss,helena,darvelid,England,N,Wingboard,Wing-Fleet,,DARVE75HELEN,932000179,V1.4(B0803T),,"All Week",N
 23,M,Mr,Iain,Neary,England,Y,Sailboard,Amateur,,NEARY65IAIN,123200465,V1.4(B0315C),,"All Week",Y
 3,M,Mr,Ian,Hill,England,N,Sailboard,Gold-Fleet,,HILL13IAN,932000570,V1.4(B0803T),,"All Week",N
 59,M,Mr,Ian,Kraft,England,N,Wingboard,Wing-Fleet,,KRAFT20IAN,932000540,V1.4(B0803T),,"All Week",Y
@@ -51,12 +51,12 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 83,F,Miss,"Lilia ","Yelland ",England,Y,Sailboard,Amateur,,YELLA66LILIA,123200455,V1.4(B0803T),,"Youth Weekend",Y
 37,M,Mr,"Maciej ",Bukolt,Poland,Y,Sailboard,Amateur,,BUKOL4MACIE,932000583,V1.4(B0803T),,"All Week",Y
 66,M,Mr,Mark,Newman,England,N,Sailboard,Pro-Fleet,,NEWMA26MARK,833002174,V1.4(B0315C),,"All Week",N
-89,M,Mr,Mark,Palmer,England,N,Sailboard,Gold-Fleet,,,,,,"All Week",Y
+89,M,Mr,Mark,Palmer,England,N,Sailboard,Gold-Fleet,,PALME77MARK,123200917,V1.4(B0315C),,"All Week",Y
 29,M,Mr,Mark,Salvage,England,N,Wingboard,Wing-Fleet,,SALVA31MARK,123201465,V1.4(B0803T),,"All Week",Y
 44,M,Mr,Martin,Carter,England,N,Kiteboard,"Open Class",,CARTE62MARTI,103200708,V1.4(B0315C),,"All Week",N
-57,M,Mr,Matthew,York,England,N,Sailboard,Gold-Fleet,,,,,Pitsford,"All Week",Y
-43,M,Mr,Michael,George,England,N,Wingboard,Wing-Fleet,,GEORG51MICHA,932000175,V1.4(B0803T),"Portland Pirates","All Week",Y
+57,M,Mr,Matthew,York,England,N,Sailboard,Gold-Fleet,,YORK78MATTH,123200088,V1.4(B0315C),Pitsford,"All Week",Y
 1,M,Mr,Michael,George,England,N,Sailboard,Pro-Fleet,,,,,"Portland Pirates","All Week",Y
+43,M,Mr,Michael,George,England,N,Wingboard,Wing-Fleet,,GEORG51MICHA,932000175,V1.4(B0803T),"Portland Pirates","All Week",Y
 5,M,Mr,Neil,Thompson,England,N,Kiteboard,"Open Class",,,,,,"All Week",N
 61,M,Mr,Neil,Thorne,England,Y,Wingboard,Wing-Fleet,,THORN37NEIL,932000550,V1.4(B0803T),,"All Week",N
 34,M,Mr,Neven,Juretic,England,N,Sailboard,Gold-Fleet,,JURET16NEVEN,932000576,V1.4(B0803T),,"All Week",Y
@@ -68,23 +68,23 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 54,M,Mr,Paul,Wakelin,Wales,Y,Wingboard,Wing-Fleet,,WAKEL41PAUL,932000552,V1.4(B0803T),,"All Week",N
 50,M,Mr,Pete,Young,England,N,Sailboard,Pro-Fleet,,,,,,"All Week",N
 13,M,Mr,Peter,Crosby,England,N,Sailboard,Gold-Fleet,,CROSB10PETER,932000562,V1.4(B0803T),"Surf Hogs","All Week",N
-87,M,Mr,Peter,Martin,England,N,Kiteboard,Freeride,,MARTI74PETER,113200989,V1.4(B0315C),,"All Week",Y
+87,M,Mr,Peter,Martin,England,N,Kiteboard,"Open Class",,MARTI74PETER,113200989,V1.4(B0315C),,"All Week",Y
 52,M,Mr,Phil,Horder,England,N,Kiteboard,Freeride,,HORDE15PHIL,932000588,V1.4(B0803T),,"All Week",N
 11,M,Mr,Richard,Crosby,England,N,Sailboard,Gold-Fleet,,CROSB9RICHA,932000560,V1.4(B0803T),"Surf Hogs","All Week",Y
 27,M,Mr,Richard,Hobson,England,N,Wingboard,Wing-Fleet,,HOBSO14RICHA,932000712,V1.4(B0803T),,"All Week",Y
-46,M,Mr,Rob,Dunn,England,N,Sailboard,Amateur,,,,,"Forces - Royal Navy","All Week",N
+46,M,Mr,Rob,Dunn,England,N,Sailboard,Amateur,,DUNN79ROB,133200830,V1.4(B0315C),"Forces - Royal Navy","All Week",N
 64,M,Mr,Robert,Spagnoletti,England,N,Sailboard,Gold-Fleet,,SPAGN45ROBER,113200986,V1.4(D0428T),,"All Week",N
 49,M,Mr,Robin,Penna,England,N,Sailboard,Gold-Fleet,,,,,,"All Week",N
-16,M,Mr,Robin,Russell,England,N,Sailboard,Gold-Fleet,,,,,"Surf Hogs","All Week",N
+16,M,Mr,Robin,Russell,England,N,Sailboard,Gold-Fleet,,RUSSE80ROBIN,113200238,V1.4(B0803T),"Surf Hogs","All Week",N
 26,M,Mr,Ross,Palmer,England,Y,Sailboard,Amateur,,PALME28ROSS,932000575,V1.4(B0803T),,"All Week",N
 75,M,Mr,Scott,Norman,England,Y,Sailboard,Amateur,,NORMA27SCOTT,833002160,V1.4(B0315C),,"Youth Weekend",Y
 88,M,Mr,Scotty,Stallman,England,N,Sailboard,Pro-Fleet,,STALL61SCOTT,832001487,V1.4(B0803T),"Portland Pirates","All Week",Y
-63,M,Mr,Simon,Chippington,England,N,Sailboard,Gold-Fleet,,CHIPP71SIMON,123200225,V1.4(B0315C),,"All Week",Y
 56,M,Mr,Simon,Chippington,England,N,Wingboard,Wing-Fleet,,CHIPP70SIMON,932000170,V1.4(D0428T),,"All Week",Y
+63,M,Mr,Simon,Chippington,England,N,Sailboard,Gold-Fleet,,CHIPP71SIMON,123200225,V1.4(B0315C),,"All Week",Y
 19,M,Mr,Simon,Perkins,England,N,Wingboard,Wing-Fleet,,PERKI29SIMON,932000403,V1.4(D0428T),,"All Week",N
-7,M,Mr,Simon,Pettifer,England,N,Sailboard,Pro-Fleet,,,,,,"All Week",Y
+7,M,Mr,Simon,Pettifer,England,N,Sailboard,Pro-Fleet,,,,,"Hamworthy Heroes","All Week",Y
 9,M,Mr,Simon,Sanderson,England,N,Wingboard,Wing-Fleet,,SANDE32SIMON,932000196,V1.3(B1015),,"All Week",N
-35,M,Mr,Stacey,Vass,England,N,Wingboard,Wing-Fleet,,VASS56STACE,832001698,V1.4(D0428T),,"All Week",N
+35,M,Mr,Stacey,Vass,England,N,Wingboard,Wing-Fleet,,VASS56STACE,832001698,V1.4(D0428T),,"All Week",Y
 4,M,Mr,Steve,Thompson,England,N,Sailboard,Amateur,,THOMP50STEVE,123200071,V1.4(B0803T),,"All Week",N
 24,M,Mr,Steve,Watson,England,N,Sailboard,Amateur,,WATSO42STEVE,932000555,V1.4(B0803T),"Surf Hogs","All Week",N
 58,M,Mr,Stewart,Veitch,Scotland,Y,Sailboard,Amateur,,VEITC76STEWA,833002174,V1.4(B0315C),"Forces - Royal Navy","All Week",Y
@@ -95,7 +95,7 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 36,M,Mr,Trevor,Funnell,England,N,Sailboard,Amateur,,FUNNE11TREVO,932000572,V1.4(B0803T),,"All Week",Y
 42,M,Mr,Trevor,Whatford,England,N,Sailboard,Gold-Fleet,,WHATF68TREVO,832004534,V1.4(D0428T),,"All Week",Y
 47,F,Mrs,Trish,Kohn,England,N,Sailboard,Amateur,,KOHN19TRISH,932001290,V1.4(B0803T),"Forces - Royal Navy","All Week",N
-62,M,Mr,Will,Trossell,England,N,Sailboard,Gold-Fleet,,TROSS69WILL,133200819,V1.4(B0803T),,"All Week",Y
+62,M,Mr,Will,Trossell,England,N,Sailboard,Gold-Fleet,,TROSS69WILL,133200819,V1.4(B0803T),"Hamworthy Heroes","All Week",Y
 81,M,Mr,Zack,Peaple,England,Y,Sailboard,Amateur,,PEAPL58ZACK,113200990,V1.4(B0803T),,"Youth Weekend",N
-69,F,Mrs,Zara,Davis,England,N,Wingboard,Wing-Fleet,,DAVIS47ZARA,932000382,V1.4(D0428T),,"All Week",Y
 93,F,Mrs,Zara,Davis,England,N,Sailboard,Pro-Fleet,,,,,,"All Week",Y
+69,F,Mrs,Zara,Davis,England,N,Wingboard,Wing-Fleet,,DAVIS47ZARA,932000382,V1.4(D0428T),,"All Week",Y
