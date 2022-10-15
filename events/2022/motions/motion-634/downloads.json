@@ -1,1 +1,15 @@
-{}
+{
+  "WIL112DAV_634_20221015_092210.oao": {
+    "motion_file": "/logs/2022/10/0634_2022-10-15-0922.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/WIL112DAV_634_20221015_092210.oao",
+    "size": 1789088,
+    "start_date": 1665822130000,
+    "end_date": 1665851868000,
+    "duration": 29738000,
+    "distance": 60112623,
+    "2s_best": 20735,
+    "10s_best": 20213,
+    "500m_best": 19493,
+    "status": "completed"
+  }
+}

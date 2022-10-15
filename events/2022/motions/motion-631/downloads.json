@@ -1,1 +1,15 @@
-{}
+{
+  "CAR109MAR_631_20221015_093415.oao": {
+    "motion_file": "/logs/2022/10/0631_2022-10-15-0934.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/CAR109MAR_631_20221015_093415.oao",
+    "size": 1725596,
+    "start_date": 1665822855000,
+    "end_date": 1665852200000,
+    "duration": 29345000,
+    "distance": 53515101,
+    "2s_best": 21318,
+    "10s_best": 21179,
+    "500m_best": 20817,
+    "status": "completed"
+  }
+}

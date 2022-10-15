@@ -1,1 +1,15 @@
-{}
+{
+  "DAV121ZAR_647_20221015_104642.oao": {
+    "motion_file": "/logs/2022/10/0647_2022-10-15-1046.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/DAV121ZAR_647_20221015_104642.oao",
+    "size": 847316,
+    "start_date": 1665827202000,
+    "end_date": 1665852184000,
+    "duration": 24982000,
+    "distance": 35673205,
+    "2s_best": 16240,
+    "10s_best": 15885,
+    "500m_best": 15426,
+    "status": "completed"
+  }
+}

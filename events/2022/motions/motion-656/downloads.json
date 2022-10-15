@@ -1,1 +1,15 @@
-{}
+{
+  "LON115JAM_656_20221015_105818.oao": {
+    "motion_file": "/logs/2022/10/0656_2022-10-15-1058.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/LON115JAM_656_20221015_105818.oao",
+    "size": 1704120,
+    "start_date": 1665827898000,
+    "end_date": 1665852160000,
+    "duration": 24262000,
+    "distance": 58032334,
+    "2s_best": 22887,
+    "10s_best": 21935,
+    "500m_best": 21408,
+    "status": "completed"
+  }
+}

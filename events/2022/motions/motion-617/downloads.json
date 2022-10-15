@@ -1,1 +1,15 @@
-{}
+{
+  "PET103SIM_617_20221015_114324.oao": {
+    "motion_file": "/logs/2022/10/0617_2022-10-15-1143.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/PET103SIM_617_20221015_114324.oao",
+    "size": 1610936,
+    "start_date": 1665830604000,
+    "end_date": 1665852010000,
+    "duration": 21406000,
+    "distance": 72878425,
+    "2s_best": 19161,
+    "10s_best": 18521,
+    "500m_best": 18069,
+    "status": "completed"
+  }
+}

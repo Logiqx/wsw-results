@@ -1,1 +1,15 @@
-{}
+{
+  "THO102NEI_615_20221015_110636.oao": {
+    "motion_file": "/logs/2022/10/0615_2022-10-15-1106.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/THO102NEI_615_20221015_110636.oao",
+    "size": 1150892,
+    "start_date": 1665828396000,
+    "end_date": 1665851982000,
+    "duration": 23586000,
+    "distance": 39509877,
+    "2s_best": 21132,
+    "10s_best": 20360,
+    "500m_best": 19385,
+    "status": "completed"
+  }
+}

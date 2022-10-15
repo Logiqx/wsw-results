@@ -1,1 +1,15 @@
-{}
+{
+  "STA118SCO_633_20221015_104220.oao": {
+    "motion_file": "/logs/2022/10/0633_2022-10-15-1042.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/STA118SCO_633_20221015_104220.oao",
+    "size": 1997192,
+    "start_date": 1665826940000,
+    "end_date": 1665852228000,
+    "duration": 25288000,
+    "distance": 92113526,
+    "2s_best": 20992,
+    "10s_best": 20453,
+    "500m_best": 19874,
+    "status": "completed"
+  }
+}

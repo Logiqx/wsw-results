@@ -314,6 +314,27 @@
       "board": "",
       "sail": "",
       "fin": ""
+    },
+    {
+      "file": "/logs/2022/10/0635_2022-10-15-1040.oao",
+      "size": 1066808,
+      "timezone": 60,
+      "mode": 0,
+      "start_date": 1665826818000,
+      "end_date": 1665852126000,
+      "duration": 25308000,
+      "distance": 48718139,
+      "2s_best": 18704,
+      "10s_best": 18380,
+      "500m_best": 17547,
+      "1852m_best": 11709,
+      "a500m_best": 8508,
+      "1h_best": 0,
+      "spot": "",
+      "wind": "",
+      "board": "",
+      "sail": "",
+      "fin": ""
     }
   ]
 }
