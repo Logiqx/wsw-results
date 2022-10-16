@@ -126,7 +126,7 @@
     },
     {
       "Category": "Lady Sailboard",
-      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet",
+      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
       "Places": 1
     },
     {
