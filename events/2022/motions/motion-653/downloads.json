@@ -24,5 +24,18 @@
     "10s_best": 1565,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "AND122BRU_653_20221017_094250.oao": {
+    "motion_file": "/logs/2022/10/0653_2022-10-17-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/AND122BRU_653_20221017_094250.oao",
+    "size": 1588,
+    "start_date": 1665996170000,
+    "end_date": 1666007004000,
+    "duration": 10834000,
+    "distance": 106868,
+    "2s_best": 1933,
+    "10s_best": 1423,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

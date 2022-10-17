@@ -24,5 +24,18 @@
     "10s_best": 15656,
     "500m_best": 15276,
     "status": "completed"
+  },
+  "SPR106NIG_642_20221017_095116.oao": {
+    "motion_file": "/logs/2022/10/0642_2022-10-17-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/SPR106NIG_642_20221017_095116.oao",
+    "size": 1115012,
+    "start_date": 1665996676000,
+    "end_date": 1666008988000,
+    "duration": 12312000,
+    "distance": 44559229,
+    "2s_best": 16105,
+    "10s_best": 15965,
+    "500m_best": 15389,
+    "status": "completed"
   }
 }

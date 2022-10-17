@@ -24,5 +24,18 @@
     "10s_best": 14177,
     "500m_best": 13860,
     "status": "completed"
+  },
+  "PET103SIM_617_20221017_095654.oao": {
+    "motion_file": "/logs/2022/10/0617_2022-10-17-0956.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/PET103SIM_617_20221017_095654.oao",
+    "size": 1032176,
+    "start_date": 1665997014000,
+    "end_date": 1666014068000,
+    "duration": 17054000,
+    "distance": 44455559,
+    "2s_best": 15711,
+    "10s_best": 15600,
+    "500m_best": 15391,
+    "status": "completed"
   }
 }
