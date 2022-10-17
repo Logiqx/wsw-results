@@ -148,6 +148,16 @@ table.entrants tr td:nth-child(2) {
 }
 
 /* Name */
+table.tallies tr td:nth-child(2) {
+  text-align: left;
+}
+/* Nation */
+table.tallies tr td:nth-child(3) {
+  text-align: left;
+  white-space: nowrap;
+}
+
+/* Name */
 table.fastest tr td:nth-child(2),
 table.rankings tr td:nth-child(2),
 table.craft tr td:nth-child(2),
