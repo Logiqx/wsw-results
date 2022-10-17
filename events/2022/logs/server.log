@@ -3859,3 +3859,157 @@
 2022-10-16 16:28:06,DEBUG,DisconnectionThread #7 finished
 2022-10-16 16:28:06,DEBUG,DisconnectionThread #8 finished
 2022-10-16 16:28:06,INFO,Thread pools stopped
+2022-10-16 17:37:09,INFO,Starting thread pools
+2022-10-16 17:37:09,DEBUG,DetectionThreadPool starting
+2022-10-16 17:37:09,DEBUG,DetectionThread #1 starting
+2022-10-16 17:37:09,DEBUG,DetectionThread #2 starting
+2022-10-16 17:37:09,DEBUG,DetectionThread #3 starting
+2022-10-16 17:37:09,DEBUG,DetectionThread #4 starting
+2022-10-16 17:37:09,DEBUG,DetectionThread #5 starting
+2022-10-16 17:37:09,DEBUG,DetectionThread #6 starting
+2022-10-16 17:37:09,DEBUG,DetectionThread #7 starting
+2022-10-16 17:37:09,DEBUG,DetectionThread #8 starting
+2022-10-16 17:37:09,DEBUG,InspectionThreadPool starting
+2022-10-16 17:37:09,DEBUG,InspectionThread #1 starting
+2022-10-16 17:37:09,DEBUG,InspectionThread #2 starting
+2022-10-16 17:37:09,DEBUG,InspectionThread #3 starting
+2022-10-16 17:37:09,DEBUG,InspectionThread #4 starting
+2022-10-16 17:37:09,DEBUG,DownloadThreadPool starting
+2022-10-16 17:37:09,DEBUG,DownloadThread #1 starting
+2022-10-16 17:37:09,DEBUG,DownloadThread #2 starting
+2022-10-16 17:37:09,DEBUG,DownloadThread #3 starting
+2022-10-16 17:37:09,DEBUG,DownloadThread #4 starting
+2022-10-16 17:37:09,DEBUG,DisconnectionThreadPool starting
+2022-10-16 17:37:09,DEBUG,DisconnectionThread #1 starting
+2022-10-16 17:37:09,DEBUG,DisconnectionThread #2 starting
+2022-10-16 17:37:09,DEBUG,DisconnectionThread #3 starting
+2022-10-16 17:37:09,DEBUG,DisconnectionThread #4 starting
+2022-10-16 17:37:09,DEBUG,DisconnectionThread #5 starting
+2022-10-16 17:37:09,DEBUG,DisconnectionThread #6 starting
+2022-10-16 17:37:09,DEBUG,DisconnectionThread #7 starting
+2022-10-16 17:37:09,DEBUG,DisconnectionThread #8 starting
+2022-10-16 17:37:09,INFO,Thread pools started
+2022-10-16 17:38:19,DEBUG,motion-625 detected at 192.168.0.190
+2022-10-16 17:38:19,INFO,motion-625 is connected
+2022-10-16 17:38:20,DEBUG,motion-625 firmware is approved (9002 Weymouth Speed Week)
+2022-10-16 17:38:20,DEBUG,motion-625 storage is 0% full
+2022-10-16 17:38:20,INFO,motion-625 battery level is 100%
+2022-10-16 17:38:20,INFO,motion-625 can be disconnected
+2022-10-16 17:38:29,DEBUG,motion-631 detected at 192.168.0.194
+2022-10-16 17:38:29,INFO,motion-631 is connected
+2022-10-16 17:38:30,DEBUG,motion-631 firmware is approved (9002 Weymouth Speed Week)
+2022-10-16 17:38:30,DEBUG,motion-631 storage is 0% full
+2022-10-16 17:38:30,INFO,motion-631 battery level is 100%
+2022-10-16 17:38:30,INFO,motion-631 can be disconnected
+2022-10-16 17:38:39,DEBUG,motion-635 detected at 192.168.0.210
+2022-10-16 17:38:39,DEBUG,motion-633 detected at 192.168.0.214
+2022-10-16 17:38:39,INFO,motion-633 is connected
+2022-10-16 17:38:39,INFO,motion-635 is connected
+2022-10-16 17:38:40,DEBUG,motion-635 firmware is approved (9002 Weymouth Speed Week)
+2022-10-16 17:38:40,DEBUG,motion-633 firmware is approved (9002 Weymouth Speed Week)
+2022-10-16 17:38:40,DEBUG,motion-633 storage is 0% full
+2022-10-16 17:38:40,DEBUG,motion-635 storage is 0% full
+2022-10-16 17:38:40,INFO,motion-633 battery level is 100%
+2022-10-16 17:38:40,INFO,motion-635 battery level is 100%
+2022-10-16 17:38:40,INFO,motion-635 can be disconnected
+2022-10-16 17:38:41,INFO,motion-633 can be disconnected
+2022-10-16 17:38:49,DEBUG,motion-617 detected at 192.168.0.142
+2022-10-16 17:38:49,DEBUG,motion-642 detected at 192.168.0.198
+2022-10-16 17:38:49,INFO,motion-617 is connected
+2022-10-16 17:38:49,INFO,motion-642 is connected
+2022-10-16 17:38:50,DEBUG,motion-617 firmware is approved (9002 Weymouth Speed Week)
+2022-10-16 17:38:50,DEBUG,motion-617 storage is 0% full
+2022-10-16 17:38:50,INFO,motion-617 battery level is 100%
+2022-10-16 17:38:50,DEBUG,motion-642 firmware is approved (9002 Weymouth Speed Week)
+2022-10-16 17:38:50,DEBUG,motion-642 storage is 0% full
+2022-10-16 17:38:50,INFO,motion-642 battery level is 100%
+2022-10-16 17:38:50,INFO,motion-617 can be disconnected
+2022-10-16 17:38:51,INFO,motion-642 can be disconnected
+2022-10-16 17:38:54,INFO,motion-631 has been disconnected
+2022-10-16 17:38:59,DEBUG,motion-631 detected at 192.168.0.194
+2022-10-16 17:39:04,INFO,motion-625 has been disconnected
+2022-10-16 17:39:04,INFO,motion-633 has been disconnected
+2022-10-16 17:39:04,INFO,motion-635 has been disconnected
+2022-10-16 17:39:04,DEBUG,motion-631 not accepting connections
+2022-10-16 17:39:09,DEBUG,motion-625 detected at 192.168.0.190
+2022-10-16 17:39:09,DEBUG,motion-631 detected at 192.168.0.194
+2022-10-16 17:39:09,DEBUG,motion-635 detected at 192.168.0.210
+2022-10-16 17:39:09,DEBUG,motion-633 detected at 192.168.0.214
+2022-10-16 17:39:14,INFO,motion-617 has been disconnected
+2022-10-16 17:39:14,INFO,motion-642 has been disconnected
+2022-10-16 17:39:14,DEBUG,motion-625 not accepting connections
+2022-10-16 17:39:14,DEBUG,motion-631 not accepting connections
+2022-10-16 17:39:14,DEBUG,motion-635 not accepting connections
+2022-10-16 17:39:14,DEBUG,motion-633 not accepting connections
+2022-10-16 17:39:19,DEBUG,motion-617 detected at 192.168.0.142
+2022-10-16 17:39:19,DEBUG,motion-642 detected at 192.168.0.198
+2022-10-16 17:39:19,DEBUG,motion-625 detected at 192.168.0.190
+2022-10-16 17:39:19,DEBUG,motion-631 detected at 192.168.0.194
+2022-10-16 17:39:19,DEBUG,motion-635 detected at 192.168.0.210
+2022-10-16 17:39:19,DEBUG,motion-633 detected at 192.168.0.214
+2022-10-16 17:39:24,DEBUG,motion-617 not accepting connections
+2022-10-16 17:39:24,DEBUG,motion-642 not accepting connections
+2022-10-16 17:39:24,DEBUG,motion-625 not accepting connections
+2022-10-16 17:39:24,DEBUG,motion-631 not accepting connections
+2022-10-16 17:39:24,DEBUG,motion-635 not accepting connections
+2022-10-16 17:39:24,DEBUG,motion-633 not accepting connections
+2022-10-16 17:39:29,DEBUG,motion-642 detected at 192.168.0.198
+2022-10-16 17:39:29,DEBUG,motion-617 detected at 192.168.0.142
+2022-10-16 17:39:29,DEBUG,motion-625 detected at 192.168.0.190
+2022-10-16 17:39:29,DEBUG,motion-635 detected at 192.168.0.210
+2022-10-16 17:39:29,DEBUG,motion-633 detected at 192.168.0.214
+2022-10-16 17:39:34,DEBUG,motion-617 not accepting connections
+2022-10-16 17:39:34,DEBUG,motion-642 not accepting connections
+2022-10-16 17:39:34,DEBUG,motion-625 not accepting connections
+2022-10-16 17:39:34,DEBUG,motion-635 not accepting connections
+2022-10-16 17:39:34,DEBUG,motion-633 not accepting connections
+2022-10-16 17:39:39,DEBUG,motion-601 detected at 192.168.0.162
+2022-10-16 17:39:39,DEBUG,motion-617 detected at 192.168.0.142
+2022-10-16 17:39:39,DEBUG,motion-642 detected at 192.168.0.198
+2022-10-16 17:39:39,DEBUG,motion-625 detected at 192.168.0.190
+2022-10-16 17:39:39,INFO,motion-601 is connected
+2022-10-16 17:39:40,DEBUG,motion-601 firmware is approved (9002 Weymouth Speed Week)
+2022-10-16 17:39:40,DEBUG,motion-601 storage is 0% full
+2022-10-16 17:39:40,INFO,motion-601 battery level is 100%
+2022-10-16 17:39:40,INFO,motion-601 can be disconnected
+2022-10-16 17:39:44,DEBUG,motion-617 not accepting connections
+2022-10-16 17:39:44,DEBUG,motion-642 not accepting connections
+2022-10-16 17:39:44,DEBUG,motion-625 not accepting connections
+2022-10-16 17:40:04,INFO,motion-601 has been disconnected
+2022-10-16 17:40:09,DEBUG,motion-601 detected at 192.168.0.162
+2022-10-16 17:40:14,DEBUG,motion-601 not accepting connections
+2022-10-16 17:40:19,DEBUG,motion-601 detected at 192.168.0.162
+2022-10-16 17:40:24,DEBUG,motion-601 not accepting connections
+2022-10-16 17:40:29,DEBUG,motion-601 detected at 192.168.0.162
+2022-10-16 17:40:34,DEBUG,motion-601 not accepting connections
+2022-10-16 17:41:14,INFO,Keyboard interrupt
+2022-10-16 17:41:14,INFO,Stopping thread pools
+2022-10-16 17:41:14,DEBUG,DetectionThreadPool finished
+2022-10-16 17:41:14,DEBUG,DetectionThread #1 finished
+2022-10-16 17:41:14,DEBUG,DetectionThread #2 finished
+2022-10-16 17:41:14,DEBUG,DetectionThread #3 finished
+2022-10-16 17:41:14,DEBUG,DetectionThread #4 finished
+2022-10-16 17:41:14,DEBUG,DetectionThread #5 finished
+2022-10-16 17:41:14,DEBUG,DetectionThread #6 finished
+2022-10-16 17:41:14,DEBUG,DetectionThread #7 finished
+2022-10-16 17:41:14,DEBUG,DetectionThread #8 finished
+2022-10-16 17:41:14,DEBUG,InspectionThreadPool finished
+2022-10-16 17:41:14,DEBUG,InspectionThread #1 finished
+2022-10-16 17:41:14,DEBUG,InspectionThread #2 finished
+2022-10-16 17:41:14,DEBUG,InspectionThread #3 finished
+2022-10-16 17:41:14,DEBUG,InspectionThread #4 finished
+2022-10-16 17:41:14,DEBUG,DownloadThreadPool finished
+2022-10-16 17:41:14,DEBUG,DownloadThread #1 finished
+2022-10-16 17:41:14,DEBUG,DownloadThread #2 finished
+2022-10-16 17:41:14,DEBUG,DownloadThread #3 finished
+2022-10-16 17:41:14,DEBUG,DownloadThread #4 finished
+2022-10-16 17:41:14,DEBUG,DisconnectionThreadPool finished
+2022-10-16 17:41:14,DEBUG,DisconnectionThread #1 finished
+2022-10-16 17:41:14,DEBUG,DisconnectionThread #2 finished
+2022-10-16 17:41:14,DEBUG,DisconnectionThread #3 finished
+2022-10-16 17:41:14,DEBUG,DisconnectionThread #4 finished
+2022-10-16 17:41:14,DEBUG,DisconnectionThread #5 finished
+2022-10-16 17:41:14,DEBUG,DisconnectionThread #6 finished
+2022-10-16 17:41:14,DEBUG,DisconnectionThread #7 finished
+2022-10-16 17:41:14,DEBUG,DisconnectionThread #8 finished
+2022-10-16 17:41:14,INFO,Thread pools stopped
