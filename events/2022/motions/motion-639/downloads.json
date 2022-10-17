@@ -11,5 +11,18 @@
     "10s_best": 19383,
     "500m_best": 18831,
     "status": "completed"
+  },
+  "NEW114MAR_639_20221017_100502.oao": {
+    "motion_file": "/logs/2022/10/0639_2022-10-17-1005.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/NEW114MAR_639_20221017_100502.oao",
+    "size": 1418016,
+    "start_date": 1665997502000,
+    "end_date": 1666017168000,
+    "duration": 19666000,
+    "distance": 46110604,
+    "2s_best": 14086,
+    "10s_best": 13441,
+    "500m_best": 12936,
+    "status": "completed"
   }
 }
