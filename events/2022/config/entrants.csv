@@ -42,6 +42,7 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 67,M,Mr,James,Longmuir,England,N,Kiteboard,"Open Class",,,,,,"All Week",N
 2,M,Mr,Jean-Marc,"De Bruyne",Belgium,N,Sailboard,Pro-Fleet,,DEBR57JEAN,103200137,V1.4(B0315C),,"All Week",N
 100,M,Mr,Jim,Crossley,England,N,Sailboard,Pro-Fleet,,,,,,"All Week",Y
+1000,M,Mr,Joe,Adams,England,N,Wingboard,Amateur,,ADAMS88JOE,123200239,V1.4(B0803T),,"All Week",N
 39,M,Mr,Joe,Trunkfield,England,Y,Sailboard,Amateur,,TRUNK54JOE,832002319,V1.4(B0803T),,"All Week",Y
 30,M,Mr,John,Oliver,England,N,Sailboard,Gold-Fleet,,OLIVE64JOHN,933000012,V1.4(D0428T),"Surf Hogs","All Week",Y
 77,M,Mr,Joshua,Pinder,England,N,Sailboard,Amateur,,PINDE30JOSHU,932001309,V1.3(B1015),"Forces - Royal Navy","All Week",N
