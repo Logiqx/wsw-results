@@ -24,5 +24,18 @@
     "10s_best": 5240,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "DEB101JEA_611_20221018_121058.oao": {
+    "motion_file": "/logs/2022/10/0611_2022-10-18-1210.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221018/DEB101JEA_611_20221018_121058.oao",
+    "size": 1182092,
+    "start_date": 1666091458000,
+    "end_date": 1666108730000,
+    "duration": 17272000,
+    "distance": 41698644,
+    "2s_best": 13183,
+    "10s_best": 13066,
+    "500m_best": 12573,
+    "status": "completed"
   }
 }
