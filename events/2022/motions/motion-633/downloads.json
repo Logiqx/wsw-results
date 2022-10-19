@@ -50,5 +50,18 @@
     "10s_best": 16822,
     "500m_best": 16627,
     "status": "completed"
+  },
+  "STA118SCO_633_20221019_111844.oao": {
+    "motion_file": "/logs/2022/10/0633_2022-10-19-1118.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221019/STA118SCO_633_20221019_111844.oao",
+    "size": 1857572,
+    "start_date": 1666174724000,
+    "end_date": 1666194768000,
+    "duration": 20044000,
+    "distance": 72500554,
+    "2s_best": 19378,
+    "10s_best": 18900,
+    "500m_best": 17906,
+    "status": "completed"
   }
 }

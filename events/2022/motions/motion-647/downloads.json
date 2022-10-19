@@ -24,5 +24,18 @@
     "10s_best": 21140,
     "500m_best": 20961,
     "status": "completed"
+  },
+  "DAV121ZAR_647_20221019_112616.oao": {
+    "motion_file": "/logs/2022/10/0647_2022-10-19-1126.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221019/DAV121ZAR_647_20221019_112616.oao",
+    "size": 216816,
+    "start_date": 1666175176000,
+    "end_date": 1666194732000,
+    "duration": 19556000,
+    "distance": 7906276,
+    "2s_best": 12509,
+    "10s_best": 12218,
+    "500m_best": 10805,
+    "status": "completed"
   }
 }

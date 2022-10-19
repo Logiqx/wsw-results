@@ -50,5 +50,18 @@
     "10s_best": 15909,
     "500m_best": 15397,
     "status": "completed"
+  },
+  "VAN119PAT_641_20221019_111450.oao": {
+    "motion_file": "/logs/2022/10/0641_2022-10-19-1114.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221019/VAN119PAT_641_20221019_111450.oao",
+    "size": 1579580,
+    "start_date": 1666174490000,
+    "end_date": 1666194888000,
+    "duration": 20398000,
+    "distance": 56937472,
+    "2s_best": 17061,
+    "10s_best": 16742,
+    "500m_best": 16164,
+    "status": "completed"
   }
 }
