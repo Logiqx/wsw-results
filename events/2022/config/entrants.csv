@@ -7,6 +7,7 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 8,M,Mr,Andrew,Twinn,England,N,Sailboard,Gold-Fleet,,TWINN38ANDRE,832002101,V1.4(B0803T),,"All Week",Y
 90,M,Mr,Andy,Stuart-William,England,N,Sailboard,Gold-Fleet,,STUAR36ANDY,133200511,V1.4(B0803T),,"All Week",Y
 79,M,Mr,Arjan,Vos,Netherlands,Y,Sailboard,Amateur,,VOS39ARJAN,932000551,V1.4(B0803T),,"All Week",N
+116,M,Mr,Ben,Robbins,England,Y,Sailboard,Gold-Fleet,,ROBBI93BEN,832004503,V1.4(B0803T),,"All Week",Y
 82,M,Mr,Benoit,Gaudiot,France,N,Kiteboard,"Open Class",,,,,,"All Week",N
 20,M,Mr,Bob,Cartridge,England,N,Sailboard,Gold-Fleet,,CARTR5BOB,932000585,V1.4(B0803T),"Hamworthy Heroes","All Week",N
 101,M,Mr,Bob,Cunningham,England,N,Sailboard,Pro-Fleet,,,,,,"All Week",Y
@@ -65,7 +66,7 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 61,M,Mr,Neil,Thorne,England,Y,Wingboard,Wing-Fleet,,THORN37NEIL,932000550,V1.4(B0803T),,"All Week",N
 34,M,Mr,Neven,Juretic,England,N,Sailboard,Gold-Fleet,,JURET16NEVEN,932000576,V1.4(B0803T),,"All Week",Y
 48,M,Mr,Nic,Dodd,England,N,Sailboard,Amateur,,,,,,"All Week",Y
-78,M,Mr,Nick,Povey,England,N,Boat,Boat-Fleet,Astus,,,,,"All Week",N
+78,M,Mr,Nick,Povey,England,N,Boat,Boat-Fleet,Astus,POVEY94NICK,932000535,V1.4(B0803T),,"All Week",N
 31,M,Mr,Nigel,Spriggs,Uk,N,Sailboard,Pro-Fleet,,SPRIG34NIGEL,932000531,V1.4(B0803T),"Hamworthy Heroes","All Week",Y
 91,M,Mr,Patrick,"Van Hoof",Belgium,N,Sailboard,Pro-Fleet,,,,,,"All Week",N
 76,M,Mr,Paul,Arnold,England,N,Sailboard,Amateur,,ARNOL60PAUL,932000385,V1.3(B1123T),,"All Week",Y
@@ -89,6 +90,7 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 111,M,Mr,Simon,Barker,England,Y,Sailboard,Amateur,,BARKE90SIMON,932000559,V1.4(B0803T),,"All Week",Y
 56,M,Mr,Simon,Chippington,England,N,Wingboard,Wing-Fleet,,CHIPP70SIMON,932000170,V1.4(D0428T),,"All Week",Y
 63,M,Mr,Simon,Chippington,England,N,Sailboard,Gold-Fleet,,CHIPP71SIMON,123200225,V1.4(B0315C),,"All Week",Y
+115,M,Mr,Simon,Maguire,England,N,Wingboard,Wing-Fleet,,MAGUI92SIMON,932000571,V1.4(B0803T),,"All Week",N
 19,M,Mr,Simon,Perkins,England,N,Wingboard,Wing-Fleet,,PERKI29SIMON,932000403,V1.4(D0428T),,"All Week",N
 7,M,Mr,Simon,Pettifer,England,N,Sailboard,Pro-Fleet,,,,,"Hamworthy Heroes","All Week",Y
 9,M,Mr,Simon,Sanderson,England,N,Wingboard,Wing-Fleet,,SANDE32SIMON,932000196,V1.3(B1015),,"All Week",N
