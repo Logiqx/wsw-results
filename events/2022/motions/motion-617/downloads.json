@@ -63,5 +63,70 @@
     "10s_best": 17563,
     "500m_best": 16763,
     "status": "completed"
+  },
+  "PET103SIM_617_20221019_190812.oao": {
+    "motion_file": "/logs/2022/10/0617_2022-10-19-1908.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221019/PET103SIM_617_20221019_190812.oao",
+    "size": 1536,
+    "start_date": 1666202892000,
+    "end_date": 1666202892000,
+    "duration": 0,
+    "distance": 0,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "PET103SIM_617_20221019_195934.oao": {
+    "motion_file": "/logs/2022/10/0617_2022-10-19-1959.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221019/PET103SIM_617_20221019_195934.oao",
+    "size": 1536,
+    "start_date": 1666205974000,
+    "end_date": 1666209800000,
+    "duration": 3826000,
+    "distance": 127390,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "PET103SIM_617_20221019_210320.oao": {
+    "motion_file": "/logs/2022/10/0617_2022-10-19-2103.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221019/PET103SIM_617_20221019_210320.oao",
+    "size": 1536,
+    "start_date": 1666209800000,
+    "end_date": 1666209800000,
+    "duration": 0,
+    "distance": 0,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "PET103SIM_617_20221020_130010.oao": {
+    "motion_file": "/logs/2022/10/0617_2022-10-20-1300.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221020/PET103SIM_617_20221020_130010.oao",
+    "size": 3616,
+    "start_date": 1666267210000,
+    "end_date": 1666280840000,
+    "duration": 13630000,
+    "distance": 414873,
+    "2s_best": 2027,
+    "10s_best": 1711,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "PET103SIM_617_20221021_094702.oao": {
+    "motion_file": "/logs/2022/10/0617_2022-10-21-0947.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221021/PET103SIM_617_20221021_094702.oao",
+    "size": 548212,
+    "start_date": 1666342022000,
+    "end_date": 1666366704000,
+    "duration": 24682000,
+    "distance": 21005635,
+    "2s_best": 19226,
+    "10s_best": 18595,
+    "500m_best": 17272,
+    "status": "completed"
   }
 }
