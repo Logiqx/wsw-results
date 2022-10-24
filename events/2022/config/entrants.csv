@@ -47,7 +47,7 @@ ID,Gender,Title,"First Name","Family Name",Nationality,"First Timer","Craft Type
 109,M,Mr,Joe,Adams,England,N,Wingboard,Wing-Fleet,,ADAMS88JOE,123200239,V1.4(B0315C),,"All Week",N
 39,M,Mr,Joe,Trunkfield,England,Y,Sailboard,Amateur,,TRUNK54JOE,832002319,V1.4(B0803T),,"All Week",Y
 30,M,Mr,John,Oliver,England,N,Sailboard,Gold-Fleet,,OLIVE64JOHN,933000012,V1.4(D0428T),"Surf Hogs","All Week",Y
-77,M,Mr,Joshua,Pinder,England,N,Sailboard,Amateur,,PINDE30JOSHU,932001309,V1.3(B1015),"Forces - Royal Navy","All Week",N
+77,M,Mr,Joshua,Pinder,England,N,Sailboard,Amateur,,PINDE30JOSHU,932001309;932000538,V1.3(B1015),"Forces - Royal Navy","All Week",N
 84,M,Mr,John-Paul,Standish,England,Y,Wingboard,Wing-Fleet,,STAND35JP,932000556,V1.4(B0803T),,"All Week",N
 85,M,Mr,Keith,Bowyer,England,Y,Wingboard,Wing-Fleet,,BOWYE3KEITH,932000563,V1.4(B0803T),AFS,"All Week",N
 95,M,Mr,Kev,Greenslade,England,N,Sailboard,Pro-Fleet,,,,,,"All Week",Y
