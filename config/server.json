@@ -24,6 +24,9 @@
         ],
         "9002 Weymouth Speed Week": [
           "Correct WiFi password and edition/deletion forbidden"
+        ],
+        "9003 Weymouth Speed Week": [
+          "Based on 3175. Fixes issue that could cause mini to lock up and unable to restart, requiring ~24 hours of wait"
         ]
       },
       "Thresholds": {
