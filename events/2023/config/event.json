@@ -45,7 +45,7 @@
       "N",
       "?"
     ],
-    "UKWA Member": [
+    "UKWA": [
       "Y",
       "N",
       "?"
@@ -185,7 +185,7 @@
       "Banner": "ukwa_logo.jpg",
       "Website": "https://ukwindsurfing.com/",
       "Average": 2,
-      "Filter": "Craft Type=Sailboard,UKWA Member=Y",
+      "Filter": "Craft Type=Sailboard,UKWA=Y",
       "Fleets": {
         "Men": "Gender=M",
         "Women": "Gender=F"
@@ -208,7 +208,7 @@
       "Banner": "ukwa_logo.jpg",
       "Website": "https://ukwindsurfing.com/",
       "Average": 2,
-      "Filter": "Craft Type=Wingboard,UKWA Member=Y",
+      "Filter": "Craft Type=Wingboard,UKWA=Y",
       "Fleets": {
         "Men": "Gender=M",
         "Women": "Gender=F"

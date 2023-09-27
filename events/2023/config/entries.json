@@ -71,8 +71,8 @@
       "Defaults": {
         "Craft Type": "Boat",
         "Status": "Boat Fleet",
-        "UKWA Member": "N",
-        "ISWC Member": "N"
+        "UKWA": "N",
+        "ISWC": "N"
       },
       "Mappings": {
         "Boat Name": "Boat Name"
@@ -90,8 +90,8 @@
       "Mappings": {
         "Status": "Sailboard Fleet",
         "Sponsors": "Sailboard Sponsors",
-        "UKWA Member": "UKWA Member",
-        "ISWC Member": "ISWC Member"
+        "UKWA": "UKWA Member",
+        "ISWC": "ISWC Member"
       },
       "Motion ID": "Motion for Sailboard",
       "ID Offset": 1000
@@ -102,8 +102,8 @@
       },
       "Defaults": {
         "Craft Type": "Kiteboard",
-        "UKWA Member": "N",
-        "ISWC Member": "N"
+        "UKWA": "N",
+        "ISWC": "N"
       },
       "Mappings": {
         "Status": "Kiteboard Fleet",
@@ -122,8 +122,8 @@
       "Mappings": {
         "Status": "Wingboard Fleet",
         "Sponsors": "Wingboard Sponsors",
-        "UKWA Member": "UKWA Member",
-        "ISWC Member": "ISWC Member"
+        "UKWA": "UKWA Member",
+        "ISWC": "ISWC Member"
       },
       "Motion ID": "Motion for Wingboard",
       "ID Offset": 3000
@@ -146,7 +146,7 @@
         "Boat Name",
         "Grouping",
         "Entry Type",
-        "UKWA Member"
+        "UKWA"
       ]
     },
     {
