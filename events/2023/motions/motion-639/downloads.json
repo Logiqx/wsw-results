@@ -1,0 +1,41 @@
+{
+  "NEW114MAR_639_20221015_094018.oao": {
+    "motion_file": "/logs/2022/10/0639_2022-10-15-0940.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/NEW114MAR_639_20221015_094018.oao",
+    "size": 1433096,
+    "start_date": 1665823218000,
+    "end_date": 1665852212000,
+    "duration": 28994000,
+    "distance": 64949227,
+    "2s_best": 19677,
+    "10s_best": 19383,
+    "500m_best": 18831,
+    "status": "completed"
+  },
+  "NEW114MAR_639_20221017_100502.oao": {
+    "motion_file": "/logs/2022/10/0639_2022-10-17-1005.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/NEW114MAR_639_20221017_100502.oao",
+    "size": 1418016,
+    "start_date": 1665997502000,
+    "end_date": 1666017168000,
+    "duration": 19666000,
+    "distance": 46110604,
+    "2s_best": 14086,
+    "10s_best": 13441,
+    "500m_best": 12936,
+    "status": "completed"
+  },
+  "NEW114MAR_639_20221018_124854.oao": {
+    "motion_file": "/logs/2022/10/0639_2022-10-18-1248.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221018/NEW114MAR_639_20221018_124854.oao",
+    "size": 280360,
+    "start_date": 1666093734000,
+    "end_date": 1666100538000,
+    "duration": 6804000,
+    "distance": 11468161,
+    "2s_best": 14720,
+    "10s_best": 14483,
+    "500m_best": 14341,
+    "status": "completed"
+  }
+}

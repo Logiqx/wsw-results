@@ -1,0 +1,41 @@
+{
+  "BUR107EMI_625_20221015_110202.oao": {
+    "motion_file": "/logs/2022/10/0625_2022-10-15-1102.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/BUR107EMI_625_20221015_110202.oao",
+    "size": 2029016,
+    "start_date": 1665828122000,
+    "end_date": 1665852034000,
+    "duration": 23912000,
+    "distance": 56219072,
+    "2s_best": 18701,
+    "10s_best": 17909,
+    "500m_best": 17473,
+    "status": "completed"
+  },
+  "BUR107EMI_625_20221016_152748.oao": {
+    "motion_file": "/logs/2022/10/0625_2022-10-16-1527.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221016/BUR107EMI_625_20221016_152748.oao",
+    "size": 451908,
+    "start_date": 1665930468000,
+    "end_date": 1665937326000,
+    "duration": 6858000,
+    "distance": 15006935,
+    "2s_best": 19386,
+    "10s_best": 19265,
+    "500m_best": 18922,
+    "status": "completed"
+  },
+  "BUR107EMI_625_20221017_101126.oao": {
+    "motion_file": "/logs/2022/10/0625_2022-10-17-1011.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/BUR107EMI_625_20221017_101126.oao",
+    "size": 2659568,
+    "start_date": 1665997886000,
+    "end_date": 1666015330000,
+    "duration": 17444000,
+    "distance": 92402122,
+    "2s_best": 14327,
+    "10s_best": 14233,
+    "500m_best": 13841,
+    "status": "completed"
+  }
+}

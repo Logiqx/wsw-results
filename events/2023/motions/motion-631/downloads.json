@@ -1,0 +1,67 @@
+{
+  "CAR109MAR_631_20221015_093415.oao": {
+    "motion_file": "/logs/2022/10/0631_2022-10-15-0934.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/CAR109MAR_631_20221015_093415.oao",
+    "size": 1725596,
+    "start_date": 1665822855000,
+    "end_date": 1665852200000,
+    "duration": 29345000,
+    "distance": 53515101,
+    "2s_best": 21318,
+    "10s_best": 21179,
+    "500m_best": 20817,
+    "status": "completed"
+  },
+  "CAR109MAR_631_20221016_140436.oao": {
+    "motion_file": "/logs/2022/10/0631_2022-10-16-1404.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221016/CAR109MAR_631_20221016_140436.oao",
+    "size": 308232,
+    "start_date": 1665925476000,
+    "end_date": 1665937522000,
+    "duration": 12046000,
+    "distance": 13657800,
+    "2s_best": 21056,
+    "10s_best": 20346,
+    "500m_best": 19595,
+    "status": "completed"
+  },
+  "CAR109MAR_631_20221017_101556.oao": {
+    "motion_file": "/logs/2022/10/0631_2022-10-17-1015.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/CAR109MAR_631_20221017_101556.oao",
+    "size": 719032,
+    "start_date": 1665998156000,
+    "end_date": 1666017160000,
+    "duration": 19004000,
+    "distance": 30422477,
+    "2s_best": 24657,
+    "10s_best": 24529,
+    "500m_best": 23981,
+    "status": "completed"
+  },
+  "CAR109MAR_631_20221018_113840.oao": {
+    "motion_file": "/logs/2022/10/0631_2022-10-18-1138.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221018/CAR109MAR_631_20221018_113840.oao",
+    "size": 355552,
+    "start_date": 1666089520000,
+    "end_date": 1666108770000,
+    "duration": 19250000,
+    "distance": 13013175,
+    "2s_best": 12863,
+    "10s_best": 12850,
+    "500m_best": 12799,
+    "status": "completed"
+  },
+  "CAR109MAR_631_20221021_100410.oao": {
+    "motion_file": "/logs/2022/10/0631_2022-10-21-1004.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221021/CAR109MAR_631_20221021_100410.oao",
+    "size": 1241424,
+    "start_date": 1666343050000,
+    "end_date": 1666366694000,
+    "duration": 23644000,
+    "distance": 37119858,
+    "2s_best": 21100,
+    "10s_best": 20914,
+    "500m_best": 20735,
+    "status": "completed"
+  }
+}

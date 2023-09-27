@@ -1,0 +1,114 @@
+{
+  "Filter": {
+    "Year": "2023"
+  },
+  "Mappings": {
+    "ID": "Id",
+    "Created": "Created",
+    "Title": "Title",
+    "First Name": "First Name",
+    "Family Name": "Family Name",
+    "Country": "Country",
+    "First Timer": "First Timer",
+    "Grouping": "Grouping",
+    "Tally": "Tally",
+    "Year": "Year"
+  },
+  "Derivations": {
+    "Entry Type": {
+      "All Week": {
+        "Filter": {
+          "All Week": "YES"
+        }
+      },
+      "2 Days": {
+        "Filter": {
+          "2 Dayer": "YES"
+        }
+      },
+      "Youth Weekend": {
+        "Filter": {
+          "Youth Weekend": "YES"
+        }
+      }
+    },
+    "Age": {
+      "Adult": {
+        "Filter": {
+          "Adult": "YES"
+        }
+      },
+      "Youth": {
+        "Filter": {
+          "Youth": "YES"
+        }
+      }
+    }
+  },
+  "Instances": [
+    {
+      "Filter": {
+        "Boat": "1"
+      },
+      "Constants": {
+        "Craft Type": "Boat",
+        "Status": "Boat Fleet",
+        "UKWA Member": "N",
+        "ISWC Member": "N"
+      },
+      "Mappings": {
+        "Boat Name": "Boat Name"
+      },
+      "Motion ID": "Motion for Boat",
+      "ID Offset": 0
+    },
+    {
+      "Filter": {
+        "Sailboard": "1"
+      },
+      "Constants": {
+        "Craft Type": "Sailboard"
+      },
+      "Mappings": {
+        "Status": "Sailboard Fleet",
+        "Sponsors": "Sailboard Sponsors",
+        "UKWA Member": "UKWA Member",
+        "ISWC Member": "ISWC Member"
+      },
+      "Motion ID": "Motion for Sailboard",
+      "ID Offset": 1000
+    },
+    {
+      "Filter": {
+        "Kiteboard": "1"
+      },
+      "Constants": {
+        "Craft Type": "Kiteboard",
+        "UKWA Member": "N",
+        "ISWC Member": "N"
+      },
+      "Mappings": {
+        "Status": "Kiteboard Fleet",
+        "Sponsors": "Kiteboard Sponsors"
+      },
+      "Motion ID": "Motion for Kiteboard",
+      "ID Offset": 2000
+    },
+    {
+      "Filter": {
+        "Wingboard": "1"
+      },
+      "Constants": {
+        "Craft Type": "Wingboard"
+      },
+      "Mappings": {
+        "Status": "Wingboard Fleet",
+        "Sponsors": "Wingboard Sponsors",
+        "UKWA Member": "UKWA Member",
+        "ISWC Member": "ISWC Member"
+      },
+      "Motion ID": "Motion for Wingboard",
+      "ID Offset": 3000
+    }
+  ]
+}

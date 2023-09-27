@@ -1,0 +1,67 @@
+{
+  "VAN119PAT_641_20221015_113410.oao": {
+    "motion_file": "/logs/2022/10/0641_2022-10-15-1134.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/VAN119PAT_641_20221015_113410.oao",
+    "size": 1700896,
+    "start_date": 1665830050000,
+    "end_date": 1665851970000,
+    "duration": 21920000,
+    "distance": 75860449,
+    "2s_best": 18907,
+    "10s_best": 18333,
+    "500m_best": 17752,
+    "status": "completed"
+  },
+  "VAN119PAT_641_20221017_100546.oao": {
+    "motion_file": "/logs/2022/10/0641_2022-10-17-1005.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/VAN119PAT_641_20221017_100546.oao",
+    "size": 750336,
+    "start_date": 1665997546000,
+    "end_date": 1666008930000,
+    "duration": 11384000,
+    "distance": 33087821,
+    "2s_best": 15261,
+    "10s_best": 14971,
+    "500m_best": 14401,
+    "status": "completed"
+  },
+  "VAN119PAT_641_20221017_135326.oao": {
+    "motion_file": "/logs/2022/10/0641_2022-10-17-1353.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/VAN119PAT_641_20221017_135326.oao",
+    "size": 1536,
+    "start_date": 1666011206000,
+    "end_date": 1666011352000,
+    "duration": 146000,
+    "distance": 26725,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "VAN119PAT_641_20221018_130948.oao": {
+    "motion_file": "/logs/2022/10/0641_2022-10-18-1309.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221018/VAN119PAT_641_20221018_130948.oao",
+    "size": 1744264,
+    "start_date": 1666094988000,
+    "end_date": 1666108720000,
+    "duration": 13732000,
+    "distance": 72104666,
+    "2s_best": 16130,
+    "10s_best": 15909,
+    "500m_best": 15397,
+    "status": "completed"
+  },
+  "VAN119PAT_641_20221019_111450.oao": {
+    "motion_file": "/logs/2022/10/0641_2022-10-19-1114.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221019/VAN119PAT_641_20221019_111450.oao",
+    "size": 1579580,
+    "start_date": 1666174490000,
+    "end_date": 1666194888000,
+    "duration": 20398000,
+    "distance": 56937472,
+    "2s_best": 17061,
+    "10s_best": 16742,
+    "500m_best": 16164,
+    "status": "completed"
+  }
+}

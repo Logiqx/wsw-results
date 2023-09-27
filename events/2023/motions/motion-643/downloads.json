@@ -1,0 +1,28 @@
+{
+  "GRE120KEV_643_20221015_104902.oao": {
+    "motion_file": "/logs/2022/10/0643_2022-10-15-1049.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/GRE120KEV_643_20221015_104902.oao",
+    "size": 1543284,
+    "start_date": 1665827342000,
+    "end_date": 1665852078000,
+    "duration": 24736000,
+    "distance": 65108163,
+    "2s_best": 18902,
+    "10s_best": 18536,
+    "500m_best": 18267,
+    "status": "completed"
+  },
+  "GRE120KEV_643_20221021_144009.oao": {
+    "motion_file": "/logs/2022/10/0643_2022-10-21-1440.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221021/GRE120KEV_643_20221021_144009.oao",
+    "size": 653772,
+    "start_date": 1666359609000,
+    "end_date": 1666366412000,
+    "duration": 6803000,
+    "distance": 25028999,
+    "2s_best": 19974,
+    "10s_best": 19606,
+    "500m_best": 18604,
+    "status": "completed"
+  }
+}

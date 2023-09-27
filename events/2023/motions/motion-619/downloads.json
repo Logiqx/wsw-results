@@ -1,0 +1,28 @@
+{
+  "GAU116BEN_619_20221015_115532.oao": {
+    "motion_file": "/logs/2022/10/0619_2022-10-15-1155.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/GAU116BEN_619_20221015_115532.oao",
+    "size": 368240,
+    "start_date": 1665831332000,
+    "end_date": 1665851826000,
+    "duration": 20494000,
+    "distance": 17555912,
+    "2s_best": 20545,
+    "10s_best": 20145,
+    "500m_best": 19844,
+    "status": "completed"
+  },
+  "GAU116BEN_619_20221017_102339.oao": {
+    "motion_file": "/logs/2022/10/0619_2022-10-17-1023.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/GAU116BEN_619_20221017_102339.oao",
+    "size": 1397632,
+    "start_date": 1665998619000,
+    "end_date": 1666010880000,
+    "duration": 12261000,
+    "distance": 48724530,
+    "2s_best": 20380,
+    "10s_best": 19839,
+    "500m_best": 19025,
+    "status": "completed"
+  }
+}
