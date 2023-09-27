@@ -7,7 +7,7 @@ FROM jupyter/base-notebook:${NOTEBOOK_VERSION} AS builder
 
 # Copy the required project files
 WORKDIR /home/jovyan/work/sse-results
-COPY --chown=jovyan:users python/*.*py* ./python/
+COPY --chown=jovyan:users python/*.ipynb ./python/
 
 # Convert Jupyter notebooks to regular Python scripts
 RUN jupyter nbconvert --to python python/*.ipynb && \
