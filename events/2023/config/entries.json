@@ -5,7 +5,8 @@
   "Defaults": {
     "Entry Type": "2 Days",
     "Start Date": "2023-10-07",
-    "End Date": "2023-10-13"
+    "End Date": "2023-10-13",
+    "Withdrawn": "N"
   },
   "Mappings": {
     "ID": "Id",
@@ -77,6 +78,15 @@
       "Mappings": {
         "Boat Name": "Boat Name"
       },
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Boat": "WITHDRAWN"
+            }
+          }
+        }
+      },
       "Motion ID": "Motion for Boat",
       "ID Offset": 0
     },
@@ -92,6 +102,15 @@
         "Sponsors": "Sailboard Sponsors",
         "UKWA": "UKWA Member",
         "ISWC": "ISWC Member"
+      },
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Sailboard": "WITHDRAWN"
+            }
+          }
+        }
       },
       "Motion ID": "Motion for Sailboard",
       "ID Offset": 1000
@@ -109,6 +128,15 @@
         "Status": "Kiteboard Fleet",
         "Sponsors": "Kiteboard Sponsors"
       },
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Kiteboard": "WITHDRAWN"
+            }
+          }
+        }
+      },
       "Motion ID": "Motion for Kiteboard",
       "ID Offset": 2000
     },
@@ -124,6 +152,15 @@
         "Sponsors": "Wingboard Sponsors",
         "UKWA": "UKWA Member",
         "ISWC": "ISWC Member"
+      },
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Wingboard": "WITHDRAWN"
+            }
+          }
+        }
       },
       "Motion ID": "Motion for Wingboard",
       "ID Offset": 3000
@@ -146,7 +183,8 @@
         "Boat Name",
         "Grouping",
         "Entry Type",
-        "UKWA"
+        "UKWA",
+        "Withdrawn"
       ]
     },
     {

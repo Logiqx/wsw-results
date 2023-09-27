@@ -6,7 +6,7 @@
     {
       "Title": "All Entrants",
       "Fields": "Tally,Name,Nation,Craft Type,Status,Entry Type,First Timer",
-      "Filter": "Tally<>",
+      "Filter": "Tally<>,Withdrawn=N",
       "Sort": "Tally=ASC"
     }
   ]
