@@ -40,14 +40,14 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1197,39,Mr,Neil,Binding,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,YES
 2198,40,Mr,Phil,Horder,UK,NO,Kiteboard,Freeride,Adult,,None,All Week,N
 3199,41,Mr,Mark,Salvage,United Kingdom,NO,Wingboard,Amateur,Adult,,None,All Week,YES
-2200,42,Mr,Alfie,Wade,United Kingdom,NO,Kiteboard,Freeride,Youth,,None,Youth Weekend,N
+2200,42,Mr,Alfie,Wade,United Kingdom,NO,Kiteboard,Freeride,Youth,,None,Youth W/E,N
 1201,43,Mr,Stuart,Trunkfield,United Kingdom,YES,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 2202,44,Mr,Dave,Williams,United Kingdom,NO,Kiteboard,Open Class,Adult,,None,All Week,N
 3203,45,Mr,Mark,McCafferty,United Kingdom,YES,Wingboard,Amateur,Adult,,None,All Week,NO
 1204,46,Mr,Joe,Trunkfield,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,YES
-1205,47,Mr,Jonathan,Ingram,United Kingdom,YES,Sailboard,Amateur,Youth,,None,Youth Weekend,YES
+1205,47,Mr,Jonathan,Ingram,United Kingdom,YES,Sailboard,Amateur,Youth,,None,Youth W/E,YES
 1206,48,Mr,Mark,Ingram,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,2 Days,YES
-1207,49,Ms,Jenna,Jenkins,uk,YES,Sailboard,Amateur,Youth,,None,Youth Weekend,NO
+1207,49,Ms,Jenna,Jenkins,uk,YES,Sailboard,Amateur,Youth,,None,Youth W/E,NO
 1208,50,Mr,Dave,Strudwick,,NO,Sailboard,Gold-Fleet,Adult,,Forces - Royal Navy,All Week,YES
 1209,51,Mr,Andy,Turvey,United Kingdom,YES,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 1210,52,Mr,Jonny,Kirton,United Kingdom,NO,Sailboard,Amateur,Adult,,Forces - Royal Navy,All Week,NO
@@ -63,7 +63,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1219,61,Mr,Ian,Hill,,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,NO
 1220,62,Mr,Spenser,Arnold,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,YES
 2221,63,Mr,Stacey,Vass,United Kingdom,NO,Kiteboard,Open Class,Adult,,None,All Week,N
-1222,64,Mr,Dylan,Chick,United Kingdom,YES,Sailboard,Amateur,Youth,,None,Youth Weekend,NO
+1222,64,Mr,Dylan,Chick,United Kingdom,YES,Sailboard,Amateur,Youth,,None,Youth W/E,NO
 3223,65,Mr,Emeric,Mouret,France,NO,Wingboard,Pro-Fleet,Adult,,None,All Week,NO
 2224,66,Mr,Steve,Davison,UK,NO,Kiteboard,Open Class,Adult,,None,2 Days,N
 1225,67,Mr,Jim,Crossley,,NO,Sailboard,Pro-Fleet,Adult,,None,2 Days,YES
