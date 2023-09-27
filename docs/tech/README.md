@@ -22,6 +22,7 @@ Some of the technical documentation will be partially duplicated here, but any d
 
 ### Technical Details
 
+- [Setup](setup.md) - setup new event using previous one as a template
 - [Configuration](configuration.md) (incomplete) - details of application, event and session configuration files.
 - [Reports](reports.md) (incomplete) - details of reporting engine, report definitions, configuration, etc.
 
