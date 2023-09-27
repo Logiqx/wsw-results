@@ -1,7 +1,6 @@
 ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,Boat Name,Grouping,Entry Type,UKWA Member
 150,1,Mr,Nick,Povey,United Kingdom,NO,Boat,Boat Fleet,Adult,Astus 16.1.,None,All Week,N
 1151,2,Mr,Michael,George,United Kingdom,NO,Sailboard,Pro-Fleet,Adult,,Portland Pirates,All Week,YES
-3151,2,Mr,Michael,George,United Kingdom,NO,Wingboard,Amateur,Adult,,Portland Pirates,All Week,YES
 1152,3,Mr,Matthew,York,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 1153,4,Mr,James,Brake,Uk,NO,Sailboard,Gold-Fleet,Adult,,Portland Pirates,All Week,YES
 1154,5,Mr,Simon,Ramsden,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,YES
@@ -45,7 +44,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 2200,42,Mr,Alfie,Wade,United Kingdom,NO,Kiteboard,Freeride,Youth,,None,Youth Weekend,N
 1201,43,Mr,Stuart,Trunkfield,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 2202,44,Mr,Dave,Williams,United Kingdom,NO,Kiteboard,Open Class,Adult,,None,All Week,N
-3203,45,Mr,mark,mccafferty,United Kingdom,YES,Wingboard,Amateur,Adult,,None,All Week,NO
+3203,45,Mr,Mark,McCafferty,United Kingdom,YES,Wingboard,Amateur,Adult,,None,All Week,NO
 1204,46,Mr,Joe,Trunkfield,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,YES
 1205,47,Mr,Jonathan,Ingram,United Kingdom,YES,Sailboard,Amateur,Youth,,None,Youth Weekend,YES
 1206,48,Mr,Mark,Ingram,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,2 Days,YES
