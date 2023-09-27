@@ -1,5 +1,5 @@
 {
-  "Filter": {
+  "Filters": {
     "Year": "2023"
   },
   "Mappings": {
@@ -17,37 +17,37 @@
   "Derivations": {
     "Entry Type": {
       "All Week": {
-        "Filter": {
+        "Filters": {
           "All Week": "YES"
         }
       },
       "2 Days": {
-        "Filter": {
+        "Filters": {
           "2 Dayer": "YES"
         }
       },
       "Youth Weekend": {
-        "Filter": {
+        "Filters": {
           "Youth Weekend": "YES"
         }
       }
     },
     "Age": {
       "Adult": {
-        "Filter": {
+        "Filters": {
           "Adult": "YES"
         }
       },
       "Youth": {
-        "Filter": {
+        "Filters": {
           "Youth": "YES"
         }
       }
     }
   },
-  "Instances": [
+  "Craft Types": [
     {
-      "Filter": {
+      "Filters": {
         "Boat": "1"
       },
       "Constants": {
@@ -63,7 +63,7 @@
       "ID Offset": 0
     },
     {
-      "Filter": {
+      "Filters": {
         "Sailboard": "1"
       },
       "Constants": {
@@ -79,7 +79,7 @@
       "ID Offset": 1000
     },
     {
-      "Filter": {
+      "Filters": {
         "Kiteboard": "1"
       },
       "Constants": {
@@ -95,7 +95,7 @@
       "ID Offset": 2000
     },
     {
-      "Filter": {
+      "Filters": {
         "Wingboard": "1"
       },
       "Constants": {

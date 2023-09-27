@@ -8,11 +8,11 @@ IMAGE_TAG=$(git rev-parse --short=12 HEAD)
 # Docker Build
 DOCKER_BUILDKIT=1 docker build . --build-arg LOGIQX_DEBUG -t $IMAGE_NAME:$IMAGE_TAG
 
+# Run entrants conversion
+run_py_script entrants.py
+
 # Run daily reporting
 run_py_script results.py
-
-# Run series reporting
-#run_py_script series.py
 
 # Apply release tag, removing earlier tag / image if required
 if [ -n "$(docker image ls -q $IMAGE_NAME:$FINAL_TAG)" ]
