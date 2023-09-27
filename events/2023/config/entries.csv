@@ -1,11 +1,11 @@
-Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailboard,Sailboard Fleet,UKWA Member,ISWC Member,Kiteboard,Kiteboard Fleet,Boat,Boat Name,Wingboard Sponsors,Sailboard Sponsors,Kiteboard Sponsors ,First Timer,Grouping,Tally,Youth,Adult,2 Dayer,Youth Weekend,All Week,Motion for Wingboard,Motion for Sailboard,Motion for Kiteboard,Motion for Boat,Year
+Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailboard,Sailboard Fleet,UKWA Member,ISWC Member,Kiteboard,Kiteboard Fleet,Boat,Boat Name,Wingboard Sponsors,Sailboard Sponsors,Kiteboard Sponsors,First Timer,Grouping,Tally,Youth,Adult,2 Dayer,Youth Weekend,All Week,Motion for Wingboard,Motion for Sailboard,Motion for Kiteboard,Motion for Boat,Year
 150,2023-06-19 15:46:16,Mr,Nick,Povey,United Kingdom,,,,,,,,,1,Astus 16.1.,,,,NO,None,1,,YES,,,YES,,,,Boat Motion Allocated  - 601 ,2023
 151,2023-06-20 10:44:19,Mr,Michael,George,United Kingdom,1,Amateur,1,Pro-Fleet,YES,YES,,,,,,"NeilPryde, JP Australia",,NO,Portland Pirates,2,,YES,,,YES,Wingboard Motion Allocated - 849,Sailboard Motion Allocated - 607,,,2023
 152,2023-08-25 20:32:42,Mr,Matt,York,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,"Simmer style  , o’shea , gasoil fins , boardwise ",,NO,None,3,,YES,,,YES,,Sailboard Motion Allocated - 611,,,2023
 153,2023-08-26 08:39:31,Mr,James,Brake,Uk,,,1,Gold-Fleet,YES,YES,,,,,,,,NO,Portland Pirates,4,,YES,,,YES,,Sailboard Motion Allocated - 615,,,2023
 154,2023-08-26 08:56:09,Mr,Simon,Ramsden,United Kingdom,,,1,Amateur,YES,NO,,,,,,,,YES,None,5,,YES,,,YES,,Sailboard Motion Allocated - 617,,,2023
 156,2023-08-26 09:08:18,Mr,james,longmuir,Uk,,,,,,,1,Open Class,,,,,,NO,None,6,,YES,,,YES,,,Kiteboard Motion Allocated - 618,,2023
-157,2023-08-26 09:41:35,Mr,Andy Stuart-William,Stuart-William,United Kingdom,1,Amateur,1,Gold-Fleet,YES,NO,,,,,,Challenger Sails,,NO,None,7,,YES,,,YES,Wingboard Motion Allocated - 845,Sailboard Motion Allocated - 619,,,2023
+157,2023-08-26 09:41:35,Mr,Andy,Stuart-William,United Kingdom,1,Amateur,1,Gold-Fleet,YES,NO,,,,,,Challenger Sails,,NO,None,7,,YES,,,YES,Wingboard Motion Allocated - 845,Sailboard Motion Allocated - 619,,,2023
 159,2023-08-26 09:55:49,Mr,Richard,Hobson,United Kindom,1,Pro-Fleet,,,YES,,,,,,K93 Foilwing Celeritas Authentica,,,NO,None,8,,YES,,,YES,Wingboard Motion Allocated - 625,,,,2023
 160,2023-08-26 11:15:02,Miss,Jenna,Gibson,United Kingdom,,,1,Pro-Fleet,YES,NO,,,,,,Duotone/ Boardwise/ F-Hot fins/ F4 Foils/ K66 / ION Wetsuits,,NO,Hamworthy Heroes,9,,YES,,,YES,,Sailboard Motion Allocated - 630,,,2023
 161,2023-08-26 18:34:47,Mr,John,Oliver,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,,,NO,Surf Hogs,10,,YES,,,YES,,Sailboard Motion Allocated  - 631,,,2023
@@ -22,7 +22,7 @@ Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailbo
 177,2023-08-27 16:28:56,Mr,Will,Trossell,UK,,,1,Gold-Fleet,YES,YES,,,,,,JP/NP UK,,NO,Hamworthy Heroes,21,,YES,,,YES,,Sailboard Motion Allocated - 651,,,2023
 180,2023-08-27 18:09:25,Mr,Jean-Marc,De Bruyne,Belgium,,,1,Pro-Fleet,NO,NO,,,,,,Gun sails - Elix board - Select ,,NO,None,22,,YES,,,YES,,Sailboard Motion Allocated - 652,,,2023
 181,2023-08-27 18:18:17,Mr,Bob,Cartridge,England,,,1,Pro-Fleet,NO,NO,,,,,,,,NO,Hamworthy Heroes,23,,YES,,,YES,,Sailboard Motion Allocated - 653,,,2023
-182,2023-08-27 20:25:18,Mr,Andy,Bridge ,Isle of man,,,1,Amateur,NO,NO,,,,,,,,YES,None,24,,YES,,,YES,,Sailboard Motion Allocated - 656,,,2023
+182,2023-08-27 20:25:18,Mr,Andy,Bridge ,Isle of man,,,1,Amateur,YES,NO,,,,,,,,YES,None,24,,YES,,,YES,,Sailboard Motion Allocated - 656,,,2023
 183,2023-08-27 20:45:32,Mr,Trevor,Whatford,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,,,NO,None,25,,YES,,,YES,,Sailboard Motion Allocated - 660,,,2023
 184,2023-08-27 21:33:26,Mr,Simon,Maguire,Uk,1,Amateur,,,NO,,,,,,,,,NO,None,26,,YES,,,YES,Wingboard Motion Allocated - 661,,,,2023
 185,2023-08-28 10:20:56,Mr,Danny,Cartridge ,UK,,,1,Gold-Fleet,NO,NO,,,,,,,,NO,Hamworthy Heroes,27,,YES,,,YES,,Sailboard Motion Allocated - 662,,,2023
@@ -39,7 +39,7 @@ Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailbo
 196,2023-09-01 15:13:02,Mr,Steve,Watson,United Kingdom,,,1,Amateur,NO,NO,,,,,,,,NO,Surf Hogs,38,,YES,,,YES,,Sailboard Motion Allocated - 700,,,2023
 197,2023-09-02 17:19:36,Mr,Neil,Binding ,United Kingdom,,,1,Amateur,YES,NO,,,,,,,,YES,None,39,,YES,,,YES,,Sailboard Motion Allocated - 701,,,2023
 198,2023-09-03 12:32:01,Mr,Phil,Horder,UK,,,,,,,1,Freeride,,,,,,NO,None,40,,YES,,,YES,,,Kiteboard Motion Allocated - 705,,2023
-199,2023-09-03 20:33:02,Mr,sav   Mark ,Salvage,United Kingdom,1,Amateur,,,YES,,,,,,,,,NO,None,41,,YES,,,YES,Wingboard Motion Allocated - 712,,,,2023
+199,2023-09-03 20:33:02,Mr,Mark,Salvage,United Kingdom,1,Amateur,,,YES,,,,,,,,,NO,None,41,,YES,,,YES,Wingboard Motion Allocated - 712,,,,2023
 200,2023-09-10 22:39:00,Mr,Alfie,Wade,United Kingdom,,,,,,,1,Freeride,,,,,,NO,None,42,YES,,,YES,,,,Kiteboard Motion Allocated - 717,,2023
 201,2023-09-11 12:44:18,Mr,Stuart,Trunkfield,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,Simmer. O’shea,,YES,None,43,,YES,,,YES,,Sailboard Motion Allocated - 718,,,2023
 202,2023-09-12 09:23:15,Mr,Dave,Williams,United Kingdom,,,,,,,1,Open Class,,,,,,NO,None,44,,YES,,,YES,,,Kiteboard Motion Allocated - 801,,2023
