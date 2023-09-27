@@ -43,6 +43,13 @@
           "Youth": "YES"
         }
       }
+    },
+    "Grouping": {
+      "Forces - Royal Navy": {
+        "Filters": {
+          "Grouping": "Royal Navy"
+        }
+      }
     }
   },
   "Craft Types": [
