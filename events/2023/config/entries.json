@@ -161,7 +161,8 @@
         "First Name",
         "Family Name",
         "Craft Type",
-        "Status"
+        "Status",
+        "Entry Type"
       ]
     }
   ]
