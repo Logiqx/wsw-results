@@ -8,6 +8,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1157,7,619,2023-10-07,2023-10-13,STU619AND,Andy,Stuart-William,Sailboard,Gold-Fleet,All Week
 3157,7,845,2023-10-07,2023-10-13,STU845AND,Andy,Stuart-William,Wingboard,Amateur,All Week
 3159,8,625,2023-10-07,2023-10-13,HOB625RIC,Richard,Hobson,Wingboard,Pro-Fleet,All Week
+1160,9,0,2023-10-07,2023-10-13,GIB0JEN,Jenna,Gibson,Sailboard,Pro-Fleet,All Week
 1161,10,631,2023-10-07,2023-10-13,OLI631JOH,John,Oliver,Sailboard,Gold-Fleet,All Week
 1162,11,632,2023-10-07,2023-10-13,CRO632PET,Peter,Crosby,Sailboard,Gold-Fleet,All Week
 1163,12,633,2023-10-07,2023-10-13,PEA633ZAC,Zack,Peaple,Sailboard,Amateur,All Week
@@ -65,10 +66,10 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 2221,63,821,2023-10-07,2023-10-13,VAS821STA,Stacey,Vass,Kiteboard,Open Class,All Week
 1222,64,822,2023-10-07,2023-10-08,CHI822DYL,Dylan,Chick,Sailboard,Amateur,Youth W/E
 3223,65,823,2023-10-07,2023-10-13,MOU823EME,Emeric,Mouret,Wingboard,Pro-Fleet,All Week
-2224,66,0,2023-10-07,2023-10-13,DAV0STE,Steve,Davison,Kiteboard,Open Class,2 Days
-1225,67,0,2023-10-07,2023-10-13,CRO0JIM,Jim,Crossley,Sailboard,Pro-Fleet,2 Days
-1226,68,0,2023-10-07,2023-10-13,YEL0LIL,Lilia,Yelland,Sailboard,Amateur,2 Days
-1227,69,0,2023-10-07,2023-10-13,BUK0MAC,Maciej,Bukolt,Sailboard,Amateur,2 Days
-1228,70,0,2023-10-07,2023-10-13,ARN0PAU,Paul,Arnold,Sailboard,Amateur,2 Days
-3229,71,0,2023-10-07,2023-10-13,ADA0JOE,Joe,Adams,Wingboard,Amateur,2 Days
-1230,72,0,2023-10-07,2023-10-13,BRA0PAU,Paul,Bran,Sailboard,Amateur,2 Days
+2224,66,824,2023-10-07,2023-10-13,DAV824STE,Steve,Davison,Kiteboard,Open Class,2 Days
+1225,67,825,2023-10-07,2023-10-13,CRO825JIM,Jim,Crossley,Sailboard,Pro-Fleet,2 Days
+1226,68,826,2023-10-07,2023-10-13,YEL826LIL,Lilia,Yelland,Sailboard,Amateur,2 Days
+1227,69,829,2023-10-07,2023-10-13,BUK829MAC,Maciej,Bukolt,Sailboard,Amateur,2 Days
+1228,70,833,2023-10-07,2023-10-13,ARN833PAU,Paul,Arnold,Sailboard,Amateur,2 Days
+3229,71,836,2023-10-07,2023-10-13,ADA836JOE,Joe,Adams,Wingboard,Amateur,2 Days
+1230,72,667,2023-10-07,2023-10-13,BRA667PAU,Paul,Bran,Sailboard,Amateur,2 Days
