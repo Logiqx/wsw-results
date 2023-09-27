@@ -126,6 +126,7 @@
       "File": "entrants.csv",
       "Fields": [
         "ID",
+        "Tally",
         "Title",
         "First Name",
         "Family Name",
