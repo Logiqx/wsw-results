@@ -32,7 +32,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 3188,30,Mr,Denis,Gordo,United Kingdom,YES,Wingboard,Amateur,Adult,,None,All Week,YES
 3189,31,Mr,Simon,Sanderson,United Kingdom,NO,Wingboard,Pro-Fleet,Adult,,None,All Week,NO
 1190,32,Mr,Andrew,Owen,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,NO
-1191,33,Mr,Scott,Harrison,UK,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
+1191,33,Mr,Scott,Harrison,UK,YES,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 3192,34,Mr,Simon,Perkins,United Kingdom,NO,Wingboard,Amateur,Adult,,None,All Week,NO
 1193,35,Mr,Eddie,Marsh,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 1194,36,Mr,Andrew,Twinn,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
@@ -42,7 +42,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 2198,40,Mr,Phil,Horder,UK,NO,Kiteboard,Freeride,Adult,,None,All Week,N
 3199,41,Mr,Mark,Salvage,United Kingdom,NO,Wingboard,Amateur,Adult,,None,All Week,YES
 2200,42,Mr,Alfie,Wade,United Kingdom,NO,Kiteboard,Freeride,Youth,,None,Youth Weekend,N
-1201,43,Mr,Stuart,Trunkfield,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
+1201,43,Mr,Stuart,Trunkfield,United Kingdom,YES,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 2202,44,Mr,Dave,Williams,United Kingdom,NO,Kiteboard,Open Class,Adult,,None,All Week,N
 3203,45,Mr,Mark,McCafferty,United Kingdom,YES,Wingboard,Amateur,Adult,,None,All Week,NO
 1204,46,Mr,Joe,Trunkfield,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,YES
@@ -50,7 +50,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1206,48,Mr,Mark,Ingram,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,2 Days,YES
 1207,49,Ms,Jenna,Jenkins,uk,YES,Sailboard,Amateur,Youth,,None,Youth Weekend,NO
 1208,50,Mr,Dave,Strudwick,,NO,Sailboard,Gold-Fleet,Adult,,Forces - Royal Navy,All Week,YES
-1209,51,Mr,Andy,Turvey,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
+1209,51,Mr,Andy,Turvey,United Kingdom,YES,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 1210,52,Mr,Jonny,Kirton,United Kingdom,NO,Sailboard,Amateur,Adult,,Forces - Royal Navy,All Week,NO
 1211,53,Mr,Russell,Thompson,United Kingdom,NO,Sailboard,Amateur,Adult,,Forces - Royal Navy,All Week,YES
 1212,54,Miss,Mia,Adcock,UK,YES,Sailboard,Amateur,Adult,,None,All Week,YES

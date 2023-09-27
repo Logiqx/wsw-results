@@ -31,7 +31,7 @@ Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailbo
 188,2023-08-29 04:15:11,Mr,Denis,Gordo,United Kingdom,1,Amateur,,,YES,,,,,,,,,YES,None,30,,YES,,,YES,Wingboard Motion Allocated - 664,,,,2023
 189,2023-08-29 09:38:04,Mr,Simon,Sanderson,United Kingdom,1,Pro-Fleet,,,NO,,,,,,"NorthShoreSurf,Jimmy Lewis, Ozone, DaKine, GoFoil",,,NO,None,31,,YES,,,YES,Wingboard Motion Allocated - 665,,,,2023
 190,2023-08-29 11:12:11,Mr,Andrew,Owen,United Kingdom,,,1,Amateur,NO,NO,,,,,,,,YES,None,32,,YES,,,YES,,Sailboard Motion Allocated - 668,,,2023
-191,2023-08-29 17:14:43,Mr,Scott,Harrison,UK,,,1,Gold-Fleet,YES,NO,,,,,,JP / Neil Pryde,,NO,None,33,,YES,,,YES,,Sailboard Motion Allocated - 669,,,2023
+191,2023-08-29 17:14:43,Mr,Scott,Harrison,UK,,,1,Gold-Fleet,YES,NO,,,,,,JP / Neil Pryde,,YES,None,33,,YES,,,YES,,Sailboard Motion Allocated - 669,,,2023
 192,2023-08-29 21:47:01,Mr,Simon,Perkins,United Kingdom,1,Amateur,,,NO,,,,,,,,,NO,None,34,,YES,,,YES,Wingboard Motion Allocated - 693,,,,2023
 193,2023-08-30 12:43:43,Mr,Eddie,Marsh,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,Challenger Sails / Nova Renewables,,NO,None,35,,YES,,,YES,,Sailboard Motion Allocated - 694,,,2023
 194,2023-09-01 08:28:56,Mr,Andrew,Twinn,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,,,NO,None,36,,YES,,,YES,,Sailboard Motion Allocated - 695,,,2023
@@ -41,7 +41,7 @@ Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailbo
 198,2023-09-03 12:32:01,Mr,Phil,Horder,UK,,,,,,,1,Freeride,,,,,,NO,None,40,,YES,,,YES,,,Kiteboard Motion Allocated - 705,,2023
 199,2023-09-03 20:33:02,Mr,Mark,Salvage,United Kingdom,1,Amateur,,,YES,,,,,,,,,NO,None,41,,YES,,,YES,Wingboard Motion Allocated - 712,,,,2023
 200,2023-09-10 22:39:00,Mr,Alfie,Wade,United Kingdom,,,,,,,1,Freeride,,,,,,NO,None,42,YES,,,YES,,,,Kiteboard Motion Allocated - 717,,2023
-201,2023-09-11 12:44:18,Mr,Stuart,Trunkfield,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,Simmer. O’shea,,NO,None,43,,YES,,,YES,,Sailboard Motion Allocated - 718,,,2023
+201,2023-09-11 12:44:18,Mr,Stuart,Trunkfield,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,Simmer. O’shea,,YES,None,43,,YES,,,YES,,Sailboard Motion Allocated - 718,,,2023
 202,2023-09-12 09:23:15,Mr,Dave,Williams,United Kingdom,,,,,,,1,Open Class,,,,,,NO,None,44,,YES,,,YES,,,Kiteboard Motion Allocated - 801,,2023
 203,2023-09-12 18:01:53,Mr,Mark,McCafferty,United Kingdom,1,Amateur,,,NO,,,,,,,,,YES,None,45,,YES,,,YES,Wingboard Motion Allocated - 802,,,,2023
 204,2023-09-14 13:27:13,Mr,Joe,Trunkfield,United Kingdom,,,1,Amateur,YES,YES,,,,,,,,NO,None,46,,YES,,,YES,,Sailboard Motion Allocated - 803,,,2023
@@ -49,7 +49,7 @@ Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailbo
 206,2023-09-17 12:42:49,Mr,Mark,Ingram,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,Boardwise (Severne Sails) / Gasoil Fins,,NO,None,48,,YES,YES,,,,Sailboard Motion Allocated - 805,,,2023
 207,2023-09-17 23:09:24,Ms,Jenna,Jenkins,uk,,,1,Amateur,NO,NO,,,,,,,,YES,None,49,YES,,,YES,,,Sailboard Motion Allocated - 806,,,2023
 208,2023-09-18 13:24:44,Mr,Dave,Strudwick,,,,1,Gold-Fleet,YES,NO,,,,,,,,NO,Royal Navy,50,,YES,,,YES,,Sailboard Motion Allocated - 807,,,2023
-209,2023-09-18 14:09:03,Mr,Andy,Turvey,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,,,NO,None,51,,YES,,,YES,,Sailboard Motion Allocated - 808,,,2023
+209,2023-09-18 14:09:03,Mr,Andy,Turvey,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,,,YES,None,51,,YES,,,YES,,Sailboard Motion Allocated - 808,,,2023
 210,2023-09-18 18:52:01,Mr,Jonny,Kirton,United Kingdom,,,1,Amateur,NO,NO,,,,,,,,NO,Royal Navy,52,,YES,,,YES,,Sailboard Motion Allocated - 810,,,2023
 211,2023-09-18 19:47:51,Mr,Russell,Thompson,United Kingdom,,,1,Amateur,YES,NO,,,,,,,,NO,Royal Navy,53,,YES,,,YES,,Sailboard Motion Allocated - 811,,,2023
 212,2023-09-19 11:13:17,Miss,Mia,Adcock,UK,1,Amateur,1,Amateur,YES,NO,,,,,,,,YES,None,54,,YES,,,YES,Wingboard Motion Allocated - 838,Sailboard Motion Allocated - 812,,,2023
