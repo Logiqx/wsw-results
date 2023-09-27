@@ -3,7 +3,9 @@
     "Year": "2023"
   },
   "Defaults": {
-    "Entry Type": "2 Days"
+    "Entry Type": "2 Days",
+    "Start Date": "2023-10-07",
+    "End Date": "2023-10-13"
   },
   "Mappings": {
     "ID": "Id",
@@ -17,6 +19,13 @@
     "Tally": "Tally"
   },
   "Derivations": {
+    "End Date": {
+      "2023-10-08": {
+        "Filters": {
+          "Youth Weekend": "YES"
+        }
+      }
+    },
     "Entry Type": {
       "All Week": {
         "Filters": {
