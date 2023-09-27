@@ -54,6 +54,16 @@
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
     },
     {
+      "Title": "All Pro Fleet Wingboards",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Wingboard,Status=Pro Fleet"
+    },
+    {
+      "Title": "All Amateur Wingboards",
+      "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
+      "Filter": "Craft Type=Wingboard,Status=Amateur"
+    },
+    {
       "Title": "All First Time Wingboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Wingboard,First Timer=Y"
