@@ -6,4 +6,4 @@ YEAR=$(date +%Y)
 sed -i 's/ *$//;s/ *"/"/g;s/ *,/,/g' events/$YEAR/config/entries.csv
 
 # Run the daily results
-run_py_script entrants.py
+run_py_script entries.py

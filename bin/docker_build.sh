@@ -8,8 +8,8 @@ IMAGE_TAG=$(git rev-parse --short=12 HEAD)
 # Docker Build
 DOCKER_BUILDKIT=1 docker build . --build-arg LOGIQX_DEBUG -t $IMAGE_NAME:$IMAGE_TAG
 
-# Run entrants conversion
-run_py_script entrants.py
+# Run entries conversion
+run_py_script entries.py
 
 # Run daily reporting
 run_py_script results.py
