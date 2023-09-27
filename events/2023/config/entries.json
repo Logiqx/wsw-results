@@ -110,5 +110,40 @@
       "Motion ID": "Motion for Wingboard",
       "ID Offset": 3000
     }
+  ],
+  "Outputs": [
+    {
+      "File": "entrants.csv",
+      "Fields": [
+        "ID",
+        "Gender",
+        "Title",
+        "First Name",
+        "Family Name",
+        "Nationality",
+        "First Timer",
+        "Craft Type",
+        "Status",
+        "Boat Name",
+        "Grouping",
+        "Entry Type",
+        "UKWA Member"
+      ]
+    },
+    {
+      "File": "motions.csv",
+      "Fields": [
+        "ID",
+        "Tally",
+        "Motion ID",
+        "Start Date",
+        "End Date",
+        "File ID",
+        "First Name",
+        "Family Name",
+        "Craft Type",
+        "Status"
+      ]
+    }
   ]
 }
