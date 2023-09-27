@@ -133,7 +133,7 @@
     {
       "File": "motions.csv",
       "Fields": [
-        "ID",
+        "Entrant ID",
         "Tally",
         "Motion ID",
         "Start Date",
