@@ -10,6 +10,7 @@
   },
   "Mappings": {
     "ID": "Id",
+    "Entrant ID": "Id",
     "Created": "Created",
     "Title": "Title",
     "First Name": "First Name",
@@ -87,8 +88,11 @@
           }
         }
       },
-      "Motion ID": "Motion for Boat",
-      "ID Offset": 0
+      "Offsets": {
+        "ID": 0,
+        "Entrant ID": 0
+      },
+      "Motion ID": "Motion for Boat"
     },
     {
       "Filters": {
@@ -112,8 +116,11 @@
           }
         }
       },
-      "Motion ID": "Motion for Sailboard",
-      "ID Offset": 1000
+      "Offsets": {
+        "ID": 1000,
+        "Entrant ID": 1000
+      },
+      "Motion ID": "Motion for Sailboard"
     },
     {
       "Filters": {
@@ -137,8 +144,11 @@
           }
         }
       },
-      "Motion ID": "Motion for Kiteboard",
-      "ID Offset": 2000
+      "Offsets": {
+        "ID": 2000,
+        "Entrant ID": 2000
+      },
+      "Motion ID": "Motion for Kiteboard"
     },
     {
       "Filters": {
@@ -162,8 +172,11 @@
           }
         }
       },
-      "Motion ID": "Motion for Wingboard",
-      "ID Offset": 3000
+      "Offsets": {
+        "ID": 3000,
+        "Entrant ID": 3000
+      },
+      "Motion ID": "Motion for Wingboard"
     }
   ],
   "Outputs": [
