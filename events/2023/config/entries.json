@@ -2,6 +2,9 @@
   "Filters": {
     "Year": "2023"
   },
+  "Defaults": {
+    "Entry Type": "2 Days"
+  },
   "Mappings": {
     "ID": "Id",
     "Created": "Created",
@@ -57,7 +60,7 @@
       "Filters": {
         "Boat": "1"
       },
-      "Constants": {
+      "Defaults": {
         "Craft Type": "Boat",
         "Status": "Boat Fleet",
         "UKWA Member": "N",
@@ -73,7 +76,7 @@
       "Filters": {
         "Sailboard": "1"
       },
-      "Constants": {
+      "Defaults": {
         "Craft Type": "Sailboard"
       },
       "Mappings": {
@@ -89,7 +92,7 @@
       "Filters": {
         "Kiteboard": "1"
       },
-      "Constants": {
+      "Defaults": {
         "Craft Type": "Kiteboard",
         "UKWA Member": "N",
         "ISWC Member": "N"
@@ -105,7 +108,7 @@
       "Filters": {
         "Wingboard": "1"
       },
-      "Constants": {
+      "Defaults": {
         "Craft Type": "Wingboard"
       },
       "Mappings": {
