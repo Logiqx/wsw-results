@@ -37,7 +37,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 192,34,693,2023-10-07,2023-10-13,PER693SIM,Simon,Perkins,Wingboard,Amateur
 193,35,694,2023-10-07,2023-10-13,MAR694EDD,Eddie,Marsh,Sailboard,Gold-Fleet
 194,36,695,2023-10-07,2023-10-13,TWI695AND,Andrew,Twinn,Sailboard,Gold-Fleet
-195,37,699,2023-10-07,2023-10-13,WAK699AFS,AFS Paul,Wakelin,Wingboard,Pro-Fleet
+195,37,699,2023-10-07,2023-10-13,WAK699PAU,Paul,Wakelin,Wingboard,Pro-Fleet
 196,38,700,2023-10-07,2023-10-13,WAT700STE,Steve,Watson,Sailboard,Amateur
 197,39,701,2023-10-07,2023-10-13,BIN701NEI,Neil,Binding,Sailboard,Amateur
 198,40,705,2023-10-07,2023-10-13,HOR705PHI,Phil,Horder,Kiteboard,Freeride
@@ -64,12 +64,12 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 218,60,818,2023-10-07,2023-10-13,STA818JOH,John-Paul,Standish,Wingboard,Amateur
 219,61,819,2023-10-07,2023-10-13,HIL819IAN,Ian,Hill,Sailboard,Gold-Fleet
 220,62,0,2023-10-07,2023-10-13,ARN0SPE,Spenser,Arnold,Sailboard,Amateur
-221,63,0,2023-10-07,2023-10-13,VAS0STA,Stacey,Vass,Kiteboard,Open Class
-222,64,0,2023-10-07,2023-10-13,CHI0DYL,Dylan,Chick,Sailboard,Amateur
-223,65,0,2023-10-07,2023-10-13,MOU0EME,emeric,mouret,Wingboard,Pro-Fleet
+221,63,821,2023-10-07,2023-10-13,VAS821STA,Stacey,Vass,Kiteboard,Open Class
+222,64,822,2023-10-07,2023-10-13,CHI822DYL,Dylan,Chick,Sailboard,Amateur
+223,65,823,2023-10-07,2023-10-13,MOU823EME,Emeric,Mouret,Wingboard,Pro-Fleet
 224,66,0,2023-10-07,2023-10-13,DAV0STE,Steve,Davison,Kiteboard,Open Class
 225,67,0,2023-10-07,2023-10-13,CRO0JIM,Jim,Crossley,Sailboard,Pro-Fleet
 226,68,0,2023-10-07,2023-10-13,YEL0LIL,Lilia,Yelland,Sailboard,Amateur
 227,69,0,2023-10-07,2023-10-13,BUK0MAC,Maciej,Bukolt,Sailboard,Amateur
-228,70,0,2023-10-07,2023-10-13,ARN0PAU,paul,arnold,Sailboard,Amateur
+228,70,0,2023-10-07,2023-10-13,ARN0PAU,Paul,Arnold,Sailboard,Amateur
 229,71,0,2023-10-07,2023-10-13,ADA0JOE,Joe,Adams,Wingboard,Amateur
