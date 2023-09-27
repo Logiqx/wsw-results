@@ -116,11 +116,10 @@
       "File": "entrants.csv",
       "Fields": [
         "ID",
-        "Gender",
         "Title",
         "First Name",
         "Family Name",
-        "Nationality",
+        "Country",
         "First Timer",
         "Craft Type",
         "Status",
