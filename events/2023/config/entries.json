@@ -198,6 +198,9 @@
         "Entry Type",
         "UKWA",
         "Withdrawn"
+      ],
+      "Unique Keys": [
+        "ID"
       ]
     },
     {
@@ -214,6 +217,11 @@
         "Craft Type",
         "Status",
         "Entry Type"
+      ],
+      "Unique Keys": [
+        "Entrant ID",
+        "Motion ID",
+        "File ID"
       ]
     }
   ]
