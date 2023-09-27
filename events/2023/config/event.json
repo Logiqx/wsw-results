@@ -173,8 +173,13 @@
       "Places": 1
     },
     {
-      "Category": "Wingboards",
-      "Filter": "Craft Type=Wingboard",
+      "Category": "Pro Wingboard",
+      "Filter": "Craft Type=Wingboard,Status=Pro Fleet",
+      "Places": 1
+    },
+    {
+      "Category": "Amateur Wingboards",
+      "Filter": "Craft Type=Wingboard,Status=Amateur",
       "Places": 3
     }
   ],
