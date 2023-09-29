@@ -75,11 +75,9 @@ cp -p ./resources/sailwave/template.blw events/2023/sailwave/
 
 #### UKWA Members
 
-Refresh the UKWA membership list - [link](https://ukwindsurfing.com/admin/data/members/ )
+Download the UKWA membership list using administrative [link](https://ukwindsurfing.com/admin/data/members/ )
 
-```sh
-sed 's/ (.*//;s/ *, */,/;' ukwa.txt | awk -F, '{print $2, $1}' | sort -i >events/2023/config/ukwa.csv
-```
+Save as events/2023/config/ukwa.csv
 
 
 
