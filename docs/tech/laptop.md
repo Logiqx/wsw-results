@@ -27,7 +27,11 @@
 
 #### Windows Configuration
 
-- Power plan when plugged in = 1 hour (screen), never (power)
+- Power plan
+  - Turn off the display - 5 minutes (battery) / 1 hour (power)
+  - Put the computer to sleep - 15 minutes (battery) / never (power)
+  - Hibernate - 180 minutes (battery) / 720 minutes (power)
+
 - Regional settings = UK
 - Synchronised time
 - Applied remaining Windows updates (loads, including major updates)
