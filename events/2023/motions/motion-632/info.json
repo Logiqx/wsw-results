@@ -8,15 +8,15 @@
       "name": "Wireless Mini M10"
     },
     "firmware": {
-      "code": 9002,
-      "name": "9002 Weymouth Speed Week",
-      "special": "This firmware is event specific and most settings are locked. Please upgrade to the latest stable firmware after the event."
+      "code": 9003,
+      "name": "9003 Weymouth Speed Week",
+      "special": "This firmware is event specific. Most settings are locked. Only frames faster than 5kn are logged. Please upgrade to the latest stable firmware after the event."
     },
     "filesystem": {
       "level": 0
     },
     "battery": {
-      "level": 78,
+      "level": 63,
       "charging": false
     },
     "units": {

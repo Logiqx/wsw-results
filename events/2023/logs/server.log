@@ -1,0 +1,1250 @@
+2023-09-30 09:38:09,INFO,Starting thread pools
+2023-09-30 09:38:09,DEBUG,DetectionThreadPool starting
+2023-09-30 09:38:09,DEBUG,DetectionThread #1 starting
+2023-09-30 09:38:09,DEBUG,DetectionThread #2 starting
+2023-09-30 09:38:09,DEBUG,DetectionThread #3 starting
+2023-09-30 09:38:09,DEBUG,DetectionThread #4 starting
+2023-09-30 09:38:09,DEBUG,DetectionThread #5 starting
+2023-09-30 09:38:09,DEBUG,DetectionThread #6 starting
+2023-09-30 09:38:09,DEBUG,DetectionThread #7 starting
+2023-09-30 09:38:09,DEBUG,DetectionThread #8 starting
+2023-09-30 09:38:09,DEBUG,InspectionThreadPool starting
+2023-09-30 09:38:09,DEBUG,InspectionThread #1 starting
+2023-09-30 09:38:09,DEBUG,InspectionThread #2 starting
+2023-09-30 09:38:09,DEBUG,InspectionThread #3 starting
+2023-09-30 09:38:09,DEBUG,InspectionThread #4 starting
+2023-09-30 09:38:09,DEBUG,DownloadThreadPool starting
+2023-09-30 09:38:09,DEBUG,DownloadThread #1 starting
+2023-09-30 09:38:09,DEBUG,DownloadThread #2 starting
+2023-09-30 09:38:09,DEBUG,DownloadThread #3 starting
+2023-09-30 09:38:09,DEBUG,DownloadThread #4 starting
+2023-09-30 09:38:09,DEBUG,DisconnectionThreadPool starting
+2023-09-30 09:38:09,DEBUG,DisconnectionThread #1 starting
+2023-09-30 09:38:09,DEBUG,DisconnectionThread #2 starting
+2023-09-30 09:38:09,DEBUG,DisconnectionThread #3 starting
+2023-09-30 09:38:09,DEBUG,DisconnectionThread #4 starting
+2023-09-30 09:38:09,DEBUG,DisconnectionThread #5 starting
+2023-09-30 09:38:09,DEBUG,DisconnectionThread #6 starting
+2023-09-30 09:38:09,DEBUG,DisconnectionThread #7 starting
+2023-09-30 09:38:09,DEBUG,DisconnectionThread #8 starting
+2023-09-30 09:38:09,INFO,Thread pools started
+2023-09-30 09:38:13,INFO,Keyboard interrupt
+2023-09-30 09:38:13,INFO,Stopping thread pools
+2023-09-30 09:38:19,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:38:19,DEBUG,DetectionThreadPool finished
+2023-09-30 09:38:19,DEBUG,DetectionThread #1 finished
+2023-09-30 09:38:19,DEBUG,DetectionThread #2 finished
+2023-09-30 09:38:19,DEBUG,DetectionThread #3 finished
+2023-09-30 09:38:19,DEBUG,DetectionThread #4 finished
+2023-09-30 09:38:19,DEBUG,DetectionThread #5 finished
+2023-09-30 09:38:19,DEBUG,DetectionThread #6 finished
+2023-09-30 09:38:19,DEBUG,DetectionThread #7 finished
+2023-09-30 09:38:19,DEBUG,DetectionThread #8 finished
+2023-09-30 09:38:19,DEBUG,InspectionThreadPool finished
+2023-09-30 09:38:19,DEBUG,InspectionThread #1 finished
+2023-09-30 09:38:19,DEBUG,InspectionThread #2 finished
+2023-09-30 09:38:19,DEBUG,InspectionThread #3 finished
+2023-09-30 09:38:19,DEBUG,InspectionThread #4 finished
+2023-09-30 09:38:19,DEBUG,DownloadThreadPool finished
+2023-09-30 09:38:19,DEBUG,DownloadThread #1 finished
+2023-09-30 09:38:19,DEBUG,DownloadThread #2 finished
+2023-09-30 09:38:19,DEBUG,DownloadThread #3 finished
+2023-09-30 09:38:19,DEBUG,DownloadThread #4 finished
+2023-09-30 09:38:19,DEBUG,DisconnectionThreadPool finished
+2023-09-30 09:38:19,DEBUG,DisconnectionThread #1 finished
+2023-09-30 09:38:19,DEBUG,DisconnectionThread #2 finished
+2023-09-30 09:38:19,DEBUG,DisconnectionThread #3 finished
+2023-09-30 09:38:19,DEBUG,DisconnectionThread #4 finished
+2023-09-30 09:38:19,DEBUG,DisconnectionThread #5 finished
+2023-09-30 09:38:19,DEBUG,DisconnectionThread #6 finished
+2023-09-30 09:38:19,DEBUG,DisconnectionThread #7 finished
+2023-09-30 09:38:19,DEBUG,DisconnectionThread #8 finished
+2023-09-30 09:38:19,INFO,Thread pools stopped
+2023-09-30 09:38:30,INFO,Starting thread pools
+2023-09-30 09:38:30,DEBUG,DetectionThreadPool starting
+2023-09-30 09:38:30,DEBUG,DetectionThread #1 starting
+2023-09-30 09:38:30,DEBUG,DetectionThread #2 starting
+2023-09-30 09:38:30,DEBUG,DetectionThread #3 starting
+2023-09-30 09:38:30,DEBUG,DetectionThread #4 starting
+2023-09-30 09:38:30,DEBUG,DetectionThread #5 starting
+2023-09-30 09:38:30,DEBUG,DetectionThread #6 starting
+2023-09-30 09:38:30,DEBUG,DetectionThread #7 starting
+2023-09-30 09:38:30,DEBUG,DetectionThread #8 starting
+2023-09-30 09:38:30,DEBUG,InspectionThreadPool starting
+2023-09-30 09:38:30,DEBUG,InspectionThread #1 starting
+2023-09-30 09:38:30,DEBUG,InspectionThread #2 starting
+2023-09-30 09:38:30,DEBUG,InspectionThread #3 starting
+2023-09-30 09:38:30,DEBUG,InspectionThread #4 starting
+2023-09-30 09:38:30,DEBUG,DownloadThreadPool starting
+2023-09-30 09:38:30,DEBUG,DownloadThread #1 starting
+2023-09-30 09:38:30,DEBUG,DownloadThread #2 starting
+2023-09-30 09:38:30,DEBUG,DownloadThread #3 starting
+2023-09-30 09:38:30,DEBUG,DownloadThread #4 starting
+2023-09-30 09:38:30,DEBUG,DisconnectionThreadPool starting
+2023-09-30 09:38:30,DEBUG,DisconnectionThread #1 starting
+2023-09-30 09:38:30,DEBUG,DisconnectionThread #2 starting
+2023-09-30 09:38:30,DEBUG,DisconnectionThread #3 starting
+2023-09-30 09:38:30,DEBUG,DisconnectionThread #4 starting
+2023-09-30 09:38:30,DEBUG,DisconnectionThread #5 starting
+2023-09-30 09:38:30,DEBUG,DisconnectionThread #6 starting
+2023-09-30 09:38:30,DEBUG,DisconnectionThread #7 starting
+2023-09-30 09:38:30,DEBUG,DisconnectionThread #8 starting
+2023-09-30 09:38:30,INFO,Thread pools started
+2023-09-30 09:38:40,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:41:10,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:42:40,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:44:10,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:45:40,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:47:10,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:48:40,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:49:03,INFO,Keyboard interrupt
+2023-09-30 09:49:03,INFO,Stopping thread pools
+2023-09-30 09:49:06,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:49:06,DEBUG,DetectionThreadPool finished
+2023-09-30 09:49:06,DEBUG,DetectionThread #1 finished
+2023-09-30 09:49:06,DEBUG,DetectionThread #2 finished
+2023-09-30 09:49:06,DEBUG,DetectionThread #3 finished
+2023-09-30 09:49:06,DEBUG,DetectionThread #4 finished
+2023-09-30 09:49:06,DEBUG,DetectionThread #5 finished
+2023-09-30 09:49:06,DEBUG,DetectionThread #6 finished
+2023-09-30 09:49:06,DEBUG,DetectionThread #7 finished
+2023-09-30 09:49:06,DEBUG,DetectionThread #8 finished
+2023-09-30 09:49:06,DEBUG,InspectionThreadPool finished
+2023-09-30 09:49:06,DEBUG,InspectionThread #1 finished
+2023-09-30 09:49:06,DEBUG,InspectionThread #2 finished
+2023-09-30 09:49:06,DEBUG,InspectionThread #3 finished
+2023-09-30 09:49:06,DEBUG,InspectionThread #4 finished
+2023-09-30 09:49:06,DEBUG,DownloadThreadPool finished
+2023-09-30 09:49:06,DEBUG,DownloadThread #1 finished
+2023-09-30 09:49:06,DEBUG,DownloadThread #2 finished
+2023-09-30 09:49:06,DEBUG,DownloadThread #3 finished
+2023-09-30 09:49:06,DEBUG,DownloadThread #4 finished
+2023-09-30 09:49:06,DEBUG,DisconnectionThreadPool finished
+2023-09-30 09:49:06,DEBUG,DisconnectionThread #1 finished
+2023-09-30 09:49:06,DEBUG,DisconnectionThread #2 finished
+2023-09-30 09:49:06,DEBUG,DisconnectionThread #3 finished
+2023-09-30 09:49:06,DEBUG,DisconnectionThread #4 finished
+2023-09-30 09:49:06,DEBUG,DisconnectionThread #5 finished
+2023-09-30 09:49:06,DEBUG,DisconnectionThread #6 finished
+2023-09-30 09:49:06,DEBUG,DisconnectionThread #7 finished
+2023-09-30 09:49:06,DEBUG,DisconnectionThread #8 finished
+2023-09-30 09:49:06,INFO,Thread pools stopped
+2023-09-30 09:50:04,INFO,Starting thread pools
+2023-09-30 09:50:04,DEBUG,DetectionThreadPool starting
+2023-09-30 09:50:04,DEBUG,DetectionThread #1 starting
+2023-09-30 09:50:04,DEBUG,DetectionThread #2 starting
+2023-09-30 09:50:04,DEBUG,DetectionThread #3 starting
+2023-09-30 09:50:04,DEBUG,DetectionThread #4 starting
+2023-09-30 09:50:04,DEBUG,DetectionThread #5 starting
+2023-09-30 09:50:04,DEBUG,DetectionThread #6 starting
+2023-09-30 09:50:04,DEBUG,DetectionThread #7 starting
+2023-09-30 09:50:04,DEBUG,DetectionThread #8 starting
+2023-09-30 09:50:04,DEBUG,InspectionThreadPool starting
+2023-09-30 09:50:04,DEBUG,InspectionThread #1 starting
+2023-09-30 09:50:04,DEBUG,InspectionThread #2 starting
+2023-09-30 09:50:04,DEBUG,InspectionThread #3 starting
+2023-09-30 09:50:04,DEBUG,InspectionThread #4 starting
+2023-09-30 09:50:04,DEBUG,DownloadThreadPool starting
+2023-09-30 09:50:04,DEBUG,DownloadThread #1 starting
+2023-09-30 09:50:04,DEBUG,DownloadThread #2 starting
+2023-09-30 09:50:04,DEBUG,DownloadThread #3 starting
+2023-09-30 09:50:04,DEBUG,DownloadThread #4 starting
+2023-09-30 09:50:04,DEBUG,DisconnectionThreadPool starting
+2023-09-30 09:50:04,DEBUG,DisconnectionThread #1 starting
+2023-09-30 09:50:04,DEBUG,DisconnectionThread #2 starting
+2023-09-30 09:50:04,DEBUG,DisconnectionThread #3 starting
+2023-09-30 09:50:04,DEBUG,DisconnectionThread #4 starting
+2023-09-30 09:50:04,DEBUG,DisconnectionThread #5 starting
+2023-09-30 09:50:04,DEBUG,DisconnectionThread #6 starting
+2023-09-30 09:50:04,DEBUG,DisconnectionThread #7 starting
+2023-09-30 09:50:04,DEBUG,DisconnectionThread #8 starting
+2023-09-30 09:50:04,INFO,Thread pools started
+2023-09-30 09:50:04,DEBUG,motion-664 detected at 192.168.0.120
+2023-09-30 09:50:04,INFO,motion-664 is connected
+2023-09-30 09:50:05,DEBUG,motion-664 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:50:05,DEBUG,motion-664 storage is 0% full
+2023-09-30 09:50:05,WARNING,motion-664 battery level is 23%
+2023-09-30 09:50:05,INFO,motion-664 can be disconnected
+2023-09-30 09:50:14,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:50:14,DEBUG,motion-661 detected at 192.168.0.136
+2023-09-30 09:50:14,DEBUG,motion-665 detected at 192.168.0.152
+2023-09-30 09:50:14,INFO,motion-661 is connected
+2023-09-30 09:50:14,INFO,motion-665 is connected
+2023-09-30 09:50:15,DEBUG,motion-661 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:50:15,DEBUG,motion-661 storage is 0% full
+2023-09-30 09:50:15,WARNING,motion-661 battery level is 35%
+2023-09-30 09:50:15,INFO,motion-661 can be disconnected
+2023-09-30 09:50:15,DEBUG,motion-665 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:50:15,DEBUG,motion-665 storage is 0% full
+2023-09-30 09:50:15,WARNING,motion-665 battery level is 38%
+2023-09-30 09:50:16,INFO,motion-665 can be disconnected
+2023-09-30 09:50:24,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:50:24,DEBUG,motion-663 detected at 192.168.0.168
+2023-09-30 09:50:24,DEBUG,motion-669 detected at 192.168.0.140
+2023-09-30 09:50:24,INFO,motion-663 is connected
+2023-09-30 09:50:24,INFO,motion-669 is connected
+2023-09-30 09:50:25,DEBUG,motion-669 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:50:25,DEBUG,motion-669 storage is 0% full
+2023-09-30 09:50:25,WARNING,motion-669 battery level is 22%
+2023-09-30 09:50:25,DEBUG,motion-663 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:50:25,DEBUG,motion-663 storage is 0% full
+2023-09-30 09:50:25,WARNING,motion-663 battery level is 27%
+2023-09-30 09:50:26,INFO,motion-663 can be disconnected
+2023-09-30 09:50:26,INFO,motion-669 can be disconnected
+2023-09-30 09:50:34,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:50:34,DEBUG,motion-660 detected at 192.168.0.172
+2023-09-30 09:50:34,DEBUG,motion-662 detected at 192.168.0.169
+2023-09-30 09:50:34,DEBUG,motion-668 detected at 192.168.0.148
+2023-09-30 09:50:34,INFO,motion-660 is connected
+2023-09-30 09:50:34,INFO,motion-662 is connected
+2023-09-30 09:50:34,INFO,motion-668 is connected
+2023-09-30 09:50:35,DEBUG,motion-662 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:50:35,DEBUG,motion-662 storage is 0% full
+2023-09-30 09:50:35,WARNING,motion-662 battery level is 25%
+2023-09-30 09:50:35,DEBUG,motion-660 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:50:35,DEBUG,motion-660 storage is 0% full
+2023-09-30 09:50:35,WARNING,motion-660 battery level is 21%
+2023-09-30 09:50:36,DEBUG,motion-668 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:50:36,DEBUG,motion-668 storage is 0% full
+2023-09-30 09:50:36,WARNING,motion-668 battery level is 28%
+2023-09-30 09:50:36,INFO,motion-660 can be disconnected
+2023-09-30 09:50:36,INFO,motion-668 can be disconnected
+2023-09-30 09:50:40,INFO,motion-662 can be disconnected
+2023-09-30 09:50:44,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:50:54,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:51:14,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:51:24,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:51:35,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:51:45,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:51:55,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:52:05,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:52:15,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:52:25,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:52:35,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:52:35,DEBUG,motion-631 detected at 192.168.0.194
+2023-09-30 09:52:35,INFO,motion-631 is connected
+2023-09-30 09:52:37,DEBUG,motion-631 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:52:37,DEBUG,motion-631 storage is 0% full
+2023-09-30 09:52:37,WARNING,motion-631 battery level is 56%
+2023-09-30 09:52:38,INFO,motion-631 can be disconnected
+2023-09-30 09:52:45,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:52:46,DEBUG,motion-632 detected at 192.168.0.218
+2023-09-30 09:52:46,INFO,motion-632 is connected
+2023-09-30 09:52:46,DEBUG,motion-643 detected at 192.168.0.195
+2023-09-30 09:52:46,INFO,motion-643 is connected
+2023-09-30 09:52:46,DEBUG,motion-632 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:52:46,DEBUG,motion-632 storage is 0% full
+2023-09-30 09:52:46,INFO,motion-632 battery level is 63%
+2023-09-30 09:52:46,DEBUG,motion-643 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:52:46,DEBUG,motion-643 storage is 0% full
+2023-09-30 09:52:46,WARNING,motion-643 battery level is 35%
+2023-09-30 09:52:47,INFO,motion-643 can be disconnected
+2023-09-30 09:52:47,INFO,motion-632 can be disconnected
+2023-09-30 09:52:56,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:52:56,DEBUG,motion-625 detected at 192.168.0.190
+2023-09-30 09:52:56,DEBUG,motion-641 detected at 192.168.0.196
+2023-09-30 09:52:56,INFO,motion-625 is connected
+2023-09-30 09:52:56,INFO,motion-641 is connected
+2023-09-30 09:52:57,DEBUG,motion-641 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:52:57,DEBUG,motion-641 storage is 0% full
+2023-09-30 09:52:57,WARNING,motion-641 battery level is 27%
+2023-09-30 09:52:58,DEBUG,motion-625 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:52:58,DEBUG,motion-625 storage is 0% full
+2023-09-30 09:52:58,INFO,motion-625 battery level is 60%
+2023-09-30 09:52:58,INFO,motion-641 can be disconnected
+2023-09-30 09:52:58,INFO,motion-625 can be disconnected
+2023-09-30 09:53:06,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:53:16,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:53:26,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:53:36,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:53:36,DEBUG,motion-701 detected at 192.168.0.238
+2023-09-30 09:53:36,INFO,motion-701 is connected
+2023-09-30 09:53:37,DEBUG,motion-701 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:53:37,DEBUG,motion-701 storage is 0% full
+2023-09-30 09:53:37,WARNING,motion-701 battery level is 22%
+2023-09-30 09:53:38,INFO,motion-701 can be disconnected
+2023-09-30 09:53:46,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:53:46,DEBUG,motion-615 detected at 192.168.0.110
+2023-09-30 09:53:46,INFO,motion-615 is connected
+2023-09-30 09:53:48,DEBUG,motion-615 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:53:48,DEBUG,motion-615 storage is 0% full
+2023-09-30 09:53:48,WARNING,motion-615 battery level is 54%
+2023-09-30 09:53:49,INFO,motion-615 can be disconnected
+2023-09-30 09:53:56,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:54:07,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:54:17,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:54:27,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:54:37,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:54:47,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:54:57,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:55:07,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:55:18,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:55:28,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:55:28,DEBUG,motion-699 detected at 192.168.0.108
+2023-09-30 09:55:28,INFO,motion-699 is connected
+2023-09-30 09:55:29,DEBUG,motion-699 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:55:29,DEBUG,motion-699 storage is 0% full
+2023-09-30 09:55:29,WARNING,motion-699 battery level is 27%
+2023-09-30 09:55:29,INFO,motion-699 can be disconnected
+2023-09-30 09:55:38,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:55:48,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:55:48,DEBUG,motion-611 detected at 192.168.0.204
+2023-09-30 09:55:48,INFO,motion-611 is connected
+2023-09-30 09:55:48,DEBUG,motion-694 detected at 192.168.0.188
+2023-09-30 09:55:48,INFO,motion-694 is connected
+2023-09-30 09:55:49,DEBUG,motion-611 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:55:49,DEBUG,motion-611 storage is 0% full
+2023-09-30 09:55:49,WARNING,motion-611 battery level is 48%
+2023-09-30 09:55:49,DEBUG,motion-694 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:55:49,DEBUG,motion-694 storage is 0% full
+2023-09-30 09:55:49,WARNING,motion-694 battery level is 26%
+2023-09-30 09:55:50,INFO,motion-694 can be disconnected
+2023-09-30 09:55:50,INFO,motion-611 can be disconnected
+2023-09-30 09:55:58,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:55:58,DEBUG,motion-633 detected at 192.168.0.214
+2023-09-30 09:55:58,INFO,motion-633 is connected
+2023-09-30 09:55:59,DEBUG,motion-633 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:55:59,DEBUG,motion-633 storage is 0% full
+2023-09-30 09:55:59,WARNING,motion-633 battery level is 52%
+2023-09-30 09:56:00,INFO,motion-633 can be disconnected
+2023-09-30 09:56:08,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:56:19,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:56:29,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:56:29,DEBUG,motion-607 detected at 192.168.0.208
+2023-09-30 09:56:29,INFO,motion-607 is connected
+2023-09-30 09:56:30,DEBUG,motion-607 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:56:30,DEBUG,motion-607 storage is 0% full
+2023-09-30 09:56:30,WARNING,motion-607 battery level is 56%
+2023-09-30 09:56:31,INFO,motion-607 can be disconnected
+2023-09-30 09:56:39,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:56:39,DEBUG,motion-617 detected at 192.168.0.142
+2023-09-30 09:56:39,INFO,motion-617 is connected
+2023-09-30 09:56:39,DEBUG,motion-700 detected at 192.168.0.104
+2023-09-30 09:56:39,DEBUG,motion-718 detected at 192.168.0.189
+2023-09-30 09:56:39,INFO,motion-718 is connected
+2023-09-30 09:56:39,INFO,motion-700 is connected
+2023-09-30 09:56:40,DEBUG,motion-617 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:56:40,DEBUG,motion-617 storage is 0% full
+2023-09-30 09:56:40,WARNING,motion-617 battery level is 53%
+2023-09-30 09:56:40,DEBUG,motion-718 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:56:40,DEBUG,motion-718 storage is 0% full
+2023-09-30 09:56:40,WARNING,motion-718 battery level is 28%
+2023-09-30 09:56:40,DEBUG,motion-700 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:56:40,DEBUG,motion-700 storage is 0% full
+2023-09-30 09:56:40,WARNING,motion-700 battery level is 25%
+2023-09-30 09:56:40,INFO,motion-617 can be disconnected
+2023-09-30 09:56:40,INFO,motion-700 can be disconnected
+2023-09-30 09:56:40,INFO,motion-718 can be disconnected
+2023-09-30 09:56:49,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:56:59,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:57:09,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:57:19,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:57:29,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:57:40,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:57:50,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:58:00,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:58:10,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:58:20,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:58:30,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:58:40,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:58:40,DEBUG,motion-601 detected at 192.168.0.162
+2023-09-30 09:58:40,INFO,motion-601 is connected
+2023-09-30 09:58:41,DEBUG,motion-601 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:58:41,DEBUG,motion-601 storage is 0% full
+2023-09-30 09:58:41,WARNING,motion-601 battery level is 58%
+2023-09-30 09:58:42,INFO,motion-601 can be disconnected
+2023-09-30 09:58:51,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:58:51,DEBUG,motion-693 detected at 192.168.0.130
+2023-09-30 09:58:51,INFO,motion-693 is connected
+2023-09-30 09:58:51,DEBUG,motion-712 detected at 192.168.0.200
+2023-09-30 09:58:51,INFO,motion-712 is connected
+2023-09-30 09:58:52,DEBUG,motion-712 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:58:52,DEBUG,motion-712 storage is 0% full
+2023-09-30 09:58:52,WARNING,motion-712 battery level is 31%
+2023-09-30 09:58:52,DEBUG,motion-693 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:58:52,DEBUG,motion-693 storage is 0% full
+2023-09-30 09:58:52,WARNING,motion-693 battery level is 33%
+2023-09-30 09:58:53,INFO,motion-693 can be disconnected
+2023-09-30 09:58:54,INFO,motion-712 can be disconnected
+2023-09-30 09:59:01,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:59:01,DEBUG,motion-618 detected at 192.168.0.206
+2023-09-30 09:59:01,INFO,motion-618 is connected
+2023-09-30 09:59:02,DEBUG,motion-618 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:59:02,DEBUG,motion-618 storage is 0% full
+2023-09-30 09:59:02,WARNING,motion-618 battery level is 55%
+2023-09-30 09:59:02,INFO,motion-618 can be disconnected
+2023-09-30 09:59:11,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:59:21,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:59:21,DEBUG,motion-619 detected at 192.168.0.240
+2023-09-30 09:59:21,INFO,motion-619 is connected
+2023-09-30 09:59:21,DEBUG,motion-717 detected at 192.168.0.208
+2023-09-30 09:59:21,INFO,motion-717 is connected
+2023-09-30 09:59:23,DEBUG,motion-619 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:59:23,DEBUG,motion-619 storage is 0% full
+2023-09-30 09:59:23,WARNING,motion-619 battery level is 57%
+2023-09-30 09:59:25,INFO,motion-619 can be disconnected
+2023-09-30 09:59:31,ERROR,motion-717 was unable to provide info.json
+2023-09-30 09:59:31,ERROR,Exception in InspectionThread - timed out
+2023-09-30 09:59:31,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:59:31,DEBUG,motion-717 detected at 192.168.0.208
+2023-09-30 09:59:31,DEBUG,motion-705 detected at 192.168.0.140
+2023-09-30 09:59:31,INFO,motion-705 is connected
+2023-09-30 09:59:31,INFO,motion-717 is connected
+2023-09-30 09:59:32,DEBUG,motion-717 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:59:32,DEBUG,motion-717 storage is 0% full
+2023-09-30 09:59:32,WARNING,motion-717 battery level is 35%
+2023-09-30 09:59:33,INFO,motion-717 can be disconnected
+2023-09-30 09:59:41,ERROR,motion-705 was unable to provide info.json
+2023-09-30 09:59:41,ERROR,Exception in InspectionThread - timed out
+2023-09-30 09:59:41,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:59:41,DEBUG,motion-705 detected at 192.168.0.140
+2023-09-30 09:59:41,INFO,motion-705 is connected
+2023-09-30 09:59:42,DEBUG,motion-705 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:59:42,DEBUG,motion-705 storage is 0% full
+2023-09-30 09:59:42,WARNING,motion-705 battery level is 31%
+2023-09-30 09:59:43,INFO,motion-705 can be disconnected
+2023-09-30 09:59:51,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 09:59:51,DEBUG,motion-647 detected at 192.168.0.244
+2023-09-30 09:59:51,INFO,motion-647 is connected
+2023-09-30 09:59:52,DEBUG,motion-647 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 09:59:52,DEBUG,motion-647 storage is 0% full
+2023-09-30 09:59:52,WARNING,motion-647 battery level is 25%
+2023-09-30 09:59:53,INFO,motion-647 can be disconnected
+2023-09-30 10:00:02,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:00:12,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:00:22,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:00:32,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:00:42,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:00:52,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:01:02,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:01:12,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:01:22,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:01:33,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:01:43,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:01:43,DEBUG,motion-634 detected at 192.168.0.186
+2023-09-30 10:01:43,INFO,motion-634 is connected
+2023-09-30 10:01:43,DEBUG,motion-653 detected at 192.168.0.178
+2023-09-30 10:01:43,DEBUG,motion-695 detected at 192.168.0.118
+2023-09-30 10:01:43,INFO,motion-653 is connected
+2023-09-30 10:01:43,INFO,motion-695 is connected
+2023-09-30 10:01:44,DEBUG,motion-653 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:01:44,DEBUG,motion-653 storage is 0% full
+2023-09-30 10:01:44,WARNING,motion-653 battery level is 30%
+2023-09-30 10:01:44,DEBUG,motion-634 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:01:44,DEBUG,motion-634 storage is 0% full
+2023-09-30 10:01:44,INFO,motion-634 battery level is 61%
+2023-09-30 10:01:44,DEBUG,motion-695 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:01:44,DEBUG,motion-695 storage is 0% full
+2023-09-30 10:01:44,WARNING,motion-695 battery level is 31%
+2023-09-30 10:01:44,INFO,motion-653 can be disconnected
+2023-09-30 10:01:45,INFO,motion-634 can be disconnected
+2023-09-30 10:01:46,INFO,motion-695 can be disconnected
+2023-09-30 10:01:53,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:01:53,DEBUG,motion-652 detected at 192.168.0.187
+2023-09-30 10:01:53,INFO,motion-652 is connected
+2023-09-30 10:01:54,DEBUG,motion-652 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:01:54,DEBUG,motion-652 storage is 0% full
+2023-09-30 10:01:54,WARNING,motion-652 battery level is 32%
+2023-09-30 10:01:54,INFO,motion-652 can be disconnected
+2023-09-30 10:02:03,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:02:03,DEBUG,motion-656 detected at 192.168.0.162
+2023-09-30 10:02:03,INFO,motion-656 is connected
+2023-09-30 10:02:03,DEBUG,motion-639 detected at 192.168.0.110
+2023-09-30 10:02:03,INFO,motion-639 is connected
+2023-09-30 10:02:13,ERROR,motion-656 was unable to provide info.json
+2023-09-30 10:02:13,ERROR,Exception in InspectionThread - timed out
+2023-09-30 10:02:13,ERROR,motion-639 was unable to provide info.json
+2023-09-30 10:02:13,ERROR,Exception in InspectionThread - timed out
+2023-09-30 10:02:23,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:02:23,DEBUG,motion-656 detected at 192.168.0.162
+2023-09-30 10:02:23,DEBUG,motion-635 detected at 192.168.0.210
+2023-09-30 10:02:23,INFO,motion-656 is connected
+2023-09-30 10:02:23,INFO,motion-635 is connected
+2023-09-30 10:02:23,DEBUG,motion-656 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:02:23,DEBUG,motion-656 storage is 0% full
+2023-09-30 10:02:23,WARNING,motion-656 battery level is 34%
+2023-09-30 10:02:24,DEBUG,motion-635 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:02:24,DEBUG,motion-635 storage is 0% full
+2023-09-30 10:02:24,WARNING,motion-635 battery level is 55%
+2023-09-30 10:02:24,INFO,motion-656 can be disconnected
+2023-09-30 10:02:25,INFO,motion-635 can be disconnected
+2023-09-30 10:02:33,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:02:33,DEBUG,motion-639 detected at 192.168.0.110
+2023-09-30 10:02:33,INFO,motion-639 is connected
+2023-09-30 10:02:33,DEBUG,motion-639 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:02:33,DEBUG,motion-639 storage is 0% full
+2023-09-30 10:02:33,WARNING,motion-639 battery level is 21%
+2023-09-30 10:02:34,INFO,motion-639 can be disconnected
+2023-09-30 10:02:43,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:02:53,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:03:03,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:03:23,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:03:34,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:03:44,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:03:54,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:04:04,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:04:24,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:04:34,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:04:44,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:04:54,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:05:04,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:05:15,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:05:25,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:05:35,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:05:55,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:06:05,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:06:05,DEBUG,motion-648 detected at 192.168.0.226
+2023-09-30 10:06:05,INFO,motion-648 is connected
+2023-09-30 10:06:06,DEBUG,motion-648 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:06:06,DEBUG,motion-648 storage is 0% full
+2023-09-30 10:06:06,WARNING,motion-648 battery level is 33%
+2023-09-30 10:06:06,INFO,motion-648 can be disconnected
+2023-09-30 10:06:15,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:06:25,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:06:35,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:06:45,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:06:45,DEBUG,motion-651 detected at 192.168.0.134
+2023-09-30 10:06:45,INFO,motion-651 is connected
+2023-09-30 10:06:46,DEBUG,motion-651 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:06:46,DEBUG,motion-651 storage is 0% full
+2023-09-30 10:06:46,WARNING,motion-651 battery level is 25%
+2023-09-30 10:06:47,INFO,motion-651 can be disconnected
+2023-09-30 10:06:55,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:07:06,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:07:08,INFO,Keyboard interrupt
+2023-09-30 10:07:08,INFO,Stopping thread pools
+2023-09-30 10:07:16,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:07:16,DEBUG,DetectionThreadPool finished
+2023-09-30 10:07:16,DEBUG,DetectionThread #1 finished
+2023-09-30 10:07:16,DEBUG,DetectionThread #2 finished
+2023-09-30 10:07:16,DEBUG,DetectionThread #3 finished
+2023-09-30 10:07:16,DEBUG,DetectionThread #4 finished
+2023-09-30 10:07:16,DEBUG,DetectionThread #5 finished
+2023-09-30 10:07:16,DEBUG,DetectionThread #6 finished
+2023-09-30 10:07:16,DEBUG,DetectionThread #7 finished
+2023-09-30 10:07:16,DEBUG,DetectionThread #8 finished
+2023-09-30 10:07:16,DEBUG,InspectionThreadPool finished
+2023-09-30 10:07:16,DEBUG,InspectionThread #1 finished
+2023-09-30 10:07:16,DEBUG,InspectionThread #2 finished
+2023-09-30 10:07:16,DEBUG,InspectionThread #3 finished
+2023-09-30 10:07:16,DEBUG,InspectionThread #4 finished
+2023-09-30 10:07:16,DEBUG,DownloadThreadPool finished
+2023-09-30 10:07:16,DEBUG,DownloadThread #1 finished
+2023-09-30 10:07:16,DEBUG,DownloadThread #2 finished
+2023-09-30 10:07:16,DEBUG,DownloadThread #3 finished
+2023-09-30 10:07:16,DEBUG,DownloadThread #4 finished
+2023-09-30 10:07:16,DEBUG,DisconnectionThreadPool finished
+2023-09-30 10:07:16,DEBUG,DisconnectionThread #1 finished
+2023-09-30 10:07:16,DEBUG,DisconnectionThread #2 finished
+2023-09-30 10:07:16,DEBUG,DisconnectionThread #3 finished
+2023-09-30 10:07:16,DEBUG,DisconnectionThread #4 finished
+2023-09-30 10:07:16,DEBUG,DisconnectionThread #5 finished
+2023-09-30 10:07:16,DEBUG,DisconnectionThread #6 finished
+2023-09-30 10:07:16,DEBUG,DisconnectionThread #7 finished
+2023-09-30 10:07:16,DEBUG,DisconnectionThread #8 finished
+2023-09-30 10:07:16,INFO,Thread pools stopped
+2023-09-30 10:10:58,INFO,Starting thread pools
+2023-09-30 10:10:58,DEBUG,DetectionThreadPool starting
+2023-09-30 10:10:58,DEBUG,DetectionThread #1 starting
+2023-09-30 10:10:58,DEBUG,DetectionThread #2 starting
+2023-09-30 10:10:58,DEBUG,DetectionThread #3 starting
+2023-09-30 10:10:58,DEBUG,DetectionThread #4 starting
+2023-09-30 10:10:58,DEBUG,DetectionThread #5 starting
+2023-09-30 10:10:58,DEBUG,DetectionThread #6 starting
+2023-09-30 10:10:58,DEBUG,DetectionThread #7 starting
+2023-09-30 10:10:58,DEBUG,DetectionThread #8 starting
+2023-09-30 10:10:58,DEBUG,InspectionThreadPool starting
+2023-09-30 10:10:58,DEBUG,InspectionThread #1 starting
+2023-09-30 10:10:58,DEBUG,InspectionThread #2 starting
+2023-09-30 10:10:58,DEBUG,InspectionThread #3 starting
+2023-09-30 10:10:58,DEBUG,InspectionThread #4 starting
+2023-09-30 10:10:58,DEBUG,DownloadThreadPool starting
+2023-09-30 10:10:58,DEBUG,DownloadThread #1 starting
+2023-09-30 10:10:58,DEBUG,DownloadThread #2 starting
+2023-09-30 10:10:58,DEBUG,DownloadThread #3 starting
+2023-09-30 10:10:58,DEBUG,DownloadThread #4 starting
+2023-09-30 10:10:58,DEBUG,DisconnectionThreadPool starting
+2023-09-30 10:10:58,DEBUG,DisconnectionThread #1 starting
+2023-09-30 10:10:58,DEBUG,DisconnectionThread #2 starting
+2023-09-30 10:10:58,DEBUG,DisconnectionThread #3 starting
+2023-09-30 10:10:58,DEBUG,DisconnectionThread #4 starting
+2023-09-30 10:10:58,DEBUG,DisconnectionThread #5 starting
+2023-09-30 10:10:58,DEBUG,DisconnectionThread #6 starting
+2023-09-30 10:10:58,DEBUG,DisconnectionThread #7 starting
+2023-09-30 10:10:58,DEBUG,DisconnectionThread #8 starting
+2023-09-30 10:10:58,INFO,Thread pools started
+2023-09-30 10:11:08,DEBUG,motion-630 detected at 192.168.0.132
+2023-09-30 10:11:08,INFO,motion-630 is connected
+2023-09-30 10:11:18,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:11:18,ERROR,motion-630 was unable to provide info.json
+2023-09-30 10:11:18,ERROR,Exception in InspectionThread - timed out
+2023-09-30 10:11:38,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:11:38,DEBUG,motion-642 detected at 192.168.0.198
+2023-09-30 10:11:38,INFO,motion-642 is connected
+2023-09-30 10:11:38,DEBUG,motion-630 detected at 192.168.0.132
+2023-09-30 10:11:38,INFO,motion-630 is connected
+2023-09-30 10:11:38,DEBUG,motion-630 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:11:38,DEBUG,motion-630 storage is 0% full
+2023-09-30 10:11:38,WARNING,motion-630 battery level is 57%
+2023-09-30 10:11:39,DEBUG,motion-642 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:11:39,DEBUG,motion-642 storage is 0% full
+2023-09-30 10:11:39,WARNING,motion-642 battery level is 22%
+2023-09-30 10:11:39,INFO,motion-630 can be disconnected
+2023-09-30 10:11:39,INFO,motion-642 can be disconnected
+2023-09-30 10:11:48,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:11:48,INFO,Keyboard interrupt
+2023-09-30 10:11:48,INFO,Stopping thread pools
+2023-09-30 10:11:58,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:11:58,DEBUG,DetectionThreadPool finished
+2023-09-30 10:11:58,DEBUG,DetectionThread #1 finished
+2023-09-30 10:11:58,DEBUG,DetectionThread #2 finished
+2023-09-30 10:11:58,DEBUG,DetectionThread #3 finished
+2023-09-30 10:11:58,DEBUG,DetectionThread #4 finished
+2023-09-30 10:11:58,DEBUG,DetectionThread #5 finished
+2023-09-30 10:11:58,DEBUG,DetectionThread #6 finished
+2023-09-30 10:11:58,DEBUG,DetectionThread #7 finished
+2023-09-30 10:11:58,DEBUG,DetectionThread #8 finished
+2023-09-30 10:11:58,DEBUG,InspectionThreadPool finished
+2023-09-30 10:11:58,DEBUG,InspectionThread #1 finished
+2023-09-30 10:11:58,DEBUG,InspectionThread #2 finished
+2023-09-30 10:11:58,DEBUG,InspectionThread #3 finished
+2023-09-30 10:11:58,DEBUG,InspectionThread #4 finished
+2023-09-30 10:11:58,DEBUG,DownloadThreadPool finished
+2023-09-30 10:11:58,DEBUG,DownloadThread #1 finished
+2023-09-30 10:11:58,DEBUG,DownloadThread #2 finished
+2023-09-30 10:11:58,DEBUG,DownloadThread #3 finished
+2023-09-30 10:11:58,DEBUG,DownloadThread #4 finished
+2023-09-30 10:11:58,DEBUG,DisconnectionThreadPool finished
+2023-09-30 10:11:58,DEBUG,DisconnectionThread #1 finished
+2023-09-30 10:11:58,DEBUG,DisconnectionThread #2 finished
+2023-09-30 10:11:58,DEBUG,DisconnectionThread #3 finished
+2023-09-30 10:11:58,DEBUG,DisconnectionThread #4 finished
+2023-09-30 10:11:58,DEBUG,DisconnectionThread #5 finished
+2023-09-30 10:11:58,DEBUG,DisconnectionThread #6 finished
+2023-09-30 10:11:58,DEBUG,DisconnectionThread #7 finished
+2023-09-30 10:11:58,DEBUG,DisconnectionThread #8 finished
+2023-09-30 10:11:58,INFO,Thread pools stopped
+2023-09-30 10:13:35,INFO,Starting thread pools
+2023-09-30 10:13:35,DEBUG,DetectionThreadPool starting
+2023-09-30 10:13:35,DEBUG,DetectionThread #1 starting
+2023-09-30 10:13:35,DEBUG,DetectionThread #2 starting
+2023-09-30 10:13:35,DEBUG,DetectionThread #3 starting
+2023-09-30 10:13:35,DEBUG,DetectionThread #4 starting
+2023-09-30 10:13:35,DEBUG,DetectionThread #5 starting
+2023-09-30 10:13:35,DEBUG,DetectionThread #6 starting
+2023-09-30 10:13:35,DEBUG,DetectionThread #7 starting
+2023-09-30 10:13:35,DEBUG,DetectionThread #8 starting
+2023-09-30 10:13:35,DEBUG,InspectionThreadPool starting
+2023-09-30 10:13:35,DEBUG,InspectionThread #1 starting
+2023-09-30 10:13:35,DEBUG,InspectionThread #2 starting
+2023-09-30 10:13:35,DEBUG,InspectionThread #3 starting
+2023-09-30 10:13:35,DEBUG,InspectionThread #4 starting
+2023-09-30 10:13:35,DEBUG,DownloadThreadPool starting
+2023-09-30 10:13:35,DEBUG,DownloadThread #1 starting
+2023-09-30 10:13:35,DEBUG,DownloadThread #2 starting
+2023-09-30 10:13:35,DEBUG,DownloadThread #3 starting
+2023-09-30 10:13:35,DEBUG,DownloadThread #4 starting
+2023-09-30 10:13:35,DEBUG,DisconnectionThreadPool starting
+2023-09-30 10:13:35,DEBUG,DisconnectionThread #1 starting
+2023-09-30 10:13:35,DEBUG,DisconnectionThread #2 starting
+2023-09-30 10:13:35,DEBUG,DisconnectionThread #3 starting
+2023-09-30 10:13:35,DEBUG,DisconnectionThread #4 starting
+2023-09-30 10:13:35,DEBUG,DisconnectionThread #5 starting
+2023-09-30 10:13:35,DEBUG,DisconnectionThread #6 starting
+2023-09-30 10:13:35,DEBUG,DisconnectionThread #7 starting
+2023-09-30 10:13:35,DEBUG,DisconnectionThread #8 starting
+2023-09-30 10:13:35,INFO,Thread pools started
+2023-09-30 10:13:35,DEBUG,motion-642 detected at 192.168.0.198
+2023-09-30 10:13:35,INFO,motion-642 is connected
+2023-09-30 10:13:35,DEBUG,motion-642 firmware is approved (9003 Weymouth Speed Week)
+2023-09-30 10:13:35,DEBUG,motion-642 storage is 0% full
+2023-09-30 10:13:35,WARNING,motion-642 battery level is 25%
+2023-09-30 10:13:36,INFO,motion-642 can be disconnected
+2023-09-30 10:13:45,DEBUG,motion-630 detected at 192.168.0.132
+2023-09-30 10:13:45,INFO,motion-630 is connected
+2023-09-30 10:13:55,INFO,Keyboard interrupt
+2023-09-30 10:13:55,INFO,Stopping thread pools
+2023-09-30 10:13:55,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:13:55,DEBUG,DetectionThreadPool finished
+2023-09-30 10:13:55,DEBUG,DetectionThread #1 finished
+2023-09-30 10:13:55,DEBUG,DetectionThread #2 finished
+2023-09-30 10:13:55,DEBUG,DetectionThread #3 finished
+2023-09-30 10:13:55,DEBUG,DetectionThread #4 finished
+2023-09-30 10:13:55,DEBUG,DetectionThread #5 finished
+2023-09-30 10:13:55,ERROR,motion-630 was unable to provide info.json
+2023-09-30 10:13:55,ERROR,Exception in InspectionThread - timed out
+2023-09-30 10:13:55,DEBUG,DetectionThread #6 finished
+2023-09-30 10:13:55,DEBUG,DetectionThread #7 finished
+2023-09-30 10:13:55,DEBUG,DetectionThread #8 finished
+2023-09-30 10:13:55,DEBUG,InspectionThreadPool finished
+2023-09-30 10:13:55,DEBUG,InspectionThread #1 finished
+2023-09-30 10:13:55,DEBUG,InspectionThread #2 finished
+2023-09-30 10:13:55,DEBUG,InspectionThread #3 finished
+2023-09-30 10:13:55,DEBUG,InspectionThread #4 finished
+2023-09-30 10:13:55,DEBUG,DownloadThreadPool finished
+2023-09-30 10:13:55,DEBUG,DownloadThread #1 finished
+2023-09-30 10:13:55,DEBUG,DownloadThread #2 finished
+2023-09-30 10:13:55,DEBUG,DownloadThread #3 finished
+2023-09-30 10:13:55,DEBUG,DownloadThread #4 finished
+2023-09-30 10:13:55,DEBUG,DisconnectionThreadPool finished
+2023-09-30 10:13:55,DEBUG,DisconnectionThread #1 finished
+2023-09-30 10:13:55,DEBUG,DisconnectionThread #2 finished
+2023-09-30 10:13:55,DEBUG,DisconnectionThread #3 finished
+2023-09-30 10:13:55,DEBUG,DisconnectionThread #4 finished
+2023-09-30 10:13:55,DEBUG,DisconnectionThread #5 finished
+2023-09-30 10:13:55,DEBUG,DisconnectionThread #6 finished
+2023-09-30 10:13:55,DEBUG,DisconnectionThread #7 finished
+2023-09-30 10:13:55,DEBUG,DisconnectionThread #8 finished
+2023-09-30 10:13:55,INFO,Thread pools stopped
+2023-09-30 10:18:00,INFO,Starting thread pools
+2023-09-30 10:18:00,DEBUG,DetectionThreadPool starting
+2023-09-30 10:18:00,DEBUG,DetectionThread #1 starting
+2023-09-30 10:18:00,DEBUG,DetectionThread #2 starting
+2023-09-30 10:18:00,DEBUG,DetectionThread #3 starting
+2023-09-30 10:18:00,DEBUG,DetectionThread #4 starting
+2023-09-30 10:18:00,DEBUG,DetectionThread #5 starting
+2023-09-30 10:18:00,DEBUG,DetectionThread #6 starting
+2023-09-30 10:18:00,DEBUG,DetectionThread #7 starting
+2023-09-30 10:18:00,DEBUG,DetectionThread #8 starting
+2023-09-30 10:18:00,DEBUG,InspectionThreadPool starting
+2023-09-30 10:18:00,DEBUG,InspectionThread #1 starting
+2023-09-30 10:18:00,DEBUG,InspectionThread #2 starting
+2023-09-30 10:18:00,DEBUG,InspectionThread #3 starting
+2023-09-30 10:18:00,DEBUG,InspectionThread #4 starting
+2023-09-30 10:18:00,DEBUG,DownloadThreadPool starting
+2023-09-30 10:18:00,DEBUG,DownloadThread #1 starting
+2023-09-30 10:18:00,DEBUG,DownloadThread #2 starting
+2023-09-30 10:18:00,DEBUG,DownloadThread #3 starting
+2023-09-30 10:18:00,DEBUG,DownloadThread #4 starting
+2023-09-30 10:18:00,DEBUG,DisconnectionThreadPool starting
+2023-09-30 10:18:00,DEBUG,DisconnectionThread #1 starting
+2023-09-30 10:18:00,DEBUG,DisconnectionThread #2 starting
+2023-09-30 10:18:00,DEBUG,DisconnectionThread #3 starting
+2023-09-30 10:18:00,DEBUG,DisconnectionThread #4 starting
+2023-09-30 10:18:00,DEBUG,DisconnectionThread #5 starting
+2023-09-30 10:18:00,DEBUG,DisconnectionThread #6 starting
+2023-09-30 10:18:00,DEBUG,DisconnectionThread #7 starting
+2023-09-30 10:18:00,DEBUG,DisconnectionThread #8 starting
+2023-09-30 10:18:00,INFO,Thread pools started
+2023-09-30 10:18:21,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:18:25,INFO,Keyboard interrupt
+2023-09-30 10:18:25,INFO,Stopping thread pools
+2023-09-30 10:18:31,DEBUG,DetectionThreadPool finished
+2023-09-30 10:18:31,DEBUG,DetectionThread #1 finished
+2023-09-30 10:18:31,DEBUG,DetectionThread #2 finished
+2023-09-30 10:18:31,DEBUG,DetectionThread #3 finished
+2023-09-30 10:18:31,DEBUG,DetectionThread #4 finished
+2023-09-30 10:18:31,DEBUG,DetectionThread #5 finished
+2023-09-30 10:18:31,DEBUG,DetectionThread #6 finished
+2023-09-30 10:18:31,DEBUG,DetectionThread #7 finished
+2023-09-30 10:18:31,DEBUG,DetectionThread #8 finished
+2023-09-30 10:18:31,DEBUG,InspectionThreadPool finished
+2023-09-30 10:18:31,DEBUG,InspectionThread #1 finished
+2023-09-30 10:18:31,DEBUG,InspectionThread #2 finished
+2023-09-30 10:18:31,DEBUG,InspectionThread #3 finished
+2023-09-30 10:18:31,DEBUG,InspectionThread #4 finished
+2023-09-30 10:18:31,DEBUG,DownloadThreadPool finished
+2023-09-30 10:18:31,DEBUG,DownloadThread #1 finished
+2023-09-30 10:18:31,DEBUG,DownloadThread #2 finished
+2023-09-30 10:18:31,DEBUG,DownloadThread #3 finished
+2023-09-30 10:18:31,DEBUG,DownloadThread #4 finished
+2023-09-30 10:18:31,DEBUG,DisconnectionThreadPool finished
+2023-09-30 10:18:31,DEBUG,DisconnectionThread #1 finished
+2023-09-30 10:18:31,DEBUG,DisconnectionThread #2 finished
+2023-09-30 10:18:31,DEBUG,DisconnectionThread #3 finished
+2023-09-30 10:18:31,DEBUG,DisconnectionThread #4 finished
+2023-09-30 10:18:31,DEBUG,DisconnectionThread #5 finished
+2023-09-30 10:18:31,DEBUG,DisconnectionThread #6 finished
+2023-09-30 10:18:31,DEBUG,DisconnectionThread #7 finished
+2023-09-30 10:18:31,DEBUG,DisconnectionThread #8 finished
+2023-09-30 10:18:31,INFO,Thread pools stopped
+2023-09-30 10:18:41,INFO,Starting thread pools
+2023-09-30 10:18:41,DEBUG,DetectionThreadPool starting
+2023-09-30 10:18:41,DEBUG,DetectionThread #1 starting
+2023-09-30 10:18:41,DEBUG,DetectionThread #2 starting
+2023-09-30 10:18:41,DEBUG,DetectionThread #3 starting
+2023-09-30 10:18:41,DEBUG,DetectionThread #4 starting
+2023-09-30 10:18:41,DEBUG,DetectionThread #5 starting
+2023-09-30 10:18:41,DEBUG,DetectionThread #6 starting
+2023-09-30 10:18:41,DEBUG,DetectionThread #7 starting
+2023-09-30 10:18:41,DEBUG,DetectionThread #8 starting
+2023-09-30 10:18:41,DEBUG,InspectionThreadPool starting
+2023-09-30 10:18:41,DEBUG,InspectionThread #1 starting
+2023-09-30 10:18:41,DEBUG,InspectionThread #2 starting
+2023-09-30 10:18:41,DEBUG,InspectionThread #3 starting
+2023-09-30 10:18:41,DEBUG,InspectionThread #4 starting
+2023-09-30 10:18:41,DEBUG,DownloadThreadPool starting
+2023-09-30 10:18:41,DEBUG,DownloadThread #1 starting
+2023-09-30 10:18:41,DEBUG,DownloadThread #2 starting
+2023-09-30 10:18:41,DEBUG,DownloadThread #3 starting
+2023-09-30 10:18:41,DEBUG,DownloadThread #4 starting
+2023-09-30 10:18:41,DEBUG,DisconnectionThreadPool starting
+2023-09-30 10:18:41,DEBUG,DisconnectionThread #1 starting
+2023-09-30 10:18:41,DEBUG,DisconnectionThread #2 starting
+2023-09-30 10:18:41,DEBUG,DisconnectionThread #3 starting
+2023-09-30 10:18:41,DEBUG,DisconnectionThread #4 starting
+2023-09-30 10:18:41,DEBUG,DisconnectionThread #5 starting
+2023-09-30 10:18:41,DEBUG,DisconnectionThread #6 starting
+2023-09-30 10:18:41,DEBUG,DisconnectionThread #7 starting
+2023-09-30 10:18:41,DEBUG,DisconnectionThread #8 starting
+2023-09-30 10:18:41,INFO,Thread pools started
+2023-09-30 10:19:02,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:19:08,INFO,Keyboard interrupt
+2023-09-30 10:19:08,INFO,Stopping thread pools
+2023-09-30 10:19:12,DEBUG,DetectionThreadPool finished
+2023-09-30 10:19:12,DEBUG,DetectionThread #1 finished
+2023-09-30 10:19:12,DEBUG,DetectionThread #2 finished
+2023-09-30 10:19:12,DEBUG,DetectionThread #3 finished
+2023-09-30 10:19:12,DEBUG,DetectionThread #4 finished
+2023-09-30 10:19:12,DEBUG,DetectionThread #5 finished
+2023-09-30 10:19:12,DEBUG,DetectionThread #6 finished
+2023-09-30 10:19:12,DEBUG,DetectionThread #7 finished
+2023-09-30 10:19:12,DEBUG,DetectionThread #8 finished
+2023-09-30 10:19:12,DEBUG,InspectionThreadPool finished
+2023-09-30 10:19:12,DEBUG,InspectionThread #1 finished
+2023-09-30 10:19:12,DEBUG,InspectionThread #2 finished
+2023-09-30 10:19:12,DEBUG,InspectionThread #3 finished
+2023-09-30 10:19:12,DEBUG,InspectionThread #4 finished
+2023-09-30 10:19:12,DEBUG,DownloadThreadPool finished
+2023-09-30 10:19:12,DEBUG,DownloadThread #1 finished
+2023-09-30 10:19:12,DEBUG,DownloadThread #2 finished
+2023-09-30 10:19:12,DEBUG,DownloadThread #3 finished
+2023-09-30 10:19:12,DEBUG,DownloadThread #4 finished
+2023-09-30 10:19:12,DEBUG,DisconnectionThreadPool finished
+2023-09-30 10:19:12,DEBUG,DisconnectionThread #1 finished
+2023-09-30 10:19:12,DEBUG,DisconnectionThread #2 finished
+2023-09-30 10:19:12,DEBUG,DisconnectionThread #3 finished
+2023-09-30 10:19:12,DEBUG,DisconnectionThread #4 finished
+2023-09-30 10:19:12,DEBUG,DisconnectionThread #5 finished
+2023-09-30 10:19:12,DEBUG,DisconnectionThread #6 finished
+2023-09-30 10:19:12,DEBUG,DisconnectionThread #7 finished
+2023-09-30 10:19:12,DEBUG,DisconnectionThread #8 finished
+2023-09-30 10:19:12,INFO,Thread pools stopped
+2023-09-30 10:19:20,INFO,Starting thread pools
+2023-09-30 10:19:20,DEBUG,DetectionThreadPool starting
+2023-09-30 10:19:20,DEBUG,DetectionThread #1 starting
+2023-09-30 10:19:20,DEBUG,DetectionThread #2 starting
+2023-09-30 10:19:20,DEBUG,DetectionThread #3 starting
+2023-09-30 10:19:20,DEBUG,DetectionThread #4 starting
+2023-09-30 10:19:20,DEBUG,DetectionThread #5 starting
+2023-09-30 10:19:20,DEBUG,DetectionThread #6 starting
+2023-09-30 10:19:20,DEBUG,DetectionThread #7 starting
+2023-09-30 10:19:20,DEBUG,DetectionThread #8 starting
+2023-09-30 10:19:20,DEBUG,InspectionThreadPool starting
+2023-09-30 10:19:20,DEBUG,InspectionThread #1 starting
+2023-09-30 10:19:20,DEBUG,InspectionThread #2 starting
+2023-09-30 10:19:20,DEBUG,InspectionThread #3 starting
+2023-09-30 10:19:20,DEBUG,InspectionThread #4 starting
+2023-09-30 10:19:20,DEBUG,DownloadThreadPool starting
+2023-09-30 10:19:20,DEBUG,DownloadThread #1 starting
+2023-09-30 10:19:20,DEBUG,DownloadThread #2 starting
+2023-09-30 10:19:20,DEBUG,DownloadThread #3 starting
+2023-09-30 10:19:20,DEBUG,DownloadThread #4 starting
+2023-09-30 10:19:20,DEBUG,DisconnectionThreadPool starting
+2023-09-30 10:19:20,DEBUG,DisconnectionThread #1 starting
+2023-09-30 10:19:20,DEBUG,DisconnectionThread #2 starting
+2023-09-30 10:19:20,DEBUG,DisconnectionThread #3 starting
+2023-09-30 10:19:20,DEBUG,DisconnectionThread #4 starting
+2023-09-30 10:19:20,DEBUG,DisconnectionThread #5 starting
+2023-09-30 10:19:20,DEBUG,DisconnectionThread #6 starting
+2023-09-30 10:19:20,DEBUG,DisconnectionThread #7 starting
+2023-09-30 10:19:20,DEBUG,DisconnectionThread #8 starting
+2023-09-30 10:19:20,INFO,Thread pools started
+2023-09-30 10:22:20,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:23:20,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:26:50,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:27:20,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:27:50,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:28:20,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:30:51,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:31:51,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:32:51,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:33:51,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:34:31,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:36:01,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:37:31,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:39:01,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:40:31,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:42:01,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:43:32,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:45:02,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:46:32,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:48:02,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:49:32,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:51:02,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:52:32,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:54:02,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:55:32,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:57:02,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 10:58:33,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:00:03,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:01:33,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:03:03,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:04:33,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:06:03,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:07:33,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:09:03,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:10:33,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:12:03,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:13:34,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:14:12,INFO,Keyboard interrupt
+2023-09-30 11:14:12,INFO,Stopping thread pools
+2023-09-30 11:14:14,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:14:14,DEBUG,DetectionThreadPool finished
+2023-09-30 11:14:14,DEBUG,DetectionThread #1 finished
+2023-09-30 11:14:14,DEBUG,DetectionThread #2 finished
+2023-09-30 11:14:14,DEBUG,DetectionThread #3 finished
+2023-09-30 11:14:14,DEBUG,DetectionThread #4 finished
+2023-09-30 11:14:14,DEBUG,DetectionThread #5 finished
+2023-09-30 11:14:14,DEBUG,DetectionThread #6 finished
+2023-09-30 11:14:14,DEBUG,DetectionThread #7 finished
+2023-09-30 11:14:14,DEBUG,DetectionThread #8 finished
+2023-09-30 11:14:14,DEBUG,InspectionThreadPool finished
+2023-09-30 11:14:14,DEBUG,InspectionThread #1 finished
+2023-09-30 11:14:14,DEBUG,InspectionThread #2 finished
+2023-09-30 11:14:14,DEBUG,InspectionThread #3 finished
+2023-09-30 11:14:14,DEBUG,InspectionThread #4 finished
+2023-09-30 11:14:14,DEBUG,DownloadThreadPool finished
+2023-09-30 11:14:14,DEBUG,DownloadThread #1 finished
+2023-09-30 11:14:14,DEBUG,DownloadThread #2 finished
+2023-09-30 11:14:14,DEBUG,DownloadThread #3 finished
+2023-09-30 11:14:14,DEBUG,DownloadThread #4 finished
+2023-09-30 11:14:14,DEBUG,DisconnectionThreadPool finished
+2023-09-30 11:14:14,DEBUG,DisconnectionThread #1 finished
+2023-09-30 11:14:14,DEBUG,DisconnectionThread #2 finished
+2023-09-30 11:14:14,DEBUG,DisconnectionThread #3 finished
+2023-09-30 11:14:14,DEBUG,DisconnectionThread #4 finished
+2023-09-30 11:14:14,DEBUG,DisconnectionThread #5 finished
+2023-09-30 11:14:14,DEBUG,DisconnectionThread #6 finished
+2023-09-30 11:14:14,DEBUG,DisconnectionThread #7 finished
+2023-09-30 11:14:14,DEBUG,DisconnectionThread #8 finished
+2023-09-30 11:14:14,INFO,Thread pools stopped
+2023-09-30 11:20:05,INFO,Starting thread pools
+2023-09-30 11:20:05,DEBUG,DetectionThreadPool starting
+2023-09-30 11:20:05,DEBUG,DetectionThread #1 starting
+2023-09-30 11:20:05,DEBUG,DetectionThread #2 starting
+2023-09-30 11:20:05,DEBUG,DetectionThread #3 starting
+2023-09-30 11:20:05,DEBUG,DetectionThread #4 starting
+2023-09-30 11:20:05,DEBUG,DetectionThread #5 starting
+2023-09-30 11:20:05,DEBUG,DetectionThread #6 starting
+2023-09-30 11:20:05,DEBUG,DetectionThread #7 starting
+2023-09-30 11:20:05,DEBUG,DetectionThread #8 starting
+2023-09-30 11:20:05,DEBUG,InspectionThreadPool starting
+2023-09-30 11:20:05,DEBUG,InspectionThread #1 starting
+2023-09-30 11:20:05,DEBUG,InspectionThread #2 starting
+2023-09-30 11:20:05,DEBUG,InspectionThread #3 starting
+2023-09-30 11:20:05,DEBUG,InspectionThread #4 starting
+2023-09-30 11:20:05,DEBUG,DownloadThreadPool starting
+2023-09-30 11:20:05,DEBUG,DownloadThread #1 starting
+2023-09-30 11:20:05,DEBUG,DownloadThread #2 starting
+2023-09-30 11:20:05,DEBUG,DownloadThread #3 starting
+2023-09-30 11:20:05,DEBUG,DownloadThread #4 starting
+2023-09-30 11:20:05,DEBUG,DisconnectionThreadPool starting
+2023-09-30 11:20:05,DEBUG,DisconnectionThread #1 starting
+2023-09-30 11:20:05,DEBUG,DisconnectionThread #2 starting
+2023-09-30 11:20:05,DEBUG,DisconnectionThread #3 starting
+2023-09-30 11:20:05,DEBUG,DisconnectionThread #4 starting
+2023-09-30 11:20:05,DEBUG,DisconnectionThread #5 starting
+2023-09-30 11:20:05,DEBUG,DisconnectionThread #6 starting
+2023-09-30 11:20:05,DEBUG,DisconnectionThread #7 starting
+2023-09-30 11:20:05,DEBUG,DisconnectionThread #8 starting
+2023-09-30 11:20:05,INFO,Thread pools started
+2023-09-30 11:21:35,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:23:05,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:24:35,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:26:05,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:27:35,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:29:06,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:30:36,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:32:06,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:33:36,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:35:06,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:36:36,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:38:06,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:39:36,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:41:06,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:42:36,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:44:07,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:45:37,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:46:30,INFO,Keyboard interrupt
+2023-09-30 11:46:30,INFO,Stopping thread pools
+2023-09-30 11:46:39,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:46:39,DEBUG,DetectionThreadPool finished
+2023-09-30 11:46:39,DEBUG,DetectionThread #1 finished
+2023-09-30 11:46:39,DEBUG,DetectionThread #2 finished
+2023-09-30 11:46:39,DEBUG,DetectionThread #3 finished
+2023-09-30 11:46:39,DEBUG,DetectionThread #4 finished
+2023-09-30 11:46:39,DEBUG,DetectionThread #5 finished
+2023-09-30 11:46:39,DEBUG,DetectionThread #6 finished
+2023-09-30 11:46:39,DEBUG,DetectionThread #7 finished
+2023-09-30 11:46:39,DEBUG,DetectionThread #8 finished
+2023-09-30 11:46:39,DEBUG,InspectionThreadPool finished
+2023-09-30 11:46:39,DEBUG,InspectionThread #1 finished
+2023-09-30 11:46:39,DEBUG,InspectionThread #2 finished
+2023-09-30 11:46:39,DEBUG,InspectionThread #3 finished
+2023-09-30 11:46:39,DEBUG,InspectionThread #4 finished
+2023-09-30 11:46:39,DEBUG,DownloadThreadPool finished
+2023-09-30 11:46:39,DEBUG,DownloadThread #1 finished
+2023-09-30 11:46:39,DEBUG,DownloadThread #2 finished
+2023-09-30 11:46:39,DEBUG,DownloadThread #3 finished
+2023-09-30 11:46:39,DEBUG,DownloadThread #4 finished
+2023-09-30 11:46:39,DEBUG,DisconnectionThreadPool finished
+2023-09-30 11:46:39,DEBUG,DisconnectionThread #1 finished
+2023-09-30 11:46:39,DEBUG,DisconnectionThread #2 finished
+2023-09-30 11:46:39,DEBUG,DisconnectionThread #3 finished
+2023-09-30 11:46:39,DEBUG,DisconnectionThread #4 finished
+2023-09-30 11:46:39,DEBUG,DisconnectionThread #5 finished
+2023-09-30 11:46:39,DEBUG,DisconnectionThread #6 finished
+2023-09-30 11:46:39,DEBUG,DisconnectionThread #7 finished
+2023-09-30 11:46:39,DEBUG,DisconnectionThread #8 finished
+2023-09-30 11:46:39,INFO,Thread pools stopped
+2023-09-30 11:53:56,INFO,Starting thread pools
+2023-09-30 11:53:56,DEBUG,DetectionThreadPool starting
+2023-09-30 11:53:56,DEBUG,DetectionThread #1 starting
+2023-09-30 11:53:56,DEBUG,DetectionThread #2 starting
+2023-09-30 11:53:56,DEBUG,DetectionThread #3 starting
+2023-09-30 11:53:56,DEBUG,DetectionThread #4 starting
+2023-09-30 11:53:56,DEBUG,DetectionThread #5 starting
+2023-09-30 11:53:56,DEBUG,DetectionThread #6 starting
+2023-09-30 11:53:56,DEBUG,DetectionThread #7 starting
+2023-09-30 11:53:56,DEBUG,DetectionThread #8 starting
+2023-09-30 11:53:56,DEBUG,InspectionThreadPool starting
+2023-09-30 11:53:56,DEBUG,InspectionThread #1 starting
+2023-09-30 11:53:56,DEBUG,InspectionThread #2 starting
+2023-09-30 11:53:56,DEBUG,InspectionThread #3 starting
+2023-09-30 11:53:56,DEBUG,InspectionThread #4 starting
+2023-09-30 11:53:56,DEBUG,DownloadThreadPool starting
+2023-09-30 11:53:56,DEBUG,DownloadThread #1 starting
+2023-09-30 11:53:56,DEBUG,DownloadThread #2 starting
+2023-09-30 11:53:56,DEBUG,DownloadThread #3 starting
+2023-09-30 11:53:56,DEBUG,DownloadThread #4 starting
+2023-09-30 11:53:56,DEBUG,DisconnectionThreadPool starting
+2023-09-30 11:53:56,DEBUG,DisconnectionThread #1 starting
+2023-09-30 11:53:56,DEBUG,DisconnectionThread #2 starting
+2023-09-30 11:53:56,DEBUG,DisconnectionThread #3 starting
+2023-09-30 11:53:56,DEBUG,DisconnectionThread #4 starting
+2023-09-30 11:53:56,DEBUG,DisconnectionThread #5 starting
+2023-09-30 11:53:56,DEBUG,DisconnectionThread #6 starting
+2023-09-30 11:53:56,DEBUG,DisconnectionThread #7 starting
+2023-09-30 11:53:56,DEBUG,DisconnectionThread #8 starting
+2023-09-30 11:53:56,INFO,Thread pools started
+2023-09-30 11:54:00,INFO,Keyboard interrupt
+2023-09-30 11:54:00,INFO,Stopping thread pools
+2023-09-30 11:54:06,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:54:06,DEBUG,DetectionThreadPool finished
+2023-09-30 11:54:06,DEBUG,DetectionThread #1 finished
+2023-09-30 11:54:06,DEBUG,DetectionThread #2 finished
+2023-09-30 11:54:06,DEBUG,DetectionThread #3 finished
+2023-09-30 11:54:06,DEBUG,DetectionThread #4 finished
+2023-09-30 11:54:06,DEBUG,DetectionThread #5 finished
+2023-09-30 11:54:06,DEBUG,DetectionThread #6 finished
+2023-09-30 11:54:06,DEBUG,DetectionThread #7 finished
+2023-09-30 11:54:06,DEBUG,DetectionThread #8 finished
+2023-09-30 11:54:06,DEBUG,InspectionThreadPool finished
+2023-09-30 11:54:06,DEBUG,InspectionThread #1 finished
+2023-09-30 11:54:06,DEBUG,InspectionThread #2 finished
+2023-09-30 11:54:06,DEBUG,InspectionThread #3 finished
+2023-09-30 11:54:06,DEBUG,InspectionThread #4 finished
+2023-09-30 11:54:06,DEBUG,DownloadThreadPool finished
+2023-09-30 11:54:06,DEBUG,DownloadThread #1 finished
+2023-09-30 11:54:06,DEBUG,DownloadThread #2 finished
+2023-09-30 11:54:06,DEBUG,DownloadThread #3 finished
+2023-09-30 11:54:06,DEBUG,DownloadThread #4 finished
+2023-09-30 11:54:06,DEBUG,DisconnectionThreadPool finished
+2023-09-30 11:54:06,DEBUG,DisconnectionThread #1 finished
+2023-09-30 11:54:06,DEBUG,DisconnectionThread #2 finished
+2023-09-30 11:54:06,DEBUG,DisconnectionThread #3 finished
+2023-09-30 11:54:06,DEBUG,DisconnectionThread #4 finished
+2023-09-30 11:54:06,DEBUG,DisconnectionThread #5 finished
+2023-09-30 11:54:06,DEBUG,DisconnectionThread #6 finished
+2023-09-30 11:54:06,DEBUG,DisconnectionThread #7 finished
+2023-09-30 11:54:06,DEBUG,DisconnectionThread #8 finished
+2023-09-30 11:54:06,INFO,Thread pools stopped
+2023-09-30 11:58:22,INFO,Starting thread pools
+2023-09-30 11:58:22,DEBUG,DetectionThreadPool starting
+2023-09-30 11:58:22,DEBUG,DetectionThread #1 starting
+2023-09-30 11:58:22,DEBUG,DetectionThread #2 starting
+2023-09-30 11:58:22,DEBUG,DetectionThread #3 starting
+2023-09-30 11:58:22,DEBUG,DetectionThread #4 starting
+2023-09-30 11:58:22,DEBUG,DetectionThread #5 starting
+2023-09-30 11:58:22,DEBUG,DetectionThread #6 starting
+2023-09-30 11:58:22,DEBUG,DetectionThread #7 starting
+2023-09-30 11:58:22,DEBUG,DetectionThread #8 starting
+2023-09-30 11:58:22,DEBUG,InspectionThreadPool starting
+2023-09-30 11:58:22,DEBUG,InspectionThread #1 starting
+2023-09-30 11:58:22,DEBUG,InspectionThread #2 starting
+2023-09-30 11:58:22,DEBUG,InspectionThread #3 starting
+2023-09-30 11:58:22,DEBUG,InspectionThread #4 starting
+2023-09-30 11:58:22,DEBUG,DownloadThreadPool starting
+2023-09-30 11:58:22,DEBUG,DownloadThread #1 starting
+2023-09-30 11:58:22,DEBUG,DownloadThread #2 starting
+2023-09-30 11:58:22,DEBUG,DownloadThread #3 starting
+2023-09-30 11:58:22,DEBUG,DownloadThread #4 starting
+2023-09-30 11:58:22,DEBUG,DisconnectionThreadPool starting
+2023-09-30 11:58:22,DEBUG,DisconnectionThread #1 starting
+2023-09-30 11:58:22,DEBUG,DisconnectionThread #2 starting
+2023-09-30 11:58:22,DEBUG,DisconnectionThread #3 starting
+2023-09-30 11:58:22,DEBUG,DisconnectionThread #4 starting
+2023-09-30 11:58:22,DEBUG,DisconnectionThread #5 starting
+2023-09-30 11:58:22,DEBUG,DisconnectionThread #6 starting
+2023-09-30 11:58:22,DEBUG,DisconnectionThread #7 starting
+2023-09-30 11:58:22,DEBUG,DisconnectionThread #8 starting
+2023-09-30 11:58:22,INFO,Thread pools started
+2023-09-30 11:58:30,INFO,Keyboard interrupt
+2023-09-30 11:58:30,INFO,Stopping thread pools
+2023-09-30 11:58:32,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:58:32,DEBUG,DetectionThreadPool finished
+2023-09-30 11:58:32,DEBUG,DetectionThread #1 finished
+2023-09-30 11:58:32,DEBUG,DetectionThread #2 finished
+2023-09-30 11:58:32,DEBUG,DetectionThread #3 finished
+2023-09-30 11:58:32,DEBUG,DetectionThread #4 finished
+2023-09-30 11:58:32,DEBUG,DetectionThread #5 finished
+2023-09-30 11:58:32,DEBUG,DetectionThread #6 finished
+2023-09-30 11:58:32,DEBUG,DetectionThread #7 finished
+2023-09-30 11:58:32,DEBUG,DetectionThread #8 finished
+2023-09-30 11:58:32,DEBUG,InspectionThreadPool finished
+2023-09-30 11:58:32,DEBUG,InspectionThread #1 finished
+2023-09-30 11:58:32,DEBUG,InspectionThread #2 finished
+2023-09-30 11:58:32,DEBUG,InspectionThread #3 finished
+2023-09-30 11:58:32,DEBUG,InspectionThread #4 finished
+2023-09-30 11:58:32,DEBUG,DownloadThreadPool finished
+2023-09-30 11:58:32,DEBUG,DownloadThread #1 finished
+2023-09-30 11:58:32,DEBUG,DownloadThread #2 finished
+2023-09-30 11:58:32,DEBUG,DownloadThread #3 finished
+2023-09-30 11:58:32,DEBUG,DownloadThread #4 finished
+2023-09-30 11:58:32,DEBUG,DisconnectionThreadPool finished
+2023-09-30 11:58:32,DEBUG,DisconnectionThread #1 finished
+2023-09-30 11:58:32,DEBUG,DisconnectionThread #2 finished
+2023-09-30 11:58:32,DEBUG,DisconnectionThread #3 finished
+2023-09-30 11:58:32,DEBUG,DisconnectionThread #4 finished
+2023-09-30 11:58:32,DEBUG,DisconnectionThread #5 finished
+2023-09-30 11:58:32,DEBUG,DisconnectionThread #6 finished
+2023-09-30 11:58:32,DEBUG,DisconnectionThread #7 finished
+2023-09-30 11:58:32,DEBUG,DisconnectionThread #8 finished
+2023-09-30 11:58:32,INFO,Thread pools stopped
+2023-09-30 11:58:48,WARNING,Motion 667 assigned to multiple people on 20231007
+2023-09-30 11:58:48,WARNING,Motion 667 assigned to multiple people on 20231008
+2023-09-30 11:58:48,INFO,Starting thread pools
+2023-09-30 11:58:48,DEBUG,DetectionThreadPool starting
+2023-09-30 11:58:48,DEBUG,DetectionThread #1 starting
+2023-09-30 11:58:48,DEBUG,DetectionThread #2 starting
+2023-09-30 11:58:48,DEBUG,DetectionThread #3 starting
+2023-09-30 11:58:48,DEBUG,DetectionThread #4 starting
+2023-09-30 11:58:48,DEBUG,DetectionThread #5 starting
+2023-09-30 11:58:48,DEBUG,DetectionThread #6 starting
+2023-09-30 11:58:48,DEBUG,DetectionThread #7 starting
+2023-09-30 11:58:48,DEBUG,DetectionThread #8 starting
+2023-09-30 11:58:48,DEBUG,InspectionThreadPool starting
+2023-09-30 11:58:48,DEBUG,InspectionThread #1 starting
+2023-09-30 11:58:48,DEBUG,InspectionThread #2 starting
+2023-09-30 11:58:48,DEBUG,InspectionThread #3 starting
+2023-09-30 11:58:48,DEBUG,InspectionThread #4 starting
+2023-09-30 11:58:48,DEBUG,DownloadThreadPool starting
+2023-09-30 11:58:48,DEBUG,DownloadThread #1 starting
+2023-09-30 11:58:48,DEBUG,DownloadThread #2 starting
+2023-09-30 11:58:48,DEBUG,DownloadThread #3 starting
+2023-09-30 11:58:48,DEBUG,DownloadThread #4 starting
+2023-09-30 11:58:48,DEBUG,DisconnectionThreadPool starting
+2023-09-30 11:58:48,DEBUG,DisconnectionThread #1 starting
+2023-09-30 11:58:48,DEBUG,DisconnectionThread #2 starting
+2023-09-30 11:58:48,DEBUG,DisconnectionThread #3 starting
+2023-09-30 11:58:48,DEBUG,DisconnectionThread #4 starting
+2023-09-30 11:58:48,DEBUG,DisconnectionThread #5 starting
+2023-09-30 11:58:48,DEBUG,DisconnectionThread #6 starting
+2023-09-30 11:58:48,DEBUG,DisconnectionThread #7 starting
+2023-09-30 11:58:48,DEBUG,DisconnectionThread #8 starting
+2023-09-30 11:58:48,INFO,Thread pools started
+2023-09-30 11:58:54,INFO,Keyboard interrupt
+2023-09-30 11:58:54,INFO,Stopping thread pools
+2023-09-30 11:58:58,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:58:58,DEBUG,DetectionThreadPool finished
+2023-09-30 11:58:58,DEBUG,DetectionThread #1 finished
+2023-09-30 11:58:58,DEBUG,DetectionThread #2 finished
+2023-09-30 11:58:58,DEBUG,DetectionThread #3 finished
+2023-09-30 11:58:58,DEBUG,DetectionThread #4 finished
+2023-09-30 11:58:58,DEBUG,DetectionThread #5 finished
+2023-09-30 11:58:58,DEBUG,DetectionThread #6 finished
+2023-09-30 11:58:58,DEBUG,DetectionThread #7 finished
+2023-09-30 11:58:58,DEBUG,DetectionThread #8 finished
+2023-09-30 11:58:58,DEBUG,InspectionThreadPool finished
+2023-09-30 11:58:58,DEBUG,InspectionThread #1 finished
+2023-09-30 11:58:58,DEBUG,InspectionThread #2 finished
+2023-09-30 11:58:58,DEBUG,InspectionThread #3 finished
+2023-09-30 11:58:58,DEBUG,InspectionThread #4 finished
+2023-09-30 11:58:58,DEBUG,DownloadThreadPool finished
+2023-09-30 11:58:58,DEBUG,DownloadThread #1 finished
+2023-09-30 11:58:58,DEBUG,DownloadThread #2 finished
+2023-09-30 11:58:58,DEBUG,DownloadThread #3 finished
+2023-09-30 11:58:58,DEBUG,DownloadThread #4 finished
+2023-09-30 11:58:58,DEBUG,DisconnectionThreadPool finished
+2023-09-30 11:58:58,DEBUG,DisconnectionThread #1 finished
+2023-09-30 11:58:58,DEBUG,DisconnectionThread #2 finished
+2023-09-30 11:58:58,DEBUG,DisconnectionThread #3 finished
+2023-09-30 11:58:58,DEBUG,DisconnectionThread #4 finished
+2023-09-30 11:58:58,DEBUG,DisconnectionThread #5 finished
+2023-09-30 11:58:58,DEBUG,DisconnectionThread #6 finished
+2023-09-30 11:58:58,DEBUG,DisconnectionThread #7 finished
+2023-09-30 11:58:58,DEBUG,DisconnectionThread #8 finished
+2023-09-30 11:58:58,INFO,Thread pools stopped
+2023-09-30 11:59:07,INFO,Starting thread pools
+2023-09-30 11:59:07,DEBUG,DetectionThreadPool starting
+2023-09-30 11:59:07,DEBUG,DetectionThread #1 starting
+2023-09-30 11:59:07,DEBUG,DetectionThread #2 starting
+2023-09-30 11:59:07,DEBUG,DetectionThread #3 starting
+2023-09-30 11:59:07,DEBUG,DetectionThread #4 starting
+2023-09-30 11:59:07,DEBUG,DetectionThread #5 starting
+2023-09-30 11:59:07,DEBUG,DetectionThread #6 starting
+2023-09-30 11:59:07,DEBUG,DetectionThread #7 starting
+2023-09-30 11:59:07,DEBUG,DetectionThread #8 starting
+2023-09-30 11:59:07,DEBUG,InspectionThreadPool starting
+2023-09-30 11:59:07,DEBUG,InspectionThread #1 starting
+2023-09-30 11:59:07,DEBUG,InspectionThread #2 starting
+2023-09-30 11:59:07,DEBUG,InspectionThread #3 starting
+2023-09-30 11:59:07,DEBUG,InspectionThread #4 starting
+2023-09-30 11:59:07,DEBUG,DownloadThreadPool starting
+2023-09-30 11:59:07,DEBUG,DownloadThread #1 starting
+2023-09-30 11:59:07,DEBUG,DownloadThread #2 starting
+2023-09-30 11:59:07,DEBUG,DownloadThread #3 starting
+2023-09-30 11:59:07,DEBUG,DownloadThread #4 starting
+2023-09-30 11:59:07,DEBUG,DisconnectionThreadPool starting
+2023-09-30 11:59:07,DEBUG,DisconnectionThread #1 starting
+2023-09-30 11:59:07,DEBUG,DisconnectionThread #2 starting
+2023-09-30 11:59:07,DEBUG,DisconnectionThread #3 starting
+2023-09-30 11:59:07,DEBUG,DisconnectionThread #4 starting
+2023-09-30 11:59:07,DEBUG,DisconnectionThread #5 starting
+2023-09-30 11:59:07,DEBUG,DisconnectionThread #6 starting
+2023-09-30 11:59:07,DEBUG,DisconnectionThread #7 starting
+2023-09-30 11:59:07,DEBUG,DisconnectionThread #8 starting
+2023-09-30 11:59:07,INFO,Thread pools started
+2023-09-30 11:59:12,INFO,Keyboard interrupt
+2023-09-30 11:59:12,INFO,Stopping thread pools
+2023-09-30 11:59:17,WARNING,DetectionThreadPool has exceeded the interval time
+2023-09-30 11:59:17,DEBUG,DetectionThreadPool finished
+2023-09-30 11:59:17,DEBUG,DetectionThread #1 finished
+2023-09-30 11:59:17,DEBUG,DetectionThread #2 finished
+2023-09-30 11:59:17,DEBUG,DetectionThread #3 finished
+2023-09-30 11:59:17,DEBUG,DetectionThread #4 finished
+2023-09-30 11:59:17,DEBUG,DetectionThread #5 finished
+2023-09-30 11:59:17,DEBUG,DetectionThread #6 finished
+2023-09-30 11:59:17,DEBUG,DetectionThread #7 finished
+2023-09-30 11:59:17,DEBUG,DetectionThread #8 finished
+2023-09-30 11:59:17,DEBUG,InspectionThreadPool finished
+2023-09-30 11:59:17,DEBUG,InspectionThread #1 finished
+2023-09-30 11:59:17,DEBUG,InspectionThread #2 finished
+2023-09-30 11:59:17,DEBUG,InspectionThread #3 finished
+2023-09-30 11:59:17,DEBUG,InspectionThread #4 finished
+2023-09-30 11:59:17,DEBUG,DownloadThreadPool finished
+2023-09-30 11:59:17,DEBUG,DownloadThread #1 finished
+2023-09-30 11:59:17,DEBUG,DownloadThread #2 finished
+2023-09-30 11:59:17,DEBUG,DownloadThread #3 finished
+2023-09-30 11:59:17,DEBUG,DownloadThread #4 finished
+2023-09-30 11:59:17,DEBUG,DisconnectionThreadPool finished
+2023-09-30 11:59:17,DEBUG,DisconnectionThread #1 finished
+2023-09-30 11:59:17,DEBUG,DisconnectionThread #2 finished
+2023-09-30 11:59:17,DEBUG,DisconnectionThread #3 finished
+2023-09-30 11:59:17,DEBUG,DisconnectionThread #4 finished
+2023-09-30 11:59:17,DEBUG,DisconnectionThread #5 finished
+2023-09-30 11:59:17,DEBUG,DisconnectionThread #6 finished
+2023-09-30 11:59:17,DEBUG,DisconnectionThread #7 finished
+2023-09-30 11:59:17,DEBUG,DisconnectionThread #8 finished
+2023-09-30 11:59:17,INFO,Thread pools stopped
