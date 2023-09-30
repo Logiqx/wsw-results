@@ -56,7 +56,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1212,54,Miss,Mia,Adcock,UK,YES,Sailboard,Amateur,Adult,,None,All Week,YES,N
 3212,54,Miss,Mia,Adcock,UK,YES,Wingboard,Amateur,Adult,,None,All Week,YES,N
 1213,55,Mr,Rob,Dunn,United Kingdom,NO,Sailboard,Amateur,Adult,,Forces - Royal Navy,All Week,NO,N
-1214,56,Mrs,Trish,Dunn,UK,NO,Sailboard,Amateur,Adult,,Forces - Royal Navy,All Week,NO,N
+1214,56,Mrs,Trish,Dunn,UK,NO,Sailboard,Amateur,Adult,,Forces - Royal Navy,All Week,NO,Y
 1215,57,Mr,Bob,Spagnoletti,UK,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,NO,N
 1216,58,Mr,Joshua,Pinder,UK,NO,Sailboard,Amateur,Adult,,Forces - Royal Navy,All Week,NO,N
 1217,59,Mr,Rob,Longstaff,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,NO,N
@@ -73,5 +73,11 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1228,70,Mr,Paul,Arnold,uk,NO,Sailboard,Amateur,Adult,,Portland Pirates,2 Days,YES,N
 3229,71,Mr,Joe,Adams,,NO,Wingboard,Amateur,Adult,,None,2 Days,YES,N
 1230,72,Mr,Paul,Bran,United Kingdom,NO,Sailboard,Amateur,Adult,,None,2 Days,NO,N
-1231,73,Mr,Finnley,Knight,United Kingdom,NO,Sailboard,Amateur,Youth,,None,2 Days,YES,N
-3231,73,Mr,Finnley,Knight,United Kingdom,NO,Wingboard,Amateur,Youth,,None,2 Days,YES,N
+1231,73,Mr,Finnley,Knight,United Kingdom,NO,Sailboard,Amateur,Youth,,None,Youth W/E,YES,N
+3231,73,Mr,Finnley,Knight,United Kingdom,NO,Wingboard,Amateur,Youth,,None,Youth W/E,YES,N
+3232,74,Mr,Rod,Dickinson,United Kingdom,YES,Wingboard,Amateur,Adult,,None,2 Days,YES,N
+1233,75,Mr,Scott,Norman,England,NO,Sailboard,Gold-Fleet,Adult,,The OTC,All Week,YES,N
+1234,76,Mr,Andy,Bushnell,United Kingdom,YES,Sailboard,Amateur,Adult,,Hamworthy Heroes,2 Days,NO,N
+2235,77,Miss,Ellie,Aldridge,Uk,YES,Kiteboard,Open Class,Adult,,None,All Week,N,N
+3235,77,Miss,Ellie,Aldridge,Uk,YES,Wingboard,Amateur,Adult,,None,All Week,NO,N
+2236,78,Mr,Neil,Speed,UK,NO,Kiteboard,Open Class,Adult,,None,All Week,N,N

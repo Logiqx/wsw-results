@@ -56,7 +56,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1212,54,812,2023-10-07,2023-10-13,ADC812MIA,Mia,Adcock,Sailboard,Amateur,All Week
 3212,54,838,2023-10-07,2023-10-13,ADC838MIA,Mia,Adcock,Wingboard,Amateur,All Week
 1213,55,813,2023-10-07,2023-10-13,DUN813ROB,Rob,Dunn,Sailboard,Amateur,All Week
-1214,56,814,2023-10-07,2023-10-13,DUN814TRI,Trish,Dunn,Sailboard,Amateur,All Week
+1214,56,0,2023-10-07,2023-10-13,DUN0TRI,Trish,Dunn,Sailboard,Amateur,All Week
 1215,57,815,2023-10-07,2023-10-13,SPA815BOB,Bob,Spagnoletti,Sailboard,Gold-Fleet,All Week
 1216,58,816,2023-10-07,2023-10-13,PIN816JOS,Joshua,Pinder,Sailboard,Amateur,All Week
 1217,59,817,2023-10-07,2023-10-13,LON817ROB,Rob,Longstaff,Sailboard,Amateur,All Week
@@ -73,5 +73,11 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1228,70,833,2023-10-07,2023-10-13,ARN833PAU,Paul,Arnold,Sailboard,Amateur,2 Days
 3229,71,836,2023-10-07,2023-10-13,ADA836JOE,Joe,Adams,Wingboard,Amateur,2 Days
 1230,72,667,2023-10-07,2023-10-13,BRA667PAU,Paul,Bran,Sailboard,Amateur,2 Days
-1231,73,0,2023-10-07,2023-10-08,KNI0FIN,Finnley,Knight,Sailboard,Amateur,2 Days
-3231,73,0,2023-10-07,2023-10-08,KNI0FIN,Finnley,Knight,Wingboard,Amateur,2 Days
+1231,73,630,2023-10-07,2023-10-08,KNI630FIN,Finnley,Knight,Sailboard,Amateur,Youth W/E
+3231,73,841,2023-10-07,2023-10-08,KNI841FIN,Finnley,Knight,Wingboard,Amateur,Youth W/E
+3232,74,854,2023-10-07,2023-10-13,DIC854ROD,Rod,Dickinson,Wingboard,Amateur,2 Days
+1233,75,852,2023-10-07,2023-10-13,NOR852SCO,Scott,Norman,Sailboard,Gold-Fleet,All Week
+1234,76,861,2023-10-07,2023-10-13,BUS861AND,Andy,Bushnell,Sailboard,Amateur,2 Days
+2235,77,820,2023-10-07,2023-10-13,ALD820ELL,Ellie,Aldridge,Kiteboard,Open Class,All Week
+3235,77,849,2023-10-07,2023-10-13,ALD849ELL,Ellie,Aldridge,Wingboard,Amateur,All Week
+2236,78,814,2023-10-07,2023-10-13,SPE814NEI,Neil,Speed,Kiteboard,Open Class,All Week
