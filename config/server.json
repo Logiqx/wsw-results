@@ -22,11 +22,14 @@
         "9001 Weymouth Speed Week": [
           "Updated list of WSW identifiers; 601 611 615 617 618 619 621 625 630 631 632 633 634 635 639 656"
         ],
-        "9002 Weymouth Speed Week": [
+        "9002 Weymouth Speed Week 2022": [
           "Correct WiFi password and edition/deletion forbidden"
         ],
         "9003 Weymouth Speed Week": [
-          "Based on 3175. Fixes issue that could cause mini to lock up and unable to restart, requiring ~24 hours of wait"
+          "Based on 3175 (release). Fixes issue that could cause mini to lock up and unable to restart, requiring ~24 hours of wait"
+        ],
+        "9004 Weymouth Speed Week 2023": [
+          "New custom firmware based on 3209. Required for newer Motion minis"
         ]
       },
       "Thresholds": {
@@ -61,7 +64,7 @@
     },
     "DetectionThreadPool": {
       "Comment": "Threads dictates how many motions can be polled concurrently. Interval is the minimum time (s) between each iteration",
-      "Interval": 10,
+      "Interval": 15,
       "Threads": 8
     },
     "InspectionThread": {
