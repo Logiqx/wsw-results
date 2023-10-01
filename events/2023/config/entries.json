@@ -182,6 +182,9 @@
   "Outputs": [
     {
       "File": "entrants.csv",
+      "Filters": {
+        "Withdrawn": "N"
+      },
       "Fields": [
         "ID",
         "Tally",
@@ -196,8 +199,7 @@
         "Boat Name",
         "Grouping",
         "Entry Type",
-        "UKWA",
-        "Withdrawn"
+        "UKWA"
       ],
       "Unique Keys": [
         "ID"
@@ -205,6 +207,9 @@
     },
     {
       "File": "motions.csv",
+      "Filters": {
+        "Withdrawn": "N"
+      },
       "Fields": [
         "Entrant ID",
         "Tally",

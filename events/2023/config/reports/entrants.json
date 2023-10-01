@@ -7,37 +7,37 @@
     {
       "Title": "All Boats",
       "Fields": "Name,Nation,Boat Name,Status,Entry Type,First Timer,Tally",
-      "Filter": "Craft Type=Boat,Withdrawn=N"
+      "Filter": "Craft Type=Boat"
     },
     {
       "Title": "All Kiteboards",
       "Fields": "Name,Nation,Status,Entry Type,First Timer,Tally",
-      "Filter": "Craft Type=Kiteboard,Withdrawn=N"
+      "Filter": "Craft Type=Kiteboard"
     },
     {
       "Title": "Pro Fleet Sailboards",
       "Fields": "Name,Nation,Status,Entry Type,First Timer,UKWA,Tally",
-      "Filter": "Craft Type=Sailboard,Status=Pro Fleet,Withdrawn=N"
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "Gold Fleet Sailboards",
       "Fields": "Name,Nation,Status,Entry Type,First Timer,UKWA,Tally",
-      "Filter": "Craft Type=Sailboard,Status=Gold Fleet,Withdrawn=N"
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
       "Title": "Amateur Sailboards",
       "Fields": "Name,Nation,Status,Entry Type,First Timer,UKWA,Tally",
-      "Filter": "Craft Type=Sailboard,Status=Amateur,Withdrawn=N"
+      "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
       "Title": "All Wingboards",
       "Fields": "Name,Nation,Status,Entry Type,First Timer,UKWA,Tally",
-      "Filter": "Craft Type=Wingboard,Withdrawn=N"
+      "Filter": "Craft Type=Wingboard"
     },
     {
       "Title": "All Craft TBCs",
       "Fields": "Name,Nation,Craft Type,Status,Entry Type,First Timer,Tally",
-      "Filter": "Craft Type=TBC,Withdrawn=N"
+      "Filter": "Craft Type=TBC"
     }
   ]
 }
