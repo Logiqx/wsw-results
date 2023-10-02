@@ -1,9 +1,9 @@
 Surname, first name (Sail #)	Membership	Type	Age Category	Renewal Date
 Abel, Ben (GBR837)	837	Individual	Veteran	25 Oct 2023
 Adam, Duncan (GBR863)	863	Individual	Veteran	01 Dec 2023
+Adams, Joe (TBC)	None	Individual	Adult	01 Oct 2024
 Adcock, Izzy (GBR988 / 988)	988 (BWA)	Student	Adult	19 Aug 2024
 Adcock, Mia (GBR894)	894	Individual	Adult	10 Apr 2024
-adrain, john (GBR391)	391 (BWA)	Individual	Veteran	01 Oct 2023
 Aldridge, Martin (GBR2)	2	Individual	Veteran	03 Dec 2023
 Archer, Michael (GBR718)	718 (BWA)	Individual	Master	18 Sep 2024
 Arnold, Paul (GBR350)	350	Individual	Veteran	08 Sep 2024
@@ -32,7 +32,6 @@ Beaman, Max (GBR262 / GBR3226)	262	Family	Adult	10 May 2024
 Beaman, Richard (GBR362)	262	Family	Veteran	10 May 2024
 Beaney, Nick (GBR38)	38	Individual	Master	17 Nov 2023
 Beaumont, Lawrence (GBR806)	806	Individual	Adult	16 Sep 2024
-Bedford, John (GBR791)	791	Individual	Veteran	01 Oct 2023
 Benbow, Susan (GBR509)	509	Individual	Veteran	01 Dec 2023
 Beng, Chris (GBR147)	147	Individual	Master	11 Oct 2023
 Bennett, Charlie (GBR49 / 835)	49	Youth	U20	04 Dec 2023
@@ -240,6 +239,7 @@ Holligon, Jamie (GBR586)	586	Youth	U17	20 Feb 2024
 Holmes-Ling, Toby (GBR739)	739	Youth	U17	15 Aug 2024
 Hope, James (GBR814 / 814 UKBSA )	814	Individual	Veteran	05 Jun 2024
 Hopley, Rhona (GBR743 / GBR3470 )	743	Individual	U20	24 Jul 2024
+Horrocks , David (GBR930)	930	Individual	Master	14 May 2024
 Horrocks, Phil (GBR303)	303	Individual	Master	14 May 2024
 Horton, Henry (GBR970)	970 (BWA)	Individual	Adult	21 Aug 2024
 Houghton, James (GBR715)	715	Youth	U15	02 Sep 2024
@@ -313,6 +313,7 @@ Lee, Mark (GBR198)	198	Individual	Veteran	10 Jul 2024
 Leeds, Katie (GBR308 / 3361)	308	Student	U17	12 Jun 2024
 Leone, Paul (GBR1111)	1111	Individual	Veteran	01 Dec 2024
 Leseure, Michel (GBR760)	760	Individual	Veteran	23 Jul 2024
+Lilley, Matthew (TBC)	None	Individual	Veteran	02 Oct 2024
 Limm, Lewis (GBR168 / GBR3264)	168	Individual	Adult	07 Mar 2024
 Lindsay, Euan (GBR693)	693	Youth	U20	22 Aug 2024
 Lindup, Milly (GBR439 / 439)	439	Youth	U20	28 Apr 2024
@@ -393,7 +394,7 @@ O'Shea, Farrel (GBR815)	815	Individual	Veteran	19 Nov 2023
 Oakley, David (GBR816)	816	Individual	Veteran	22 Apr 2024
 Ogier, Martyn (GBR681)	681	Individual	Veteran	29 Jan 2024
 Oldfield, Marcus (GBR428)	428	Individual	Master	21 Jun 2024
-Oliver, John (GBR499)	499	Individual	Veteran	03 Oct 2023
+Oliver, John (GBR499)	499	Individual	Veteran	03 Oct 2024
 Overington, Iain (GBR960 / K960)	960 (BWA)	Individual	Veteran	22 Nov 2023
 Owen, Guy (GBR273)	273	Youth	U20	30 May 2024
 Packman, Viki (GBR658)	658	Individual	Veteran	07 Sep 2024
@@ -423,7 +424,6 @@ Phillips, Victoriam (GBR951)	950	Family	Veteran	17 Jul 2024
 Pilkington, Jack (GBR366)	365	Family	U20	02 Jun 2024
 Pilkington, Rebecca (GBR317 / 3319)	317	Youth	U15	12 May 2024
 Powell, Holly (GBR227 / 223)	227	Youth	U15	02 Jun 2024
-Prescott, Torin (GBR260)	260	Individual	Adult	30 Sep 2023
 Pringuer, Tom (GBR549)	549	Family	U15	29 Jul 2024
 Pringuer, Mike (GBR563)	549	Family	Adult	29 Jul 2024
 Proffitt, Kevin (GBR805)	805	Individual	Veteran	31 Dec 2023
@@ -550,6 +550,7 @@ Trunkfield, Joe (GBR305)	300	Family	U20	01 Jun 2024
 Tucker, John (GBR893)	893	Individual	Veteran	06 Apr 2024
 Tucker, Matthew (GBR525)	525 (BWA)	Individual	Master	08 Oct 2023
 Turvey, Andy (GBR433)	433	Individual	Veteran	07 Jan 2025
+Twinn, Andrew (GBR559)	559	Individual	Master	08 May 2024
 Underdown, Peter (GBR740)	740	Individual	Veteran	23 Jul 2024
 Vale, Charlotte (GBR233)	233	Youth	U15	11 Jun 2024
 Vass, Stacey (GBR117)	117	Individual	Veteran	16 Oct 2023
@@ -585,7 +586,6 @@ Whittaker, John (GBR570)	570	Individual	Veteran	04 Dec 2023
 Wilcox, Ellie (GBR722)	722	Student	Adult	09 Oct 2023
 Wilford, Florian (GBR799 / 3099)	799	Individual	Adult	
 Williams, Catrin (GBR323 / 3251)	323	Student	Adult	11 Jun 2024
-Williams, Luke (GBR560)	560 (BWA)	Individual	Adult	30 Sep 2023
 Wilson, Emma (GBR7)	7	Individual	Adult	01 Sep 2024
 Winn, Jonathan (GBR709)	709	Individual	Master	09 Jul 2024
 Winstanley , Heather (GBR449 / 3349)	450	Family	U20	22 May 2024
