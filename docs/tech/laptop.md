@@ -52,3 +52,29 @@
 - WSL2
 - Ubuntu
 - Docker Desktop
+
+
+
+#### Docker
+
+Specify log options in docker engine, other options left as defaults:
+
+```json
+{
+  "builder": {
+    "gc": {
+      "defaultKeepStorage": "20GB",
+      "enabled": true
+    }
+  },
+  "experimental": false,
+  "features": {
+    "buildkit": true
+  },
+  "log-opts": {
+    "max-file": "3",
+    "max-size": "10m"
+  }
+}
+```
+
