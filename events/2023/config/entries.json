@@ -227,7 +227,8 @@
         "Entrant ID",
         "Motion ID",
         "File ID"
-      ]
+      ],
+      "Extra": "motions-extra.csv"
     }
   ]
 }
