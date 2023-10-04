@@ -1,6 +1,6 @@
 # Base image versions
 ARG NOTEBOOK_VERSION=notebook-6.4.6
-ARG SSE_RESULTS_VERSION=1.1.1
+ARG SSE_RESULTS_VERSION=1.1.2
 
 # Jupyter notebook image is used as the builder
 FROM jupyter/base-notebook:${NOTEBOOK_VERSION} AS builder
