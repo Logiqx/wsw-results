@@ -11,6 +11,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1161,10,631,2023-10-07,2023-10-13,OLI631JOH,John,Oliver,Sailboard,Gold-Fleet,All Week
 1162,11,632,2023-10-07,2023-10-13,CRO632PET,Peter,Crosby,Sailboard,Gold-Fleet,All Week
 1163,12,633,2023-10-07,2023-10-13,PEA633ZAC,Zack,Peaple,Sailboard,Gold-Fleet,All Week
+3163,12,870,2023-10-07,2023-10-13,PEA870ZAC,Zack,Peaple,Wingboard,Amateur,All Week
 1164,13,634,2023-10-07,2023-10-13,CRO634RIC,Richard,Crosby,Sailboard,Gold-Fleet,All Week
 1165,14,635,2023-10-07,2023-10-13,BAT635TIM,Tim,Bate,Sailboard,Gold-Fleet,All Week
 1166,15,639,2023-10-07,2023-10-13,PET639SIM,Simon,Pettifer,Sailboard,Pro-Fleet,All Week
@@ -79,7 +80,6 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 3238,80,866,2023-10-07,2023-10-08,YEL866SUL,Sullie,Yelland,Wingboard,Amateur,Youth W/E
 1239,81,867,2023-10-07,2023-10-13,STA867SCO,Scotty,Stallman,Sailboard,Pro-Fleet,All Week
 3240,82,869,2023-10-07,2023-10-08,OGO869FIN,Finn,O'Gorman,Wingboard,Amateur,Youth W/E
-241,83,870,2023-10-07,2023-10-13,MCL870STE,Steve McLean,McLean,Boat,Boat Fleet,All Week
 3242,84,871,2023-10-07,2023-10-13,COL871ANN,Anna,Collenette,Wingboard,Amateur,2 Days
 3243,85,872,2023-10-07,2023-10-13,COL872AND,Andrew,Collenette,Wingboard,Amateur,2 Days
 2244,86,873,2023-10-07,2023-10-13,EDE873MAR,Markus,Edegran,Kiteboard,Open Class,2 Days

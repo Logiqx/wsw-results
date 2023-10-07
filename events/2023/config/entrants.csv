@@ -11,6 +11,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1161,10,Mr,John,Oliver,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,Surf Hogs,All Week,YES
 1162,11,Mr,Peter,Crosby,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,Surf Hogs,All Week,NO
 1163,12,Mr,Zack,Peaple,England,NO,Sailboard,Gold-Fleet,Youth,,None,All Week,YES
+3163,12,Mr,Zack,Peaple,England,NO,Wingboard,Amateur,Youth,,None,All Week,YES
 1164,13,Mr,Richard,Crosby,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,Surf Hogs,All Week,YES
 1165,14,Mr,Tim,Bate,England,YES,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 1166,15,Mr,Simon,Pettifer,United Kingdom,NO,Sailboard,Pro-Fleet,Adult,,Hamworthy Heroes,All Week,YES
@@ -79,7 +80,6 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 3238,80,Mr,Sullie,Yelland,United Kingdom,NO,Wingboard,Amateur,Youth,,None,Youth W/E,YES
 1239,81,Mr,Scotty,Stallman,United Kingdom,NO,Sailboard,Pro-Fleet,Adult,,The OTC,All Week,YES
 3240,82,Mr,Finn,O'Gorman,United Kingdom,YES,Wingboard,Amateur,Youth,,None,Youth W/E,YES
-241,83,Mr,Steve McLean,McLean,UK,YES,Boat,Boat Fleet,Adult,Aerocet Moth,None,All Week,N
 3242,84,Miss,Anna,Collenette,United Kingdom,YES,Wingboard,Amateur,Youth,,None,2 Days,YES
 3243,85,Mr,Andrew,Collenette,United Kingdom,YES,Wingboard,Amateur,Adult,,None,2 Days,YES
 2244,86,Mr,Markus,Edegran,United States,YES,Kiteboard,Open Class,Adult,,None,2 Days,N
