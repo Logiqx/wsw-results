@@ -107,7 +107,7 @@
     },
     {
       "Title": "Fastest Youths",
-      "Comment": "(age <18 on 31st Oct)",
+      "Comment": "(age <18 for both days of the event)",
       "Fields": "Name,Nation,Craft Type,First Timer,Course,Start Time,Speed (kts)",
       "Filter": "Age=Youth,Weekend=Y",
       "Sort": "Speed (kts)=DSC"
