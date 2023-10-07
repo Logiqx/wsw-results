@@ -1,1 +1,15 @@
-{}
+{
+  "TWI695AND_695_20231007_104840.oao": {
+    "motion_file": "/logs/2023/10/0695_2023-10-07-1048.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/TWI695AND_695_20231007_104840.oao",
+    "size": 627200,
+    "start_date": 1696672120000,
+    "end_date": 1696685722000,
+    "duration": 13602000,
+    "distance": 24160963,
+    "2s_best": 9802,
+    "10s_best": 9630,
+    "500m_best": 9258,
+    "status": "completed"
+  }
+}

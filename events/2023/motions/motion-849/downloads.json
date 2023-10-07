@@ -1,0 +1,15 @@
+{
+  "ALD849ELL_849_20231007_103718.oao": {
+    "motion_file": "/logs/2023/10/0849_2023-10-07-1037.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/ALD849ELL_849_20231007_103718.oao",
+    "size": 119368,
+    "start_date": 1696671438000,
+    "end_date": 1696682558000,
+    "duration": 11120000,
+    "distance": 4496889,
+    "2s_best": 24917,
+    "10s_best": 24471,
+    "500m_best": 23536,
+    "status": "completed"
+  }
+}

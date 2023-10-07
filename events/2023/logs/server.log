@@ -1719,3 +1719,1954 @@
 2023-10-01 20:42:47,DEBUG,DisconnectionThread #7 finished
 2023-10-01 20:42:47,DEBUG,DisconnectionThread #8 finished
 2023-10-01 20:42:47,INFO,Thread pools stopped
+2023-10-07 12:27:22,INFO,Starting thread pools
+2023-10-07 12:27:22,DEBUG,DetectionThreadPool starting
+2023-10-07 12:27:22,DEBUG,DetectionThread #1 starting
+2023-10-07 12:27:22,DEBUG,DetectionThread #2 starting
+2023-10-07 12:27:22,DEBUG,DetectionThread #3 starting
+2023-10-07 12:27:22,DEBUG,DetectionThread #4 starting
+2023-10-07 12:27:22,DEBUG,DetectionThread #5 starting
+2023-10-07 12:27:22,DEBUG,DetectionThread #6 starting
+2023-10-07 12:27:22,DEBUG,DetectionThread #7 starting
+2023-10-07 12:27:22,DEBUG,DetectionThread #8 starting
+2023-10-07 12:27:22,DEBUG,InspectionThreadPool starting
+2023-10-07 12:27:22,DEBUG,InspectionThread #1 starting
+2023-10-07 12:27:22,DEBUG,InspectionThread #2 starting
+2023-10-07 12:27:22,DEBUG,InspectionThread #3 starting
+2023-10-07 12:27:22,DEBUG,InspectionThread #4 starting
+2023-10-07 12:27:22,DEBUG,DownloadThreadPool starting
+2023-10-07 12:27:22,DEBUG,DownloadThread #1 starting
+2023-10-07 12:27:22,DEBUG,DownloadThread #2 starting
+2023-10-07 12:27:22,DEBUG,DownloadThread #3 starting
+2023-10-07 12:27:22,DEBUG,DownloadThread #4 starting
+2023-10-07 12:27:22,DEBUG,DisconnectionThreadPool starting
+2023-10-07 12:27:22,DEBUG,DisconnectionThread #1 starting
+2023-10-07 12:27:22,DEBUG,DisconnectionThread #2 starting
+2023-10-07 12:27:22,DEBUG,DisconnectionThread #3 starting
+2023-10-07 12:27:22,DEBUG,DisconnectionThread #4 starting
+2023-10-07 12:27:22,DEBUG,DisconnectionThread #5 starting
+2023-10-07 12:27:22,DEBUG,DisconnectionThread #6 starting
+2023-10-07 12:27:22,DEBUG,DisconnectionThread #7 starting
+2023-10-07 12:27:22,DEBUG,DisconnectionThread #8 starting
+2023-10-07 12:27:22,INFO,Thread pools started
+2023-10-07 12:29:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 12:31:03,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 12:32:19,INFO,Keyboard interrupt
+2023-10-07 12:32:19,INFO,Stopping thread pools
+2023-10-07 12:32:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 12:32:23,DEBUG,DetectionThreadPool finished
+2023-10-07 12:32:23,DEBUG,DetectionThread #1 finished
+2023-10-07 12:32:23,DEBUG,DetectionThread #2 finished
+2023-10-07 12:32:23,DEBUG,DetectionThread #3 finished
+2023-10-07 12:32:23,DEBUG,DetectionThread #4 finished
+2023-10-07 12:32:23,DEBUG,DetectionThread #5 finished
+2023-10-07 12:32:23,DEBUG,DetectionThread #6 finished
+2023-10-07 12:32:23,DEBUG,DetectionThread #7 finished
+2023-10-07 12:32:23,DEBUG,DetectionThread #8 finished
+2023-10-07 12:32:23,DEBUG,InspectionThreadPool finished
+2023-10-07 12:32:23,DEBUG,InspectionThread #1 finished
+2023-10-07 12:32:23,DEBUG,InspectionThread #2 finished
+2023-10-07 12:32:23,DEBUG,InspectionThread #3 finished
+2023-10-07 12:32:23,DEBUG,InspectionThread #4 finished
+2023-10-07 12:32:23,DEBUG,DownloadThreadPool finished
+2023-10-07 12:32:23,DEBUG,DownloadThread #1 finished
+2023-10-07 12:32:23,DEBUG,DownloadThread #2 finished
+2023-10-07 12:32:23,DEBUG,DownloadThread #3 finished
+2023-10-07 12:32:23,DEBUG,DownloadThread #4 finished
+2023-10-07 12:32:23,DEBUG,DisconnectionThreadPool finished
+2023-10-07 12:32:23,DEBUG,DisconnectionThread #1 finished
+2023-10-07 12:32:23,DEBUG,DisconnectionThread #2 finished
+2023-10-07 12:32:23,DEBUG,DisconnectionThread #3 finished
+2023-10-07 12:32:23,DEBUG,DisconnectionThread #4 finished
+2023-10-07 12:32:23,DEBUG,DisconnectionThread #5 finished
+2023-10-07 12:32:23,DEBUG,DisconnectionThread #6 finished
+2023-10-07 12:32:23,DEBUG,DisconnectionThread #7 finished
+2023-10-07 12:32:23,DEBUG,DisconnectionThread #8 finished
+2023-10-07 12:32:23,INFO,Thread pools stopped
+2023-10-07 12:36:05,INFO,Starting thread pools
+2023-10-07 12:36:05,DEBUG,DetectionThreadPool starting
+2023-10-07 12:36:05,DEBUG,DetectionThread #1 starting
+2023-10-07 12:36:05,DEBUG,DetectionThread #2 starting
+2023-10-07 12:36:05,DEBUG,DetectionThread #3 starting
+2023-10-07 12:36:05,DEBUG,DetectionThread #4 starting
+2023-10-07 12:36:05,DEBUG,DetectionThread #5 starting
+2023-10-07 12:36:05,DEBUG,DetectionThread #6 starting
+2023-10-07 12:36:05,DEBUG,DetectionThread #7 starting
+2023-10-07 12:36:05,DEBUG,DetectionThread #8 starting
+2023-10-07 12:36:05,DEBUG,InspectionThreadPool starting
+2023-10-07 12:36:05,DEBUG,InspectionThread #1 starting
+2023-10-07 12:36:05,DEBUG,InspectionThread #2 starting
+2023-10-07 12:36:05,DEBUG,InspectionThread #3 starting
+2023-10-07 12:36:05,DEBUG,InspectionThread #4 starting
+2023-10-07 12:36:05,DEBUG,DownloadThreadPool starting
+2023-10-07 12:36:05,DEBUG,DownloadThread #1 starting
+2023-10-07 12:36:05,DEBUG,DownloadThread #2 starting
+2023-10-07 12:36:05,DEBUG,DownloadThread #3 starting
+2023-10-07 12:36:05,DEBUG,DownloadThread #4 starting
+2023-10-07 12:36:05,DEBUG,DisconnectionThreadPool starting
+2023-10-07 12:36:05,DEBUG,DisconnectionThread #1 starting
+2023-10-07 12:36:05,DEBUG,DisconnectionThread #2 starting
+2023-10-07 12:36:05,DEBUG,DisconnectionThread #3 starting
+2023-10-07 12:36:05,DEBUG,DisconnectionThread #4 starting
+2023-10-07 12:36:05,DEBUG,DisconnectionThread #5 starting
+2023-10-07 12:36:05,DEBUG,DisconnectionThread #6 starting
+2023-10-07 12:36:05,DEBUG,DisconnectionThread #7 starting
+2023-10-07 12:36:05,DEBUG,DisconnectionThread #8 starting
+2023-10-07 12:36:05,INFO,Thread pools started
+2023-10-07 12:37:55,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 12:39:40,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 12:39:40,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 12:39:40,INFO,motion-816 is connected
+2023-10-07 12:39:41,DEBUG,motion-816 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 12:39:41,DEBUG,motion-816 storage is 0% full
+2023-10-07 12:39:41,INFO,motion-816 battery level is 83%
+2023-10-07 12:39:42,DEBUG,motion-816 PIN816JOS_816_20231007_103102.oao skipped - 0.0 MiB, 3.1 hours, 2.8 km, 4.2 knots (500m)
+2023-10-07 12:39:42,INFO,motion-816 can be disconnected
+2023-10-07 12:40:20,DEBUG,motion-816 has been disconnected
+2023-10-07 12:40:20,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 12:40:21,DEBUG,motion-816 not accepting connections
+2023-10-07 12:40:25,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 12:40:26,DEBUG,motion-816 not accepting connections
+2023-10-07 12:40:30,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 12:40:31,DEBUG,motion-816 not accepting connections
+2023-10-07 12:40:35,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 12:40:36,DEBUG,motion-816 not accepting connections
+2023-10-07 12:40:40,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 12:40:41,DEBUG,motion-816 not accepting connections
+2023-10-07 12:40:45,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 12:40:46,DEBUG,motion-816 not accepting connections
+2023-10-07 12:41:10,DEBUG,motion-873 detected at 192.168.0.118
+2023-10-07 12:41:10,INFO,motion-873 is connected
+2023-10-07 12:41:11,DEBUG,motion-873 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 12:41:11,DEBUG,motion-873 storage is 0% full
+2023-10-07 12:41:11,INFO,motion-873 battery level is 82%
+2023-10-07 12:41:12,INFO,motion-873 EDE873MAR_873_20231007_104856.oao queued - 1.0 MiB, 2.9 hours, 44.8 km, 44.8 knots (500m)
+2023-10-07 12:41:13,INFO,motion-873 EDE873MAR_873_20231007_104856.oao downloaded - 1.0 MiB, 2.9 hours, 44.8 km, 44.8 knots (500m)
+2023-10-07 12:41:13,INFO,motion-873 can be disconnected
+2023-10-07 12:41:50,DEBUG,motion-873 has been disconnected
+2023-10-07 12:41:50,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 12:41:50,DEBUG,motion-873 detected at 192.168.0.118
+2023-10-07 12:41:51,DEBUG,motion-642 not accepting connections
+2023-10-07 12:41:51,DEBUG,motion-873 not accepting connections
+2023-10-07 12:41:55,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 12:41:55,INFO,motion-642 is connected
+2023-10-07 12:41:55,DEBUG,motion-873 detected at 192.168.0.118
+2023-10-07 12:41:56,DEBUG,motion-642 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 12:41:56,DEBUG,motion-642 storage is 0% full
+2023-10-07 12:41:56,INFO,motion-642 battery level is 80%
+2023-10-07 12:41:56,DEBUG,motion-873 not accepting connections
+2023-10-07 12:41:57,DEBUG,motion-642 FUL642GEO_642_20231007_110441.oao skipped - 0.1 MiB, 2.6 hours, 6.9 km, 4.6 knots (500m)
+2023-10-07 12:41:57,INFO,motion-642 can be disconnected
+2023-10-07 12:42:00,DEBUG,motion-873 detected at 192.168.0.118
+2023-10-07 12:42:01,DEBUG,motion-873 not accepting connections
+2023-10-07 12:42:05,DEBUG,motion-873 detected at 192.168.0.118
+2023-10-07 12:42:06,DEBUG,motion-873 not accepting connections
+2023-10-07 12:42:10,DEBUG,motion-873 detected at 192.168.0.118
+2023-10-07 12:42:11,DEBUG,motion-873 not accepting connections
+2023-10-07 12:42:15,DEBUG,motion-873 detected at 192.168.0.118
+2023-10-07 12:42:16,DEBUG,motion-873 not accepting connections
+2023-10-07 12:42:20,DEBUG,motion-642 has been disconnected
+2023-10-07 12:42:20,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 12:42:20,DEBUG,motion-873 detected at 192.168.0.118
+2023-10-07 12:42:21,DEBUG,motion-642 not accepting connections
+2023-10-07 12:42:21,DEBUG,motion-873 not accepting connections
+2023-10-07 12:42:25,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 12:42:25,DEBUG,motion-873 detected at 192.168.0.118
+2023-10-07 12:42:26,DEBUG,motion-642 not accepting connections
+2023-10-07 12:42:26,DEBUG,motion-873 not accepting connections
+2023-10-07 12:42:30,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 12:42:30,DEBUG,motion-873 detected at 192.168.0.118
+2023-10-07 12:42:31,DEBUG,motion-642 not accepting connections
+2023-10-07 12:42:31,DEBUG,motion-873 not accepting connections
+2023-10-07 12:42:35,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 12:42:36,DEBUG,motion-642 not accepting connections
+2023-10-07 12:42:40,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 12:42:40,DEBUG,motion-806 detected at 192.168.0.242
+2023-10-07 12:42:40,INFO,motion-806 is connected
+2023-10-07 12:42:41,DEBUG,motion-642 not accepting connections
+2023-10-07 12:42:41,DEBUG,motion-806 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 12:42:41,DEBUG,motion-806 storage is 0% full
+2023-10-07 12:42:41,INFO,motion-806 battery level is 82%
+2023-10-07 12:42:42,INFO,motion-806 JEN806JEN_806_20231007_092710.oao queued - 0.3 MiB, 4.3 hours, 8.9 km, 6.0 knots (500m)
+2023-10-07 12:42:42,INFO,motion-806 JEN806JEN_806_20231007_092710.oao downloaded - 0.3 MiB, 4.3 hours, 8.9 km, 6.0 knots (500m)
+2023-10-07 12:42:42,INFO,motion-806 can be disconnected
+2023-10-07 12:42:45,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 12:42:46,DEBUG,motion-642 not accepting connections
+2023-10-07 12:42:50,DEBUG,motion-849 detected at 192.168.0.224
+2023-10-07 12:42:50,INFO,motion-849 is connected
+2023-10-07 12:42:51,DEBUG,motion-849 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 12:42:51,DEBUG,motion-849 storage is 0% full
+2023-10-07 12:42:51,INFO,motion-849 battery level is 82%
+2023-10-07 12:42:52,INFO,motion-849 ALD849ELL_849_20231007_103718.oao queued - 0.1 MiB, 3.1 hours, 4.5 km, 45.8 knots (500m)
+2023-10-07 12:42:52,INFO,motion-849 ALD849ELL_849_20231007_103718.oao downloaded - 0.1 MiB, 3.1 hours, 4.5 km, 45.8 knots (500m)
+2023-10-07 12:42:52,INFO,motion-849 can be disconnected
+2023-10-07 12:43:10,DEBUG,motion-806 has been disconnected
+2023-10-07 12:43:10,DEBUG,motion-806 detected at 192.168.0.242
+2023-10-07 12:43:11,DEBUG,motion-806 not accepting connections
+2023-10-07 12:43:15,DEBUG,motion-806 detected at 192.168.0.242
+2023-10-07 12:43:15,DEBUG,motion-820 detected at 192.168.0.104
+2023-10-07 12:43:15,INFO,motion-820 is connected
+2023-10-07 12:43:16,DEBUG,motion-820 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 12:43:16,DEBUG,motion-820 storage is 0% full
+2023-10-07 12:43:16,INFO,motion-820 battery level is 80%
+2023-10-07 12:43:16,DEBUG,motion-806 not accepting connections
+2023-10-07 12:43:17,INFO,motion-820 ALD820ELL_820_20231007_103740.oao queued - 0.7 MiB, 3.1 hours, 29.6 km, 45.7 knots (500m)
+2023-10-07 12:43:18,INFO,motion-820 ALD820ELL_820_20231007_103740.oao downloaded - 0.7 MiB, 3.1 hours, 29.6 km, 45.7 knots (500m)
+2023-10-07 12:43:18,INFO,motion-820 can be disconnected
+2023-10-07 12:43:20,DEBUG,motion-849 has been disconnected
+2023-10-07 12:43:20,DEBUG,motion-806 detected at 192.168.0.242
+2023-10-07 12:43:20,DEBUG,motion-849 detected at 192.168.0.224
+2023-10-07 12:43:21,DEBUG,motion-806 not accepting connections
+2023-10-07 12:43:21,DEBUG,motion-849 not accepting connections
+2023-10-07 12:43:25,DEBUG,motion-806 detected at 192.168.0.242
+2023-10-07 12:43:25,DEBUG,motion-849 detected at 192.168.0.224
+2023-10-07 12:43:26,DEBUG,motion-806 not accepting connections
+2023-10-07 12:43:26,DEBUG,motion-849 not accepting connections
+2023-10-07 12:43:30,DEBUG,motion-820 has been disconnected
+2023-10-07 12:43:30,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 12:43:30,DEBUG,motion-806 detected at 192.168.0.242
+2023-10-07 12:43:30,INFO,motion-648 is connected
+2023-10-07 12:43:30,DEBUG,motion-820 detected at 192.168.0.104
+2023-10-07 12:43:30,DEBUG,motion-849 detected at 192.168.0.224
+2023-10-07 12:43:31,DEBUG,motion-648 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 12:43:31,DEBUG,motion-648 storage is 0% full
+2023-10-07 12:43:31,INFO,motion-648 battery level is 79%
+2023-10-07 12:43:31,DEBUG,motion-648 LIL648MAT_648_20231007_103656.oao skipped - 0.0 MiB, 3.1 hours, 3.9 km, 3.1 knots (500m)
+2023-10-07 12:43:31,INFO,motion-648 can be disconnected
+2023-10-07 12:43:31,DEBUG,motion-806 not accepting connections
+2023-10-07 12:43:31,DEBUG,motion-820 not accepting connections
+2023-10-07 12:43:31,DEBUG,motion-849 not accepting connections
+2023-10-07 12:43:35,DEBUG,motion-806 detected at 192.168.0.242
+2023-10-07 12:43:35,DEBUG,motion-820 detected at 192.168.0.104
+2023-10-07 12:43:35,DEBUG,motion-849 detected at 192.168.0.224
+2023-10-07 12:43:36,DEBUG,motion-806 not accepting connections
+2023-10-07 12:43:36,DEBUG,motion-820 not accepting connections
+2023-10-07 12:43:36,DEBUG,motion-849 not accepting connections
+2023-10-07 12:43:40,DEBUG,motion-820 detected at 192.168.0.104
+2023-10-07 12:43:40,DEBUG,motion-849 detected at 192.168.0.224
+2023-10-07 12:43:41,DEBUG,motion-820 not accepting connections
+2023-10-07 12:43:41,DEBUG,motion-849 not accepting connections
+2023-10-07 12:43:45,DEBUG,motion-820 detected at 192.168.0.104
+2023-10-07 12:43:45,DEBUG,motion-849 detected at 192.168.0.224
+2023-10-07 12:43:46,DEBUG,motion-820 not accepting connections
+2023-10-07 12:43:46,DEBUG,motion-849 not accepting connections
+2023-10-07 12:43:50,DEBUG,motion-648 has been disconnected
+2023-10-07 12:43:50,DEBUG,motion-631 detected at 192.168.0.194
+2023-10-07 12:43:50,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 12:43:50,DEBUG,motion-820 detected at 192.168.0.104
+2023-10-07 12:43:51,INFO,motion-631 is connected
+2023-10-07 12:43:51,DEBUG,motion-648 not accepting connections
+2023-10-07 12:43:51,DEBUG,motion-820 not accepting connections
+2023-10-07 12:43:51,DEBUG,motion-631 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 12:43:51,DEBUG,motion-631 storage is 0% full
+2023-10-07 12:43:51,INFO,motion-631 battery level is 92%
+2023-10-07 12:43:52,INFO,motion-631 OLI631JOH_631_20231007_104206.oao queued - 0.1 MiB, 3.0 hours, 7.1 km, 5.4 knots (500m)
+2023-10-07 12:43:52,INFO,motion-631 OLI631JOH_631_20231007_104206.oao downloaded - 0.1 MiB, 3.0 hours, 7.1 km, 5.4 knots (500m)
+2023-10-07 12:43:52,INFO,motion-631 can be disconnected
+2023-10-07 12:43:55,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 12:43:55,DEBUG,motion-820 detected at 192.168.0.104
+2023-10-07 12:43:56,DEBUG,motion-648 not accepting connections
+2023-10-07 12:43:56,DEBUG,motion-820 not accepting connections
+2023-10-07 12:44:00,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 12:44:00,DEBUG,motion-820 detected at 192.168.0.104
+2023-10-07 12:44:01,DEBUG,motion-648 not accepting connections
+2023-10-07 12:44:01,DEBUG,motion-820 not accepting connections
+2023-10-07 12:44:05,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 12:44:05,DEBUG,motion-820 detected at 192.168.0.104
+2023-10-07 12:44:06,DEBUG,motion-648 not accepting connections
+2023-10-07 12:44:06,DEBUG,motion-820 not accepting connections
+2023-10-07 12:44:10,DEBUG,motion-631 has been disconnected
+2023-10-07 12:44:10,DEBUG,motion-631 detected at 192.168.0.194
+2023-10-07 12:44:10,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 12:44:10,DEBUG,motion-820 detected at 192.168.0.104
+2023-10-07 12:44:11,DEBUG,motion-631 not accepting connections
+2023-10-07 12:44:11,DEBUG,motion-648 not accepting connections
+2023-10-07 12:44:11,DEBUG,motion-820 not accepting connections
+2023-10-07 12:44:15,DEBUG,motion-631 detected at 192.168.0.194
+2023-10-07 12:44:15,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 12:44:16,DEBUG,motion-631 not accepting connections
+2023-10-07 12:44:16,DEBUG,motion-648 not accepting connections
+2023-10-07 12:44:20,DEBUG,motion-631 detected at 192.168.0.194
+2023-10-07 12:44:20,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 12:44:21,DEBUG,motion-631 not accepting connections
+2023-10-07 12:44:21,DEBUG,motion-648 not accepting connections
+2023-10-07 12:44:25,DEBUG,motion-631 detected at 192.168.0.194
+2023-10-07 12:44:25,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 12:44:26,DEBUG,motion-631 not accepting connections
+2023-10-07 12:44:26,DEBUG,motion-648 not accepting connections
+2023-10-07 12:44:30,DEBUG,motion-631 detected at 192.168.0.194
+2023-10-07 12:44:31,DEBUG,motion-631 not accepting connections
+2023-10-07 12:44:35,DEBUG,motion-631 detected at 192.168.0.194
+2023-10-07 12:44:36,DEBUG,motion-631 not accepting connections
+2023-10-07 12:44:40,DEBUG,motion-631 detected at 192.168.0.194
+2023-10-07 12:44:41,DEBUG,motion-631 not accepting connections
+2023-10-07 12:44:45,DEBUG,motion-631 detected at 192.168.0.194
+2023-10-07 12:44:46,DEBUG,motion-631 not accepting connections
+2023-10-07 12:45:05,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 12:46:55,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 12:54:50,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 13:00:11,DEBUG,motion-632 detected at 192.168.0.218
+2023-10-07 13:00:11,INFO,motion-632 is connected
+2023-10-07 13:00:12,DEBUG,motion-632 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 13:00:12,DEBUG,motion-632 storage is 0% full
+2023-10-07 13:00:12,INFO,motion-632 battery level is 94%
+2023-10-07 13:00:13,INFO,motion-632 CRO632PET_632_20231007_103838.oao queued - 0.8 MiB, 3.4 hours, 28.7 km, 18.1 knots (500m)
+2023-10-07 13:00:14,INFO,motion-632 CRO632PET_632_20231007_103838.oao downloaded - 0.8 MiB, 3.4 hours, 28.7 km, 18.1 knots (500m)
+2023-10-07 13:00:14,INFO,motion-632 can be disconnected
+2023-10-07 13:00:30,DEBUG,motion-632 has been disconnected
+2023-10-07 13:00:31,DEBUG,motion-632 detected at 192.168.0.218
+2023-10-07 13:00:32,DEBUG,motion-632 not accepting connections
+2023-10-07 13:00:36,DEBUG,motion-632 detected at 192.168.0.218
+2023-10-07 13:00:37,DEBUG,motion-632 not accepting connections
+2023-10-07 13:00:41,DEBUG,motion-632 detected at 192.168.0.218
+2023-10-07 13:00:42,DEBUG,motion-632 not accepting connections
+2023-10-07 13:00:46,DEBUG,motion-632 detected at 192.168.0.218
+2023-10-07 13:00:47,DEBUG,motion-632 not accepting connections
+2023-10-07 13:00:51,DEBUG,motion-632 detected at 192.168.0.218
+2023-10-07 13:00:52,DEBUG,motion-632 not accepting connections
+2023-10-07 13:00:56,DEBUG,motion-632 detected at 192.168.0.218
+2023-10-07 13:00:57,DEBUG,motion-632 not accepting connections
+2023-10-07 13:01:01,DEBUG,motion-632 detected at 192.168.0.218
+2023-10-07 13:01:02,DEBUG,motion-632 not accepting connections
+2023-10-07 13:01:06,DEBUG,motion-632 detected at 192.168.0.218
+2023-10-07 13:01:07,DEBUG,motion-632 not accepting connections
+2023-10-07 13:03:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 13:04:21,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 13:14:26,DEBUG,motion-869 detected at 192.168.0.142
+2023-10-07 13:14:26,INFO,motion-869 is connected
+2023-10-07 13:14:27,DEBUG,motion-869 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 13:14:27,DEBUG,motion-869 storage is 0% full
+2023-10-07 13:14:27,INFO,motion-869 battery level is 82%
+2023-10-07 13:14:27,INFO,motion-869 OGO869FIN_869_20231007_095248.oao queued - 1.5 MiB, 4.4 hours, 51.2 km, 20.7 knots (500m)
+2023-10-07 13:14:29,INFO,motion-869 OGO869FIN_869_20231007_095248.oao downloaded - 1.5 MiB, 4.4 hours, 51.2 km, 20.7 knots (500m)
+2023-10-07 13:14:29,INFO,motion-869 can be disconnected
+2023-10-07 13:15:20,DEBUG,motion-869 has been disconnected
+2023-10-07 13:15:21,DEBUG,motion-869 detected at 192.168.0.142
+2023-10-07 13:15:22,DEBUG,motion-869 not accepting connections
+2023-10-07 13:15:26,DEBUG,motion-869 detected at 192.168.0.142
+2023-10-07 13:15:27,DEBUG,motion-869 not accepting connections
+2023-10-07 13:15:31,DEBUG,motion-869 detected at 192.168.0.142
+2023-10-07 13:15:32,DEBUG,motion-869 not accepting connections
+2023-10-07 13:15:36,DEBUG,motion-869 detected at 192.168.0.142
+2023-10-07 13:15:37,DEBUG,motion-869 not accepting connections
+2023-10-07 13:15:41,DEBUG,motion-869 detected at 192.168.0.142
+2023-10-07 13:15:42,DEBUG,motion-869 not accepting connections
+2023-10-07 13:15:46,DEBUG,motion-869 detected at 192.168.0.142
+2023-10-07 13:15:47,DEBUG,motion-869 not accepting connections
+2023-10-07 13:15:51,DEBUG,motion-869 detected at 192.168.0.142
+2023-10-07 13:15:52,DEBUG,motion-869 not accepting connections
+2023-10-07 13:22:56,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 13:23:26,DEBUG,motion-663 detected at 192.168.0.168
+2023-10-07 13:23:26,INFO,motion-663 is connected
+2023-10-07 13:23:27,DEBUG,motion-663 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 13:23:27,DEBUG,motion-663 storage is 0% full
+2023-10-07 13:23:27,INFO,motion-663 battery level is 76%
+2023-10-07 13:23:28,DEBUG,motion-663 RUS663ROB_663_20231007_103739.oao skipped - 0.0 MiB, 3.8 hours, 0.1 km, 0.0 knots (500m)
+2023-10-07 13:23:28,INFO,motion-663 can be disconnected
+2023-10-07 13:23:50,DEBUG,motion-663 has been disconnected
+2023-10-07 13:23:51,DEBUG,motion-663 detected at 192.168.0.168
+2023-10-07 13:23:52,DEBUG,motion-663 not accepting connections
+2023-10-07 13:23:56,DEBUG,motion-663 detected at 192.168.0.168
+2023-10-07 13:23:57,DEBUG,motion-663 not accepting connections
+2023-10-07 13:24:01,DEBUG,motion-663 detected at 192.168.0.168
+2023-10-07 13:24:02,DEBUG,motion-663 not accepting connections
+2023-10-07 13:24:06,DEBUG,motion-663 detected at 192.168.0.168
+2023-10-07 13:24:07,DEBUG,motion-663 not accepting connections
+2023-10-07 13:24:11,DEBUG,motion-663 detected at 192.168.0.168
+2023-10-07 13:24:12,DEBUG,motion-663 not accepting connections
+2023-10-07 13:24:16,DEBUG,motion-663 detected at 192.168.0.168
+2023-10-07 13:24:17,DEBUG,motion-663 not accepting connections
+2023-10-07 13:24:21,DEBUG,motion-663 detected at 192.168.0.168
+2023-10-07 13:24:22,DEBUG,motion-663 not accepting connections
+2023-10-07 13:24:36,DEBUG,motion-717 detected at 192.168.0.208
+2023-10-07 13:24:36,INFO,motion-717 is connected
+2023-10-07 13:24:37,DEBUG,motion-717 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 13:24:37,DEBUG,motion-717 storage is 0% full
+2023-10-07 13:24:37,INFO,motion-717 battery level is 80%
+2023-10-07 13:24:37,INFO,motion-717 WAD717ALF_717_20231007_102709.oao queued - 2.0 MiB, 4.0 hours, 84.0 km, 61.2 knots (500m)
+2023-10-07 13:24:40,INFO,motion-717 WAD717ALF_717_20231007_102709.oao downloaded - 2.0 MiB, 4.0 hours, 84.0 km, 61.2 knots (500m)
+2023-10-07 13:24:40,INFO,motion-717 can be disconnected
+2023-10-07 13:25:00,DEBUG,motion-717 has been disconnected
+2023-10-07 13:25:01,DEBUG,motion-717 detected at 192.168.0.208
+2023-10-07 13:25:02,DEBUG,motion-717 not accepting connections
+2023-10-07 13:25:06,DEBUG,motion-717 detected at 192.168.0.208
+2023-10-07 13:25:07,DEBUG,motion-717 not accepting connections
+2023-10-07 13:25:11,DEBUG,motion-717 detected at 192.168.0.208
+2023-10-07 13:25:12,DEBUG,motion-717 not accepting connections
+2023-10-07 13:25:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 13:25:16,DEBUG,motion-717 detected at 192.168.0.208
+2023-10-07 13:25:17,DEBUG,motion-717 not accepting connections
+2023-10-07 13:25:21,DEBUG,motion-717 detected at 192.168.0.208
+2023-10-07 13:25:22,DEBUG,motion-717 not accepting connections
+2023-10-07 13:25:26,DEBUG,motion-717 detected at 192.168.0.208
+2023-10-07 13:25:27,DEBUG,motion-717 not accepting connections
+2023-10-07 13:25:31,DEBUG,motion-717 detected at 192.168.0.208
+2023-10-07 13:25:32,DEBUG,motion-717 not accepting connections
+2023-10-07 13:35:36,DEBUG,motion-695 detected at 192.168.0.118
+2023-10-07 13:35:36,INFO,motion-695 is connected
+2023-10-07 13:35:37,DEBUG,motion-695 firmware is approved (9003 Weymouth Speed Week)
+2023-10-07 13:35:37,DEBUG,motion-695 storage is 0% full
+2023-10-07 13:35:37,INFO,motion-695 battery level is 76%
+2023-10-07 13:35:38,INFO,motion-695 TWI695AND_695_20231007_104840.oao queued - 0.6 MiB, 3.8 hours, 24.2 km, 18.0 knots (500m)
+2023-10-07 13:35:39,INFO,motion-695 TWI695AND_695_20231007_104840.oao downloaded - 0.6 MiB, 3.8 hours, 24.2 km, 18.0 knots (500m)
+2023-10-07 13:35:39,INFO,motion-695 can be disconnected
+2023-10-07 13:36:00,DEBUG,motion-695 has been disconnected
+2023-10-07 13:36:01,DEBUG,motion-695 detected at 192.168.0.118
+2023-10-07 13:36:02,DEBUG,motion-695 not accepting connections
+2023-10-07 13:36:06,DEBUG,motion-695 detected at 192.168.0.118
+2023-10-07 13:36:07,DEBUG,motion-695 not accepting connections
+2023-10-07 13:36:11,DEBUG,motion-695 detected at 192.168.0.118
+2023-10-07 13:36:12,DEBUG,motion-695 not accepting connections
+2023-10-07 13:36:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 13:36:16,DEBUG,motion-695 detected at 192.168.0.118
+2023-10-07 13:36:17,DEBUG,motion-695 not accepting connections
+2023-10-07 13:36:21,DEBUG,motion-695 detected at 192.168.0.118
+2023-10-07 13:36:21,DEBUG,motion-821 detected at 192.168.0.144
+2023-10-07 13:36:21,INFO,motion-821 is connected
+2023-10-07 13:36:22,DEBUG,motion-695 not accepting connections
+2023-10-07 13:36:22,DEBUG,motion-821 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 13:36:22,DEBUG,motion-821 storage is 0% full
+2023-10-07 13:36:22,INFO,motion-821 battery level is 78%
+2023-10-07 13:36:23,INFO,motion-821 VAS821STA_821_20231007_092648.oao queued - 0.9 MiB, 5.2 hours, 35.2 km, 42.3 knots (500m)
+2023-10-07 13:36:24,INFO,motion-821 VAS821STA_821_20231007_092648.oao downloaded - 0.9 MiB, 5.2 hours, 35.2 km, 42.3 knots (500m)
+2023-10-07 13:36:24,INFO,motion-821 can be disconnected
+2023-10-07 13:36:26,DEBUG,motion-695 detected at 192.168.0.118
+2023-10-07 13:36:27,DEBUG,motion-695 not accepting connections
+2023-10-07 13:36:31,DEBUG,motion-695 detected at 192.168.0.118
+2023-10-07 13:36:32,DEBUG,motion-695 not accepting connections
+2023-10-07 13:36:40,DEBUG,motion-821 has been disconnected
+2023-10-07 13:36:41,DEBUG,motion-821 detected at 192.168.0.144
+2023-10-07 13:36:42,DEBUG,motion-821 not accepting connections
+2023-10-07 13:36:46,DEBUG,motion-821 detected at 192.168.0.144
+2023-10-07 13:36:47,DEBUG,motion-821 not accepting connections
+2023-10-07 13:36:51,DEBUG,motion-821 detected at 192.168.0.144
+2023-10-07 13:36:52,DEBUG,motion-821 not accepting connections
+2023-10-07 13:36:56,DEBUG,motion-821 detected at 192.168.0.144
+2023-10-07 13:36:57,DEBUG,motion-821 not accepting connections
+2023-10-07 13:37:01,DEBUG,motion-821 detected at 192.168.0.144
+2023-10-07 13:37:02,DEBUG,motion-821 not accepting connections
+2023-10-07 13:37:06,DEBUG,motion-821 detected at 192.168.0.144
+2023-10-07 13:37:07,DEBUG,motion-821 not accepting connections
+2023-10-07 13:37:11,DEBUG,motion-821 detected at 192.168.0.144
+2023-10-07 13:37:12,DEBUG,motion-821 not accepting connections
+2023-10-07 13:37:16,DEBUG,motion-821 detected at 192.168.0.144
+2023-10-07 13:37:17,DEBUG,motion-821 not accepting connections
+2023-10-07 13:45:11,DEBUG,motion-668 detected at 192.168.0.148
+2023-10-07 13:45:11,INFO,motion-668 is connected
+2023-10-07 13:45:12,DEBUG,motion-668 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 13:45:12,DEBUG,motion-668 storage is 0% full
+2023-10-07 13:45:12,INFO,motion-668 battery level is 75%
+2023-10-07 13:45:13,INFO,motion-668 OWE668AND_668_20231007_103402.oao queued - 0.2 MiB, 4.2 hours, 6.5 km, 5.2 knots (500m)
+2023-10-07 13:45:13,INFO,motion-668 OWE668AND_668_20231007_103402.oao downloaded - 0.2 MiB, 4.2 hours, 6.5 km, 5.2 knots (500m)
+2023-10-07 13:45:13,INFO,motion-668 can be disconnected
+2023-10-07 13:45:40,DEBUG,motion-668 has been disconnected
+2023-10-07 13:45:41,DEBUG,motion-668 detected at 192.168.0.148
+2023-10-07 13:45:42,DEBUG,motion-668 not accepting connections
+2023-10-07 13:45:46,DEBUG,motion-668 detected at 192.168.0.148
+2023-10-07 13:45:47,DEBUG,motion-668 not accepting connections
+2023-10-07 13:45:51,DEBUG,motion-668 detected at 192.168.0.148
+2023-10-07 13:45:52,DEBUG,motion-668 not accepting connections
+2023-10-07 13:45:56,DEBUG,motion-668 detected at 192.168.0.148
+2023-10-07 13:45:57,DEBUG,motion-668 not accepting connections
+2023-10-07 13:46:01,DEBUG,motion-668 detected at 192.168.0.148
+2023-10-07 13:46:02,DEBUG,motion-668 not accepting connections
+2023-10-07 13:46:06,DEBUG,motion-668 detected at 192.168.0.148
+2023-10-07 13:46:07,DEBUG,motion-668 not accepting connections
+2023-10-07 13:50:27,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 13:52:32,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 13:55:27,DEBUG,motion-803 detected at 192.168.0.120
+2023-10-07 13:55:27,INFO,motion-803 is connected
+2023-10-07 13:55:28,DEBUG,motion-803 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 13:55:28,DEBUG,motion-803 storage is 0% full
+2023-10-07 13:55:28,INFO,motion-803 battery level is 79%
+2023-10-07 13:55:28,INFO,motion-803 TRU803JOE_803_20231007_092248.oao queued - 0.6 MiB, 5.5 hours, 17.6 km, 20.1 knots (500m)
+2023-10-07 13:55:29,INFO,motion-803 TRU803JOE_803_20231007_092248.oao downloaded - 0.6 MiB, 5.5 hours, 17.6 km, 20.1 knots (500m)
+2023-10-07 13:55:29,INFO,motion-803 can be disconnected
+2023-10-07 13:55:32,DEBUG,motion-611 detected at 192.168.0.204
+2023-10-07 13:55:32,INFO,motion-611 is connected
+2023-10-07 13:55:32,DEBUG,motion-611 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 13:55:32,DEBUG,motion-611 storage is 0% full
+2023-10-07 13:55:32,INFO,motion-611 battery level is 81%
+2023-10-07 13:55:33,DEBUG,motion-611 YOR611MAT_611_20231007_092310.oao skipped - 0.0 MiB, 5.5 hours, 0.1 km, 0.0 knots (500m)
+2023-10-07 13:55:33,INFO,motion-611 can be disconnected
+2023-10-07 13:55:37,DEBUG,motion-819 detected at 192.168.0.198
+2023-10-07 13:55:37,INFO,motion-819 is connected
+2023-10-07 13:55:38,DEBUG,motion-819 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 13:55:38,DEBUG,motion-819 storage is 0% full
+2023-10-07 13:55:38,INFO,motion-819 battery level is 76%
+2023-10-07 13:55:39,INFO,motion-819 YOR819JAC_819_20231007_092256.oao queued - 0.2 MiB, 5.5 hours, 7.3 km, 6.7 knots (500m)
+2023-10-07 13:55:39,INFO,motion-819 YOR819JAC_819_20231007_092256.oao downloaded - 0.2 MiB, 5.5 hours, 7.3 km, 6.7 knots (500m)
+2023-10-07 13:55:39,INFO,motion-819 can be disconnected
+2023-10-07 13:56:30,DEBUG,motion-819 has been disconnected
+2023-10-07 13:56:30,DEBUG,motion-803 has been disconnected
+2023-10-07 13:56:30,DEBUG,motion-611 has been disconnected
+2023-10-07 13:56:32,DEBUG,motion-611 detected at 192.168.0.204
+2023-10-07 13:56:32,DEBUG,motion-803 detected at 192.168.0.120
+2023-10-07 13:56:32,DEBUG,motion-819 detected at 192.168.0.198
+2023-10-07 13:56:33,DEBUG,motion-611 not accepting connections
+2023-10-07 13:56:33,DEBUG,motion-803 not accepting connections
+2023-10-07 13:56:33,DEBUG,motion-819 not accepting connections
+2023-10-07 13:56:37,DEBUG,motion-611 detected at 192.168.0.204
+2023-10-07 13:56:37,DEBUG,motion-803 detected at 192.168.0.120
+2023-10-07 13:56:37,DEBUG,motion-819 detected at 192.168.0.198
+2023-10-07 13:56:38,DEBUG,motion-611 not accepting connections
+2023-10-07 13:56:38,DEBUG,motion-803 not accepting connections
+2023-10-07 13:56:38,DEBUG,motion-819 not accepting connections
+2023-10-07 13:56:42,DEBUG,motion-611 detected at 192.168.0.204
+2023-10-07 13:56:42,DEBUG,motion-803 detected at 192.168.0.120
+2023-10-07 13:56:42,DEBUG,motion-819 detected at 192.168.0.198
+2023-10-07 13:56:43,DEBUG,motion-611 not accepting connections
+2023-10-07 13:56:43,DEBUG,motion-803 not accepting connections
+2023-10-07 13:56:43,DEBUG,motion-819 not accepting connections
+2023-10-07 13:56:47,DEBUG,motion-611 detected at 192.168.0.204
+2023-10-07 13:56:47,DEBUG,motion-803 detected at 192.168.0.120
+2023-10-07 13:56:47,DEBUG,motion-819 detected at 192.168.0.198
+2023-10-07 13:56:48,DEBUG,motion-611 not accepting connections
+2023-10-07 13:56:48,DEBUG,motion-803 not accepting connections
+2023-10-07 13:56:48,DEBUG,motion-819 not accepting connections
+2023-10-07 13:56:52,DEBUG,motion-611 detected at 192.168.0.204
+2023-10-07 13:56:52,DEBUG,motion-803 detected at 192.168.0.120
+2023-10-07 13:56:52,DEBUG,motion-819 detected at 192.168.0.198
+2023-10-07 13:56:53,DEBUG,motion-611 not accepting connections
+2023-10-07 13:56:53,DEBUG,motion-803 not accepting connections
+2023-10-07 13:56:53,DEBUG,motion-819 not accepting connections
+2023-10-07 13:56:57,DEBUG,motion-819 detected at 192.168.0.198
+2023-10-07 13:56:58,DEBUG,motion-819 not accepting connections
+2023-10-07 14:05:52,DEBUG,motion-669 detected at 192.168.0.140
+2023-10-07 14:05:53,DEBUG,motion-669 not accepting connections
+2023-10-07 14:05:57,DEBUG,motion-669 detected at 192.168.0.140
+2023-10-07 14:05:57,INFO,motion-669 is connected
+2023-10-07 14:05:58,DEBUG,motion-669 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:05:58,DEBUG,motion-669 storage is 0% full
+2023-10-07 14:05:58,INFO,motion-669 battery level is 73%
+2023-10-07 14:05:58,INFO,motion-669 HAR669SCO_669_20231007_104610.oao queued - 1.4 MiB, 4.3 hours, 54.6 km, 22.2 knots (500m)
+2023-10-07 14:06:00,INFO,motion-669 HAR669SCO_669_20231007_104610.oao downloaded - 1.4 MiB, 4.3 hours, 54.6 km, 22.2 knots (500m)
+2023-10-07 14:06:00,INFO,motion-669 can be disconnected
+2023-10-07 14:06:22,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-07 14:06:22,INFO,motion-866 is connected
+2023-10-07 14:06:23,DEBUG,motion-866 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:06:23,DEBUG,motion-866 storage is 0% full
+2023-10-07 14:06:23,INFO,motion-866 battery level is 78%
+2023-10-07 14:06:23,INFO,motion-866 YEL866SUL_866_20231007_093602.oao queued - 1.9 MiB, 5.5 hours, 67.8 km, 23.2 knots (500m)
+2023-10-07 14:06:26,INFO,motion-866 YEL866SUL_866_20231007_093602.oao downloaded - 1.9 MiB, 5.5 hours, 67.8 km, 23.2 knots (500m)
+2023-10-07 14:06:26,INFO,motion-866 can be disconnected
+2023-10-07 14:06:42,DEBUG,motion-827 detected at 192.168.0.100
+2023-10-07 14:06:43,INFO,motion-827 is connected
+2023-10-07 14:06:44,DEBUG,motion-827 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:06:44,DEBUG,motion-827 storage is 0% full
+2023-10-07 14:06:44,INFO,motion-827 battery level is 77%
+2023-10-07 14:06:44,INFO,motion-827 CHA827FIN_827_20231007_093610.oao queued - 2.1 MiB, 5.5 hours, 72.9 km, 25.3 knots (500m)
+2023-10-07 14:06:47,INFO,motion-827 CHA827FIN_827_20231007_093610.oao downloaded - 2.1 MiB, 5.5 hours, 72.9 km, 25.3 knots (500m)
+2023-10-07 14:06:47,INFO,motion-827 can be disconnected
+2023-10-07 14:09:32,DEBUG,motion-838 detected at 192.168.0.216
+2023-10-07 14:09:32,INFO,motion-838 is connected
+2023-10-07 14:09:33,DEBUG,motion-838 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:09:33,DEBUG,motion-838 storage is 0% full
+2023-10-07 14:09:33,INFO,motion-838 battery level is 80%
+2023-10-07 14:09:33,INFO,motion-838 ADC838MIA_838_20231007_104540.oao queued - 0.3 MiB, 4.4 hours, 11.1 km, 18.3 knots (500m)
+2023-10-07 14:09:34,INFO,motion-838 ADC838MIA_838_20231007_104540.oao downloaded - 0.3 MiB, 4.4 hours, 11.1 km, 18.3 knots (500m)
+2023-10-07 14:09:34,INFO,motion-838 can be disconnected
+2023-10-07 14:09:50,DEBUG,motion-838 has been disconnected
+2023-10-07 14:09:52,DEBUG,motion-838 detected at 192.168.0.216
+2023-10-07 14:09:53,DEBUG,motion-838 not accepting connections
+2023-10-07 14:09:57,DEBUG,motion-838 detected at 192.168.0.216
+2023-10-07 14:09:58,DEBUG,motion-838 not accepting connections
+2023-10-07 14:10:02,DEBUG,motion-838 detected at 192.168.0.216
+2023-10-07 14:10:03,DEBUG,motion-838 not accepting connections
+2023-10-07 14:10:07,DEBUG,motion-838 detected at 192.168.0.216
+2023-10-07 14:10:08,DEBUG,motion-838 not accepting connections
+2023-10-07 14:10:12,DEBUG,motion-838 detected at 192.168.0.216
+2023-10-07 14:10:13,DEBUG,motion-838 not accepting connections
+2023-10-07 14:10:17,DEBUG,motion-838 detected at 192.168.0.216
+2023-10-07 14:10:18,DEBUG,motion-838 not accepting connections
+2023-10-07 14:10:22,DEBUG,motion-838 detected at 192.168.0.216
+2023-10-07 14:10:23,DEBUG,motion-838 not accepting connections
+2023-10-07 14:10:27,DEBUG,motion-838 detected at 192.168.0.216
+2023-10-07 14:10:28,DEBUG,motion-838 not accepting connections
+2023-10-07 14:11:07,DEBUG,motion-630 detected at 192.168.0.132
+2023-10-07 14:11:07,INFO,motion-630 is connected
+2023-10-07 14:11:08,DEBUG,motion-630 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:11:08,DEBUG,motion-630 storage is 0% full
+2023-10-07 14:11:08,INFO,motion-630 battery level is 84%
+2023-10-07 14:11:08,INFO,motion-630 KNI630FIN_630_20231007_102916.oao queued - 0.5 MiB, 4.7 hours, 17.9 km, 22.2 knots (500m)
+2023-10-07 14:11:09,INFO,motion-630 KNI630FIN_630_20231007_102916.oao downloaded - 0.5 MiB, 4.7 hours, 17.9 km, 22.2 knots (500m)
+2023-10-07 14:11:09,INFO,motion-630 can be disconnected
+2023-10-07 14:11:20,DEBUG,motion-630 has been disconnected
+2023-10-07 14:11:22,DEBUG,motion-630 detected at 192.168.0.132
+2023-10-07 14:11:23,DEBUG,motion-630 not accepting connections
+2023-10-07 14:11:27,DEBUG,motion-630 detected at 192.168.0.132
+2023-10-07 14:11:28,DEBUG,motion-630 not accepting connections
+2023-10-07 14:11:32,DEBUG,motion-630 detected at 192.168.0.132
+2023-10-07 14:11:33,DEBUG,motion-630 not accepting connections
+2023-10-07 14:11:37,DEBUG,motion-630 detected at 192.168.0.132
+2023-10-07 14:11:38,DEBUG,motion-630 not accepting connections
+2023-10-07 14:11:42,DEBUG,motion-630 detected at 192.168.0.132
+2023-10-07 14:11:43,DEBUG,motion-630 not accepting connections
+2023-10-07 14:11:47,DEBUG,motion-630 detected at 192.168.0.132
+2023-10-07 14:11:48,DEBUG,motion-630 not accepting connections
+2023-10-07 14:11:52,DEBUG,motion-630 detected at 192.168.0.132
+2023-10-07 14:11:53,DEBUG,motion-630 not accepting connections
+2023-10-07 14:11:57,DEBUG,motion-630 detected at 192.168.0.132
+2023-10-07 14:11:58,DEBUG,motion-630 not accepting connections
+2023-10-07 14:12:02,DEBUG,motion-630 detected at 192.168.0.132
+2023-10-07 14:12:03,DEBUG,motion-630 not accepting connections
+2023-10-07 14:14:10,DEBUG,motion-866 has been disconnected
+2023-10-07 14:14:10,DEBUG,motion-827 has been disconnected
+2023-10-07 14:14:12,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-07 14:14:12,DEBUG,motion-827 detected at 192.168.0.100
+2023-10-07 14:14:13,DEBUG,motion-866 not accepting connections
+2023-10-07 14:14:13,DEBUG,motion-827 not accepting connections
+2023-10-07 14:14:17,DEBUG,motion-827 detected at 192.168.0.100
+2023-10-07 14:14:17,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-07 14:14:18,DEBUG,motion-866 not accepting connections
+2023-10-07 14:14:18,DEBUG,motion-827 not accepting connections
+2023-10-07 14:14:20,DEBUG,motion-669 has been disconnected
+2023-10-07 14:14:22,DEBUG,motion-669 detected at 192.168.0.140
+2023-10-07 14:14:22,DEBUG,motion-827 detected at 192.168.0.100
+2023-10-07 14:14:22,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-07 14:14:23,DEBUG,motion-669 not accepting connections
+2023-10-07 14:14:23,DEBUG,motion-827 not accepting connections
+2023-10-07 14:14:23,DEBUG,motion-866 not accepting connections
+2023-10-07 14:14:27,DEBUG,motion-669 detected at 192.168.0.140
+2023-10-07 14:14:27,DEBUG,motion-827 detected at 192.168.0.100
+2023-10-07 14:14:27,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-07 14:14:28,DEBUG,motion-669 not accepting connections
+2023-10-07 14:14:28,DEBUG,motion-866 not accepting connections
+2023-10-07 14:14:28,DEBUG,motion-827 not accepting connections
+2023-10-07 14:14:32,DEBUG,motion-669 detected at 192.168.0.140
+2023-10-07 14:14:32,DEBUG,motion-827 detected at 192.168.0.100
+2023-10-07 14:14:32,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-07 14:14:33,DEBUG,motion-669 not accepting connections
+2023-10-07 14:14:33,DEBUG,motion-827 not accepting connections
+2023-10-07 14:14:33,DEBUG,motion-866 not accepting connections
+2023-10-07 14:14:37,DEBUG,motion-669 detected at 192.168.0.140
+2023-10-07 14:14:37,DEBUG,motion-827 detected at 192.168.0.100
+2023-10-07 14:14:37,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-07 14:14:38,DEBUG,motion-669 not accepting connections
+2023-10-07 14:14:38,DEBUG,motion-827 not accepting connections
+2023-10-07 14:14:38,DEBUG,motion-866 not accepting connections
+2023-10-07 14:14:42,DEBUG,motion-669 detected at 192.168.0.140
+2023-10-07 14:14:42,DEBUG,motion-827 detected at 192.168.0.100
+2023-10-07 14:14:42,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-07 14:14:43,DEBUG,motion-669 not accepting connections
+2023-10-07 14:14:43,DEBUG,motion-866 not accepting connections
+2023-10-07 14:14:43,DEBUG,motion-827 not accepting connections
+2023-10-07 14:14:47,DEBUG,motion-669 detected at 192.168.0.140
+2023-10-07 14:14:47,DEBUG,motion-827 detected at 192.168.0.100
+2023-10-07 14:14:47,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-07 14:14:48,DEBUG,motion-669 not accepting connections
+2023-10-07 14:14:48,DEBUG,motion-827 not accepting connections
+2023-10-07 14:14:48,DEBUG,motion-866 not accepting connections
+2023-10-07 14:14:52,DEBUG,motion-669 detected at 192.168.0.140
+2023-10-07 14:14:52,DEBUG,motion-827 detected at 192.168.0.100
+2023-10-07 14:14:52,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-07 14:14:53,DEBUG,motion-669 not accepting connections
+2023-10-07 14:14:53,DEBUG,motion-827 not accepting connections
+2023-10-07 14:14:53,DEBUG,motion-866 not accepting connections
+2023-10-07 14:14:57,DEBUG,motion-669 detected at 192.168.0.140
+2023-10-07 14:14:58,DEBUG,motion-669 not accepting connections
+2023-10-07 14:15:17,DEBUG,motion-633 detected at 192.168.0.214
+2023-10-07 14:15:17,INFO,motion-633 is connected
+2023-10-07 14:15:18,DEBUG,motion-633 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:15:18,DEBUG,motion-633 storage is 0% full
+2023-10-07 14:15:18,INFO,motion-633 battery level is 85%
+2023-10-07 14:15:18,INFO,motion-633 PEA633ZAC_633_20231007_095716.oao queued - 1.4 MiB, 5.3 hours, 51.4 km, 21.9 knots (500m)
+2023-10-07 14:15:21,INFO,motion-633 PEA633ZAC_633_20231007_095716.oao downloaded - 1.4 MiB, 5.3 hours, 51.4 km, 21.9 knots (500m)
+2023-10-07 14:15:21,INFO,motion-633 can be disconnected
+2023-10-07 14:15:27,DEBUG,motion-870 detected at 192.168.0.134
+2023-10-07 14:15:27,INFO,motion-870 is connected
+2023-10-07 14:15:28,DEBUG,motion-870 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:15:28,DEBUG,motion-870 storage is 0% full
+2023-10-07 14:15:28,INFO,motion-870 battery level is 82%
+2023-10-07 14:15:28,INFO,motion-870 PEA870ZAC_870_20231007_102332.oao queued - 0.2 MiB, 4.9 hours, 7.8 km, 21.1 knots (500m)
+2023-10-07 14:15:29,INFO,motion-870 PEA870ZAC_870_20231007_102332.oao downloaded - 0.2 MiB, 4.9 hours, 7.8 km, 21.1 knots (500m)
+2023-10-07 14:15:29,INFO,motion-870 can be disconnected
+2023-10-07 14:15:40,DEBUG,motion-633 has been disconnected
+2023-10-07 14:15:42,DEBUG,motion-633 detected at 192.168.0.214
+2023-10-07 14:15:43,DEBUG,motion-633 not accepting connections
+2023-10-07 14:15:47,DEBUG,motion-633 detected at 192.168.0.214
+2023-10-07 14:15:48,DEBUG,motion-633 not accepting connections
+2023-10-07 14:15:50,DEBUG,motion-870 has been disconnected
+2023-10-07 14:15:52,DEBUG,motion-633 detected at 192.168.0.214
+2023-10-07 14:15:52,DEBUG,motion-870 detected at 192.168.0.134
+2023-10-07 14:15:53,DEBUG,motion-633 not accepting connections
+2023-10-07 14:15:53,DEBUG,motion-870 not accepting connections
+2023-10-07 14:15:57,DEBUG,motion-870 detected at 192.168.0.134
+2023-10-07 14:15:57,DEBUG,motion-633 detected at 192.168.0.214
+2023-10-07 14:15:58,DEBUG,motion-870 not accepting connections
+2023-10-07 14:15:58,DEBUG,motion-633 not accepting connections
+2023-10-07 14:16:02,DEBUG,motion-633 detected at 192.168.0.214
+2023-10-07 14:16:02,DEBUG,motion-870 detected at 192.168.0.134
+2023-10-07 14:16:03,DEBUG,motion-633 not accepting connections
+2023-10-07 14:16:03,DEBUG,motion-870 not accepting connections
+2023-10-07 14:16:07,DEBUG,motion-633 detected at 192.168.0.214
+2023-10-07 14:16:07,DEBUG,motion-870 detected at 192.168.0.134
+2023-10-07 14:16:08,DEBUG,motion-633 not accepting connections
+2023-10-07 14:16:08,DEBUG,motion-870 not accepting connections
+2023-10-07 14:16:12,DEBUG,motion-633 detected at 192.168.0.214
+2023-10-07 14:16:12,DEBUG,motion-870 detected at 192.168.0.134
+2023-10-07 14:16:13,DEBUG,motion-633 not accepting connections
+2023-10-07 14:16:13,DEBUG,motion-870 not accepting connections
+2023-10-07 14:16:17,DEBUG,motion-870 detected at 192.168.0.134
+2023-10-07 14:16:18,DEBUG,motion-870 not accepting connections
+2023-10-07 14:16:22,DEBUG,motion-870 detected at 192.168.0.134
+2023-10-07 14:16:23,DEBUG,motion-870 not accepting connections
+2023-10-07 14:17:12,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 14:17:12,INFO,motion-812 is connected
+2023-10-07 14:17:13,DEBUG,motion-812 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:17:13,DEBUG,motion-812 storage is 0% full
+2023-10-07 14:17:13,INFO,motion-812 battery level is 74%
+2023-10-07 14:17:14,DEBUG,motion-812 ADC812MIA_812_20231007_104556.oao skipped - 0.0 MiB, 4.5 hours, 0.3 km, 0.0 knots (500m)
+2023-10-07 14:17:14,INFO,motion-812 can be disconnected
+2023-10-07 14:17:17,DEBUG,motion-718 detected at 192.168.0.188
+2023-10-07 14:17:17,INFO,motion-718 is connected
+2023-10-07 14:17:18,DEBUG,motion-718 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:17:18,DEBUG,motion-718 storage is 0% full
+2023-10-07 14:17:18,INFO,motion-718 battery level is 74%
+2023-10-07 14:17:19,DEBUG,motion-718 TRU718STU_718_20231007_092422.oao skipped - 0.0 MiB, 5.9 hours, 2.2 km, 4.1 knots (500m)
+2023-10-07 14:17:19,INFO,motion-718 can be disconnected
+2023-10-07 14:17:57,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:18:00,DEBUG,motion-812 has been disconnected
+2023-10-07 14:18:00,DEBUG,motion-718 has been disconnected
+2023-10-07 14:18:02,DEBUG,motion-718 detected at 192.168.0.188
+2023-10-07 14:18:02,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 14:18:03,DEBUG,motion-718 not accepting connections
+2023-10-07 14:18:03,DEBUG,motion-812 not accepting connections
+2023-10-07 14:18:07,DEBUG,motion-718 detected at 192.168.0.188
+2023-10-07 14:18:07,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 14:18:08,DEBUG,motion-718 not accepting connections
+2023-10-07 14:18:08,DEBUG,motion-812 not accepting connections
+2023-10-07 14:18:12,DEBUG,motion-652 detected at 192.168.0.186
+2023-10-07 14:18:12,DEBUG,motion-718 detected at 192.168.0.188
+2023-10-07 14:18:12,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 14:18:13,DEBUG,motion-652 not accepting connections
+2023-10-07 14:18:13,DEBUG,motion-718 not accepting connections
+2023-10-07 14:18:13,DEBUG,motion-812 not accepting connections
+2023-10-07 14:18:17,DEBUG,motion-652 detected at 192.168.0.186
+2023-10-07 14:18:17,INFO,motion-652 is connected
+2023-10-07 14:18:17,DEBUG,motion-718 detected at 192.168.0.188
+2023-10-07 14:18:17,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 14:18:18,DEBUG,motion-652 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:18:18,DEBUG,motion-652 storage is 0% full
+2023-10-07 14:18:18,INFO,motion-652 battery level is 81%
+2023-10-07 14:18:18,DEBUG,motion-718 not accepting connections
+2023-10-07 14:18:18,DEBUG,motion-812 not accepting connections
+2023-10-07 14:18:18,INFO,motion-652 DEB652JEA_652_20231007_091232.oao queued - 1.2 MiB, 6.1 hours, 40.6 km, 20.4 knots (500m)
+2023-10-07 14:18:21,INFO,motion-652 DEB652JEA_652_20231007_091232.oao downloaded - 1.2 MiB, 6.1 hours, 40.6 km, 20.4 knots (500m)
+2023-10-07 14:18:21,INFO,motion-652 can be disconnected
+2023-10-07 14:18:22,DEBUG,motion-718 detected at 192.168.0.188
+2023-10-07 14:18:22,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 14:18:23,DEBUG,motion-718 not accepting connections
+2023-10-07 14:18:23,DEBUG,motion-812 not accepting connections
+2023-10-07 14:18:27,DEBUG,motion-718 detected at 192.168.0.188
+2023-10-07 14:18:27,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 14:18:28,DEBUG,motion-718 not accepting connections
+2023-10-07 14:18:28,DEBUG,motion-812 not accepting connections
+2023-10-07 14:18:32,DEBUG,motion-718 detected at 192.168.0.188
+2023-10-07 14:18:32,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 14:18:33,DEBUG,motion-718 not accepting connections
+2023-10-07 14:18:33,DEBUG,motion-812 not accepting connections
+2023-10-07 14:18:37,DEBUG,motion-718 detected at 192.168.0.188
+2023-10-07 14:18:38,DEBUG,motion-718 not accepting connections
+2023-10-07 14:18:40,DEBUG,motion-652 has been disconnected
+2023-10-07 14:18:42,DEBUG,motion-652 detected at 192.168.0.186
+2023-10-07 14:18:43,DEBUG,motion-652 not accepting connections
+2023-10-07 14:18:47,DEBUG,motion-652 detected at 192.168.0.186
+2023-10-07 14:18:48,DEBUG,motion-652 not accepting connections
+2023-10-07 14:18:52,DEBUG,motion-652 detected at 192.168.0.186
+2023-10-07 14:18:53,DEBUG,motion-652 not accepting connections
+2023-10-07 14:18:57,DEBUG,motion-652 detected at 192.168.0.186
+2023-10-07 14:18:58,DEBUG,motion-652 not accepting connections
+2023-10-07 14:19:02,DEBUG,motion-652 detected at 192.168.0.186
+2023-10-07 14:19:03,DEBUG,motion-652 not accepting connections
+2023-10-07 14:19:07,DEBUG,motion-652 detected at 192.168.0.186
+2023-10-07 14:19:08,DEBUG,motion-652 not accepting connections
+2023-10-07 14:19:52,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:21:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:24:37,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:32:17,DEBUG,motion-641 detected at 192.168.0.196
+2023-10-07 14:32:18,DEBUG,motion-641 not accepting connections
+2023-10-07 14:32:22,DEBUG,motion-641 detected at 192.168.0.196
+2023-10-07 14:32:22,INFO,motion-641 is connected
+2023-10-07 14:32:24,DEBUG,motion-641 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:32:24,DEBUG,motion-641 storage is 0% full
+2023-10-07 14:32:24,INFO,motion-641 battery level is 69%
+2023-10-07 14:32:24,INFO,motion-641 CUN641CHR_641_20231007_102410.oao queued - 1.9 MiB, 5.1 hours, 59.2 km, 20.4 knots (500m)
+2023-10-07 14:32:27,INFO,motion-641 CUN641CHR_641_20231007_102410.oao downloaded - 1.9 MiB, 5.1 hours, 59.2 km, 20.4 knots (500m)
+2023-10-07 14:32:27,INFO,motion-641 can be disconnected
+2023-10-07 14:32:40,DEBUG,motion-641 has been disconnected
+2023-10-07 14:32:42,DEBUG,motion-641 detected at 192.168.0.196
+2023-10-07 14:32:43,DEBUG,motion-641 not accepting connections
+2023-10-07 14:32:47,DEBUG,motion-641 detected at 192.168.0.196
+2023-10-07 14:32:48,DEBUG,motion-641 not accepting connections
+2023-10-07 14:32:52,DEBUG,motion-641 detected at 192.168.0.196
+2023-10-07 14:32:53,DEBUG,motion-641 not accepting connections
+2023-10-07 14:32:57,DEBUG,motion-641 detected at 192.168.0.196
+2023-10-07 14:32:58,DEBUG,motion-641 not accepting connections
+2023-10-07 14:33:02,DEBUG,motion-641 detected at 192.168.0.196
+2023-10-07 14:33:03,DEBUG,motion-641 not accepting connections
+2023-10-07 14:33:07,DEBUG,motion-641 detected at 192.168.0.196
+2023-10-07 14:33:08,DEBUG,motion-641 not accepting connections
+2023-10-07 14:33:12,DEBUG,motion-641 detected at 192.168.0.196
+2023-10-07 14:33:13,DEBUG,motion-641 not accepting connections
+2023-10-07 14:33:52,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:41:13,DEBUG,motion-662 detected at 192.168.0.168
+2023-10-07 14:41:13,INFO,motion-662 is connected
+2023-10-07 14:41:14,DEBUG,motion-662 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:41:14,DEBUG,motion-662 storage is 0% full
+2023-10-07 14:41:14,INFO,motion-662 battery level is 69%
+2023-10-07 14:41:14,INFO,motion-662 CAR662DAN_662_20231007_092510.oao queued - 0.2 MiB, 6.3 hours, 19.3 km, 16.8 knots (500m)
+2023-10-07 14:41:15,INFO,motion-662 CAR662DAN_662_20231007_092510.oao downloaded - 0.2 MiB, 6.3 hours, 19.3 km, 16.8 knots (500m)
+2023-10-07 14:41:15,INFO,motion-662 can be disconnected
+2023-10-07 14:41:18,DEBUG,motion-653 detected at 192.168.0.178
+2023-10-07 14:41:18,INFO,motion-653 is connected
+2023-10-07 14:41:19,DEBUG,motion-653 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:41:19,DEBUG,motion-653 storage is 0% full
+2023-10-07 14:41:19,INFO,motion-653 battery level is 71%
+2023-10-07 14:41:19,INFO,motion-653 CAR653BOB_653_20231007_092748.oao queued - 0.9 MiB, 6.2 hours, 38.9 km, 19.7 knots (500m)
+2023-10-07 14:41:24,INFO,motion-653 CAR653BOB_653_20231007_092748.oao downloaded - 0.9 MiB, 6.2 hours, 38.9 km, 19.7 knots (500m)
+2023-10-07 14:41:24,INFO,motion-653 can be disconnected
+2023-10-07 14:41:40,DEBUG,motion-662 has been disconnected
+2023-10-07 14:41:40,DEBUG,motion-653 has been disconnected
+2023-10-07 14:41:44,DEBUG,motion-653 detected at 192.168.0.178
+2023-10-07 14:41:44,DEBUG,motion-662 detected at 192.168.0.168
+2023-10-07 14:41:45,DEBUG,motion-653 not accepting connections
+2023-10-07 14:41:45,DEBUG,motion-662 not accepting connections
+2023-10-07 14:41:48,DEBUG,motion-653 detected at 192.168.0.178
+2023-10-07 14:41:48,DEBUG,motion-662 detected at 192.168.0.168
+2023-10-07 14:41:49,DEBUG,motion-653 not accepting connections
+2023-10-07 14:41:49,DEBUG,motion-662 not accepting connections
+2023-10-07 14:41:53,DEBUG,motion-653 detected at 192.168.0.178
+2023-10-07 14:41:53,DEBUG,motion-662 detected at 192.168.0.168
+2023-10-07 14:41:54,DEBUG,motion-653 not accepting connections
+2023-10-07 14:41:54,DEBUG,motion-662 not accepting connections
+2023-10-07 14:41:58,DEBUG,motion-653 detected at 192.168.0.178
+2023-10-07 14:41:58,DEBUG,motion-662 detected at 192.168.0.168
+2023-10-07 14:41:59,DEBUG,motion-653 not accepting connections
+2023-10-07 14:41:59,DEBUG,motion-662 not accepting connections
+2023-10-07 14:42:05,DEBUG,motion-653 detected at 192.168.0.178
+2023-10-07 14:42:05,DEBUG,motion-662 detected at 192.168.0.168
+2023-10-07 14:42:06,DEBUG,motion-653 not accepting connections
+2023-10-07 14:42:06,DEBUG,motion-662 not accepting connections
+2023-10-07 14:42:08,DEBUG,motion-653 detected at 192.168.0.178
+2023-10-07 14:42:08,DEBUG,motion-662 detected at 192.168.0.168
+2023-10-07 14:42:09,DEBUG,motion-653 not accepting connections
+2023-10-07 14:42:09,DEBUG,motion-662 not accepting connections
+2023-10-07 14:42:13,DEBUG,motion-653 detected at 192.168.0.178
+2023-10-07 14:42:14,DEBUG,motion-653 not accepting connections
+2023-10-07 14:42:23,DEBUG,motion-643 detected at 192.168.0.194
+2023-10-07 14:42:23,INFO,motion-643 is connected
+2023-10-07 14:42:23,DEBUG,motion-643 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:42:23,DEBUG,motion-643 storage is 0% full
+2023-10-07 14:42:23,INFO,motion-643 battery level is 64%
+2023-10-07 14:42:24,INFO,motion-643 CON643GAR_643_20231007_092326.oao queued - 0.7 MiB, 6.3 hours, 37.2 km, 24.0 knots (500m)
+2023-10-07 14:42:25,INFO,motion-643 CON643GAR_643_20231007_092326.oao downloaded - 0.7 MiB, 6.3 hours, 37.2 km, 24.0 knots (500m)
+2023-10-07 14:42:25,INFO,motion-643 can be disconnected
+2023-10-07 14:42:33,DEBUG,motion-822 detected at 192.168.0.226
+2023-10-07 14:42:33,INFO,motion-822 is connected
+2023-10-07 14:42:34,DEBUG,motion-822 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:42:34,DEBUG,motion-822 storage is 0% full
+2023-10-07 14:42:34,INFO,motion-822 battery level is 75%
+2023-10-07 14:42:34,INFO,motion-822 CHI822DYL_822_20231007_103210.oao queued - 1.2 MiB, 5.2 hours, 31.4 km, 11.1 knots (500m)
+2023-10-07 14:42:36,INFO,motion-822 CHI822DYL_822_20231007_103210.oao downloaded - 1.2 MiB, 5.2 hours, 31.4 km, 11.1 knots (500m)
+2023-10-07 14:42:36,INFO,motion-822 can be disconnected
+2023-10-07 14:42:40,DEBUG,motion-643 has been disconnected
+2023-10-07 14:42:43,DEBUG,motion-643 detected at 192.168.0.194
+2023-10-07 14:42:44,DEBUG,motion-643 not accepting connections
+2023-10-07 14:42:48,DEBUG,motion-643 detected at 192.168.0.194
+2023-10-07 14:42:49,DEBUG,motion-643 not accepting connections
+2023-10-07 14:42:50,DEBUG,motion-822 has been disconnected
+2023-10-07 14:42:53,DEBUG,motion-635 detected at 192.168.0.210
+2023-10-07 14:42:53,DEBUG,motion-643 detected at 192.168.0.194
+2023-10-07 14:42:53,DEBUG,motion-822 detected at 192.168.0.226
+2023-10-07 14:42:54,DEBUG,motion-635 not accepting connections
+2023-10-07 14:42:54,DEBUG,motion-643 not accepting connections
+2023-10-07 14:42:54,DEBUG,motion-822 not accepting connections
+2023-10-07 14:42:58,DEBUG,motion-635 detected at 192.168.0.210
+2023-10-07 14:42:58,DEBUG,motion-643 detected at 192.168.0.194
+2023-10-07 14:42:58,INFO,motion-635 is connected
+2023-10-07 14:42:58,DEBUG,motion-700 detected at 192.168.0.104
+2023-10-07 14:42:58,DEBUG,motion-822 detected at 192.168.0.226
+2023-10-07 14:42:58,INFO,motion-700 is connected
+2023-10-07 14:42:58,DEBUG,motion-635 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:42:58,DEBUG,motion-635 storage is 0% full
+2023-10-07 14:42:58,INFO,motion-635 battery level is 83%
+2023-10-07 14:42:59,DEBUG,motion-643 not accepting connections
+2023-10-07 14:42:59,DEBUG,motion-822 not accepting connections
+2023-10-07 14:42:59,INFO,motion-635 BAT635TIM_635_20231007_093710.oao queued - 1.6 MiB, 6.1 hours, 61.2 km, 23.0 knots (500m)
+2023-10-07 14:42:59,DEBUG,motion-700 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:42:59,DEBUG,motion-700 storage is 0% full
+2023-10-07 14:42:59,INFO,motion-700 battery level is 65%
+2023-10-07 14:42:59,INFO,motion-700 WAT700STE_700_20231007_111540.oao queued - 0.3 MiB, 4.5 hours, 14.3 km, 14.4 knots (500m)
+2023-10-07 14:43:00,INFO,motion-700 WAT700STE_700_20231007_111540.oao downloaded - 0.3 MiB, 4.5 hours, 14.3 km, 14.4 knots (500m)
+2023-10-07 14:43:00,INFO,motion-700 can be disconnected
+2023-10-07 14:43:01,INFO,motion-635 BAT635TIM_635_20231007_093710.oao downloaded - 1.6 MiB, 6.1 hours, 61.2 km, 23.0 knots (500m)
+2023-10-07 14:43:01,INFO,motion-635 can be disconnected
+2023-10-07 14:43:03,DEBUG,motion-643 detected at 192.168.0.194
+2023-10-07 14:43:03,DEBUG,motion-822 detected at 192.168.0.226
+2023-10-07 14:43:04,DEBUG,motion-643 not accepting connections
+2023-10-07 14:43:04,DEBUG,motion-822 not accepting connections
+2023-10-07 14:43:08,DEBUG,motion-643 detected at 192.168.0.194
+2023-10-07 14:43:08,DEBUG,motion-822 detected at 192.168.0.226
+2023-10-07 14:43:09,DEBUG,motion-643 not accepting connections
+2023-10-07 14:43:09,DEBUG,motion-822 not accepting connections
+2023-10-07 14:43:13,DEBUG,motion-643 detected at 192.168.0.194
+2023-10-07 14:43:13,DEBUG,motion-822 detected at 192.168.0.226
+2023-10-07 14:43:14,DEBUG,motion-643 not accepting connections
+2023-10-07 14:43:14,DEBUG,motion-822 not accepting connections
+2023-10-07 14:43:18,DEBUG,motion-643 detected at 192.168.0.194
+2023-10-07 14:43:18,DEBUG,motion-822 detected at 192.168.0.226
+2023-10-07 14:43:19,DEBUG,motion-643 not accepting connections
+2023-10-07 14:43:19,DEBUG,motion-822 not accepting connections
+2023-10-07 14:43:20,DEBUG,motion-635 has been disconnected
+2023-10-07 14:43:20,DEBUG,motion-700 has been disconnected
+2023-10-07 14:43:23,DEBUG,motion-635 detected at 192.168.0.210
+2023-10-07 14:43:23,DEBUG,motion-700 detected at 192.168.0.104
+2023-10-07 14:43:23,DEBUG,motion-822 detected at 192.168.0.226
+2023-10-07 14:43:24,DEBUG,motion-635 not accepting connections
+2023-10-07 14:43:24,DEBUG,motion-700 not accepting connections
+2023-10-07 14:43:24,DEBUG,motion-822 not accepting connections
+2023-10-07 14:43:28,DEBUG,motion-635 detected at 192.168.0.210
+2023-10-07 14:43:28,DEBUG,motion-700 detected at 192.168.0.104
+2023-10-07 14:43:28,DEBUG,motion-822 detected at 192.168.0.226
+2023-10-07 14:43:29,DEBUG,motion-635 not accepting connections
+2023-10-07 14:43:29,DEBUG,motion-700 not accepting connections
+2023-10-07 14:43:29,DEBUG,motion-822 not accepting connections
+2023-10-07 14:43:33,DEBUG,motion-635 detected at 192.168.0.210
+2023-10-07 14:43:33,DEBUG,motion-700 detected at 192.168.0.104
+2023-10-07 14:43:34,DEBUG,motion-635 not accepting connections
+2023-10-07 14:43:34,DEBUG,motion-700 not accepting connections
+2023-10-07 14:43:38,DEBUG,motion-635 detected at 192.168.0.210
+2023-10-07 14:43:38,DEBUG,motion-700 detected at 192.168.0.104
+2023-10-07 14:43:39,DEBUG,motion-635 not accepting connections
+2023-10-07 14:43:39,DEBUG,motion-700 not accepting connections
+2023-10-07 14:43:43,DEBUG,motion-635 detected at 192.168.0.210
+2023-10-07 14:43:43,DEBUG,motion-700 detected at 192.168.0.104
+2023-10-07 14:43:44,DEBUG,motion-635 not accepting connections
+2023-10-07 14:43:44,DEBUG,motion-700 not accepting connections
+2023-10-07 14:43:48,DEBUG,motion-635 detected at 192.168.0.210
+2023-10-07 14:43:48,DEBUG,motion-700 detected at 192.168.0.104
+2023-10-07 14:43:49,DEBUG,motion-635 not accepting connections
+2023-10-07 14:43:49,DEBUG,motion-700 not accepting connections
+2023-10-07 14:43:53,DEBUG,motion-700 detected at 192.168.0.104
+2023-10-07 14:43:54,DEBUG,motion-700 not accepting connections
+2023-10-07 14:43:58,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:45:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:45:33,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:45:45,DEBUG,motion-805 detected at 192.168.0.132
+2023-10-07 14:45:45,INFO,motion-805 is connected
+2023-10-07 14:45:46,DEBUG,motion-805 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:45:46,DEBUG,motion-805 storage is 0% full
+2023-10-07 14:45:46,INFO,motion-805 battery level is 76%
+2023-10-07 14:45:47,INFO,motion-805 ING805MAR_805_20231007_093110.oao queued - 0.8 MiB, 6.2 hours, 33.5 km, 23.7 knots (500m)
+2023-10-07 14:45:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:45:48,INFO,motion-805 ING805MAR_805_20231007_093110.oao downloaded - 0.8 MiB, 6.2 hours, 33.5 km, 23.7 knots (500m)
+2023-10-07 14:45:48,INFO,motion-805 can be disconnected
+2023-10-07 14:46:10,DEBUG,motion-805 has been disconnected
+2023-10-07 14:46:13,DEBUG,motion-805 detected at 192.168.0.132
+2023-10-07 14:46:14,DEBUG,motion-805 not accepting connections
+2023-10-07 14:46:18,DEBUG,motion-805 detected at 192.168.0.132
+2023-10-07 14:46:19,DEBUG,motion-805 not accepting connections
+2023-10-07 14:46:23,DEBUG,motion-801 detected at 192.168.0.170
+2023-10-07 14:46:23,DEBUG,motion-805 detected at 192.168.0.132
+2023-10-07 14:46:23,INFO,motion-801 is connected
+2023-10-07 14:46:24,DEBUG,motion-805 not accepting connections
+2023-10-07 14:46:24,DEBUG,motion-801 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:46:24,DEBUG,motion-801 storage is 0% full
+2023-10-07 14:46:24,INFO,motion-801 battery level is 71%
+2023-10-07 14:46:25,INFO,motion-801 WIL801DAV_801_20231007_092010.oao queued - 1.3 MiB, 6.4 hours, 44.9 km, 42.6 knots (500m)
+2023-10-07 14:46:29,DEBUG,motion-618 detected at 192.168.0.206
+2023-10-07 14:46:30,DEBUG,motion-805 detected at 192.168.0.132
+2023-10-07 14:46:30,INFO,motion-618 is connected
+2023-10-07 14:46:30,INFO,motion-801 WIL801DAV_801_20231007_092010.oao downloaded - 1.3 MiB, 6.4 hours, 44.9 km, 42.6 knots (500m)
+2023-10-07 14:46:30,INFO,motion-801 can be disconnected
+2023-10-07 14:46:31,DEBUG,motion-618 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:46:31,DEBUG,motion-618 storage is 0% full
+2023-10-07 14:46:31,INFO,motion-618 battery level is 87%
+2023-10-07 14:46:31,DEBUG,motion-805 not accepting connections
+2023-10-07 14:46:31,INFO,motion-618 LON618JAM_618_20231007_102440.oao queued - 1.8 MiB, 5.4 hours, 65.9 km, 45.7 knots (500m)
+2023-10-07 14:46:33,DEBUG,motion-805 detected at 192.168.0.132
+2023-10-07 14:46:34,INFO,motion-618 LON618JAM_618_20231007_102440.oao downloaded - 1.8 MiB, 5.4 hours, 65.9 km, 45.7 knots (500m)
+2023-10-07 14:46:34,INFO,motion-618 can be disconnected
+2023-10-07 14:46:34,DEBUG,motion-805 not accepting connections
+2023-10-07 14:46:50,DEBUG,motion-618 has been disconnected
+2023-10-07 14:46:53,DEBUG,motion-618 detected at 192.168.0.206
+2023-10-07 14:46:54,DEBUG,motion-618 not accepting connections
+2023-10-07 14:46:58,DEBUG,motion-618 detected at 192.168.0.206
+2023-10-07 14:46:59,DEBUG,motion-618 not accepting connections
+2023-10-07 14:47:00,DEBUG,motion-801 has been disconnected
+2023-10-07 14:47:03,DEBUG,motion-617 detected at 192.168.0.142
+2023-10-07 14:47:03,DEBUG,motion-618 detected at 192.168.0.206
+2023-10-07 14:47:03,INFO,motion-617 is connected
+2023-10-07 14:47:03,DEBUG,motion-801 detected at 192.168.0.170
+2023-10-07 14:47:03,DEBUG,motion-617 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:47:03,DEBUG,motion-617 storage is 0% full
+2023-10-07 14:47:03,INFO,motion-617 battery level is 83%
+2023-10-07 14:47:04,DEBUG,motion-618 not accepting connections
+2023-10-07 14:47:04,INFO,motion-617 RAM617SIM_617_20231007_113240.oao queued - 1.3 MiB, 4.2 hours, 27.9 km, 12.5 knots (500m)
+2023-10-07 14:47:04,DEBUG,motion-801 not accepting connections
+2023-10-07 14:47:06,INFO,motion-617 RAM617SIM_617_20231007_113240.oao downloaded - 1.3 MiB, 4.2 hours, 27.9 km, 12.5 knots (500m)
+2023-10-07 14:47:06,INFO,motion-617 can be disconnected
+2023-10-07 14:47:08,DEBUG,motion-618 detected at 192.168.0.206
+2023-10-07 14:47:08,DEBUG,motion-801 detected at 192.168.0.170
+2023-10-07 14:47:09,DEBUG,motion-618 not accepting connections
+2023-10-07 14:47:09,DEBUG,motion-801 not accepting connections
+2023-10-07 14:47:13,DEBUG,motion-618 detected at 192.168.0.206
+2023-10-07 14:47:13,DEBUG,motion-801 detected at 192.168.0.170
+2023-10-07 14:47:14,DEBUG,motion-618 not accepting connections
+2023-10-07 14:47:14,DEBUG,motion-801 not accepting connections
+2023-10-07 14:47:18,DEBUG,motion-618 detected at 192.168.0.206
+2023-10-07 14:47:18,DEBUG,motion-801 detected at 192.168.0.170
+2023-10-07 14:47:18,DEBUG,motion-814 detected at 192.168.0.168
+2023-10-07 14:47:18,INFO,motion-814 is connected
+2023-10-07 14:47:19,DEBUG,motion-618 not accepting connections
+2023-10-07 14:47:19,DEBUG,motion-801 not accepting connections
+2023-10-07 14:47:19,DEBUG,motion-814 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:47:19,DEBUG,motion-814 storage is 0% full
+2023-10-07 14:47:19,INFO,motion-814 battery level is 74%
+2023-10-07 14:47:20,INFO,motion-814 SPE814NEI_814_20231007_102448.oao queued - 0.9 MiB, 5.4 hours, 33.0 km, 42.6 knots (500m)
+2023-10-07 14:47:20,DEBUG,motion-617 has been disconnected
+2023-10-07 14:47:22,INFO,motion-814 SPE814NEI_814_20231007_102448.oao downloaded - 0.9 MiB, 5.4 hours, 33.0 km, 42.6 knots (500m)
+2023-10-07 14:47:22,INFO,motion-814 can be disconnected
+2023-10-07 14:47:23,DEBUG,motion-618 detected at 192.168.0.206
+2023-10-07 14:47:23,DEBUG,motion-617 detected at 192.168.0.142
+2023-10-07 14:47:23,DEBUG,motion-801 detected at 192.168.0.170
+2023-10-07 14:47:24,DEBUG,motion-618 not accepting connections
+2023-10-07 14:47:24,DEBUG,motion-617 not accepting connections
+2023-10-07 14:47:24,DEBUG,motion-801 not accepting connections
+2023-10-07 14:47:28,DEBUG,motion-617 detected at 192.168.0.142
+2023-10-07 14:47:28,DEBUG,motion-801 detected at 192.168.0.170
+2023-10-07 14:47:29,DEBUG,motion-617 not accepting connections
+2023-10-07 14:47:29,DEBUG,motion-801 not accepting connections
+2023-10-07 14:47:33,DEBUG,motion-617 detected at 192.168.0.142
+2023-10-07 14:47:33,DEBUG,motion-801 detected at 192.168.0.170
+2023-10-07 14:47:34,DEBUG,motion-617 not accepting connections
+2023-10-07 14:47:34,DEBUG,motion-801 not accepting connections
+2023-10-07 14:47:38,DEBUG,motion-617 detected at 192.168.0.142
+2023-10-07 14:47:38,DEBUG,motion-801 detected at 192.168.0.170
+2023-10-07 14:47:39,DEBUG,motion-617 not accepting connections
+2023-10-07 14:47:39,DEBUG,motion-801 not accepting connections
+2023-10-07 14:47:43,DEBUG,motion-617 detected at 192.168.0.142
+2023-10-07 14:47:43,DEBUG,motion-801 detected at 192.168.0.170
+2023-10-07 14:47:44,DEBUG,motion-617 not accepting connections
+2023-10-07 14:47:44,DEBUG,motion-801 not accepting connections
+2023-10-07 14:47:48,DEBUG,motion-617 detected at 192.168.0.142
+2023-10-07 14:47:48,DEBUG,motion-801 detected at 192.168.0.170
+2023-10-07 14:47:49,DEBUG,motion-617 not accepting connections
+2023-10-07 14:47:49,DEBUG,motion-801 not accepting connections
+2023-10-07 14:47:50,DEBUG,motion-814 has been disconnected
+2023-10-07 14:47:53,DEBUG,motion-617 detected at 192.168.0.142
+2023-10-07 14:47:53,DEBUG,motion-814 detected at 192.168.0.168
+2023-10-07 14:47:54,DEBUG,motion-617 not accepting connections
+2023-10-07 14:47:54,DEBUG,motion-814 not accepting connections
+2023-10-07 14:47:58,DEBUG,motion-617 detected at 192.168.0.142
+2023-10-07 14:47:58,DEBUG,motion-814 detected at 192.168.0.168
+2023-10-07 14:47:59,DEBUG,motion-617 not accepting connections
+2023-10-07 14:47:59,DEBUG,motion-814 not accepting connections
+2023-10-07 14:48:03,DEBUG,motion-814 detected at 192.168.0.168
+2023-10-07 14:48:04,DEBUG,motion-814 not accepting connections
+2023-10-07 14:48:08,DEBUG,motion-814 detected at 192.168.0.168
+2023-10-07 14:48:09,DEBUG,motion-814 not accepting connections
+2023-10-07 14:48:13,DEBUG,motion-814 detected at 192.168.0.168
+2023-10-07 14:48:14,DEBUG,motion-814 not accepting connections
+2023-10-07 14:48:18,DEBUG,motion-802 detected at 192.168.0.174
+2023-10-07 14:48:18,INFO,motion-802 is connected
+2023-10-07 14:48:19,DEBUG,motion-802 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:48:19,DEBUG,motion-802 storage is 0% full
+2023-10-07 14:48:19,INFO,motion-802 battery level is 69%
+2023-10-07 14:48:19,INFO,motion-802 MCC802MAR_802_20231007_101748.oao queued - 1.1 MiB, 5.5 hours, 38.4 km, 18.9 knots (500m)
+2023-10-07 14:48:21,INFO,motion-802 MCC802MAR_802_20231007_101748.oao downloaded - 1.1 MiB, 5.5 hours, 38.4 km, 18.9 knots (500m)
+2023-10-07 14:48:21,INFO,motion-802 can be disconnected
+2023-10-07 14:48:23,DEBUG,motion-705 detected at 192.168.0.140
+2023-10-07 14:48:23,INFO,motion-705 is connected
+2023-10-07 14:48:24,DEBUG,motion-705 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:48:24,DEBUG,motion-705 storage is 0% full
+2023-10-07 14:48:24,INFO,motion-705 battery level is 70%
+2023-10-07 14:48:24,INFO,motion-705 HOR705PHI_705_20231007_102525.oao queued - 1.3 MiB, 5.4 hours, 41.3 km, 43.3 knots (500m)
+2023-10-07 14:48:26,INFO,motion-705 HOR705PHI_705_20231007_102525.oao downloaded - 1.3 MiB, 5.4 hours, 41.3 km, 43.3 knots (500m)
+2023-10-07 14:48:26,INFO,motion-705 can be disconnected
+2023-10-07 14:48:40,DEBUG,motion-802 has been disconnected
+2023-10-07 14:48:40,DEBUG,motion-705 has been disconnected
+2023-10-07 14:48:43,DEBUG,motion-705 detected at 192.168.0.140
+2023-10-07 14:48:43,DEBUG,motion-802 detected at 192.168.0.174
+2023-10-07 14:48:44,DEBUG,motion-705 not accepting connections
+2023-10-07 14:48:44,DEBUG,motion-802 not accepting connections
+2023-10-07 14:48:48,DEBUG,motion-705 detected at 192.168.0.140
+2023-10-07 14:48:48,DEBUG,motion-802 detected at 192.168.0.174
+2023-10-07 14:48:49,DEBUG,motion-705 not accepting connections
+2023-10-07 14:48:49,DEBUG,motion-802 not accepting connections
+2023-10-07 14:48:53,DEBUG,motion-705 detected at 192.168.0.140
+2023-10-07 14:48:53,DEBUG,motion-802 detected at 192.168.0.174
+2023-10-07 14:48:53,DEBUG,motion-804 detected at 192.168.0.124
+2023-10-07 14:48:53,INFO,motion-804 is connected
+2023-10-07 14:48:54,DEBUG,motion-705 not accepting connections
+2023-10-07 14:48:54,DEBUG,motion-802 not accepting connections
+2023-10-07 14:48:54,DEBUG,motion-804 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:48:54,DEBUG,motion-804 storage is 0% full
+2023-10-07 14:48:54,INFO,motion-804 battery level is 77%
+2023-10-07 14:48:54,INFO,motion-804 ING804JON_804_20231007_093032.oao queued - 0.8 MiB, 6.3 hours, 31.7 km, 23.5 knots (500m)
+2023-10-07 14:48:56,INFO,motion-804 ING804JON_804_20231007_093032.oao downloaded - 0.8 MiB, 6.3 hours, 31.7 km, 23.5 knots (500m)
+2023-10-07 14:48:56,INFO,motion-804 can be disconnected
+2023-10-07 14:48:58,DEBUG,motion-705 detected at 192.168.0.140
+2023-10-07 14:48:58,DEBUG,motion-802 detected at 192.168.0.174
+2023-10-07 14:48:59,DEBUG,motion-705 not accepting connections
+2023-10-07 14:48:59,DEBUG,motion-802 not accepting connections
+2023-10-07 14:49:03,DEBUG,motion-705 detected at 192.168.0.140
+2023-10-07 14:49:03,DEBUG,motion-802 detected at 192.168.0.174
+2023-10-07 14:49:04,DEBUG,motion-705 not accepting connections
+2023-10-07 14:49:04,DEBUG,motion-802 not accepting connections
+2023-10-07 14:49:08,DEBUG,motion-705 detected at 192.168.0.140
+2023-10-07 14:49:08,DEBUG,motion-802 detected at 192.168.0.174
+2023-10-07 14:49:09,DEBUG,motion-705 not accepting connections
+2023-10-07 14:49:09,DEBUG,motion-802 not accepting connections
+2023-10-07 14:49:10,DEBUG,motion-804 has been disconnected
+2023-10-07 14:49:13,DEBUG,motion-705 detected at 192.168.0.140
+2023-10-07 14:49:13,DEBUG,motion-802 detected at 192.168.0.174
+2023-10-07 14:49:13,DEBUG,motion-804 detected at 192.168.0.124
+2023-10-07 14:49:14,DEBUG,motion-705 not accepting connections
+2023-10-07 14:49:14,DEBUG,motion-802 not accepting connections
+2023-10-07 14:49:14,DEBUG,motion-804 not accepting connections
+2023-10-07 14:49:18,DEBUG,motion-705 detected at 192.168.0.140
+2023-10-07 14:49:18,DEBUG,motion-804 detected at 192.168.0.124
+2023-10-07 14:49:19,DEBUG,motion-705 not accepting connections
+2023-10-07 14:49:19,DEBUG,motion-804 not accepting connections
+2023-10-07 14:49:23,DEBUG,motion-804 detected at 192.168.0.124
+2023-10-07 14:49:24,DEBUG,motion-804 not accepting connections
+2023-10-07 14:49:28,DEBUG,motion-804 detected at 192.168.0.124
+2023-10-07 14:49:29,DEBUG,motion-804 not accepting connections
+2023-10-07 14:49:33,DEBUG,motion-804 detected at 192.168.0.124
+2023-10-07 14:49:34,DEBUG,motion-804 not accepting connections
+2023-10-07 14:49:38,DEBUG,motion-804 detected at 192.168.0.124
+2023-10-07 14:49:39,DEBUG,motion-804 not accepting connections
+2023-10-07 14:49:43,DEBUG,motion-804 detected at 192.168.0.124
+2023-10-07 14:49:44,DEBUG,motion-804 not accepting connections
+2023-10-07 14:49:48,DEBUG,motion-804 detected at 192.168.0.124
+2023-10-07 14:49:49,DEBUG,motion-804 not accepting connections
+2023-10-07 14:50:08,DEBUG,motion-724 detected at 192.168.0.224
+2023-10-07 14:50:08,INFO,motion-724 is connected
+2023-10-07 14:50:10,DEBUG,motion-724 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:50:10,DEBUG,motion-724 storage is 0% full
+2023-10-07 14:50:10,INFO,motion-724 battery level is 68%
+2023-10-07 14:50:10,INFO,motion-724 SAL724MAR_724_20231007_102632.oao queued - 1.2 MiB, 5.4 hours, 31.9 km, 13.9 knots (500m)
+2023-10-07 14:50:12,INFO,motion-724 SAL724MAR_724_20231007_102632.oao downloaded - 1.2 MiB, 5.4 hours, 31.9 km, 13.9 knots (500m)
+2023-10-07 14:50:12,INFO,motion-724 can be disconnected
+2023-10-07 14:50:13,DEBUG,motion-693 detected at 192.168.0.130
+2023-10-07 14:50:13,INFO,motion-693 is connected
+2023-10-07 14:50:14,DEBUG,motion-693 firmware is approved (9003 Weymouth Speed Week)
+2023-10-07 14:50:14,DEBUG,motion-693 storage is 0% full
+2023-10-07 14:50:14,INFO,motion-693 battery level is 68%
+2023-10-07 14:50:14,INFO,motion-693 PER693SIM_693_20231007_103306.oao queued - 1.8 MiB, 5.3 hours, 57.9 km, 19.4 knots (500m)
+2023-10-07 14:50:17,INFO,motion-693 PER693SIM_693_20231007_103306.oao downloaded - 1.8 MiB, 5.3 hours, 57.9 km, 19.4 knots (500m)
+2023-10-07 14:50:17,INFO,motion-693 can be disconnected
+2023-10-07 14:50:30,DEBUG,motion-693 has been disconnected
+2023-10-07 14:50:30,DEBUG,motion-724 has been disconnected
+2023-10-07 14:50:33,DEBUG,motion-693 detected at 192.168.0.130
+2023-10-07 14:50:33,DEBUG,motion-724 detected at 192.168.0.224
+2023-10-07 14:50:34,DEBUG,motion-693 not accepting connections
+2023-10-07 14:50:34,DEBUG,motion-724 not accepting connections
+2023-10-07 14:50:38,DEBUG,motion-693 detected at 192.168.0.130
+2023-10-07 14:50:38,DEBUG,motion-724 detected at 192.168.0.224
+2023-10-07 14:50:39,DEBUG,motion-693 not accepting connections
+2023-10-07 14:50:39,DEBUG,motion-724 not accepting connections
+2023-10-07 14:50:43,DEBUG,motion-661 detected at 192.168.0.136
+2023-10-07 14:50:43,DEBUG,motion-693 detected at 192.168.0.130
+2023-10-07 14:50:43,DEBUG,motion-724 detected at 192.168.0.224
+2023-10-07 14:50:43,INFO,motion-661 is connected
+2023-10-07 14:50:44,DEBUG,motion-693 not accepting connections
+2023-10-07 14:50:44,DEBUG,motion-724 not accepting connections
+2023-10-07 14:50:44,DEBUG,motion-661 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:50:44,DEBUG,motion-661 storage is 0% full
+2023-10-07 14:50:44,INFO,motion-661 battery level is 71%
+2023-10-07 14:50:44,INFO,motion-661 MAG661SIM_661_20231007_093118.oao queued - 0.7 MiB, 6.3 hours, 26.0 km, 19.3 knots (500m)
+2023-10-07 14:50:46,INFO,motion-661 MAG661SIM_661_20231007_093118.oao downloaded - 0.7 MiB, 6.3 hours, 26.0 km, 19.3 knots (500m)
+2023-10-07 14:50:46,INFO,motion-661 can be disconnected
+2023-10-07 14:50:48,DEBUG,motion-625 detected at 192.168.0.190
+2023-10-07 14:50:48,INFO,motion-625 is connected
+2023-10-07 14:50:48,DEBUG,motion-693 detected at 192.168.0.130
+2023-10-07 14:50:48,DEBUG,motion-724 detected at 192.168.0.224
+2023-10-07 14:50:48,DEBUG,motion-625 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:50:48,DEBUG,motion-625 storage is 0% full
+2023-10-07 14:50:48,INFO,motion-625 battery level is 83%
+2023-10-07 14:50:49,DEBUG,motion-693 not accepting connections
+2023-10-07 14:50:49,INFO,motion-625 HOB625RIC_625_20231007_102249.oao queued - 1.0 MiB, 5.5 hours, 43.3 km, 23.3 knots (500m)
+2023-10-07 14:50:49,DEBUG,motion-724 not accepting connections
+2023-10-07 14:50:50,INFO,motion-625 HOB625RIC_625_20231007_102249.oao downloaded - 1.0 MiB, 5.5 hours, 43.3 km, 23.3 knots (500m)
+2023-10-07 14:50:50,INFO,motion-625 can be disconnected
+2023-10-07 14:50:53,DEBUG,motion-693 detected at 192.168.0.130
+2023-10-07 14:50:53,DEBUG,motion-724 detected at 192.168.0.224
+2023-10-07 14:50:54,DEBUG,motion-693 not accepting connections
+2023-10-07 14:50:54,DEBUG,motion-724 not accepting connections
+2023-10-07 14:50:58,DEBUG,motion-693 detected at 192.168.0.130
+2023-10-07 14:50:58,DEBUG,motion-724 detected at 192.168.0.224
+2023-10-07 14:50:59,DEBUG,motion-693 not accepting connections
+2023-10-07 14:50:59,DEBUG,motion-724 not accepting connections
+2023-10-07 14:51:00,DEBUG,motion-661 has been disconnected
+2023-10-07 14:51:03,DEBUG,motion-661 detected at 192.168.0.136
+2023-10-07 14:51:03,DEBUG,motion-693 detected at 192.168.0.130
+2023-10-07 14:51:03,DEBUG,motion-724 detected at 192.168.0.224
+2023-10-07 14:51:04,DEBUG,motion-661 not accepting connections
+2023-10-07 14:51:04,DEBUG,motion-693 not accepting connections
+2023-10-07 14:51:04,DEBUG,motion-724 not accepting connections
+2023-10-07 14:51:08,DEBUG,motion-661 detected at 192.168.0.136
+2023-10-07 14:51:08,DEBUG,motion-693 detected at 192.168.0.130
+2023-10-07 14:51:09,DEBUG,motion-661 not accepting connections
+2023-10-07 14:51:09,DEBUG,motion-693 not accepting connections
+2023-10-07 14:51:10,DEBUG,motion-625 has been disconnected
+2023-10-07 14:51:13,DEBUG,motion-625 detected at 192.168.0.190
+2023-10-07 14:51:13,DEBUG,motion-639 detected at 192.168.0.110
+2023-10-07 14:51:13,DEBUG,motion-661 detected at 192.168.0.136
+2023-10-07 14:51:13,INFO,motion-639 is connected
+2023-10-07 14:51:14,DEBUG,motion-625 not accepting connections
+2023-10-07 14:51:14,DEBUG,motion-661 not accepting connections
+2023-10-07 14:51:14,DEBUG,motion-639 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:51:14,DEBUG,motion-639 storage is 0% full
+2023-10-07 14:51:14,INFO,motion-639 battery level is 71%
+2023-10-07 14:51:15,INFO,motion-639 PET639SIM_639_20231007_090919.oao queued - 0.9 MiB, 6.7 hours, 43.7 km, 24.7 knots (500m)
+2023-10-07 14:51:16,INFO,motion-639 PET639SIM_639_20231007_090919.oao downloaded - 0.9 MiB, 6.7 hours, 43.7 km, 24.7 knots (500m)
+2023-10-07 14:51:16,INFO,motion-639 can be disconnected
+2023-10-07 14:51:18,DEBUG,motion-625 detected at 192.168.0.190
+2023-10-07 14:51:18,DEBUG,motion-661 detected at 192.168.0.136
+2023-10-07 14:51:19,DEBUG,motion-625 not accepting connections
+2023-10-07 14:51:19,DEBUG,motion-661 not accepting connections
+2023-10-07 14:51:23,DEBUG,motion-625 detected at 192.168.0.190
+2023-10-07 14:51:23,DEBUG,motion-661 detected at 192.168.0.136
+2023-10-07 14:51:24,DEBUG,motion-625 not accepting connections
+2023-10-07 14:51:24,DEBUG,motion-661 not accepting connections
+2023-10-07 14:51:28,DEBUG,motion-625 detected at 192.168.0.190
+2023-10-07 14:51:28,DEBUG,motion-661 detected at 192.168.0.136
+2023-10-07 14:51:28,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 14:51:28,INFO,motion-818 is connected
+2023-10-07 14:51:29,DEBUG,motion-625 not accepting connections
+2023-10-07 14:51:29,DEBUG,motion-661 not accepting connections
+2023-10-07 14:51:29,DEBUG,motion-818 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:51:29,DEBUG,motion-818 storage is 0% full
+2023-10-07 14:51:29,INFO,motion-818 battery level is 76%
+2023-10-07 14:51:29,DEBUG,motion-818 STA818JOH_818_20231007_102602.oao skipped - 0.0 MiB, 5.4 hours, 8.8 km, 3.3 knots (500m)
+2023-10-07 14:51:29,INFO,motion-818 can be disconnected
+2023-10-07 14:51:30,DEBUG,motion-639 has been disconnected
+2023-10-07 14:51:33,DEBUG,motion-625 detected at 192.168.0.190
+2023-10-07 14:51:33,DEBUG,motion-639 detected at 192.168.0.110
+2023-10-07 14:51:33,DEBUG,motion-661 detected at 192.168.0.136
+2023-10-07 14:51:34,DEBUG,motion-625 not accepting connections
+2023-10-07 14:51:34,DEBUG,motion-639 not accepting connections
+2023-10-07 14:51:34,DEBUG,motion-661 not accepting connections
+2023-10-07 14:51:38,DEBUG,motion-625 detected at 192.168.0.190
+2023-10-07 14:51:38,DEBUG,motion-639 detected at 192.168.0.110
+2023-10-07 14:51:38,DEBUG,motion-661 detected at 192.168.0.136
+2023-10-07 14:51:39,DEBUG,motion-625 not accepting connections
+2023-10-07 14:51:39,DEBUG,motion-639 not accepting connections
+2023-10-07 14:51:39,DEBUG,motion-661 not accepting connections
+2023-10-07 14:51:40,DEBUG,motion-818 has been disconnected
+2023-10-07 14:51:43,DEBUG,motion-625 detected at 192.168.0.190
+2023-10-07 14:51:43,DEBUG,motion-639 detected at 192.168.0.110
+2023-10-07 14:51:43,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 14:51:43,DEBUG,motion-867 detected at 192.168.0.130
+2023-10-07 14:51:43,INFO,motion-867 is connected
+2023-10-07 14:51:44,DEBUG,motion-625 not accepting connections
+2023-10-07 14:51:44,DEBUG,motion-639 not accepting connections
+2023-10-07 14:51:44,DEBUG,motion-818 not accepting connections
+2023-10-07 14:51:44,DEBUG,motion-867 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 14:51:44,DEBUG,motion-867 storage is 0% full
+2023-10-07 14:51:44,INFO,motion-867 battery level is 74%
+2023-10-07 14:51:45,INFO,motion-867 STA867SCO_867_20231007_102940.oao queued - 1.5 MiB, 5.4 hours, 66.1 km, 26.9 knots (500m)
+2023-10-07 14:51:47,INFO,motion-867 STA867SCO_867_20231007_102940.oao downloaded - 1.5 MiB, 5.4 hours, 66.1 km, 26.9 knots (500m)
+2023-10-07 14:51:47,INFO,motion-867 can be disconnected
+2023-10-07 14:51:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:51:48,DEBUG,motion-639 detected at 192.168.0.110
+2023-10-07 14:51:48,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 14:51:49,DEBUG,motion-639 not accepting connections
+2023-10-07 14:51:49,DEBUG,motion-818 not accepting connections
+2023-10-07 14:51:53,DEBUG,motion-639 detected at 192.168.0.110
+2023-10-07 14:51:53,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 14:51:54,DEBUG,motion-639 not accepting connections
+2023-10-07 14:51:54,DEBUG,motion-818 not accepting connections
+2023-10-07 14:51:58,DEBUG,motion-639 detected at 192.168.0.110
+2023-10-07 14:51:58,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 14:51:59,DEBUG,motion-639 not accepting connections
+2023-10-07 14:51:59,DEBUG,motion-818 not accepting connections
+2023-10-07 14:52:00,DEBUG,motion-867 has been disconnected
+2023-10-07 14:52:03,DEBUG,motion-639 detected at 192.168.0.110
+2023-10-07 14:52:03,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 14:52:03,DEBUG,motion-867 detected at 192.168.0.130
+2023-10-07 14:52:04,DEBUG,motion-639 not accepting connections
+2023-10-07 14:52:04,DEBUG,motion-818 not accepting connections
+2023-10-07 14:52:04,DEBUG,motion-867 not accepting connections
+2023-10-07 14:52:08,DEBUG,motion-639 detected at 192.168.0.110
+2023-10-07 14:52:08,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 14:52:08,DEBUG,motion-867 detected at 192.168.0.130
+2023-10-07 14:52:09,DEBUG,motion-639 not accepting connections
+2023-10-07 14:52:09,DEBUG,motion-818 not accepting connections
+2023-10-07 14:52:09,DEBUG,motion-867 not accepting connections
+2023-10-07 14:52:13,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 14:52:13,DEBUG,motion-867 detected at 192.168.0.130
+2023-10-07 14:52:14,DEBUG,motion-818 not accepting connections
+2023-10-07 14:52:14,DEBUG,motion-867 not accepting connections
+2023-10-07 14:52:18,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 14:52:18,DEBUG,motion-867 detected at 192.168.0.130
+2023-10-07 14:52:19,DEBUG,motion-818 not accepting connections
+2023-10-07 14:52:19,DEBUG,motion-867 not accepting connections
+2023-10-07 14:52:23,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 14:52:23,DEBUG,motion-867 detected at 192.168.0.130
+2023-10-07 14:52:24,DEBUG,motion-818 not accepting connections
+2023-10-07 14:52:24,DEBUG,motion-867 not accepting connections
+2023-10-07 14:52:28,DEBUG,motion-867 detected at 192.168.0.130
+2023-10-07 14:52:29,DEBUG,motion-867 not accepting connections
+2023-10-07 14:52:33,DEBUG,motion-867 detected at 192.168.0.130
+2023-10-07 14:52:34,DEBUG,motion-867 not accepting connections
+2023-10-07 14:52:38,DEBUG,motion-867 detected at 192.168.0.130
+2023-10-07 14:52:39,DEBUG,motion-867 not accepting connections
+2023-10-07 14:52:53,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:53:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:55:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:55:53,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:57:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 14:58:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:00:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:00:23,DEBUG,motion-852 detected at 192.168.0.248
+2023-10-07 15:00:23,INFO,motion-852 is connected
+2023-10-07 15:00:24,DEBUG,motion-852 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 15:00:24,DEBUG,motion-852 storage is 0% full
+2023-10-07 15:00:24,INFO,motion-852 battery level is 73%
+2023-10-07 15:00:26,INFO,motion-852 NOR852SCO_852_20231007_102838.oao queued - 2.7 MiB, 5.5 hours, 101.5 km, 23.2 knots (500m)
+2023-10-07 15:00:30,INFO,motion-852 NOR852SCO_852_20231007_102838.oao downloaded - 2.7 MiB, 5.5 hours, 101.5 km, 23.2 knots (500m)
+2023-10-07 15:00:30,INFO,motion-852 can be disconnected
+2023-10-07 15:01:08,DEBUG,motion-845 detected at 192.168.0.200
+2023-10-07 15:01:09,INFO,motion-845 is connected
+2023-10-07 15:01:10,DEBUG,motion-845 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 15:01:10,DEBUG,motion-845 storage is 0% full
+2023-10-07 15:01:10,INFO,motion-845 battery level is 75%
+2023-10-07 15:01:12,INFO,motion-845 STU845AND_845_20231007_093946.oao queued - 0.2 MiB, 6.4 hours, 4.4 km, 14.6 knots (500m)
+2023-10-07 15:01:12,INFO,motion-845 STU845AND_845_20231007_093946.oao downloaded - 0.2 MiB, 6.4 hours, 4.4 km, 14.6 knots (500m)
+2023-10-07 15:01:12,INFO,motion-845 can be disconnected
+2023-10-07 15:01:28,DEBUG,motion-694 detected at 192.168.0.188
+2023-10-07 15:01:28,INFO,motion-694 is connected
+2023-10-07 15:01:30,DEBUG,motion-694 firmware is approved (9003 Weymouth Speed Week)
+2023-10-07 15:01:30,DEBUG,motion-694 storage is 0% full
+2023-10-07 15:01:30,INFO,motion-694 battery level is 68%
+2023-10-07 15:01:30,DEBUG,motion-694 MAR694EDD_694_20231007_094219.oao skipped - 0.0 MiB, 6.3 hours, 0.1 km, 0.0 knots (500m)
+2023-10-07 15:01:30,INFO,motion-694 can be disconnected
+2023-10-07 15:01:30,DEBUG,motion-845 has been disconnected
+2023-10-07 15:01:33,DEBUG,motion-845 detected at 192.168.0.200
+2023-10-07 15:01:34,DEBUG,motion-845 not accepting connections
+2023-10-07 15:01:38,DEBUG,motion-845 detected at 192.168.0.200
+2023-10-07 15:01:39,DEBUG,motion-845 not accepting connections
+2023-10-07 15:01:43,DEBUG,motion-845 detected at 192.168.0.200
+2023-10-07 15:01:44,DEBUG,motion-845 not accepting connections
+2023-10-07 15:01:48,DEBUG,motion-845 detected at 192.168.0.200
+2023-10-07 15:01:49,DEBUG,motion-845 not accepting connections
+2023-10-07 15:01:53,DEBUG,motion-845 detected at 192.168.0.200
+2023-10-07 15:01:54,DEBUG,motion-845 not accepting connections
+2023-10-07 15:01:58,DEBUG,motion-845 detected at 192.168.0.200
+2023-10-07 15:01:59,DEBUG,motion-845 not accepting connections
+2023-10-07 15:02:03,DEBUG,motion-845 detected at 192.168.0.200
+2023-10-07 15:02:04,DEBUG,motion-845 not accepting connections
+2023-10-07 15:02:28,DEBUG,motion-607 detected at 192.168.0.208
+2023-10-07 15:02:28,INFO,motion-607 is connected
+2023-10-07 15:02:29,DEBUG,motion-607 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 15:02:29,DEBUG,motion-607 storage is 0% full
+2023-10-07 15:02:29,INFO,motion-607 battery level is 83%
+2023-10-07 15:02:29,INFO,motion-607 GEO607MIC_607_20231007_102502.oao queued - 0.8 MiB, 5.6 hours, 38.3 km, 25.5 knots (500m)
+2023-10-07 15:02:30,DEBUG,motion-694 has been disconnected
+2023-10-07 15:02:31,INFO,motion-607 GEO607MIC_607_20231007_102502.oao downloaded - 0.8 MiB, 5.6 hours, 38.3 km, 25.5 knots (500m)
+2023-10-07 15:02:31,INFO,motion-607 can be disconnected
+2023-10-07 15:02:33,DEBUG,motion-694 detected at 192.168.0.188
+2023-10-07 15:02:34,DEBUG,motion-694 not accepting connections
+2023-10-07 15:02:38,DEBUG,motion-694 detected at 192.168.0.188
+2023-10-07 15:02:39,DEBUG,motion-694 not accepting connections
+2023-10-07 15:02:43,DEBUG,motion-694 detected at 192.168.0.188
+2023-10-07 15:02:44,DEBUG,motion-694 not accepting connections
+2023-10-07 15:02:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:02:48,DEBUG,motion-694 detected at 192.168.0.188
+2023-10-07 15:02:49,DEBUG,motion-694 not accepting connections
+2023-10-07 15:02:53,DEBUG,motion-694 detected at 192.168.0.188
+2023-10-07 15:02:54,DEBUG,motion-694 not accepting connections
+2023-10-07 15:03:00,DEBUG,motion-607 has been disconnected
+2023-10-07 15:03:03,DEBUG,motion-607 detected at 192.168.0.208
+2023-10-07 15:03:04,DEBUG,motion-607 not accepting connections
+2023-10-07 15:03:08,DEBUG,motion-607 detected at 192.168.0.208
+2023-10-07 15:03:09,DEBUG,motion-607 not accepting connections
+2023-10-07 15:03:13,DEBUG,motion-607 detected at 192.168.0.208
+2023-10-07 15:03:14,DEBUG,motion-607 not accepting connections
+2023-10-07 15:03:18,DEBUG,motion-607 detected at 192.168.0.208
+2023-10-07 15:03:19,DEBUG,motion-607 not accepting connections
+2023-10-07 15:03:23,DEBUG,motion-607 detected at 192.168.0.208
+2023-10-07 15:03:24,DEBUG,motion-607 not accepting connections
+2023-10-07 15:03:30,DEBUG,motion-852 has been disconnected
+2023-10-07 15:03:33,DEBUG,motion-852 detected at 192.168.0.248
+2023-10-07 15:03:34,DEBUG,motion-852 not accepting connections
+2023-10-07 15:03:38,DEBUG,motion-852 detected at 192.168.0.248
+2023-10-07 15:03:39,DEBUG,motion-852 not accepting connections
+2023-10-07 15:03:43,DEBUG,motion-852 detected at 192.168.0.248
+2023-10-07 15:03:44,DEBUG,motion-852 not accepting connections
+2023-10-07 15:03:48,DEBUG,motion-852 detected at 192.168.0.248
+2023-10-07 15:03:49,DEBUG,motion-852 not accepting connections
+2023-10-07 15:03:53,DEBUG,motion-852 detected at 192.168.0.248
+2023-10-07 15:03:54,DEBUG,motion-852 not accepting connections
+2023-10-07 15:03:58,DEBUG,motion-852 detected at 192.168.0.248
+2023-10-07 15:03:59,DEBUG,motion-852 not accepting connections
+2023-10-07 15:04:03,DEBUG,motion-852 detected at 192.168.0.248
+2023-10-07 15:04:04,DEBUG,motion-852 not accepting connections
+2023-10-07 15:07:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:08:13,DEBUG,motion-811 detected at 192.168.0.156
+2023-10-07 15:08:14,INFO,motion-811 is connected
+2023-10-07 15:08:14,DEBUG,motion-811 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 15:08:14,DEBUG,motion-811 storage is 0% full
+2023-10-07 15:08:14,INFO,motion-811 battery level is 73%
+2023-10-07 15:08:15,INFO,motion-811 THO811RUS_811_20231007_094618.oao queued - 1.0 MiB, 6.4 hours, 29.2 km, 19.8 knots (500m)
+2023-10-07 15:08:17,INFO,motion-811 THO811RUS_811_20231007_094618.oao downloaded - 1.0 MiB, 6.4 hours, 29.2 km, 19.8 knots (500m)
+2023-10-07 15:08:17,INFO,motion-811 can be disconnected
+2023-10-07 15:09:03,DEBUG,motion-807 detected at 192.168.0.140
+2023-10-07 15:09:04,INFO,motion-807 is connected
+2023-10-07 15:09:05,DEBUG,motion-807 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 15:09:05,DEBUG,motion-807 storage is 0% full
+2023-10-07 15:09:05,INFO,motion-807 battery level is 74%
+2023-10-07 15:09:05,INFO,motion-807 STR807DAV_807_20231007_094618.oao queued - 0.5 MiB, 6.4 hours, 28.1 km, 19.0 knots (500m)
+2023-10-07 15:09:06,INFO,motion-807 STR807DAV_807_20231007_094618.oao downloaded - 0.5 MiB, 6.4 hours, 28.1 km, 19.0 knots (500m)
+2023-10-07 15:09:06,INFO,motion-807 can be disconnected
+2023-10-07 15:09:53,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:09:54,INFO,motion-660 is connected
+2023-10-07 15:09:55,DEBUG,motion-660 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 15:09:55,DEBUG,motion-660 storage is 0% full
+2023-10-07 15:09:55,INFO,motion-660 battery level is 66%
+2023-10-07 15:09:56,DEBUG,motion-660 WHA660TRE_660_20231007_103714.oao skipped - 0.0 MiB, 5.5 hours, 8.7 km, 4.3 knots (500m)
+2023-10-07 15:09:56,INFO,motion-660 can be disconnected
+2023-10-07 15:10:10,DEBUG,motion-807 has been disconnected
+2023-10-07 15:10:13,DEBUG,motion-807 detected at 192.168.0.140
+2023-10-07 15:10:14,DEBUG,motion-807 not accepting connections
+2023-10-07 15:10:18,DEBUG,motion-807 detected at 192.168.0.140
+2023-10-07 15:10:19,DEBUG,motion-807 not accepting connections
+2023-10-07 15:10:20,DEBUG,motion-811 has been disconnected
+2023-10-07 15:10:23,DEBUG,motion-807 detected at 192.168.0.140
+2023-10-07 15:10:23,DEBUG,motion-811 detected at 192.168.0.156
+2023-10-07 15:10:24,DEBUG,motion-807 not accepting connections
+2023-10-07 15:10:24,DEBUG,motion-811 not accepting connections
+2023-10-07 15:10:28,DEBUG,motion-807 detected at 192.168.0.140
+2023-10-07 15:10:28,DEBUG,motion-811 detected at 192.168.0.156
+2023-10-07 15:10:29,DEBUG,motion-807 not accepting connections
+2023-10-07 15:10:29,DEBUG,motion-811 not accepting connections
+2023-10-07 15:10:33,DEBUG,motion-807 detected at 192.168.0.140
+2023-10-07 15:10:33,DEBUG,motion-811 detected at 192.168.0.156
+2023-10-07 15:10:34,DEBUG,motion-807 not accepting connections
+2023-10-07 15:10:34,DEBUG,motion-811 not accepting connections
+2023-10-07 15:10:38,DEBUG,motion-807 detected at 192.168.0.140
+2023-10-07 15:10:38,DEBUG,motion-811 detected at 192.168.0.156
+2023-10-07 15:10:39,DEBUG,motion-807 not accepting connections
+2023-10-07 15:10:39,DEBUG,motion-811 not accepting connections
+2023-10-07 15:10:40,DEBUG,motion-660 has been disconnected
+2023-10-07 15:10:43,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:10:43,DEBUG,motion-807 detected at 192.168.0.140
+2023-10-07 15:10:43,DEBUG,motion-811 detected at 192.168.0.156
+2023-10-07 15:10:44,DEBUG,motion-660 not accepting connections
+2023-10-07 15:10:44,DEBUG,motion-807 not accepting connections
+2023-10-07 15:10:44,DEBUG,motion-811 not accepting connections
+2023-10-07 15:10:48,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:10:48,DEBUG,motion-807 detected at 192.168.0.140
+2023-10-07 15:10:48,DEBUG,motion-811 detected at 192.168.0.156
+2023-10-07 15:10:49,DEBUG,motion-660 not accepting connections
+2023-10-07 15:10:49,DEBUG,motion-807 not accepting connections
+2023-10-07 15:10:49,DEBUG,motion-811 not accepting connections
+2023-10-07 15:10:53,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:10:53,DEBUG,motion-807 detected at 192.168.0.140
+2023-10-07 15:10:53,DEBUG,motion-811 detected at 192.168.0.156
+2023-10-07 15:10:54,DEBUG,motion-660 not accepting connections
+2023-10-07 15:10:54,DEBUG,motion-807 not accepting connections
+2023-10-07 15:10:54,DEBUG,motion-811 not accepting connections
+2023-10-07 15:10:58,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:10:58,DEBUG,motion-811 detected at 192.168.0.156
+2023-10-07 15:10:59,DEBUG,motion-660 not accepting connections
+2023-10-07 15:10:59,DEBUG,motion-811 not accepting connections
+2023-10-07 15:11:03,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:11:04,DEBUG,motion-660 not accepting connections
+2023-10-07 15:11:08,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:11:09,DEBUG,motion-660 not accepting connections
+2023-10-07 15:11:13,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:11:14,DEBUG,motion-660 not accepting connections
+2023-10-07 15:11:18,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:11:19,DEBUG,motion-660 not accepting connections
+2023-10-07 15:12:54,DEBUG,motion-823 detected at 192.168.0.206
+2023-10-07 15:12:54,INFO,motion-823 is connected
+2023-10-07 15:12:55,DEBUG,motion-823 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 15:12:55,DEBUG,motion-823 storage is 0% full
+2023-10-07 15:12:55,INFO,motion-823 battery level is 73%
+2023-10-07 15:12:55,INFO,motion-823 MOU823EME_823_20231007_093138.oao queued - 1.1 MiB, 6.7 hours, 47.0 km, 25.8 knots (500m)
+2023-10-07 15:12:57,INFO,motion-823 MOU823EME_823_20231007_093138.oao downloaded - 1.1 MiB, 6.7 hours, 47.0 km, 25.8 knots (500m)
+2023-10-07 15:12:57,INFO,motion-823 can be disconnected
+2023-10-07 15:12:58,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:13:10,DEBUG,motion-823 has been disconnected
+2023-10-07 15:13:14,DEBUG,motion-823 detected at 192.168.0.206
+2023-10-07 15:13:15,DEBUG,motion-823 not accepting connections
+2023-10-07 15:13:19,DEBUG,motion-823 detected at 192.168.0.206
+2023-10-07 15:13:20,DEBUG,motion-823 not accepting connections
+2023-10-07 15:13:24,DEBUG,motion-823 detected at 192.168.0.206
+2023-10-07 15:13:25,DEBUG,motion-823 not accepting connections
+2023-10-07 15:13:29,DEBUG,motion-823 detected at 192.168.0.206
+2023-10-07 15:13:30,DEBUG,motion-823 not accepting connections
+2023-10-07 15:13:34,DEBUG,motion-823 detected at 192.168.0.206
+2023-10-07 15:13:35,DEBUG,motion-823 not accepting connections
+2023-10-07 15:13:39,DEBUG,motion-823 detected at 192.168.0.206
+2023-10-07 15:13:40,DEBUG,motion-823 not accepting connections
+2023-10-07 15:13:44,DEBUG,motion-823 detected at 192.168.0.206
+2023-10-07 15:13:45,DEBUG,motion-823 not accepting connections
+2023-10-07 15:13:49,DEBUG,motion-823 detected at 192.168.0.206
+2023-10-07 15:13:50,DEBUG,motion-823 not accepting connections
+2023-10-07 15:17:28,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:17:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:20:34,DEBUG,motion-664 detected at 192.168.0.120
+2023-10-07 15:20:35,DEBUG,motion-664 not accepting connections
+2023-10-07 15:20:39,DEBUG,motion-664 detected at 192.168.0.120
+2023-10-07 15:20:39,INFO,motion-664 is connected
+2023-10-07 15:20:40,DEBUG,motion-664 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 15:20:40,DEBUG,motion-664 storage is 0% full
+2023-10-07 15:20:40,INFO,motion-664 battery level is 71%
+2023-10-07 15:20:40,INFO,motion-664 GOR664DEN_664_20231007_103454.oao queued - 1.4 MiB, 5.8 hours, 56.9 km, 21.8 knots (500m)
+2023-10-07 15:20:43,INFO,motion-664 GOR664DEN_664_20231007_103454.oao downloaded - 1.4 MiB, 5.8 hours, 56.9 km, 21.8 knots (500m)
+2023-10-07 15:20:43,INFO,motion-664 can be disconnected
+2023-10-07 15:21:00,DEBUG,motion-664 has been disconnected
+2023-10-07 15:21:04,DEBUG,motion-664 detected at 192.168.0.120
+2023-10-07 15:21:05,DEBUG,motion-664 not accepting connections
+2023-10-07 15:21:09,DEBUG,motion-664 detected at 192.168.0.120
+2023-10-07 15:21:10,DEBUG,motion-664 not accepting connections
+2023-10-07 15:21:14,DEBUG,motion-664 detected at 192.168.0.120
+2023-10-07 15:21:15,DEBUG,motion-664 not accepting connections
+2023-10-07 15:21:19,DEBUG,motion-664 detected at 192.168.0.120
+2023-10-07 15:21:20,DEBUG,motion-664 not accepting connections
+2023-10-07 15:21:24,DEBUG,motion-664 detected at 192.168.0.120
+2023-10-07 15:21:25,DEBUG,motion-664 not accepting connections
+2023-10-07 15:21:29,DEBUG,motion-664 detected at 192.168.0.120
+2023-10-07 15:21:30,DEBUG,motion-664 not accepting connections
+2023-10-07 15:21:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:26:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:26:17,INFO,Keyboard interrupt
+2023-10-07 15:26:17,INFO,Stopping thread pools
+2023-10-07 15:26:24,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:26:24,DEBUG,DetectionThreadPool finished
+2023-10-07 15:26:24,DEBUG,DetectionThread #1 finished
+2023-10-07 15:26:24,DEBUG,DetectionThread #2 finished
+2023-10-07 15:26:24,DEBUG,DetectionThread #3 finished
+2023-10-07 15:26:24,DEBUG,DetectionThread #4 finished
+2023-10-07 15:26:24,DEBUG,DetectionThread #5 finished
+2023-10-07 15:26:24,DEBUG,DetectionThread #6 finished
+2023-10-07 15:26:24,DEBUG,DetectionThread #7 finished
+2023-10-07 15:26:24,DEBUG,DetectionThread #8 finished
+2023-10-07 15:26:24,DEBUG,InspectionThreadPool finished
+2023-10-07 15:26:24,DEBUG,InspectionThread #1 finished
+2023-10-07 15:26:24,DEBUG,InspectionThread #2 finished
+2023-10-07 15:26:24,DEBUG,InspectionThread #3 finished
+2023-10-07 15:26:24,DEBUG,InspectionThread #4 finished
+2023-10-07 15:26:24,DEBUG,DownloadThreadPool finished
+2023-10-07 15:26:24,DEBUG,DownloadThread #1 finished
+2023-10-07 15:26:24,DEBUG,DownloadThread #2 finished
+2023-10-07 15:26:24,DEBUG,DownloadThread #3 finished
+2023-10-07 15:26:24,DEBUG,DownloadThread #4 finished
+2023-10-07 15:26:24,DEBUG,DisconnectionThreadPool finished
+2023-10-07 15:26:24,DEBUG,DisconnectionThread #1 finished
+2023-10-07 15:26:24,DEBUG,DisconnectionThread #2 finished
+2023-10-07 15:26:24,DEBUG,DisconnectionThread #3 finished
+2023-10-07 15:26:24,DEBUG,DisconnectionThread #4 finished
+2023-10-07 15:26:24,DEBUG,DisconnectionThread #5 finished
+2023-10-07 15:26:24,DEBUG,DisconnectionThread #6 finished
+2023-10-07 15:26:24,DEBUG,DisconnectionThread #7 finished
+2023-10-07 15:26:24,DEBUG,DisconnectionThread #8 finished
+2023-10-07 15:26:24,INFO,Thread pools stopped
+2023-10-07 15:28:43,INFO,Starting thread pools
+2023-10-07 15:28:43,DEBUG,DetectionThreadPool starting
+2023-10-07 15:28:43,DEBUG,DetectionThread #1 starting
+2023-10-07 15:28:43,DEBUG,DetectionThread #2 starting
+2023-10-07 15:28:43,DEBUG,DetectionThread #3 starting
+2023-10-07 15:28:43,DEBUG,DetectionThread #4 starting
+2023-10-07 15:28:43,DEBUG,DetectionThread #5 starting
+2023-10-07 15:28:43,DEBUG,DetectionThread #6 starting
+2023-10-07 15:28:43,DEBUG,DetectionThread #7 starting
+2023-10-07 15:28:43,DEBUG,DetectionThread #8 starting
+2023-10-07 15:28:43,DEBUG,InspectionThreadPool starting
+2023-10-07 15:28:43,DEBUG,InspectionThread #1 starting
+2023-10-07 15:28:43,DEBUG,InspectionThread #2 starting
+2023-10-07 15:28:43,DEBUG,InspectionThread #3 starting
+2023-10-07 15:28:43,DEBUG,InspectionThread #4 starting
+2023-10-07 15:28:43,DEBUG,DownloadThreadPool starting
+2023-10-07 15:28:43,DEBUG,DownloadThread #1 starting
+2023-10-07 15:28:43,DEBUG,DownloadThread #2 starting
+2023-10-07 15:28:43,DEBUG,DownloadThread #3 starting
+2023-10-07 15:28:43,DEBUG,DownloadThread #4 starting
+2023-10-07 15:28:43,DEBUG,DisconnectionThreadPool starting
+2023-10-07 15:28:43,DEBUG,DisconnectionThread #1 starting
+2023-10-07 15:28:43,DEBUG,DisconnectionThread #2 starting
+2023-10-07 15:28:43,DEBUG,DisconnectionThread #3 starting
+2023-10-07 15:28:43,DEBUG,DisconnectionThread #4 starting
+2023-10-07 15:28:43,DEBUG,DisconnectionThread #5 starting
+2023-10-07 15:28:43,DEBUG,DisconnectionThread #6 starting
+2023-10-07 15:28:43,DEBUG,DisconnectionThread #7 starting
+2023-10-07 15:28:43,DEBUG,DisconnectionThread #8 starting
+2023-10-07 15:28:43,INFO,Thread pools started
+2023-10-07 15:28:58,DEBUG,motion-699 detected at 192.168.0.108
+2023-10-07 15:28:59,DEBUG,motion-699 not accepting connections
+2023-10-07 15:29:03,DEBUG,motion-699 detected at 192.168.0.108
+2023-10-07 15:29:03,INFO,motion-699 is connected
+2023-10-07 15:29:04,DEBUG,motion-699 firmware is approved (9003 Weymouth Speed Week)
+2023-10-07 15:29:04,DEBUG,motion-699 storage is 0% full
+2023-10-07 15:29:04,WARNING,motion-699 battery level is 58%
+2023-10-07 15:29:05,INFO,motion-699 WAK699PAU_699_20231007_103746.oao queued - 0.4 MiB, 5.9 hours, 16.0 km, 16.8 knots (500m)
+2023-10-07 15:29:05,INFO,motion-699 WAK699PAU_699_20231007_103746.oao downloaded - 0.4 MiB, 5.9 hours, 16.0 km, 16.8 knots (500m)
+2023-10-07 15:29:05,INFO,motion-699 can be disconnected
+2023-10-07 15:30:18,DEBUG,motion-699 has been disconnected
+2023-10-07 15:30:23,DEBUG,motion-699 detected at 192.168.0.108
+2023-10-07 15:30:24,DEBUG,motion-699 not accepting connections
+2023-10-07 15:30:28,DEBUG,motion-699 detected at 192.168.0.108
+2023-10-07 15:30:29,DEBUG,motion-699 not accepting connections
+2023-10-07 15:30:33,DEBUG,motion-699 detected at 192.168.0.108
+2023-10-07 15:30:34,DEBUG,motion-699 not accepting connections
+2023-10-07 15:30:38,DEBUG,motion-699 detected at 192.168.0.108
+2023-10-07 15:30:39,DEBUG,motion-699 not accepting connections
+2023-10-07 15:30:43,DEBUG,motion-699 detected at 192.168.0.108
+2023-10-07 15:30:44,DEBUG,motion-699 not accepting connections
+2023-10-07 15:30:48,DEBUG,motion-699 detected at 192.168.0.108
+2023-10-07 15:30:49,DEBUG,motion-699 not accepting connections
+2023-10-07 15:30:53,DEBUG,motion-699 detected at 192.168.0.108
+2023-10-07 15:30:54,DEBUG,motion-699 not accepting connections
+2023-10-07 15:33:04,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:33:24,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-07 15:33:24,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:33:24,INFO,motion-660 is connected
+2023-10-07 15:33:24,DEBUG,motion-660 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 15:33:24,DEBUG,motion-660 storage is 0% full
+2023-10-07 15:33:24,INFO,motion-660 battery level is 61%
+2023-10-07 15:33:25,INFO,motion-660 can be disconnected
+2023-10-07 15:33:29,INFO,Keyboard interrupt
+2023-10-07 15:33:29,INFO,Stopping thread pools
+2023-10-07 15:33:29,DEBUG,DetectionThreadPool finished
+2023-10-07 15:33:30,DEBUG,DetectionThread #1 finished
+2023-10-07 15:33:30,DEBUG,DetectionThread #2 finished
+2023-10-07 15:33:30,DEBUG,DetectionThread #3 finished
+2023-10-07 15:33:30,DEBUG,DetectionThread #4 finished
+2023-10-07 15:33:30,DEBUG,DetectionThread #5 finished
+2023-10-07 15:33:30,DEBUG,DetectionThread #6 finished
+2023-10-07 15:33:30,DEBUG,DetectionThread #7 finished
+2023-10-07 15:33:30,DEBUG,DetectionThread #8 finished
+2023-10-07 15:33:30,DEBUG,InspectionThreadPool finished
+2023-10-07 15:33:30,DEBUG,InspectionThread #1 finished
+2023-10-07 15:33:30,DEBUG,InspectionThread #2 finished
+2023-10-07 15:33:30,DEBUG,InspectionThread #3 finished
+2023-10-07 15:33:30,DEBUG,InspectionThread #4 finished
+2023-10-07 15:33:30,DEBUG,DownloadThreadPool finished
+2023-10-07 15:33:30,DEBUG,DownloadThread #1 finished
+2023-10-07 15:33:30,DEBUG,DownloadThread #2 finished
+2023-10-07 15:33:30,DEBUG,DownloadThread #3 finished
+2023-10-07 15:33:30,DEBUG,DownloadThread #4 finished
+2023-10-07 15:33:30,DEBUG,DisconnectionThreadPool finished
+2023-10-07 15:33:30,DEBUG,DisconnectionThread #1 finished
+2023-10-07 15:33:30,DEBUG,DisconnectionThread #2 finished
+2023-10-07 15:33:30,DEBUG,DisconnectionThread #3 finished
+2023-10-07 15:33:30,DEBUG,DisconnectionThread #4 finished
+2023-10-07 15:33:30,DEBUG,DisconnectionThread #5 finished
+2023-10-07 15:33:30,DEBUG,DisconnectionThread #6 finished
+2023-10-07 15:33:30,DEBUG,DisconnectionThread #7 finished
+2023-10-07 15:33:30,DEBUG,DisconnectionThread #8 finished
+2023-10-07 15:33:30,INFO,Thread pools stopped
+2023-10-07 15:57:17,INFO,Starting thread pools
+2023-10-07 15:57:17,DEBUG,DetectionThreadPool starting
+2023-10-07 15:57:17,DEBUG,DetectionThread #1 starting
+2023-10-07 15:57:17,DEBUG,DetectionThread #2 starting
+2023-10-07 15:57:17,DEBUG,DetectionThread #3 starting
+2023-10-07 15:57:17,DEBUG,DetectionThread #4 starting
+2023-10-07 15:57:17,DEBUG,DetectionThread #5 starting
+2023-10-07 15:57:17,DEBUG,DetectionThread #6 starting
+2023-10-07 15:57:17,DEBUG,DetectionThread #7 starting
+2023-10-07 15:57:17,DEBUG,DetectionThread #8 starting
+2023-10-07 15:57:17,DEBUG,InspectionThreadPool starting
+2023-10-07 15:57:17,DEBUG,InspectionThread #1 starting
+2023-10-07 15:57:17,DEBUG,InspectionThread #2 starting
+2023-10-07 15:57:17,DEBUG,InspectionThread #3 starting
+2023-10-07 15:57:17,DEBUG,InspectionThread #4 starting
+2023-10-07 15:57:17,DEBUG,DownloadThreadPool starting
+2023-10-07 15:57:17,DEBUG,DownloadThread #1 starting
+2023-10-07 15:57:17,DEBUG,DownloadThread #2 starting
+2023-10-07 15:57:17,DEBUG,DownloadThread #3 starting
+2023-10-07 15:57:17,DEBUG,DownloadThread #4 starting
+2023-10-07 15:57:17,DEBUG,DisconnectionThreadPool starting
+2023-10-07 15:57:17,DEBUG,DisconnectionThread #1 starting
+2023-10-07 15:57:17,DEBUG,DisconnectionThread #2 starting
+2023-10-07 15:57:17,DEBUG,DisconnectionThread #3 starting
+2023-10-07 15:57:17,DEBUG,DisconnectionThread #4 starting
+2023-10-07 15:57:17,DEBUG,DisconnectionThread #5 starting
+2023-10-07 15:57:17,DEBUG,DisconnectionThread #6 starting
+2023-10-07 15:57:17,DEBUG,DisconnectionThread #7 starting
+2023-10-07 15:57:17,DEBUG,DisconnectionThread #8 starting
+2023-10-07 15:57:17,INFO,Thread pools started
+2023-10-07 15:58:02,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:58:02,INFO,motion-660 is connected
+2023-10-07 15:58:03,DEBUG,motion-660 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 15:58:03,DEBUG,motion-660 storage is 0% full
+2023-10-07 15:58:03,INFO,motion-660 battery level is 80%
+2023-10-07 15:58:03,INFO,motion-660 can be disconnected
+2023-10-07 15:58:06,INFO,Keyboard interrupt
+2023-10-07 15:58:06,INFO,Stopping thread pools
+2023-10-07 15:58:06,DEBUG,DetectionThreadPool finished
+2023-10-07 15:58:07,DEBUG,DetectionThread #1 finished
+2023-10-07 15:58:07,DEBUG,DetectionThread #2 finished
+2023-10-07 15:58:07,DEBUG,DetectionThread #3 finished
+2023-10-07 15:58:07,DEBUG,DetectionThread #4 finished
+2023-10-07 15:58:07,DEBUG,DetectionThread #5 finished
+2023-10-07 15:58:07,DEBUG,DetectionThread #6 finished
+2023-10-07 15:58:07,DEBUG,DetectionThread #7 finished
+2023-10-07 15:58:07,DEBUG,DetectionThread #8 finished
+2023-10-07 15:58:07,DEBUG,InspectionThreadPool finished
+2023-10-07 15:58:07,DEBUG,InspectionThread #1 finished
+2023-10-07 15:58:07,DEBUG,InspectionThread #2 finished
+2023-10-07 15:58:07,DEBUG,InspectionThread #3 finished
+2023-10-07 15:58:07,DEBUG,InspectionThread #4 finished
+2023-10-07 15:58:07,DEBUG,DownloadThreadPool finished
+2023-10-07 15:58:07,DEBUG,DownloadThread #1 finished
+2023-10-07 15:58:07,DEBUG,DownloadThread #2 finished
+2023-10-07 15:58:07,DEBUG,DownloadThread #3 finished
+2023-10-07 15:58:07,DEBUG,DownloadThread #4 finished
+2023-10-07 15:58:07,DEBUG,DisconnectionThreadPool finished
+2023-10-07 15:58:07,DEBUG,DisconnectionThread #1 finished
+2023-10-07 15:58:07,DEBUG,DisconnectionThread #2 finished
+2023-10-07 15:58:07,DEBUG,DisconnectionThread #3 finished
+2023-10-07 15:58:07,DEBUG,DisconnectionThread #4 finished
+2023-10-07 15:58:07,DEBUG,DisconnectionThread #5 finished
+2023-10-07 15:58:07,DEBUG,DisconnectionThread #6 finished
+2023-10-07 15:58:07,DEBUG,DisconnectionThread #7 finished
+2023-10-07 15:58:07,DEBUG,DisconnectionThread #8 finished
+2023-10-07 15:58:07,INFO,Thread pools stopped
+2023-10-07 15:59:54,INFO,Starting thread pools
+2023-10-07 15:59:54,DEBUG,DetectionThreadPool starting
+2023-10-07 15:59:54,DEBUG,DetectionThread #1 starting
+2023-10-07 15:59:54,DEBUG,DetectionThread #2 starting
+2023-10-07 15:59:54,DEBUG,DetectionThread #3 starting
+2023-10-07 15:59:54,DEBUG,DetectionThread #4 starting
+2023-10-07 15:59:54,DEBUG,DetectionThread #5 starting
+2023-10-07 15:59:54,DEBUG,DetectionThread #6 starting
+2023-10-07 15:59:54,DEBUG,DetectionThread #7 starting
+2023-10-07 15:59:54,DEBUG,DetectionThread #8 starting
+2023-10-07 15:59:54,DEBUG,InspectionThreadPool starting
+2023-10-07 15:59:54,DEBUG,InspectionThread #1 starting
+2023-10-07 15:59:54,DEBUG,InspectionThread #2 starting
+2023-10-07 15:59:54,DEBUG,InspectionThread #3 starting
+2023-10-07 15:59:54,DEBUG,InspectionThread #4 starting
+2023-10-07 15:59:54,DEBUG,DownloadThreadPool starting
+2023-10-07 15:59:54,DEBUG,DownloadThread #1 starting
+2023-10-07 15:59:54,DEBUG,DownloadThread #2 starting
+2023-10-07 15:59:54,DEBUG,DownloadThread #3 starting
+2023-10-07 15:59:54,DEBUG,DownloadThread #4 starting
+2023-10-07 15:59:54,DEBUG,DisconnectionThreadPool starting
+2023-10-07 15:59:54,DEBUG,DisconnectionThread #1 starting
+2023-10-07 15:59:54,DEBUG,DisconnectionThread #2 starting
+2023-10-07 15:59:54,DEBUG,DisconnectionThread #3 starting
+2023-10-07 15:59:54,DEBUG,DisconnectionThread #4 starting
+2023-10-07 15:59:54,DEBUG,DisconnectionThread #5 starting
+2023-10-07 15:59:54,DEBUG,DisconnectionThread #6 starting
+2023-10-07 15:59:54,DEBUG,DisconnectionThread #7 starting
+2023-10-07 15:59:54,DEBUG,DisconnectionThread #8 starting
+2023-10-07 15:59:54,INFO,Thread pools started
+2023-10-07 15:59:54,DEBUG,motion-660 detected at 192.168.0.172
+2023-10-07 15:59:54,INFO,motion-660 is connected
+2023-10-07 15:59:54,DEBUG,motion-660 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 15:59:54,DEBUG,motion-660 storage is 0% full
+2023-10-07 15:59:54,INFO,motion-660 battery level is 76%
+2023-10-07 15:59:55,INFO,motion-660 WHA660TRE_660_20231007_103714.oao downloaded - 0.0 MiB, 5.5 hours, 8.7 km, 4.3 knots (500m)
+2023-10-07 15:59:55,INFO,motion-660 can be disconnected
+2023-10-07 16:00:00,INFO,Keyboard interrupt
+2023-10-07 16:00:00,INFO,Stopping thread pools
+2023-10-07 16:00:00,DEBUG,DetectionThreadPool finished
+2023-10-07 16:00:00,DEBUG,DetectionThread #1 finished
+2023-10-07 16:00:00,DEBUG,DetectionThread #2 finished
+2023-10-07 16:00:00,DEBUG,DetectionThread #3 finished
+2023-10-07 16:00:00,DEBUG,DetectionThread #4 finished
+2023-10-07 16:00:00,DEBUG,DetectionThread #5 finished
+2023-10-07 16:00:00,DEBUG,DetectionThread #6 finished
+2023-10-07 16:00:00,DEBUG,DetectionThread #7 finished
+2023-10-07 16:00:00,DEBUG,DetectionThread #8 finished
+2023-10-07 16:00:00,DEBUG,InspectionThreadPool finished
+2023-10-07 16:00:01,DEBUG,InspectionThread #1 finished
+2023-10-07 16:00:01,DEBUG,InspectionThread #2 finished
+2023-10-07 16:00:01,DEBUG,InspectionThread #3 finished
+2023-10-07 16:00:01,DEBUG,InspectionThread #4 finished
+2023-10-07 16:00:01,DEBUG,DownloadThreadPool finished
+2023-10-07 16:00:01,DEBUG,DownloadThread #1 finished
+2023-10-07 16:00:01,DEBUG,DownloadThread #2 finished
+2023-10-07 16:00:01,DEBUG,DownloadThread #3 finished
+2023-10-07 16:00:01,DEBUG,DownloadThread #4 finished
+2023-10-07 16:00:01,DEBUG,DisconnectionThreadPool finished
+2023-10-07 16:00:01,DEBUG,DisconnectionThread #1 finished
+2023-10-07 16:00:01,DEBUG,DisconnectionThread #2 finished
+2023-10-07 16:00:01,DEBUG,DisconnectionThread #3 finished
+2023-10-07 16:00:01,DEBUG,DisconnectionThread #4 finished
+2023-10-07 16:00:01,DEBUG,DisconnectionThread #5 finished
+2023-10-07 16:00:01,DEBUG,DisconnectionThread #6 finished
+2023-10-07 16:00:01,DEBUG,DisconnectionThread #7 finished
+2023-10-07 16:00:01,DEBUG,DisconnectionThread #8 finished
+2023-10-07 16:00:01,INFO,Thread pools stopped
+2023-10-07 16:03:20,INFO,Starting thread pools
+2023-10-07 16:03:20,DEBUG,DetectionThreadPool starting
+2023-10-07 16:03:20,DEBUG,DetectionThread #1 starting
+2023-10-07 16:03:20,DEBUG,DetectionThread #2 starting
+2023-10-07 16:03:20,DEBUG,DetectionThread #3 starting
+2023-10-07 16:03:20,DEBUG,DetectionThread #4 starting
+2023-10-07 16:03:20,DEBUG,DetectionThread #5 starting
+2023-10-07 16:03:20,DEBUG,DetectionThread #6 starting
+2023-10-07 16:03:20,DEBUG,DetectionThread #7 starting
+2023-10-07 16:03:20,DEBUG,DetectionThread #8 starting
+2023-10-07 16:03:20,DEBUG,InspectionThreadPool starting
+2023-10-07 16:03:20,DEBUG,InspectionThread #1 starting
+2023-10-07 16:03:20,DEBUG,InspectionThread #2 starting
+2023-10-07 16:03:20,DEBUG,InspectionThread #3 starting
+2023-10-07 16:03:20,DEBUG,InspectionThread #4 starting
+2023-10-07 16:03:20,DEBUG,DownloadThreadPool starting
+2023-10-07 16:03:20,DEBUG,DownloadThread #1 starting
+2023-10-07 16:03:20,DEBUG,DownloadThread #2 starting
+2023-10-07 16:03:20,DEBUG,DownloadThread #3 starting
+2023-10-07 16:03:20,DEBUG,DownloadThread #4 starting
+2023-10-07 16:03:20,DEBUG,DisconnectionThreadPool starting
+2023-10-07 16:03:20,DEBUG,DisconnectionThread #1 starting
+2023-10-07 16:03:20,DEBUG,DisconnectionThread #2 starting
+2023-10-07 16:03:20,DEBUG,DisconnectionThread #3 starting
+2023-10-07 16:03:20,DEBUG,DisconnectionThread #4 starting
+2023-10-07 16:03:20,DEBUG,DisconnectionThread #5 starting
+2023-10-07 16:03:20,DEBUG,DisconnectionThread #6 starting
+2023-10-07 16:03:20,DEBUG,DisconnectionThread #7 starting
+2023-10-07 16:03:20,DEBUG,DisconnectionThread #8 starting
+2023-10-07 16:03:20,INFO,Thread pools started
+2023-10-07 16:03:45,DEBUG,motion-611 detected at 192.168.0.204
+2023-10-07 16:03:45,INFO,motion-611 is connected
+2023-10-07 16:03:46,DEBUG,motion-611 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 16:03:46,DEBUG,motion-611 storage is 0% full
+2023-10-07 16:03:46,INFO,motion-611 battery level is 99%
+2023-10-07 16:03:47,INFO,motion-611 YOR611MAT_611_20231007_092310.oao downloaded - 0.0 MiB, 5.5 hours, 0.1 km, 0.0 knots (500m)
+2023-10-07 16:03:47,INFO,motion-611 can be disconnected
+2023-10-07 16:03:50,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 16:03:50,INFO,motion-642 is connected
+2023-10-07 16:03:51,DEBUG,motion-642 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 16:03:51,DEBUG,motion-642 storage is 0% full
+2023-10-07 16:03:51,INFO,motion-642 battery level is 100%
+2023-10-07 16:03:52,INFO,motion-642 FUL642GEO_642_20231007_110441.oao downloaded - 0.1 MiB, 2.6 hours, 6.9 km, 4.6 knots (500m)
+2023-10-07 16:03:52,INFO,motion-642 can be disconnected
+2023-10-07 16:03:55,DEBUG,motion-694 detected at 192.168.0.188
+2023-10-07 16:03:55,INFO,motion-694 is connected
+2023-10-07 16:03:57,DEBUG,motion-694 firmware is approved (9003 Weymouth Speed Week)
+2023-10-07 16:03:57,DEBUG,motion-694 storage is 0% full
+2023-10-07 16:03:57,INFO,motion-694 battery level is 100%
+2023-10-07 16:04:00,DEBUG,motion-663 detected at 192.168.0.168
+2023-10-07 16:04:00,INFO,motion-694 MAR694EDD_694_20231007_094219.oao downloaded - 0.0 MiB, 6.3 hours, 0.1 km, 0.0 knots (500m)
+2023-10-07 16:04:00,INFO,motion-694 can be disconnected
+2023-10-07 16:04:01,INFO,motion-663 is connected
+2023-10-07 16:04:02,DEBUG,motion-663 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 16:04:02,DEBUG,motion-663 storage is 0% full
+2023-10-07 16:04:02,INFO,motion-663 battery level is 100%
+2023-10-07 16:04:03,INFO,motion-663 RUS663ROB_663_20231007_103739.oao downloaded - 0.0 MiB, 3.8 hours, 0.1 km, 0.0 knots (500m)
+2023-10-07 16:04:03,INFO,motion-663 can be disconnected
+2023-10-07 16:04:06,DEBUG,motion-718 detected at 192.168.0.189
+2023-10-07 16:04:06,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 16:04:06,INFO,motion-718 is connected
+2023-10-07 16:04:07,DEBUG,motion-812 not accepting connections
+2023-10-07 16:04:07,DEBUG,motion-718 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 16:04:07,DEBUG,motion-718 storage is 0% full
+2023-10-07 16:04:07,INFO,motion-718 battery level is 99%
+2023-10-07 16:04:08,INFO,motion-718 TRU718STU_718_20231007_092422.oao downloaded - 0.0 MiB, 5.9 hours, 2.2 km, 4.1 knots (500m)
+2023-10-07 16:04:08,INFO,motion-718 can be disconnected
+2023-10-07 16:04:10,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 16:04:10,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 16:04:10,INFO,motion-812 is connected
+2023-10-07 16:04:10,INFO,motion-648 is connected
+2023-10-07 16:04:11,DEBUG,motion-648 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 16:04:11,DEBUG,motion-648 storage is 0% full
+2023-10-07 16:04:11,INFO,motion-648 battery level is 99%
+2023-10-07 16:04:11,DEBUG,motion-812 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 16:04:11,DEBUG,motion-812 storage is 0% full
+2023-10-07 16:04:11,INFO,motion-812 battery level is 99%
+2023-10-07 16:04:11,INFO,motion-648 LIL648MAT_648_20231007_103656.oao downloaded - 0.0 MiB, 3.1 hours, 3.9 km, 3.1 knots (500m)
+2023-10-07 16:04:11,INFO,motion-648 can be disconnected
+2023-10-07 16:04:12,INFO,motion-812 ADC812MIA_812_20231007_104556.oao downloaded - 0.0 MiB, 4.5 hours, 0.3 km, 0.0 knots (500m)
+2023-10-07 16:04:12,INFO,motion-812 can be disconnected
+2023-10-07 16:04:15,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 16:04:16,INFO,motion-816 is connected
+2023-10-07 16:04:17,DEBUG,motion-816 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 16:04:17,DEBUG,motion-816 storage is 0% full
+2023-10-07 16:04:17,INFO,motion-816 battery level is 99%
+2023-10-07 16:04:17,INFO,motion-816 PIN816JOS_816_20231007_103102.oao downloaded - 0.0 MiB, 3.1 hours, 2.8 km, 4.2 knots (500m)
+2023-10-07 16:04:17,INFO,motion-816 can be disconnected
+2023-10-07 16:04:35,DEBUG,motion-816 has been disconnected
+2023-10-07 16:04:42,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 16:04:43,DEBUG,motion-816 not accepting connections
+2023-10-07 16:04:45,DEBUG,motion-642 has been disconnected
+2023-10-07 16:04:45,DEBUG,motion-648 has been disconnected
+2023-10-07 16:04:45,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 16:04:46,DEBUG,motion-816 not accepting connections
+2023-10-07 16:04:50,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 16:04:50,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 16:04:50,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 16:04:50,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 16:04:51,INFO,motion-818 is connected
+2023-10-07 16:04:51,DEBUG,motion-642 not accepting connections
+2023-10-07 16:04:51,DEBUG,motion-648 not accepting connections
+2023-10-07 16:04:51,DEBUG,motion-816 not accepting connections
+2023-10-07 16:04:52,DEBUG,motion-818 firmware is approved (9004 Weymouth Speed Week)
+2023-10-07 16:04:52,DEBUG,motion-818 storage is 0% full
+2023-10-07 16:04:52,INFO,motion-818 battery level is 99%
+2023-10-07 16:04:53,INFO,motion-818 STA818JOH_818_20231007_102602.oao downloaded - 0.0 MiB, 5.4 hours, 8.8 km, 3.3 knots (500m)
+2023-10-07 16:04:53,INFO,motion-818 can be disconnected
+2023-10-07 16:04:55,DEBUG,motion-812 has been disconnected
+2023-10-07 16:04:55,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 16:04:55,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 16:04:55,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 16:04:56,DEBUG,motion-642 not accepting connections
+2023-10-07 16:04:56,DEBUG,motion-648 not accepting connections
+2023-10-07 16:04:56,DEBUG,motion-816 not accepting connections
+2023-10-07 16:05:03,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 16:05:03,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 16:05:03,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 16:05:03,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 16:05:04,DEBUG,motion-642 not accepting connections
+2023-10-07 16:05:04,DEBUG,motion-648 not accepting connections
+2023-10-07 16:05:04,DEBUG,motion-812 not accepting connections
+2023-10-07 16:05:04,DEBUG,motion-816 not accepting connections
+2023-10-07 16:05:05,DEBUG,motion-611 has been disconnected
+2023-10-07 16:05:05,DEBUG,motion-818 has been disconnected
+2023-10-07 16:05:05,DEBUG,motion-694 has been disconnected
+2023-10-07 16:05:05,DEBUG,motion-611 detected at 192.168.0.204
+2023-10-07 16:05:05,DEBUG,motion-642 detected at 192.168.0.198
+2023-10-07 16:05:05,DEBUG,motion-648 detected at 192.168.0.226
+2023-10-07 16:05:05,DEBUG,motion-694 detected at 192.168.0.188
+2023-10-07 16:05:05,DEBUG,motion-812 detected at 192.168.0.136
+2023-10-07 16:05:05,DEBUG,motion-816 detected at 192.168.0.128
+2023-10-07 16:05:05,DEBUG,motion-818 detected at 192.168.0.210
+2023-10-07 16:05:06,DEBUG,motion-611 not accepting connections
+2023-10-07 16:05:06,DEBUG,motion-642 not accepting connections
+2023-10-07 16:05:06,DEBUG,motion-648 not accepting connections
+2023-10-07 16:05:06,DEBUG,motion-694 not accepting connections
+2023-10-07 16:05:06,DEBUG,motion-812 not accepting connections
+2023-10-07 16:05:06,DEBUG,motion-816 not accepting connections
+2023-10-07 16:05:06,DEBUG,motion-818 not accepting connections
+2023-10-07 16:05:10,INFO,Keyboard interrupt
+2023-10-07 16:05:10,INFO,Stopping thread pools
+2023-10-07 16:05:10,DEBUG,DetectionThreadPool finished
+2023-10-07 16:05:11,DEBUG,DetectionThread #1 finished
+2023-10-07 16:05:11,DEBUG,DetectionThread #2 finished
+2023-10-07 16:05:11,DEBUG,DetectionThread #3 finished
+2023-10-07 16:05:11,DEBUG,DetectionThread #4 finished
+2023-10-07 16:05:11,DEBUG,DetectionThread #5 finished
+2023-10-07 16:05:11,DEBUG,DetectionThread #6 finished
+2023-10-07 16:05:11,DEBUG,DetectionThread #7 finished
+2023-10-07 16:05:11,DEBUG,DetectionThread #8 finished
+2023-10-07 16:05:11,DEBUG,InspectionThreadPool finished
+2023-10-07 16:05:11,DEBUG,InspectionThread #1 finished
+2023-10-07 16:05:11,DEBUG,InspectionThread #2 finished
+2023-10-07 16:05:11,DEBUG,InspectionThread #3 finished
+2023-10-07 16:05:11,DEBUG,InspectionThread #4 finished
+2023-10-07 16:05:11,DEBUG,DownloadThreadPool finished
+2023-10-07 16:05:11,DEBUG,DownloadThread #1 finished
+2023-10-07 16:05:11,DEBUG,DownloadThread #2 finished
+2023-10-07 16:05:11,DEBUG,DownloadThread #3 finished
+2023-10-07 16:05:11,DEBUG,DownloadThread #4 finished
+2023-10-07 16:05:15,DEBUG,motion-718 has been disconnected
+2023-10-07 16:05:15,DEBUG,motion-663 has been disconnected
+2023-10-07 16:05:15,DEBUG,DisconnectionThreadPool finished
+2023-10-07 16:05:15,DEBUG,DisconnectionThread #1 finished
+2023-10-07 16:05:15,DEBUG,DisconnectionThread #2 finished
+2023-10-07 16:05:15,DEBUG,DisconnectionThread #3 finished
+2023-10-07 16:05:15,DEBUG,DisconnectionThread #4 finished
+2023-10-07 16:05:15,DEBUG,DisconnectionThread #5 finished
+2023-10-07 16:05:15,DEBUG,DisconnectionThread #6 finished
+2023-10-07 16:05:15,DEBUG,DisconnectionThread #7 finished
+2023-10-07 16:05:15,DEBUG,DisconnectionThread #8 finished
+2023-10-07 16:05:15,INFO,Thread pools stopped

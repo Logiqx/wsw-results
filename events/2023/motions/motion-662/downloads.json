@@ -1,1 +1,15 @@
-{}
+{
+  "CAR662DAN_662_20231007_092510.oao": {
+    "motion_file": "/logs/2023/10/0662_2023-10-07-0925.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/CAR662DAN_662_20231007_092510.oao",
+    "size": 250720,
+    "start_date": 1696667110000,
+    "end_date": 1696689660000,
+    "duration": 22550000,
+    "distance": 19343026,
+    "2s_best": 10018,
+    "10s_best": 9817,
+    "500m_best": 8646,
+    "status": "completed"
+  }
+}

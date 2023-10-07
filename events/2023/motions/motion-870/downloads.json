@@ -1,0 +1,15 @@
+{
+  "PEA870ZAC_870_20231007_102332.oao": {
+    "motion_file": "/logs/2023/10/0870_2023-10-07-1023.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/PEA870ZAC_870_20231007_102332.oao",
+    "size": 220716,
+    "start_date": 1696670612000,
+    "end_date": 1696688116000,
+    "duration": 17504000,
+    "distance": 7803331,
+    "2s_best": 12211,
+    "10s_best": 11996,
+    "500m_best": 10841,
+    "status": "completed"
+  }
+}

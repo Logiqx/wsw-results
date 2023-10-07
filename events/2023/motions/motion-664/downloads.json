@@ -1,1 +1,15 @@
-{}
+{
+  "GOR664DEN_664_20231007_103454.oao": {
+    "motion_file": "/logs/2023/10/0664_2023-10-07-1034.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/GOR664DEN_664_20231007_103454.oao",
+    "size": 1500020,
+    "start_date": 1696671294000,
+    "end_date": 1696692024000,
+    "duration": 20730000,
+    "distance": 56937884,
+    "2s_best": 12095,
+    "10s_best": 11585,
+    "500m_best": 11212,
+    "status": "completed"
+  }
+}

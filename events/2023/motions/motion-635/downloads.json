@@ -102,5 +102,18 @@
     "10s_best": 17733,
     "500m_best": 16782,
     "status": "completed"
+  },
+  "BAT635TIM_635_20231007_093710.oao": {
+    "motion_file": "/logs/2023/10/0635_2023-10-07-0937.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/BAT635TIM_635_20231007_093710.oao",
+    "size": 1651652,
+    "start_date": 1696667830000,
+    "end_date": 1696689762000,
+    "duration": 21932000,
+    "distance": 61195156,
+    "2s_best": 12507,
+    "10s_best": 12236,
+    "500m_best": 11855,
+    "status": "completed"
   }
 }

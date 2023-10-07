@@ -1,1 +1,15 @@
-{}
+{
+  "WAD717ALF_717_20231007_102709.oao": {
+    "motion_file": "/logs/2023/10/0717_2023-10-07-1027.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/WAD717ALF_717_20231007_102709.oao",
+    "size": 2126204,
+    "start_date": 1696670829000,
+    "end_date": 1696685062000,
+    "duration": 14233000,
+    "distance": 84029371,
+    "2s_best": 32070,
+    "10s_best": 31840,
+    "500m_best": 31493,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "OGO869FIN_869_20231007_095248.oao": {
+    "motion_file": "/logs/2023/10/0869_2023-10-07-0952.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/OGO869FIN_869_20231007_095248.oao",
+    "size": 1621856,
+    "start_date": 1696668768000,
+    "end_date": 1696684454000,
+    "duration": 15686000,
+    "distance": 51159801,
+    "2s_best": 11373,
+    "10s_best": 11007,
+    "500m_best": 10631,
+    "status": "completed"
+  }
+}

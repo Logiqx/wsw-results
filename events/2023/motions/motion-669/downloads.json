@@ -1,1 +1,15 @@
-{}
+{
+  "HAR669SCO_669_20231007_104610.oao": {
+    "motion_file": "/logs/2023/10/0669_2023-10-07-1046.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/HAR669SCO_669_20231007_104610.oao",
+    "size": 1435904,
+    "start_date": 1696671970000,
+    "end_date": 1696687542000,
+    "duration": 15572000,
+    "distance": 54564828,
+    "2s_best": 11806,
+    "10s_best": 11631,
+    "500m_best": 11420,
+    "status": "completed"
+  }
+}

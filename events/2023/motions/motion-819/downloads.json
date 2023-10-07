@@ -1,0 +1,15 @@
+{
+  "YOR819JAC_819_20231007_092256.oao": {
+    "motion_file": "/logs/2023/10/0819_2023-10-07-0922.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/YOR819JAC_819_20231007_092256.oao",
+    "size": 245052,
+    "start_date": 1696666976000,
+    "end_date": 1696686924000,
+    "duration": 19948000,
+    "distance": 7275676,
+    "2s_best": 6951,
+    "10s_best": 6575,
+    "500m_best": 3459,
+    "status": "completed"
+  }
+}

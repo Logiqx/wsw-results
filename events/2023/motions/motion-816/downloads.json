@@ -1,0 +1,15 @@
+{
+  "PIN816JOS_816_20231007_103102.oao": {
+    "motion_file": "/logs/2023/10/0816_2023-10-07-1031.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/PIN816JOS_816_20231007_103102.oao",
+    "size": 11000,
+    "start_date": 1696671062000,
+    "end_date": 1696682350000,
+    "duration": 11288000,
+    "distance": 2826925,
+    "2s_best": 3236,
+    "10s_best": 2515,
+    "500m_best": 2137,
+    "status": "completed"
+  }
+}

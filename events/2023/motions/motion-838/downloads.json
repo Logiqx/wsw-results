@@ -1,0 +1,15 @@
+{
+  "ADC838MIA_838_20231007_104540.oao": {
+    "motion_file": "/logs/2023/10/0838_2023-10-07-1045.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/ADC838MIA_838_20231007_104540.oao",
+    "size": 316760,
+    "start_date": 1696671940000,
+    "end_date": 1696687760000,
+    "duration": 15820000,
+    "distance": 11138841,
+    "2s_best": 9961,
+    "10s_best": 9799,
+    "500m_best": 9418,
+    "status": "completed"
+  }
+}

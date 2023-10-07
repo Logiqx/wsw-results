@@ -1,0 +1,15 @@
+{
+  "MOU823EME_823_20231007_093138.oao": {
+    "motion_file": "/logs/2023/10/0823_2023-10-07-0931.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/MOU823EME_823_20231007_093138.oao",
+    "size": 1164568,
+    "start_date": 1696667498000,
+    "end_date": 1696691562000,
+    "duration": 24064000,
+    "distance": 46987732,
+    "2s_best": 13711,
+    "10s_best": 13499,
+    "500m_best": 13258,
+    "status": "completed"
+  }
+}

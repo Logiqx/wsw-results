@@ -1,3 +1,25 @@
 {
-  "logs": []
+  "logs": [
+    {
+      "file": "/logs/2023/10/0607_2023-10-07-1025.oao",
+      "size": 852308,
+      "timezone": 60,
+      "mode": 0,
+      "start_date": 1696670702000,
+      "end_date": 1696690936000,
+      "duration": 20234000,
+      "distance": 38327541,
+      "2s_best": 13663,
+      "10s_best": 13421,
+      "500m_best": 13094,
+      "1852m_best": 10396,
+      "a500m_best": 9521,
+      "1h_best": 3996,
+      "spot": "",
+      "wind": "",
+      "board": "",
+      "sail": "",
+      "fin": ""
+    }
+  ]
 }

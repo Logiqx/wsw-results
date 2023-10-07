@@ -1,1 +1,15 @@
-{}
+{
+  "SAL724MAR_724_20231007_102632.oao": {
+    "motion_file": "/logs/2023/10/0724_2023-10-07-1026.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/SAL724MAR_724_20231007_102632.oao",
+    "size": 1263472,
+    "start_date": 1696670792000,
+    "end_date": 1696690198000,
+    "duration": 19406000,
+    "distance": 31867334,
+    "2s_best": 7745,
+    "10s_best": 7581,
+    "500m_best": 7131,
+    "status": "completed"
+  }
+}

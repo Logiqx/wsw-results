@@ -1,1 +1,15 @@
-{}
+{
+  "MAG661SIM_661_20231007_093118.oao": {
+    "motion_file": "/logs/2023/10/0661_2023-10-07-0931.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/MAG661SIM_661_20231007_093118.oao",
+    "size": 755640,
+    "start_date": 1696667478000,
+    "end_date": 1696690232000,
+    "duration": 22754000,
+    "distance": 26027968,
+    "2s_best": 10548,
+    "10s_best": 10325,
+    "500m_best": 9924,
+    "status": "completed"
+  }
+}

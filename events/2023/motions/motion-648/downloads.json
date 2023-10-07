@@ -11,5 +11,18 @@
     "10s_best": 18061,
     "500m_best": 17299,
     "status": "completed"
+  },
+  "LIL648MAT_648_20231007_103656.oao": {
+    "motion_file": "/logs/2023/10/0648_2023-10-07-1036.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/LIL648MAT_648_20231007_103656.oao",
+    "size": 10064,
+    "start_date": 1696671416000,
+    "end_date": 1696682598000,
+    "duration": 11182000,
+    "distance": 3924584,
+    "2s_best": 3347,
+    "10s_best": 2753,
+    "500m_best": 1574,
+    "status": "completed"
   }
 }

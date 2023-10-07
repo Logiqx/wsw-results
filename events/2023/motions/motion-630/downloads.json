@@ -11,5 +11,18 @@
     "10s_best": 21273,
     "500m_best": 19498,
     "status": "completed"
+  },
+  "KNI630FIN_630_20231007_102916.oao": {
+    "motion_file": "/logs/2023/10/0630_2023-10-07-1029.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/KNI630FIN_630_20231007_102916.oao",
+    "size": 489504,
+    "start_date": 1696670956000,
+    "end_date": 1696687856000,
+    "duration": 16900000,
+    "distance": 17900613,
+    "2s_best": 11852,
+    "10s_best": 11534,
+    "500m_best": 11402,
+    "status": "completed"
   }
 }

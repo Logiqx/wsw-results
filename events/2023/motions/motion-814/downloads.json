@@ -1,0 +1,15 @@
+{
+  "SPE814NEI_814_20231007_102448.oao": {
+    "motion_file": "/logs/2023/10/0814_2023-10-07-1024.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/SPE814NEI_814_20231007_102448.oao",
+    "size": 951056,
+    "start_date": 1696670688000,
+    "end_date": 1696690026000,
+    "duration": 19338000,
+    "distance": 32985355,
+    "2s_best": 24181,
+    "10s_best": 23194,
+    "500m_best": 21940,
+    "status": "completed"
+  }
+}

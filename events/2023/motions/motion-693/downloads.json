@@ -1,1 +1,15 @@
-{}
+{
+  "PER693SIM_693_20231007_103306.oao": {
+    "motion_file": "/logs/2023/10/0693_2023-10-07-1033.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/PER693SIM_693_20231007_103306.oao",
+    "size": 1918464,
+    "start_date": 1696671186000,
+    "end_date": 1696690202000,
+    "duration": 19016000,
+    "distance": 57898483,
+    "2s_best": 10615,
+    "10s_best": 10344,
+    "500m_best": 9974,
+    "status": "completed"
+  }
+}

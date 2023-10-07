@@ -1,1 +1,15 @@
-{}
+{
+  "MAR694EDD_694_20231007_094219.oao": {
+    "motion_file": "/logs/2023/10/0694_2023-10-07-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/MAR694EDD_694_20231007_094219.oao",
+    "size": 14380,
+    "start_date": 1696668139000,
+    "end_date": 1696690876000,
+    "duration": 22737000,
+    "distance": 135694,
+    "2s_best": 2393,
+    "10s_best": 1811,
+    "500m_best": 0,
+    "status": "completed"
+  }
+}

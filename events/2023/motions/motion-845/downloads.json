@@ -1,0 +1,15 @@
+{
+  "STU845AND_845_20231007_093946.oao": {
+    "motion_file": "/logs/2023/10/0845_2023-10-07-0939.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/STU845AND_845_20231007_093946.oao",
+    "size": 166272,
+    "start_date": 1696667986000,
+    "end_date": 1696690856000,
+    "duration": 22870000,
+    "distance": 4444624,
+    "2s_best": 8102,
+    "10s_best": 7790,
+    "500m_best": 7519,
+    "status": "completed"
+  }
+}

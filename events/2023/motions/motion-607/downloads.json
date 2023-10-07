@@ -1,1 +1,15 @@
-{}
+{
+  "GEO607MIC_607_20231007_102502.oao": {
+    "motion_file": "/logs/2023/10/0607_2023-10-07-1025.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/GEO607MIC_607_20231007_102502.oao",
+    "size": 852308,
+    "start_date": 1696670702000,
+    "end_date": 1696690936000,
+    "duration": 20234000,
+    "distance": 38327541,
+    "2s_best": 13663,
+    "10s_best": 13421,
+    "500m_best": 13094,
+    "status": "completed"
+  }
+}

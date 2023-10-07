@@ -1,0 +1,15 @@
+{
+  "YEL866SUL_866_20231007_093602.oao": {
+    "motion_file": "/logs/2023/10/0866_2023-10-07-0936.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/YEL866SUL_866_20231007_093602.oao",
+    "size": 2031616,
+    "start_date": 1696667762000,
+    "end_date": 1696687572000,
+    "duration": 19810000,
+    "distance": 67775215,
+    "2s_best": 12377,
+    "10s_best": 12224,
+    "500m_best": 11922,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "STA867SCO_867_20231007_102940.oao": {
+    "motion_file": "/logs/2023/10/0867_2023-10-07-1029.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/STA867SCO_867_20231007_102940.oao",
+    "size": 1527372,
+    "start_date": 1696670980000,
+    "end_date": 1696690292000,
+    "duration": 19312000,
+    "distance": 66097308,
+    "2s_best": 14277,
+    "10s_best": 13999,
+    "500m_best": 13853,
+    "status": "completed"
+  }
+}

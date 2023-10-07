@@ -1,1 +1,15 @@
-{}
+{
+  "TRU718STU_718_20231007_092422.oao": {
+    "motion_file": "/logs/2023/10/0718_2023-10-07-0924.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/TRU718STU_718_20231007_092422.oao",
+    "size": 14536,
+    "start_date": 1696667062000,
+    "end_date": 1696688224000,
+    "duration": 21162000,
+    "distance": 2176571,
+    "2s_best": 3398,
+    "10s_best": 3007,
+    "500m_best": 2094,
+    "status": "completed"
+  }
+}

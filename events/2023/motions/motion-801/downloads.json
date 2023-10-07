@@ -1,0 +1,15 @@
+{
+  "WIL801DAV_801_20231007_092010.oao": {
+    "motion_file": "/logs/2023/10/0801_2023-10-07-0920.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/WIL801DAV_801_20231007_092010.oao",
+    "size": 1392276,
+    "start_date": 1696666810000,
+    "end_date": 1696689972000,
+    "duration": 23162000,
+    "distance": 44900370,
+    "2s_best": 24191,
+    "10s_best": 23210,
+    "500m_best": 21937,
+    "status": "completed"
+  }
+}

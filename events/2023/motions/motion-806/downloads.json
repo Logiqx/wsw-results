@@ -1,0 +1,15 @@
+{
+  "JEN806JEN_806_20231007_092710.oao": {
+    "motion_file": "/logs/2023/10/0806_2023-10-07-0927.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/JEN806JEN_806_20231007_092710.oao",
+    "size": 298300,
+    "start_date": 1696667230000,
+    "end_date": 1696682548000,
+    "duration": 15318000,
+    "distance": 8855164,
+    "2s_best": 7873,
+    "10s_best": 7205,
+    "500m_best": 3109,
+    "status": "completed"
+  }
+}

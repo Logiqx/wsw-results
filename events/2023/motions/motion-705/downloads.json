@@ -1,1 +1,15 @@
-{}
+{
+  "HOR705PHI_705_20231007_102525.oao": {
+    "motion_file": "/logs/2023/10/0705_2023-10-07-1025.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/HOR705PHI_705_20231007_102525.oao",
+    "size": 1380472,
+    "start_date": 1696670725000,
+    "end_date": 1696690090000,
+    "duration": 19365000,
+    "distance": 41288349,
+    "2s_best": 24018,
+    "10s_best": 23265,
+    "500m_best": 22265,
+    "status": "completed"
+  }
+}
