@@ -1,0 +1,15 @@
+{
+  "VAN861PAT_861_20231007_102750.oao": {
+    "motion_file": "/logs/2023/10/0861_2023-10-07-1027.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/VAN861PAT_861_20231007_102750.oao",
+    "size": 160344,
+    "start_date": 1696670870000,
+    "end_date": 1696775346000,
+    "duration": 104476000,
+    "distance": 6661635,
+    "2s_best": 19604,
+    "10s_best": 19519,
+    "500m_best": 19276,
+    "status": "completed"
+  }
+}

@@ -11,5 +11,18 @@
     "10s_best": 3424,
     "500m_best": 2669,
     "status": "completed"
+  },
+  "OWE668AND_668_20231010_094326.oao": {
+    "motion_file": "/logs/2023/10/0668_2023-10-10-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/OWE668AND_668_20231010_094326.oao",
+    "size": 939304,
+    "start_date": 1696927406000,
+    "end_date": 1696947554000,
+    "duration": 20148000,
+    "distance": 26457662,
+    "2s_best": 12086,
+    "10s_best": 11797,
+    "500m_best": 11499,
+    "status": "completed"
   }
 }

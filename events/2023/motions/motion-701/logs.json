@@ -20,6 +20,48 @@
       "board": "",
       "sail": "",
       "fin": ""
+    },
+    {
+      "file": "/logs/2023/10/0701_2023-10-06-1217.oao",
+      "size": 191596,
+      "timezone": 60,
+      "mode": 0,
+      "start_date": 1696591052000,
+      "end_date": 1696594982000,
+      "duration": 3930000,
+      "distance": 9573732,
+      "2s_best": 15645,
+      "10s_best": 15559,
+      "500m_best": 15325,
+      "1852m_best": 14798,
+      "a500m_best": 10882,
+      "1h_best": 0,
+      "spot": "",
+      "wind": "",
+      "board": "",
+      "sail": "",
+      "fin": ""
+    },
+    {
+      "file": "/logs/2023/10/0701_2023-10-10-0945.oao",
+      "size": 263564,
+      "timezone": 60,
+      "mode": 0,
+      "start_date": 1696927526000,
+      "end_date": 1696952028000,
+      "duration": 24502000,
+      "distance": 14113491,
+      "2s_best": 12562,
+      "10s_best": 12394,
+      "500m_best": 10609,
+      "1852m_best": 2344,
+      "a500m_best": 0,
+      "1h_best": 0,
+      "spot": "",
+      "wind": "",
+      "board": "",
+      "sail": "",
+      "fin": ""
     }
   ]
 }

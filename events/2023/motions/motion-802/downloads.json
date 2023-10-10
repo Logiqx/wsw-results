@@ -11,5 +11,18 @@
     "10s_best": 9893,
     "500m_best": 9721,
     "status": "completed"
+  },
+  "MCC802MAR_802_20231010_111709.oao": {
+    "motion_file": "/logs/2023/10/0802_2023-10-10-1117.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/MCC802MAR_802_20231010_111709.oao",
+    "size": 456172,
+    "start_date": 1696933029000,
+    "end_date": 1696951170000,
+    "duration": 18141000,
+    "distance": 18862250,
+    "2s_best": 11634,
+    "10s_best": 11424,
+    "500m_best": 10781,
+    "status": "completed"
   }
 }

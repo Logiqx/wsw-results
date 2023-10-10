@@ -1,0 +1,15 @@
+{
+  "DAV855ZAR_855_20231010_094536.oao": {
+    "motion_file": "/logs/2023/10/0855_2023-10-10-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/DAV855ZAR_855_20231010_094536.oao",
+    "size": 367460,
+    "start_date": 1696927536000,
+    "end_date": 1696949464000,
+    "duration": 21928000,
+    "distance": 14196115,
+    "2s_best": 8962,
+    "10s_best": 8800,
+    "500m_best": 8593,
+    "status": "completed"
+  }
+}

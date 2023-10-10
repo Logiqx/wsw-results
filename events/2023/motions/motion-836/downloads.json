@@ -1,0 +1,15 @@
+{
+  "ADA836JOE_836_20231010_094532.oao": {
+    "motion_file": "/logs/2023/10/0836_2023-10-10-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/ADA836JOE_836_20231010_094532.oao",
+    "size": 1121720,
+    "start_date": 1696927532000,
+    "end_date": 1696951294000,
+    "duration": 23762000,
+    "distance": 46738119,
+    "2s_best": 14236,
+    "10s_best": 14017,
+    "500m_best": 13720,
+    "status": "completed"
+  }
+}

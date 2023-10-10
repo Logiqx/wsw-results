@@ -11,5 +11,31 @@
     "10s_best": 23210,
     "500m_best": 21937,
     "status": "completed"
+  },
+  "WIL801DAV_801_20231009_154610.oao": {
+    "motion_file": "/logs/2023/10/0801_2023-10-09-1546.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231009/WIL801DAV_801_20231009_154610.oao",
+    "size": 1692,
+    "start_date": 1696862770000,
+    "end_date": 1696864168000,
+    "duration": 1398000,
+    "distance": 381190,
+    "2s_best": 1478,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "WIL801DAV_801_20231010_090740.oao": {
+    "motion_file": "/logs/2023/10/0801_2023-10-10-0907.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/WIL801DAV_801_20231010_090740.oao",
+    "size": 2197288,
+    "start_date": 1696925260000,
+    "end_date": 1696951444000,
+    "duration": 26184000,
+    "distance": 77785267,
+    "2s_best": 22227,
+    "10s_best": 22145,
+    "500m_best": 21666,
+    "status": "completed"
   }
 }

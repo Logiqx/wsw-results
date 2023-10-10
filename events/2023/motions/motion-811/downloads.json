@@ -11,5 +11,18 @@
     "10s_best": 10515,
     "500m_best": 10200,
     "status": "completed"
+  },
+  "THO811RUS_811_20231010_094318.oao": {
+    "motion_file": "/logs/2023/10/0811_2023-10-10-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/THO811RUS_811_20231010_094318.oao",
+    "size": 1664132,
+    "start_date": 1696927398000,
+    "end_date": 1696951892000,
+    "duration": 24494000,
+    "distance": 52541451,
+    "2s_best": 13351,
+    "10s_best": 13148,
+    "500m_best": 12838,
+    "status": "completed"
   }
 }

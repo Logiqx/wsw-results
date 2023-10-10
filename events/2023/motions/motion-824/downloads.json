@@ -1,0 +1,15 @@
+{
+  "DAV824STE_824_20231010_094648.oao": {
+    "motion_file": "/logs/2023/10/0824_2023-10-10-0946.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/DAV824STE_824_20231010_094648.oao",
+    "size": 931712,
+    "start_date": 1696927608000,
+    "end_date": 1696948506000,
+    "duration": 20898000,
+    "distance": 33040217,
+    "2s_best": 25285,
+    "10s_best": 23905,
+    "500m_best": 22407,
+    "status": "completed"
+  }
+}

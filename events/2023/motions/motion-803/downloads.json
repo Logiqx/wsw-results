@@ -11,5 +11,18 @@
     "10s_best": 10724,
     "500m_best": 10320,
     "status": "completed"
+  },
+  "TRU803JOE_803_20231010_094702.oao": {
+    "motion_file": "/logs/2023/10/0803_2023-10-10-0947.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/TRU803JOE_803_20231010_094702.oao",
+    "size": 804884,
+    "start_date": 1696927622000,
+    "end_date": 1696948636000,
+    "duration": 21014000,
+    "distance": 30064558,
+    "2s_best": 12150,
+    "10s_best": 11943,
+    "500m_best": 11292,
+    "status": "completed"
   }
 }

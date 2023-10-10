@@ -11,5 +11,18 @@
     "10s_best": 22293,
     "500m_best": 21770,
     "status": "completed"
+  },
+  "VAS821STA_821_20231010_095138.oao": {
+    "motion_file": "/logs/2023/10/0821_2023-10-10-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/VAS821STA_821_20231010_095138.oao",
+    "size": 1195144,
+    "start_date": 1696927898000,
+    "end_date": 1696951487000,
+    "duration": 23589000,
+    "distance": 44436635,
+    "2s_best": 20376,
+    "10s_best": 20203,
+    "500m_best": 19797,
+    "status": "completed"
   }
 }
