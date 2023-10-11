@@ -82,9 +82,15 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 3240,82,869,2023-10-07,2023-10-08,OGO869FIN,Finn,O'Gorman,Wingboard,Amateur,Youth W/E
 3242,84,871,2023-10-07,2023-10-13,COL871ANN,Anna,Collenette,Wingboard,Amateur,2 Days
 3243,85,872,2023-10-07,2023-10-13,COL872AND,Andrew,Collenette,Wingboard,Amateur,2 Days
-2244,86,873,2023-10-07,2023-10-13,EDE873MAR,Markus,Edegran,Kiteboard,Open Class,2 Days
+2244,86,0,2023-10-07,2023-10-13,EDE0MAR,Markus,Edegran,Kiteboard,Open Class,2 Days
 1245,87,861,2023-10-07,2023-10-13,VAN861PAT,Patrick,Van Hoof,Sailboard,Pro-Fleet,All Week
 1246,88,819,2023-10-07,2023-10-08,YOR819JAC,Jack James,York,Sailboard,Amateur,Youth W/E
 3247,89,858,2023-10-07,2023-10-13,CRI858GUY,Guy,Cribb,Wingboard,Pro-Fleet,2 Days
 3248,90,855,2023-10-07,2023-10-13,DAV855ZAR,Zara,Davis,Wingboard,Amateur,All Week
 3249,91,857,2023-10-07,2023-10-13,STA857KUB,kuba,staite,Wingboard,Amateur,2 Days
+3250,92,0,2023-10-07,2023-10-13,OLD0FRE,Freddie,Oldfield,Wingboard,Pro-Fleet,2 Days
+3251,93,853,2023-10-07,2023-10-13,CAR853MAR,Martin,Carter,Wingboard,Amateur,2 Days
+3252,94,0,2023-10-07,2023-10-13,DAR0HEL,Helena,Darvelid,Wingboard,Amateur,2 Days
+2244,86,873,2023-10-07,2023-10-07,EDE873MAR,Markus,Edegran,Kiteboard,Open Class,2 Days
+3250,92,873,2023-10-11,2023-10-13,OLD873FRE,Freddie,Oldfield,Wingboard,Pro-Fleet,2 Days
+3252,94,869,2023-10-11,2023-10-13,DAR869HEL,Helena,Darvelid,Wingboard,Amateur,2 Days
