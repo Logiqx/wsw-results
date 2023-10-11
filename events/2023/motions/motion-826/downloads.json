@@ -1,0 +1,15 @@
+{
+  "YEL826LIL_826_20231011_132232.oao": {
+    "motion_file": "/logs/2023/10/0826_2023-10-11-1322.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/YEL826LIL_826_20231011_132232.oao",
+    "size": 736140,
+    "start_date": 1697026952000,
+    "end_date": 1697035508000,
+    "duration": 8556000,
+    "distance": 22999147,
+    "2s_best": 13187,
+    "10s_best": 12861,
+    "500m_best": 12547,
+    "status": "completed"
+  }
+}

@@ -1,1 +1,15 @@
-{}
+{
+  "SAN665SIM_665_20231011_095508.oao": {
+    "motion_file": "/logs/2023/10/0665_2023-10-11-0955.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/SAN665SIM_665_20231011_095508.oao",
+    "size": 1170808,
+    "start_date": 1697014508000,
+    "end_date": 1697037036000,
+    "duration": 22528000,
+    "distance": 39581568,
+    "2s_best": 10656,
+    "10s_best": 10351,
+    "500m_best": 10099,
+    "status": "completed"
+  }
+}

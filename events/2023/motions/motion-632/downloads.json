@@ -37,5 +37,18 @@
     "10s_best": 10595,
     "500m_best": 10113,
     "status": "completed"
+  },
+  "CRO632PET_632_20231011_095440.oao": {
+    "motion_file": "/logs/2023/10/0632_2023-10-11-0954.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/CRO632PET_632_20231011_095440.oao",
+    "size": 1440844,
+    "start_date": 1697014480000,
+    "end_date": 1697033218000,
+    "duration": 18738000,
+    "distance": 50338658,
+    "2s_best": 13505,
+    "10s_best": 13318,
+    "500m_best": 12951,
+    "status": "completed"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "DIC854ROD_854_20231011_095146.oao": {
+    "motion_file": "/logs/2023/10/0854_2023-10-11-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/DIC854ROD_854_20231011_095146.oao",
+    "size": 1424360,
+    "start_date": 1697014306000,
+    "end_date": 1697036154000,
+    "duration": 21848000,
+    "distance": 52831611,
+    "2s_best": 13733,
+    "10s_best": 13530,
+    "500m_best": 12772,
+    "status": "completed"
+  }
+}

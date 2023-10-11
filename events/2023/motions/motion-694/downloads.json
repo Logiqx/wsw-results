@@ -24,5 +24,18 @@
     "10s_best": 2956,
     "500m_best": 2442,
     "status": "completed"
+  },
+  "MAR694EDD_694_20231011_095540.oao": {
+    "motion_file": "/logs/2023/10/0694_2023-10-11-0955.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/MAR694EDD_694_20231011_095540.oao",
+    "size": 582220,
+    "start_date": 1697014540000,
+    "end_date": 1697036740000,
+    "duration": 22200000,
+    "distance": 22969990,
+    "2s_best": 14754,
+    "10s_best": 14496,
+    "500m_best": 13832,
+    "status": "completed"
   }
 }

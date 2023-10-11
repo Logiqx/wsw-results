@@ -128,5 +128,18 @@
     "10s_best": 13658,
     "500m_best": 13162,
     "status": "completed"
+  },
+  "PEA633ZAC_633_20231011_094932.oao": {
+    "motion_file": "/logs/2023/10/0633_2023-10-11-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/PEA633ZAC_633_20231011_094932.oao",
+    "size": 1743848,
+    "start_date": 1697014172000,
+    "end_date": 1697037920000,
+    "duration": 23748000,
+    "distance": 67237380,
+    "2s_best": 15234,
+    "10s_best": 14940,
+    "500m_best": 14593,
+    "status": "completed"
   }
 }

@@ -24,5 +24,18 @@
     "10s_best": 22240,
     "500m_best": 19689,
     "status": "completed"
+  },
+  "PIN816JOS_816_20231011_094956.oao": {
+    "motion_file": "/logs/2023/10/0816_2023-10-11-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/PIN816JOS_816_20231011_094956.oao",
+    "size": 842480,
+    "start_date": 1697014196000,
+    "end_date": 1697038064000,
+    "duration": 23868000,
+    "distance": 31805342,
+    "2s_best": 13621,
+    "10s_best": 13451,
+    "500m_best": 13234,
+    "status": "completed"
   }
 }

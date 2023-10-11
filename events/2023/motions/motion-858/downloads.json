@@ -1,0 +1,15 @@
+{
+  "CRI858GUY_858_20231011_100701.oao": {
+    "motion_file": "/logs/2023/10/0858_2023-10-11-1007.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/CRI858GUY_858_20231011_100701.oao",
+    "size": 1891632,
+    "start_date": 1697015221000,
+    "end_date": 1697035080000,
+    "duration": 19859000,
+    "distance": 72182222,
+    "2s_best": 14631,
+    "10s_best": 14300,
+    "500m_best": 13873,
+    "status": "completed"
+  }
+}

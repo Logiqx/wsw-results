@@ -37,5 +37,18 @@
     "10s_best": 12787,
     "500m_best": 12359,
     "status": "completed"
+  },
+  "CON643GAR_643_20231011_095140.oao": {
+    "motion_file": "/logs/2023/10/0643_2023-10-11-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/CON643GAR_643_20231011_095140.oao",
+    "size": 989536,
+    "start_date": 1697014300000,
+    "end_date": 1697037350000,
+    "duration": 23050000,
+    "distance": 45382900,
+    "2s_best": 16320,
+    "10s_best": 16056,
+    "500m_best": 15162,
+    "status": "completed"
   }
 }

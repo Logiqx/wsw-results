@@ -24,5 +24,18 @@
     "10s_best": 18461,
     "500m_best": 18199,
     "status": "completed"
+  },
+  "SPE814NEI_814_20231011_114020.oao": {
+    "motion_file": "/logs/2023/10/0814_2023-10-11-1140.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/SPE814NEI_814_20231011_114020.oao",
+    "size": 729120,
+    "start_date": 1697020820000,
+    "end_date": 1697032350000,
+    "duration": 11530000,
+    "distance": 25515672,
+    "2s_best": 18464,
+    "10s_best": 18351,
+    "500m_best": 17922,
+    "status": "completed"
   }
 }

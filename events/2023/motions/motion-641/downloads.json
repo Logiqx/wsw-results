@@ -89,5 +89,18 @@
     "10s_best": 11628,
     "500m_best": 11397,
     "status": "completed"
+  },
+  "CUN641CHR_641_20231011_091416.oao": {
+    "motion_file": "/logs/2023/10/0641_2023-10-11-0914.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/CUN641CHR_641_20231011_091416.oao",
+    "size": 3547000,
+    "start_date": 1697012056000,
+    "end_date": 1697037256000,
+    "duration": 25200000,
+    "distance": 110304481,
+    "2s_best": 12289,
+    "10s_best": 11813,
+    "500m_best": 11493,
+    "status": "completed"
   }
 }

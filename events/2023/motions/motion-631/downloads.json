@@ -89,5 +89,18 @@
     "10s_best": 12760,
     "500m_best": 12179,
     "status": "completed"
+  },
+  "OLI631JOH_631_20231011_095432.oao": {
+    "motion_file": "/logs/2023/10/0631_2023-10-11-0954.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/OLI631JOH_631_20231011_095432.oao",
+    "size": 1624144,
+    "start_date": 1697014472000,
+    "end_date": 1697035460000,
+    "duration": 20988000,
+    "distance": 62131827,
+    "2s_best": 14438,
+    "10s_best": 14284,
+    "500m_best": 14000,
+    "status": "completed"
   }
 }

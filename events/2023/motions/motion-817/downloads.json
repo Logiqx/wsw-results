@@ -11,5 +11,18 @@
     "10s_best": 11306,
     "500m_best": 10805,
     "status": "completed"
+  },
+  "LON817ROB_817_20231011_100526.oao": {
+    "motion_file": "/logs/2023/10/0817_2023-10-11-1005.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/LON817ROB_817_20231011_100526.oao",
+    "size": 962548,
+    "start_date": 1697015126000,
+    "end_date": 1697032020000,
+    "duration": 16894000,
+    "distance": 23872032,
+    "2s_best": 12223,
+    "10s_best": 11251,
+    "500m_best": 10893,
+    "status": "completed"
   }
 }

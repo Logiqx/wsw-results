@@ -24,5 +24,18 @@
     "10s_best": 13127,
     "500m_best": 12790,
     "status": "completed"
+  },
+  "KIR810JON_810_20231011_094920.oao": {
+    "motion_file": "/logs/2023/10/0810_2023-10-11-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/KIR810JON_810_20231011_094920.oao",
+    "size": 1114752,
+    "start_date": 1697014160000,
+    "end_date": 1697037212000,
+    "duration": 23052000,
+    "distance": 36611685,
+    "2s_best": 14973,
+    "10s_best": 14310,
+    "500m_best": 13667,
+    "status": "completed"
   }
 }

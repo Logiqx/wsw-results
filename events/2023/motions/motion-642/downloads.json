@@ -115,5 +115,18 @@
     "10s_best": 13298,
     "500m_best": 12755,
     "status": "completed"
+  },
+  "FUL642GEO_642_20231011_114909.oao": {
+    "motion_file": "/logs/2023/10/0642_2023-10-11-1149.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/FUL642GEO_642_20231011_114909.oao",
+    "size": 695112,
+    "start_date": 1697021349000,
+    "end_date": 1697038230000,
+    "duration": 16881000,
+    "distance": 25452913,
+    "2s_best": 14772,
+    "10s_best": 14354,
+    "500m_best": 14103,
+    "status": "completed"
   }
 }

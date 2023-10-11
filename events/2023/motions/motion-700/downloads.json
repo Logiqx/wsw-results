@@ -11,5 +11,18 @@
     "10s_best": 7790,
     "500m_best": 7389,
     "status": "completed"
+  },
+  "WAT700STE_700_20231011_095340.oao": {
+    "motion_file": "/logs/2023/10/0700_2023-10-11-0953.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/WAT700STE_700_20231011_095340.oao",
+    "size": 719292,
+    "start_date": 1697014420000,
+    "end_date": 1697032918000,
+    "duration": 18498000,
+    "distance": 25256895,
+    "2s_best": 13932,
+    "10s_best": 13523,
+    "500m_best": 12615,
+    "status": "completed"
   }
 }

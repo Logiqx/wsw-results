@@ -141,5 +141,18 @@
     "10s_best": 7365,
     "500m_best": 6418,
     "status": "completed"
+  },
+  "RAM617SIM_617_20231011_095517.oao": {
+    "motion_file": "/logs/2023/10/0617_2023-10-11-0955.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/RAM617SIM_617_20231011_095517.oao",
+    "size": 1067744,
+    "start_date": 1697014517000,
+    "end_date": 1697038844000,
+    "duration": 24327000,
+    "distance": 33153299,
+    "2s_best": 13403,
+    "10s_best": 13197,
+    "500m_best": 12598,
+    "status": "completed"
   }
 }
