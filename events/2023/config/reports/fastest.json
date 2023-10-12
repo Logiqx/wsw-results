@@ -60,7 +60,7 @@
       "Filter": "Craft Type=Kiteboard,Status=Freeride"
     },
     {
-      "Title": "Fastest First Time Kiteboards",
+      "Title": "Fastest First Time Freeride Kiteboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer=Y"
     },
@@ -95,7 +95,7 @@
       "Filter": "Craft Type=Wingboard,Status=Amateur"
     },
     {
-      "Title": "Fastest First Time Wingboards",
+      "Title": "Fastest First Time Amateur Wingboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Wingboard,First Timer=Y"
     },
