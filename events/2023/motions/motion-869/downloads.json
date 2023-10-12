@@ -24,5 +24,18 @@
     "10s_best": 9450,
     "500m_best": 9022,
     "status": "completed"
+  },
+  "DAR869HEL_869_20231012_142302.oao": {
+    "motion_file": "/logs/2023/10/0869_2023-10-12-1423.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/DAR869HEL_869_20231012_142302.oao",
+    "size": 909560,
+    "start_date": 1697116982000,
+    "end_date": 1697123962000,
+    "duration": 6980000,
+    "distance": 23628532,
+    "2s_best": 9695,
+    "10s_best": 9575,
+    "500m_best": 9260,
+    "status": "completed"
   }
 }

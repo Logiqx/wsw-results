@@ -37,5 +37,18 @@
     "10s_best": 12063,
     "500m_best": 11580,
     "status": "completed"
+  },
+  "WHA660TRE_660_20231012_145916.oao": {
+    "motion_file": "/logs/2023/10/0660_2023-10-12-1459.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/WHA660TRE_660_20231012_145916.oao",
+    "size": 356384,
+    "start_date": 1697119156000,
+    "end_date": 1697123248000,
+    "duration": 4092000,
+    "distance": 11195304,
+    "2s_best": 12516,
+    "10s_best": 12378,
+    "500m_best": 12038,
+    "status": "completed"
   }
 }

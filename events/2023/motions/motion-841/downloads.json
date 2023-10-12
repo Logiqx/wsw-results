@@ -1,0 +1,28 @@
+{
+  "KNI841FIN_841_20231007_103002.oao": {
+    "motion_file": "/logs/2023/10/0841_2023-10-07-1030.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/KNI841FIN_841_20231007_103002.oao",
+    "size": 4399176,
+    "start_date": 1696671002000,
+    "end_date": 1696687916000,
+    "duration": 16914000,
+    "distance": 42030888,
+    "2s_best": 12679,
+    "10s_best": 12415,
+    "500m_best": 11884,
+    "status": "completed"
+  },
+  "KNI841FIN_841_20231007_151822.oao": {
+    "motion_file": "/logs/2023/10/0841_2023-10-07-1518.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/KNI841FIN_841_20231007_151822.oao",
+    "size": 330696,
+    "start_date": 1696688302000,
+    "end_date": 1696689568000,
+    "duration": 1266000,
+    "distance": 321115,
+    "2s_best": 1493,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  }
+}

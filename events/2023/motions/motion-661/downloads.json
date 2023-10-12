@@ -37,5 +37,18 @@
     "10s_best": 12989,
     "500m_best": 12515,
     "status": "completed"
+  },
+  "MAG661SIM_661_20231012_094601.oao": {
+    "motion_file": "/logs/2023/10/0661_2023-10-12-0946.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/MAG661SIM_661_20231012_094601.oao",
+    "size": 906440,
+    "start_date": 1697100361000,
+    "end_date": 1697123982000,
+    "duration": 23621000,
+    "distance": 30234981,
+    "2s_best": 12804,
+    "10s_best": 12618,
+    "500m_best": 12244,
+    "status": "completed"
   }
 }

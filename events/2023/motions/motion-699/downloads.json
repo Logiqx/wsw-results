@@ -37,5 +37,18 @@
     "10s_best": 10772,
     "500m_best": 10403,
     "status": "completed"
+  },
+  "WAK699PAU_699_20231012_100124.oao": {
+    "motion_file": "/logs/2023/10/0699_2023-10-12-1001.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/WAK699PAU_699_20231012_100124.oao",
+    "size": 603280,
+    "start_date": 1697101284000,
+    "end_date": 1697123736000,
+    "duration": 22452000,
+    "distance": 19762890,
+    "2s_best": 12142,
+    "10s_best": 11989,
+    "500m_best": 11317,
+    "status": "completed"
   }
 }

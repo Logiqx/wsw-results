@@ -50,5 +50,18 @@
     "10s_best": 15285,
     "500m_best": 14907,
     "status": "completed"
+  },
+  "MOU823EME_823_20231012_094702.oao": {
+    "motion_file": "/logs/2023/10/0823_2023-10-12-0947.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/MOU823EME_823_20231012_094702.oao",
+    "size": 1433928,
+    "start_date": 1697100422000,
+    "end_date": 1697125118000,
+    "duration": 24696000,
+    "distance": 57529252,
+    "2s_best": 15644,
+    "10s_best": 15244,
+    "500m_best": 14906,
+    "status": "completed"
   }
 }
