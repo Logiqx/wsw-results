@@ -42,7 +42,7 @@ Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailbo
 199,2023-09-03 20:33:02,Mr,Mark,Salvage,United Kingdom,1,Amateur,,,YES,,,,,,,,,NO,None,41,,YES,,,YES,Wingboard Motion Allocated - 724,,,,2023
 200,2023-09-10 22:39:00,Mr,Alfie,Wade,United Kingdom,,,,,,,1,Freeride,,,,,,NO,None,42,YES,,,,YES,,,Kiteboard Motion Allocated - 717,,2023
 201,2023-09-11 12:44:18,Mr,Stuart,Trunkfield,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,Simmer. O’shea,,YES,None,43,,YES,,,YES,,Sailboard Motion Allocated - 718,,,2023
-202,2023-09-12 09:23:15,Mr,Dave,Williams,United Kingdom,,,,,,,1,Open Class,,,,,,NO,None,44,,YES,,,YES,,,Kiteboard Motion Allocated - 801,,2023
+202,2023-09-12 09:23:15,Mr,Dave,Williams,United Kingdom,1,Amateur,,,NO,,1,Open Class,,,,,,NO,None,44,,YES,,,YES,Wingboard Motion Allocated = 819,,Kiteboard Motion Allocated - 801,,2023
 203,2023-09-12 18:01:53,Mr,Mark,McCafferty,United Kingdom,1,Amateur,,,NO,,,,,,,,,YES,None,45,,YES,,,YES,Wingboard Motion Allocated - 802,,,,2023
 204,2023-09-14 13:27:13,Mr,Joe,Trunkfield,United Kingdom,,,1,Amateur,YES,YES,,,,,,,,NO,None,46,,YES,,,YES,,Sailboard Motion Allocated - 803,,,2023
 205,2023-09-17 12:36:54,Mr,Jonathan,Ingram,United Kingdom,,,1,Amateur,YES,NO,,,,,,,,YES,None,47,YES,,,YES,,,Sailboard Motion Allocated - 804,,,2023
@@ -52,7 +52,7 @@ Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailbo
 209,2023-09-18 14:09:03,Mr,Andy,Turvey,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,,,YES,None,51,,YES,,,YES,,Sailboard Motion Allocated - 808,,,2023
 210,2023-09-18 18:52:01,Mr,Jonny,Kirton,United Kingdom,,,1,Amateur,NO,NO,,,,,,,,NO,Royal Navy,52,,YES,,,YES,,Sailboard Motion Allocated - 810,,,2023
 211,2023-09-18 19:47:51,Mr,Russell,Thompson,United Kingdom,,,1,Amateur,YES,NO,,,,,,,,NO,Royal Navy,53,,YES,,,YES,,Sailboard Motion Allocated - 811,,,2023
-212,2023-09-19 11:13:17,Miss,Mia,Adcock,UK,1,Amateur,1,Amateur,YES,NO,,,,,,,,YES,The OTC,54,,YES,,,YES,Wingboard Motion Allocated - 838,Sailboard Motion Allocated - 812,,,2023
+212,2023-09-19 11:13:17,Miss,Mia,Adcock,UK,1,Amateur,1,Amateur,YES,NO,,,,,,,,NO,The OTC,54,,YES,,,YES,Wingboard Motion Allocated - 838,Sailboard Motion Allocated - 812,,,2023
 213,2023-09-19 20:13:10,Mr,Rob,Dunn,United Kingdom,,,1,Amateur,NO,NO,,,,,,,,NO,Royal Navy,55,,YES,,,YES,,Sailboard Motion Allocated - 813,,,2023
 214,2023-09-19 20:16:00,Mrs,Trish,Dunn,UK,,,1,Amateur,NO,NO,,,,,,,,NO,Royal Navy,56,,YES,,,YES,,WITHDRAWN,,,2023
 215,2023-09-22 19:30:27,Mr,Bob,Spagnoletti,UK,,,1,Gold-Fleet,NO,NO,,,,,,,,NO,None,57,,YES,,,YES,,Sailboard Motion Allocated - 815,,,2023
@@ -90,6 +90,9 @@ Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailbo
 247,2023-10-09 14:37:46,Mr,Guy,Cribb,United Kingdom,1,Pro-Fleet,,,YES,,,,,,"INtuition, Foilgasmic, Duotone",,,YES,None,89,,YES,YES,,,Wingboard Motion Allocated - 858,,,,2023
 248,2023-10-10 09:23:46,Mrs,Zara,Davis,UK,1,Amateur,,,YES,,,,,,,,,NO,None,90,,YES,,,YES,Wingboard Motion Allocated - 855,,,,2023
 249,2023-10-10 13:44:19,Mr,kuba,staite,england,1,Amateur,,,YES,,,,,,,,,YES,None,91,,YES,YES,,,Wingboard Motion Allocated - 857,,,,2023
-250,2023-10-11 09:58:51,Mr,Freddie,Oldfield,United Kingdom,1,Pro-Fleet,,,NO,,,,,,,,,YES,None,92,,YES,YES,,,Wingboard Motion Allocated = 873,,,,2023
+250,2023-10-11 09:58:51,Mr,Freddie,Oldfield,United Kingdom,1,Pro-Fleet,,,NO,,,,,,,,,YES,None,92,,YES,YES,,,Wingboard Motion Allocated  = 873,,,,2023
 251,2023-10-11 11:18:12,Mr,Martin,Carter,United Kingdom,1,Amateur,,,NO,,,,,,,,,NO,Weymouth and portland kitesurfing club,93,,YES,YES,,,Wingboard Motion Allocated - 853,,,,2023
 252,2023-10-11 12:07:11,Ms,Helena,Darvelid,United Kingdom,1,Amateur,,,NO,,,,,,,,,NO,None,94,,YES,YES,,,Wingboard Motion Allocated = 869,,,,2023
+253,2023-10-11 18:13:58,Mr,Sam,Latham,United Kingdom,1,Amateur,1,Gold-Fleet,YES,NO,,,,,,Worthing Watersports & South East Signage,,NO,None,95,,YES,YES,,,Wingboard Motion Allocated = 827,Sailboard Motion Allocated = 630,,,2023
+254,2023-10-11 22:05:20,Mr,James,Bulson,England,1,Pro-Fleet,,,YES,,,,,,Afs,,,YES,None,96,,YES,YES,,,Wingboard Motion Allocated = 841,,,,2023
+255,2023-10-12 07:39:00,Mr,Mark,Newman,Uk,,,1,Pro-Fleet,NO,NO,,,,,,,,NO,None,97,,YES,YES,,,,Sailboard Motion Allocated = 822,,,2023

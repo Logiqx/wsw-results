@@ -43,6 +43,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 2200,42,Mr,Alfie,Wade,United Kingdom,NO,Kiteboard,Freeride,Youth,,None,All Week,N
 1201,43,Mr,Stuart,Trunkfield,United Kingdom,YES,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 2202,44,Mr,Dave,Williams,United Kingdom,NO,Kiteboard,Open Class,Adult,,None,All Week,N
+3202,44,Mr,Dave,Williams,United Kingdom,NO,Wingboard,Amateur,Adult,,None,All Week,NO
 3203,45,Mr,Mark,McCafferty,United Kingdom,YES,Wingboard,Amateur,Adult,,None,All Week,NO
 1204,46,Mr,Joe,Trunkfield,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,YES
 1205,47,Mr,Jonathan,Ingram,United Kingdom,YES,Sailboard,Amateur,Youth,,None,Youth W/E,YES
@@ -91,3 +92,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 3250,92,Mr,Freddie,Oldfield,United Kingdom,YES,Wingboard,Pro-Fleet,Adult,,None,2 Days,NO
 3251,93,Mr,Martin,Carter,United Kingdom,NO,Wingboard,Amateur,Adult,,Weymouth and portland kitesurfing club,2 Days,NO
 3252,94,Ms,Helena,Darvelid,United Kingdom,NO,Wingboard,Amateur,Adult,,None,2 Days,NO
+1253,95,Mr,Sam,Latham,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,2 Days,YES
+3253,95,Mr,Sam,Latham,United Kingdom,NO,Wingboard,Amateur,Adult,,None,2 Days,YES
+3254,96,Mr,James,Bulson,England,YES,Wingboard,Pro-Fleet,Adult,,None,2 Days,YES
+1255,97,Mr,Mark,Newman,Uk,NO,Sailboard,Pro-Fleet,Adult,,None,2 Days,NO
