@@ -13,7 +13,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1163,12,633,2023-10-07,2023-10-13,PEA633ZAC,Zack,Peaple,Sailboard,Gold-Fleet,All Week
 3163,12,870,2023-10-07,2023-10-13,PEA870ZAC,Zack,Peaple,Wingboard,Amateur,All Week
 1164,13,634,2023-10-07,2023-10-13,CRO634RIC,Richard,Crosby,Sailboard,Gold-Fleet,All Week
-1165,14,635,2023-10-07,2023-10-13,BAT635TIM,Tim,Bate,Sailboard,Gold-Fleet,All Week
+1165,14,635,2023-10-07,2023-10-13,BAT635TIM,Tim,Bate,Sailboard,Amateur,All Week
 1166,15,639,2023-10-07,2023-10-13,PET639SIM,Simon,Pettifer,Sailboard,Pro-Fleet,All Week
 3167,16,641,2023-10-07,2023-10-13,CUN641CHR,Chris,Cunningham,Wingboard,Amateur,All Week
 1169,17,642,2023-10-07,2023-10-13,FUL642GEO,George,Fulton,Sailboard,Gold-Fleet,All Week
@@ -90,6 +90,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 3248,90,855,2023-10-07,2023-10-13,DAV855ZAR,Zara,Davis,Wingboard,Amateur,All Week
 3249,91,857,2023-10-07,2023-10-13,STA857KUB,kuba,staite,Wingboard,Amateur,2 Days
 3250,92,0,2023-10-07,2023-10-13,OLD0FRE,Freddie,Oldfield,Wingboard,Pro-Fleet,2 Days
+2251,93,0,2023-10-07,2023-10-13,CAR0MAR,Martin,Carter,Kiteboard,Freeride,2 Days
 3251,93,853,2023-10-07,2023-10-13,CAR853MAR,Martin,Carter,Wingboard,Amateur,2 Days
 3252,94,0,2023-10-07,2023-10-13,DAR0HEL,Helena,Darvelid,Wingboard,Amateur,2 Days
 1253,95,0,2023-10-07,2023-10-13,LAT0SAM,Sam,Latham,Sailboard,Gold-Fleet,2 Days
