@@ -8343,3 +8343,79 @@
 2023-10-12 16:45:00,DEBUG,DisconnectionThread #7 finished
 2023-10-12 16:45:00,DEBUG,DisconnectionThread #8 finished
 2023-10-12 16:45:00,INFO,Thread pools stopped
+2023-10-13 16:12:17,WARNING,Motion 866 assigned to multiple people on 20231007
+2023-10-13 16:12:17,WARNING,Motion 866 assigned to multiple people on 20231008
+2023-10-13 16:12:17,INFO,Starting thread pools
+2023-10-13 16:12:17,DEBUG,DetectionThreadPool starting
+2023-10-13 16:12:17,DEBUG,DetectionThread #1 starting
+2023-10-13 16:12:17,DEBUG,DetectionThread #2 starting
+2023-10-13 16:12:17,DEBUG,DetectionThread #3 starting
+2023-10-13 16:12:17,DEBUG,DetectionThread #4 starting
+2023-10-13 16:12:17,DEBUG,DetectionThread #5 starting
+2023-10-13 16:12:17,DEBUG,DetectionThread #6 starting
+2023-10-13 16:12:17,DEBUG,DetectionThread #7 starting
+2023-10-13 16:12:17,DEBUG,DetectionThread #8 starting
+2023-10-13 16:12:17,DEBUG,InspectionThreadPool starting
+2023-10-13 16:12:17,DEBUG,InspectionThread #1 starting
+2023-10-13 16:12:17,DEBUG,InspectionThread #2 starting
+2023-10-13 16:12:17,DEBUG,InspectionThread #3 starting
+2023-10-13 16:12:17,DEBUG,InspectionThread #4 starting
+2023-10-13 16:12:17,DEBUG,DownloadThreadPool starting
+2023-10-13 16:12:17,DEBUG,DownloadThread #1 starting
+2023-10-13 16:12:17,DEBUG,DownloadThread #2 starting
+2023-10-13 16:12:17,DEBUG,DownloadThread #3 starting
+2023-10-13 16:12:17,DEBUG,DownloadThread #4 starting
+2023-10-13 16:12:17,DEBUG,DisconnectionThreadPool starting
+2023-10-13 16:12:17,DEBUG,DisconnectionThread #1 starting
+2023-10-13 16:12:17,DEBUG,DisconnectionThread #2 starting
+2023-10-13 16:12:17,DEBUG,DisconnectionThread #3 starting
+2023-10-13 16:12:17,DEBUG,DisconnectionThread #4 starting
+2023-10-13 16:12:17,DEBUG,DisconnectionThread #5 starting
+2023-10-13 16:12:17,DEBUG,DisconnectionThread #6 starting
+2023-10-13 16:12:17,DEBUG,DisconnectionThread #7 starting
+2023-10-13 16:12:17,DEBUG,DisconnectionThread #8 starting
+2023-10-13 16:12:17,INFO,Thread pools started
+2023-10-13 16:12:27,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-13 16:12:27,INFO,motion-866 is connected
+2023-10-13 16:12:27,DEBUG,DetectionThreadPool has exceeded the interval time
+2023-10-13 16:12:27,DEBUG,motion-866 firmware is approved (9004 Weymouth Speed Week)
+2023-10-13 16:12:27,DEBUG,motion-866 storage is 0% full
+2023-10-13 16:12:27,INFO,motion-866 battery level is 75%
+2023-10-13 16:12:27,DEBUG,motion-866 YEL866SUL_866_20231007_150612.oao skipped - 0.0 MiB, 0.0 hours, 0.0 km, 0.0 knots (500m)
+2023-10-13 16:12:27,INFO,motion-866 CAR866MAR_866_20231013_085548.oao queued - 2.5 MiB, 7.6 hours, 84.4 km, 38.9 knots (500m)
+2023-10-13 16:12:31,INFO,motion-866 CAR866MAR_866_20231013_085548.oao downloaded - 2.5 MiB, 7.6 hours, 84.4 km, 38.9 knots (500m)
+2023-10-13 16:12:31,INFO,motion-866 can be disconnected
+2023-10-13 16:12:52,DEBUG,motion-866 has been disconnected
+2023-10-13 16:12:52,DEBUG,motion-866 detected at 192.168.0.146
+2023-10-13 16:12:53,DEBUG,motion-866 not accepting connections
+2023-10-13 16:12:55,INFO,Keyboard interrupt
+2023-10-13 16:12:55,INFO,Stopping thread pools
+2023-10-13 16:12:55,DEBUG,DetectionThreadPool finished
+2023-10-13 16:12:55,DEBUG,DetectionThread #1 finished
+2023-10-13 16:12:55,DEBUG,DetectionThread #2 finished
+2023-10-13 16:12:55,DEBUG,DetectionThread #3 finished
+2023-10-13 16:12:55,DEBUG,DetectionThread #4 finished
+2023-10-13 16:12:55,DEBUG,DetectionThread #5 finished
+2023-10-13 16:12:55,DEBUG,DetectionThread #6 finished
+2023-10-13 16:12:55,DEBUG,DetectionThread #7 finished
+2023-10-13 16:12:55,DEBUG,DetectionThread #8 finished
+2023-10-13 16:12:55,DEBUG,InspectionThreadPool finished
+2023-10-13 16:12:55,DEBUG,InspectionThread #1 finished
+2023-10-13 16:12:56,DEBUG,InspectionThread #2 finished
+2023-10-13 16:12:56,DEBUG,InspectionThread #3 finished
+2023-10-13 16:12:56,DEBUG,InspectionThread #4 finished
+2023-10-13 16:12:56,DEBUG,DownloadThreadPool finished
+2023-10-13 16:12:56,DEBUG,DownloadThread #1 finished
+2023-10-13 16:12:56,DEBUG,DownloadThread #2 finished
+2023-10-13 16:12:56,DEBUG,DownloadThread #3 finished
+2023-10-13 16:12:56,DEBUG,DownloadThread #4 finished
+2023-10-13 16:12:56,DEBUG,DisconnectionThreadPool finished
+2023-10-13 16:12:56,DEBUG,DisconnectionThread #1 finished
+2023-10-13 16:12:56,DEBUG,DisconnectionThread #2 finished
+2023-10-13 16:12:56,DEBUG,DisconnectionThread #3 finished
+2023-10-13 16:12:56,DEBUG,DisconnectionThread #4 finished
+2023-10-13 16:12:56,DEBUG,DisconnectionThread #5 finished
+2023-10-13 16:12:56,DEBUG,DisconnectionThread #6 finished
+2023-10-13 16:12:56,DEBUG,DisconnectionThread #7 finished
+2023-10-13 16:12:56,DEBUG,DisconnectionThread #8 finished
+2023-10-13 16:12:56,INFO,Thread pools stopped
