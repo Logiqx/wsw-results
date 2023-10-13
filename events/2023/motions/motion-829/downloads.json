@@ -1,0 +1,15 @@
+{
+  "BUK829MAC_829_20231013_082820.oao": {
+    "motion_file": "/logs/2023/10/0829_2023-10-13-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/BUK829MAC_829_20231013_082820.oao",
+    "size": 1805000,
+    "start_date": 1697182100000,
+    "end_date": 1697207056000,
+    "duration": 24956000,
+    "distance": 75951345,
+    "2s_best": 16883,
+    "10s_best": 16613,
+    "500m_best": 15983,
+    "status": "completed"
+  }
+}
