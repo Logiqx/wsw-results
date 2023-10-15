@@ -29,7 +29,7 @@
       "Filter": "Craft Type=Kiteboard,Status=Freeride"
     },
     {
-      "Title": "All First Time Kiteboards",
+      "Title": "All First Time Freeride Kiteboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,First Timer=Y"
     },
