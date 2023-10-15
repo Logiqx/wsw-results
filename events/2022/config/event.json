@@ -45,7 +45,7 @@
       "N",
       "?"
     ],
-    "UKWA Member": [
+    "UKWA": [
       "Y",
       "N",
       "?"
@@ -157,7 +157,7 @@
     },
     {
       "Category": "First Time Freeride Kiteboard",
-      "Filter": "Craft Type=Kiteboard,First Timer=Y",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y",
       "Places": 1
     },
     {
@@ -188,7 +188,7 @@
       "Banner": "ukwa_logo.jpg",
       "Website": "https://ukwindsurfing.com/",
       "Average": 2,
-      "Filter": "Craft Type=Sailboard,UKWA Member=Y",
+      "Filter": "Craft Type=Sailboard,UKWA=Y",
       "Fleets": {
         "Men": "Gender=M",
         "Women": "Gender=F"
@@ -211,7 +211,7 @@
       "Banner": "ukwa_logo.jpg",
       "Website": "https://ukwindsurfing.com/",
       "Average": 2,
-      "Filter": "Craft Type=Wingboard,UKWA Member=Y",
+      "Filter": "Craft Type=Wingboard,UKWA=Y",
       "Fleets": {
         "Men": "Gender=M",
         "Women": "Gender=F"

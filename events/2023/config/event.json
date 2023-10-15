@@ -155,7 +155,7 @@
     },
     {
       "Category": "First Time Freeride Kiteboard",
-      "Filter": "Craft Type=Kiteboard,First Timer=Y",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y",
       "Places": 1
     },
     {
@@ -170,7 +170,7 @@
     },
     {
       "Category": "First Time Amateur Wingboard",
-      "Filter": "Craft Type=Wingboard,First Timer=Y",
+      "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y",
       "Places": 1
     },
     {

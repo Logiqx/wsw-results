@@ -62,7 +62,7 @@
     {
       "Title": "Fastest First Time Freeride Kiteboards",
       "Fields": "Name,Nation,Course,Start Time,Speed (kts)",
-      "Filter": "Craft Type=Kiteboard,First Timer=Y"
+      "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y"
     },
     {
       "Title": "Fastest Pro Fleet Sailboards",
