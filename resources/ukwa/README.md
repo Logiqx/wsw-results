@@ -23,11 +23,11 @@ The proposed wording is similar to that used in the ISWC rulebook, and the speed
 
 Shore course
 
-> One leg is considered valid when at least 25% of the finishing racers in the mens pro + gold fleets have been recorded at least two times over 28 knots, or at least 50% of the finishing racers in the mens fleet have been recorded at least two times over 26 knots.
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 28 knots, or at least 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times over 26 knots.
 
 Harbour course
 
-> One leg is considered valid when at least 25% of the finishing racers in the mens pro + gold fleets have been recorded at least two times over 26 knots, or at least 50% of the finishing racers in the mens fleet have been recorded at least two times over 24 knots.
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 26 knots, or at least 50% of the finishing racers in the mens fleet have been recorded at least two times over 24 knots.
 
 
 
@@ -35,11 +35,11 @@ Harbour course
 
 Shore course
 
-> One leg is considered valid when at least 25% of the finishing racers in the mens pro + gold fleets have been recorded at least two times over 26 knots, or at least 50% of the finishing racers in the mens fleet have been recorded at least two times over 24 knots.
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 26 knots, or at least 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times over 24 knots.
 
 Harbour course
 
-> One leg is considered valid when at least 25% of the finishing racers in the mens pro + gold fleets have been recorded at least two times over 24 knots, or at least 50% of the finishing racers in the mens fleet have been recorded at least two times over 22 knots.
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 24 knots, or at least 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times over 22 knots.
 
 
 
