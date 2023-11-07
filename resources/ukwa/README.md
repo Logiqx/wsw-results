@@ -14,7 +14,16 @@ In recent years the UKWA has used the following criteria for legs to be consider
 
 #### Summary
 
-The proposed wording is similar to that used in the ISWC rulebook, and the speed criteria have been taken from the ISWC rules for a silver fleet.
+The newly proposed wording is similar to that used in the ISWC rulebook, and the speed criteria are based on the ISWC rules for a silver fleet.
+
+All criteria for a valid leg are in relation to the finishing UKWA racers in the mens pro + gold fleets:
+
+|                                      | 25%  | 50%  |
+| ------------------------------------ | ---- | ---- |
+| Windsurf / Windfoil - Shore course   | 28   | 26   |
+| Windsurf / Windfoil - Harbour course | 26   | 24   |
+| Windfoil - Shore course              | 25   | 23   |
+| Windfoil  - Harbour course           | 23   | 21   |
 
 
 
