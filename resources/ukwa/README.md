@@ -22,8 +22,8 @@ All criteria for a valid leg are in relation to the finishing UKWA racers in the
 | ------------------------------------ | ---- | ---- |
 | Windsurf / Windfoil - Shore course   | 28   | 26   |
 | Windsurf / Windfoil - Harbour course | 26   | 24   |
-| Windfoil - Shore course              | 25   | 23   |
-| Windfoil  - Harbour course           | 23   | 21   |
+| Wingfoil - Shore course              | 25   | 23   |
+| Wingfoil  - Harbour course           | 23   | 21   |
 
 
 
