@@ -35,11 +35,11 @@ Harbour course
 
 Shore course
 
-> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 26 knots, or at least 50% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 24 knots.
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 25 knots, or at least 50% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 23 knots.
 
 Harbour course
 
-> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 24 knots, or at least 50% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 22 knots.
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 23 knots, or at least 50% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times over 21 knots.
 
 
 
