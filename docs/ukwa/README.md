@@ -54,7 +54,7 @@ Changes to the speed requirements for the UKWA wingfoil fleet are also proposed.
 
 ### Additional "Fun" Series
 
-Weymouth Speed Week are hoping to run an additional "fun" series to encourage daily participation from sailboard / wingboard / kiteboard competitors, running alongside the UKWA Speed Championships. The format of the "fun" series will be practically identical to the UKWA Speed Championships, including the same pre-agreed times for lunch. All sailboard / wingboard / kiteboard participants will automatically be entered into the applicable "fun" series, regardless of UKWA membership. There will be six different "fun" series, catering for all combinations of sailboard / wingboard / kiteboard and men / women.
+Weymouth Speed Week are proposing an additional "fun" series to encourage daily participation from sailboard / wingboard / kiteboard competitors, running alongside the UKWA Speed Championships. The format of the "fun" series will be practically identical to the UKWA Speed Championships, including the same pre-agreed times for lunch. All sailboard / wingboard / kiteboard participants will automatically be entered into the applicable "fun" series, regardless of UKWA membership. There will be six different "fun" series, catering for all combinations of sailboard / wingboard / kiteboard and men / women.
 
 It should be noted that the speed course(s) will remain open during the pre-agreed lunch breaks. Competitors will still be allowed to do speed runs during the lunch break, which qualify for daily tankards and end of week prizes. Runs during the pre-agreed lunch break will not however be counted towards the UKWA Speed Championships or the WSW "fun" series. The "fun" series will have a maximum of two legs each day; morning and afternoon.
 
@@ -75,6 +75,8 @@ Note: Speeds for the kiteboards have yet to be decided.
 
 ### Reference
 
-The following section from the ISWC rulebook has been used as reference. Since the UKWA competitors are on average not of an international standard the speed requirements for "silver" fleet may be applied to UKWA competitors in the pro fleet and gold fleet.
+The following section from the ISWC rulebook has been used as reference. Since the UKWA competitors are on average not of an international standard, speed requirements for "silver" fleet will only be applied to UKWA finishers in the mens pro and gold fleets.
+
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times at a certain speed. The following matrix shows the necessary speeds for each fleet:
 
 ![ISWC](iswc.png)
