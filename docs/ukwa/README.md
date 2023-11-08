@@ -14,24 +14,24 @@ In recent years the UKWA has used the following criteria for legs to be consider
 
 A number of points need to be considered with respect to the UKWA validation criteria:
 
-- The overall standard of UKWA riders attending Weymouth Speed Week is somewhat lower than European / World Championship events
-  - Likewise, Portland Harbour may not be considered a world class venue like La Palme (Plage du Rouet) or similar
-  - Applying the speed criteria during an international speed competition serves a proxy for the quality / suitability of the conditions
-  - During the UKWA Speed Championships, applying the speed criteria not only reflects the conditions but also the profile of the riders
-- The average UKWA participation for valid legs between 2010 and 2023 was 19 persons, so the speed criteria typically applies to just 5 riders
-  - The number of UKWA pro fleet riders competing throughout the entirety of the week has been variable in recent years
-  - On average there have been 6 pro fleet riders fully participating in the championships (2013 - 2023), whereas in 2023 there were just 4 pros
+- The overall standard of UKWA windsurfers at Weymouth Speed Week is lower than participants attending international competitions
+  - Likewise, Portland Harbour cannot be considered a world class venue, unlike places like La Palme / Plage du Rouet
+  - Speed criteria applied during an international speed competition may serve as a proxy for the quality / suitability of the conditions
+  - During the UKWA Speed Championships, speed criteria not only reflects the conditions but also the profiles of the participants
+- The average daily UKWA participation is 19 persons (valid legs between 2010 and 2023), so speed criteria typically relates to 5 riders
+  - The number of UKWA pro fleet riders competing throughout the entirety of the championship has been variable in recent years
+  - On average there have been 6 pro fleet riders fully participating (2013 - 2023). In 2023 there were only 4 pro fleet UKWA riders
   - One or two fewer pros / top riders in the fleet can easily make the difference between a round being deemed valid, or not
 - Weymouth Speed Week is primarily about participation and we should be encouraging people to sail whenever possible
   - It should be noted that when UKWA youths (typically amateurs) are sailing it reduces the chances of a counting round
-  - Results that would be deemed valid mid-week, could be deemed invalid during the weekend simply due to participation of the youths
+  - Results deemed valid mid-week could be deemed invalid during the weekend, simply due to participation of the youths
   - The proposal is to use the results of pro fleet and gold fleet riders as a proxy for the quality / suitability of the conditions
 
 
 
 ### Data Analysis
 
-A significant amount of analysis has been undertaken prior to presenting this proposal, using all 116 UKWA legs between 2010 and 2023. The analysis include ideas such as determining how the median of the fleet might also be used to increase the statistical robustness, restricting the rules / checks to just pro + gold fleet sailors and changes to the speeds / criteria. The most beneficial change was determined to be using just the pro fleet and gold fleet as a proxy for the quality / suitability of the conditions and using silver fleet criteria from the ISWC.
+A significant amount of analysis has been undertaken prior to presenting this proposal, using all 116 UKWA legs between 2010 and 2023. It will not be written up in detail though, because it would take many hours / days to do so in a form that is easily understood. The analysis included ideas such as determination of how the median speeds of the fleet would increase the statistical robustness (complementing the 25% rule), restricting checks to just the pro + gold fleet sailors and possible changes to the speeds themselves. The most beneficial change was determined to be the use of combined pro fleet and gold fleet results as a proxy for the quality / suitability of the conditions, and using the "silver" fleet speed criteria in the ISWC rulebook.
 
 
 
@@ -42,31 +42,33 @@ The proposed wording is similar to that used in the ISWC rulebook, with speeds b
 
 > One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times at a certain speed. The following matrix shows the necessary speeds for each fleet:
 
-New speed requirements for the UKWA wing fleet are also proposed.
+Changes to the speed requirements for the UKWA wingfoil fleet are also proposed.
 
-| Weymouth Speed Week - Windsurf / Windfoil | Shore course | Harbour course |
-| ----------------------------------------- | ------------ | -------------- |
-| Windsurf / Windfoil                       | 28 knots     | 26 knots       |
-| Wingfoil                                  | 25 knots     | 23 knots       |
+| UK Speed Championships | Shore course | Harbour course |
+| ---------------------- | ------------ | -------------- |
+| Windsurf / Windfoil    | 28 knots     | 26 knots       |
+| Wingfoil               | 25 knots     | 23 knots       |
 
 
 
 
 ### Additional "Fun" Series
 
-Weymouth Speed Week are hoping to run an additional "fun" series to encourage daily participation from sailboard, wingboard and kiteboard competitors, running alongside the British Speed Championship. The competition formats will be practically identical, including the same pre-agreed times for lunch. All sailboard, wingboard and kiteboard participants will be entered into the applicable "fun" series, regardless of UKWA membership.
+Weymouth Speed Week are hoping to run additional "fun" series to encourage daily participation from sailboard, wingboard and kiteboard competitors, running alongside the British Speed Championship. The competition formats will be practically identical, including the same pre-agreed times for lunch. All sailboard, wingboard and kiteboard participants will be entered into the applicable "fun" series, regardless of UKWA membership. There will be six "fun" series in total, catering for all combinations of sailboard / wingboard / kiteboard and men / women.
 
-n.b. It should be noted that the course will remain open during the pre-agreed lunch break. Competitors will still be free register runs during the lunch break, qualifying for daily tankards and end of week prizes. Runs during the pre-agreed lunch break just won't count towards the UKWA or "fun" series. 
+It should be noted that speed course(s) will remain open during the pre-agreed lunch break. Competitors will still be able to do runs during the lunch break, qualifying for daily tankards and end of week prizes. Runs during the pre-agreed lunch break just won't count towards the UKWA or "fun" series. 
 
-The proposed wording for the "fun" series is similar to that proposed wording for the UKWA series, just using speed criteria that are 2 knots lower.
+The proposed wording for the "fun" series is similar to that proposed for the UKWA series, just using speed criteria that are 3 knots lower and applying to the whole fleets. The speeds for sailboards are equivalent of the "bronze" fleet criteria in the ISWC rulebook.
 
-> One leg is considered valid when at least 25% of the finishing racers in the fleet have been recorded at least two times at a certain speed. The following matrix shows the necessary speeds for each fleet:
+> One leg is considered valid when at least 25% of the finishing racers in the mens pro + gold fleets (sailboards / wingboards), or open class fleet (kiteboards) have been recorded at least two times at a certain speed. The following matrix shows the necessary speeds for each fleet:
 
-| Weymouth Speed Week - Windsurf / Windfoil | Shore course | Harbour course |
-| ----------------------------------------- | ------------ | -------------- |
-| Windsurf / Windfoil                       | 26 knots     | 24 knots       |
-| Wingfoil                                  | 23 knots     | 21 knots       |
-| Kitesurf / Kitefoil                       | 26 knots     | 24 knots       |
+| Weymouth Speed Week - "Fun" Series | Shore course | Harbour course |
+| ---------------------------------- | ------------ | -------------- |
+| Sailboards                         | 26 knots     | 24 knots       |
+| Wingboards                         | 23 knots     | 21 knots       |
+| Kiteboards                         | 26 knots     | 24 knots       |
+
+Note: Speeds for the kites have yet to be decided and currently reflect the windsurfer speeds.
 
 
 
