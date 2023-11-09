@@ -54,7 +54,7 @@ n.b. Increased speed requirements for the UKWA wingfoil fleet are also proposed 
 
 ### Additional "Fun" Series
 
-Weymouth Speed Week are proposing an additional "fun" series to encourage daily participation from sailboard / wingboard / kiteboard competitors, running alongside the UKWA Speed Championships. The format of the "fun" series will be practically identical to the UKWA Speed Championships, including the same pre-agreed times for lunch.
+Weymouth Speed Week are considering an additional "fun" series to encourage daily participation from sailboard / wingboard / kiteboard competitors, running alongside the UKWA Speed Championships. The format of the "fun" series will be practically identical to the UKWA Speed Championships, including the same pre-agreed times for lunch.
 
 All sailboard / wingboard / kiteboard participants of Weymouth Speed Week will automatically be entered into the applicable "fun" series, regardless of UKWA membership. There will be several "fun" series, catering for all six combinations of sailboard / wingboard / kiteboard and men / women.
 
