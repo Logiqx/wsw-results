@@ -2,11 +2,11 @@
 
 ### Overview
 
-There is a desire to tweak the rules of the UKWA Speed Championships so that moderately windy days can become valid legs. The current criteria are a simplification of the ISWC rulebook, which apply to international speed windsurfing competitions. Whilst the ISWC rules work fine for very windy days and gentle days, they don't always work so well for moderately windy days during the UKWA event.
+There is a desire to tweak the rules of the UKWA Speed Championships so that moderately windy days can become valid legs. The current criteria are a simplification of the ISWC rulebook, which apply to international speed windsurfing competitions. Whilst the ISWC rules work fine for very windy days and light wind days, they don't always work so well for moderately windy days during the UKWA event.
 
-The average ability of a UKWA competitor is lower than that of an international competitor, so use of the ISWC silver fleet criteria for the more capable UKWA competitors seems most appropriate. This proposal is for the use of silver fleet criteria from the ISWC rules (i.e. 28 knots for shore course, 26 knots for harbour course), applied only to the mens pro + gold fleets when determining whether a leg is valid.
+The average ability of a UKWA competitor is lower than that of an international competitor, so refinements to the UKWA rules should allow for this fact. The proposed criteria are for 25% of the fleet to achieve 27 knots at least twice, or 50% of the fleet to achieve 25 knots at least twice. The effect of this change has been tested using all of the UKWA Speed Championship legs between 2010 to 2023.
 
-Weymouth Speed Week are also considering some craft-specific "fun" series to encourage daily participation. The "fun" series would be similar to the UKWA series, but with different speed criteria. The criteria for sailboards would use the "bronze" fleet speeds from the ISWC rulebook (i.e. 26 knots for shore course, 24 knots for harbour course), applied only to the mens pro + gold fleets / open class (kites).
+Weymouth Speed Week are also considering some craft-specific "fun" series to encourage daily participation. The "fun" series would be similar to the UKWA series, but with different speed criteria. The "fun" series probably won't have official prizes or trophies, but are expected to provide riders with additional "purpose" on the less windy days.
 
 
 
@@ -35,41 +35,50 @@ A number of points need to be considered with respect to the UKWA validation cri
 - Weymouth Speed Week is primarily about participation and should be encouraging people to sail whenever possible
   - It should be noted that when UKWA youths (typically amateurs) are sailing it reduces the chances of UKWA leg(s) being valid
   - Legs that would be valid mid-week could be deemed invalid during the weekend, simply due to participation of UKWA youths
-  - This proposal suggests using the mens pro fleet and gold fleet results as a proxy for the quality / suitability of the conditions
+  - This proposal uses 25% and 50% criteria to improve the statistical robustness of the rules
 
 
 
 ### Data Analysis
 
-A significant amount of analysis has been undertaken prior to presenting this proposal, using all possible 116 UKWA legs between 2010 and 2023. The full analysis will not be written up in detail because it would take many days to do so clearly and be easily understood.
+A significant amount of analysis has been undertaken prior to presenting this proposal, using all possible 116 UKWA legs between 2010 and 2023. The full analysis will not be written up in detail because it would take several days to do so clearly and be easily understood.
 
-The analysis included ideas such as median speeds of the fleet and how they can increase the statistical robustness of validity checks, relevance of the interquartile range, restricting criteria to mens pro + gold fleet sailors and possible lowering of the speed criteria.
+The analysis has investigated median speeds of the fleet, relevance of the interquartile ranges, restricting the speed criteria to mens pro + gold fleet sailors, changes to the speed criteria and the effect of different speed criteria for shore / harbour courses.
 
-The most effective change was deemed to be use of mens pro + gold fleet results as a proxy for the quality / suitability of the conditions, and using the "silver" fleet speed criteria from the ISWC rulebook. Two sessions in recent years would be affected by this change:
+The most effective solution simply uses two independent criteria, which are more [robust](https://en.wikipedia.org/wiki/Robust_statistics) than a single criteria:
 
-- Leg 2 on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) would be deemed valid
+- 25% of the fleet achieving over 27 knots
+- 50% of the fleet achieving over 25 knots
+
+The basis for the 50% criteria has been derived from all 116 of the UKWA Speed Championship legs between 2010 and 2023:
+
+![percentiles](percentiles.png)
+
+When applied to all previous UKWA Speed Championships, 2 days (3 legs) in recent years are affected by this change:
+
+- Legs 1 and 2 on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) would be deemed valid
 - Leg 2 on Tue [18 Oct 2022](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html) would be deemed valid
 
-In addition to the above legs in 2023 and 2022, another 7 legs between 2012 and 2015 would also be deemed valid based on 25% of the mens pro + gold fleet riders. This new rule is easy to implement and can still be applied manually, if required.
+In addition to the 2 legs in 2023 and 1 leg in 2022, another 9 legs between 2011 and 2016 are also deemed valid.
 
 
 
 
 ### UKWA Series
 
-The average UKWA pro and gold fleet riders cannot be expected to perform at the same level as competitors attending an international competition. The criteria for a silver fleet have therefore been deemed most appropriate for the combination of UKWA pro and gold fleets.
+The average UKWA windsurfers cannot be expected to perform at the same level as competitors attending an international competition. The criteria for 25% of the fleet is therefore reduced to 27 knots, and the equivalent for 50% is implemented as 25 knots.
 
-The proposal below is based on the ISWC wording (included at the end of this document), and uses the speed criteria of a silver fleet.
+The wording below is based on the ISWC rulebook, which is referenced at the end of this document.
 
-> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times at a certain speed. The following matrix shows the necessary speeds for each fleet:
+Windsurf / Windfoil:
 
-| UK Speed Championships | Shore course | Harbour course |
-| ---------------------- | ------------ | -------------- |
-| Windsurf / Windfoil    | 28 knots     | 26 knots       |
-| Wingfoil               | 25 knots     | 23 knots       |
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 27 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 25 knots.
 
-n.b. Increased speed requirements for the UKWA wingfoil fleet have been determined using 2022 and 2023 results.
+Wingfoil:
 
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 23 knots.
+
+The increased speed requirements for the UKWA wingfoil fleet have been determined using 2022 and 2023 results.
 
 
 
@@ -81,17 +90,20 @@ All sailboard / wingboard / kiteboard participants of Weymouth Speed Week will a
 
 The WSW course(s) will remain open during pre-agreed lunch breaks. Competitors will still be free to do runs during the lunch break, which will qualify for daily tankards and end of week prizes. However, runs during the lunch period will not count towards the UKWA Speed Championships or the WSW "fun" series. Like the UKWA series, "fun" series will have a maximum of two legs each day; AM and PM.
 
-The proposed rules for the "fun" series are very similar to those of the UKWA series, just using relaxed speed criteria. The criteria for sailboards will use the "bronze" fleet speeds in the ISWC rulebook, but will only consider finishers within the mens pro + gold fleets. The relaxed sailboard speed criteria have been chosen to allow for healthy competition on hydrofoils when the wind is light, but not too light.
+The proposed rules for the "fun" series are very similar to those of the UKWA series, just using relaxed speed criteria. For simplicity, all fleets will use speed criteria that are two knots lower than the UKWA Speed Championships. In particular, relaxed sailboard speed criteria have been chosen to allow for healthy competition on hydrofoils when the wind is light, but not too light.
 
-> One leg is considered valid when at least 25% of the finishing racers in the mens pro + gold fleets (sailboards / wingboards), or open class fleet (kiteboards) have been recorded at least two times at a certain speed. The following matrix shows the necessary speeds for each fleet:
+Sailboard:
 
-| Weymouth Speed Week - "Fun" Series | Shore course | Harbour course |
-| ---------------------------------- | ------------ | -------------- |
-| Sailboards                         | 26 knots     | 24 knots       |
-| Wingboards                         | 23 knots     | 21 knots       |
-| Kiteboards                         | 28 knots     | 22 knots       |
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 23 knots.
 
-Note: Speeds for the kiteboards have yet to be discussed with any of the kiters.
+Wingboard:
+
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 23 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 21 knots.
+
+Kiteboard:
+
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 23 knots.
+
 
 
 
@@ -99,16 +111,20 @@ Note: Speeds for the kiteboards have yet to be discussed with any of the kiters.
 
 Tweaking the speed criteria of the UKWA Speed Championships will allow for moderately windy days to deemed as valid legs. The changes aren't huge and have been proposed to account for differences between the an average UKWA rider and international riders.
 
-Analysis of historical data has shown that 9 legs in total would have been affected between 2010 and 2023. It is perhaps significant that leg 2 on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) and leg 2 on Tue [18 Oct 2022](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html) would be deemed valid using the revised criteria.
+Analysis of historical data has shown that 12 legs in total would have been affected between 2010 and 2023. It is perhaps significant that this includes both legs on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) and the second leg on Tue [18 Oct 2022](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html), all of which are deemed valid by the revised criteria.
 
-The "fun" series with slightly relaxed speed criteria are to encourage daily participation from all sailboards, wingboards, and kiteboards. These would not have official prizes or trophies, but are expected to provide riders with additional "purpose" on the less windy days.
+The "fun" series with slightly relaxed speed criteria are to encourage daily participation from all sailboards, wingboards, and kiteboards. These probably won't have official prizes or trophies, but are expected to provide riders with additional "purpose" on the less windy days.
 
 
 
 ### Reference
 
-The following section from the ISWC rulebook has been used as reference. Since the UKWA competitors are on average not of an international standard, speed requirements for "silver" fleet will only be applied to UKWA finishers in the mens pro and gold fleets.
-
-> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times at a certain speed. The following matrix shows the necessary speeds for each fleet:
+The following section from the ISWC rulebook has been used as reference.
 
 ![ISWC](iswc.png)
+
+Since the UKWA competitors are on average not of an international standard, 27 knots has been chosen:
+
+> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 27 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 25 knots.
+
+The basis for the 50% criteria has been derived from all of the UKWA Speed Championship data between 2010 and 2023.
