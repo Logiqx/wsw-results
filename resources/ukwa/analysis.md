@@ -62,6 +62,23 @@ In recent years the UKWA has used the following criteria for legs to be consider
 
 
 
+#### 50% Rule and Fleet Filter
+
+- [20111019](https://logiqx.github.io/wsw-results/results/2011/20111019/ukwa.html) new rules help 18 27.63 26.12 - requires **50%** rule
+- [20121009](https://logiqx.github.io/wsw-results/results/2012/20121009/ukwa.html) new rules help 19 28.99 25.57 - requires fleet rule
+- [20121009](https://logiqx.github.io/wsw-results/results/2012/20121009/ukwa.html) new rules help 19 29.1 26.38 - requires fleet rule
+- [20121010](https://logiqx.github.io/wsw-results/results/2012/20121010/ukwa.html) new rules help 13 29.56 27.57 - requires fleet rule
+- [20141018](https://logiqx.github.io/wsw-results/results/2014/20141018/ukwa.html) new rules help 19 28.78 26.73 - requires fleet rule
+- [20141018](https://logiqx.github.io/wsw-results/results/2014/20141018/ukwa.html) new rules help 15 28.54 27.31 - requires fleet rule
+- [20151004](https://logiqx.github.io/wsw-results/results/2015/20151004/ukwa.html) new rules help 21 28.39 25.57 - requires fleet rule
+- [20151005](https://logiqx.github.io/wsw-results/results/2015/20151005/ukwa.html) new rules help 24 28.3 26.72 - requires 50% rule or fleet rule
+- [20221018](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html) new rules help 22 28.37 27.33 - requires fleet rule
+- [20231011](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) new rules help 22 27.89 26.23 - requires **50%** rule **and** fleet rule. Fleet alone fails due to Zack having 27.89.
+- [20231011](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) new rules help 25 28.21 26.76 - requires 50% rule or fleet rule
+- [20231012](https://logiqx.github.io/wsw-results/results/2023/20231012/ukwa.html) new rules help 3 26.53 26.53 - requires **50%** rule **and** fleet rule. Only 3 people so perhaps not suitable for UKWA.
+
+
+
 #### Fleet Filter
 
 - [20121009](https://logiqx.github.io/wsw-results/results/2012/20121009/ukwa.html) fleet rule helps 19 28.99 25.57
@@ -76,20 +93,50 @@ In recent years the UKWA has used the following criteria for legs to be consider
 
 
 
-#### 50% Rule and Fleet filter
+#### Fleet Filter and Course Type
 
-- [20111019](https://logiqx.github.io/wsw-results/results/2011/20111019/ukwa.html) new rules help 18 27.63 26.12 - requires **50%** rule
-- [20121009](https://logiqx.github.io/wsw-results/results/2012/20121009/ukwa.html) new rules help 19 28.99 25.57 - requires fleet rule
-- [20121009](https://logiqx.github.io/wsw-results/results/2012/20121009/ukwa.html) new rules help 19 29.1 26.38 - requires fleet rule
-- [20121010](https://logiqx.github.io/wsw-results/results/2012/20121010/ukwa.html) new rules help 13 29.56 27.57 - requires fleet rule
-- [20141018](https://logiqx.github.io/wsw-results/results/2014/20141018/ukwa.html) new rules help 19 28.78 26.73 - requires fleet rule
-- [20141018](https://logiqx.github.io/wsw-results/results/2014/20141018/ukwa.html) new rules help 15 28.54 27.31 - requires fleet rule
-- [20151004](https://logiqx.github.io/wsw-results/results/2015/20151004/ukwa.html) new rules help 21 28.39 25.57 - requires fleet rule
-- [20151005](https://logiqx.github.io/wsw-results/results/2015/20151005/ukwa.html) new rules help 24 28.3 26.72 - requires 50% rule or fleet rule
-- [20221018](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html) new rules help 22 28.37 27.33 - requires fleet rule
-- [20231011](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) new rules help 22 27.89 26.23 - requires **50%** rule **and** fleet rule. Fleet alone fails due to Zack having 27.89.
-- [20231011](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) new rules help 25 28.21 26.76 - requires 50% rule or fleet rule
-- [20231012](https://logiqx.github.io/wsw-results/results/2023/20231012/ukwa.html) new rules help 3 26.53 26.53 - requires **50%** rule **and** fleet rule. Only 3 people so perhaps not suitable for UKWA.
+Harbour = 26 knots
+
+- [20121009/Leg 1 - Men.csv](https://logiqx.github.io/wsw-results/results/2012/20121009/ukwa.html) - fleet filter
+- [20121009/Leg 2 - Men.csv](https://logiqx.github.io/wsw-results/results/2012/20121009/ukwa.html) - fleet filter
+- [20121010/Leg 2 - Men.csv](https://logiqx.github.io/wsw-results/results/2012/20121010/ukwa.html) - fleet filter
+- [20141018/Leg 1 - Men.csv](https://logiqx.github.io/wsw-results/results/2014/20141018/ukwa.html) - fleet filter
+- [20141018/Leg 2 - Men.csv](https://logiqx.github.io/wsw-results/results/2014/20141018/ukwa.html) - fleet filter
+- [20151004/Leg 2 - Men.csv](https://logiqx.github.io/wsw-results/results/2015/20151004/ukwa.html) - fleet filter
+- [20151005/Leg 1 - Men.csv](https://logiqx.github.io/wsw-results/results/2015/20151005/ukwa.html) - fleet filter
+- [20161012/Leg 1 - Men.csv](https://logiqx.github.io/wsw-results/results/2016/20161012/ukwa.html) - **harbour** course, fastest speed 30.15
+- [20161012/Leg 2 - Men.csv](https://logiqx.github.io/wsw-results/results/2016/20161012/ukwa.html) - **harbour** course, fastest speed 29.29
+- [20161014/Leg 1 - Men.csv](https://logiqx.github.io/wsw-results/results/2016/20161014/ukwa.html) - **harbour** course, fastest speed 27.50 so questionable whether this should count
+  - Would not count with a 27 knot filter
+
+- [20221016/Leg 1 - Sailboards (Men).csv](https://logiqx.github.io/wsw-results/results/2022/20221016/ukwa.html) - **harbour** course, fastest speed 31.02 on a foil
+  - Scott, Simon and Michael were on foils, whereas Nigel was on fin
+  - Would not count with a 27 knot filter
+
+- [20221018/Leg 2 - Sailboards (Men).csv](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html) - fleet filter
+- [20231011/Leg 2 - Sailboards (Men).csv](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) - fleet filter
+
+
+
+Harbour = 27 knots
+
+- [20121009 / Leg 1 - Men / H](https://logiqx.github.io/wsw-results/results/2012/20121009/ukwa.html) - becomes valid
+- [20121009 / Leg 2 - Men / H](https://logiqx.github.io/wsw-results/results/2012/20121009/ukwa.html) - becomes valid
+- [20121010 / Leg 2 - Men / H](https://logiqx.github.io/wsw-results/results/2012/20121010/ukwa.html) - becomes valid
+- [20141018 / Leg 1 - Men / S](https://logiqx.github.io/wsw-results/results/2014/20141018/ukwa.html) - becomes valid
+- [20141018 / Leg 2 - Men / S](https://logiqx.github.io/wsw-results/results/2014/20141018/ukwa.html) - becomes valid
+- [20151004 / Leg 2 - Men / H](https://logiqx.github.io/wsw-results/results/2015/20151004/ukwa.html) - becomes valid
+- [20151005 / Leg 1 - Men / H](https://logiqx.github.io/wsw-results/results/2015/20151005/ukwa.html) - becomes valid
+- [20161012 / Leg 1 - Men / H](https://logiqx.github.io/wsw-results/results/2016/20161012/ukwa.html) - **harbour** course, fastest speed 30.15
+- [20161012 / Leg 2 - Men / H](https://logiqx.github.io/wsw-results/results/2016/20161012/ukwa.html) - **harbour** course, fastest speed 29.29
+- [20221018 / Leg 2 - Sailboards (Men) / H](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html) - becomes valid
+- [20231011 / Leg 2 - Sailboards (Men) / S](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) - becomes valid
+
+
+
+Conclusion - not worth having 27 knot criteria for harbour course as it only affects 2 legs (1 day) between 2010 to 2023
+
+
 
 
 
