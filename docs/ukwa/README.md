@@ -90,11 +90,11 @@ All sailboard / wingboard / kiteboard participants of Weymouth Speed Week will a
 
 The WSW course(s) will remain open during pre-agreed lunch breaks. Competitors will still be free to do runs during the lunch break, which will qualify for daily tankards and end of week prizes. However, runs during the lunch period will not count towards the UKWA Speed Championships or the WSW "fun" series. Like the UKWA series, "fun" series will have a maximum of two legs each day; AM and PM.
 
-The proposed rules for the "fun" series are very similar to those of the UKWA series, just using relaxed speed criteria. For simplicity, all fleets will use speed criteria that are two knots lower than the UKWA Speed Championships. In particular, reduced sailboard speed criteria have been chosen to allow for healthy competition on hydrofoils when the wind is light, but not too light.
+The proposed rules for the "fun" series are very similar to those of the UKWA series, just using relaxed speed criteria. For simplicity, all fleets will use speed criteria that are lower than the UKWA Speed Championships. In particular, reduced sailboard speed criteria have been chosen to allow for healthy competition on hydrofoils when the wind is light, but not too light.
 
 Sailboard:
 
-> One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 23 knots.
+> One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 24 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 22 knots.
 
 Wingboard:
 
@@ -102,7 +102,7 @@ Wingboard:
 
 Kiteboard:
 
-> One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 23 knots.
+> One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 24 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 22 knots.
 
 
 
