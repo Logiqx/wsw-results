@@ -99,7 +99,7 @@ Note: Speeds for the kiteboards have yet to be discussed with any of the kiters.
 
 Tweaking the way that speed criteria are applied during the UKWA Speed Championships will allow moderately windy days to deemed as valid legs. The changes aren't huge and have been proposed to account for the differences between the average UKWA rider vs international riders.
 
-The "fun" series with slightly relaxed speed criteria are to encourage daily participation from all sailboards, wingboards, and kiteboards. These would have official prizes or trophies, but are expected to provide riders with additional "purpose" on the less windy days.
+The "fun" series with slightly relaxed speed criteria are to encourage daily participation from all sailboards, wingboards, and kiteboards. These would not have official prizes or trophies, but are expected to provide riders with additional "purpose" on the less windy days.
 
 
 
