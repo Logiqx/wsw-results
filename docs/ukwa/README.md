@@ -2,7 +2,7 @@
 
 ### Overview
 
-There is a desire amongst UKWA sailors to tweak the rules of the Speed Championships so that moderately windy days can become valid legs. The current criteria are a simplification of the ISWC rulebook, which apply to international speed windsurfing competitions. Whilst the ISWC rules work fine for very windy days and gentle days, they don't always work so well for moderately windy days during the UKWA event.
+There is a desire to tweak the rules of the UKWA Speed Championships so that moderately windy days can become valid legs. The current criteria are a simplification of the ISWC rulebook, which apply to international speed windsurfing competitions. Whilst the ISWC rules work fine for very windy days and gentle days, they don't always work so well for moderately windy days during the UKWA event.
 
 The average ability of a UKWA competitor is lower than that of an international competitor, so use of the ISWC silver fleet criteria for the more capable UKWA competitors seems most appropriate. This proposal is for the use of silver fleet criteria from the ISWC rules (i.e. 28 knots for shore course, 26 knots for harbour course), applied only to the mens pro + gold fleets when determining whether a leg is valid.
 
@@ -79,7 +79,7 @@ Weymouth Speed Week are considering an additional "fun" series to encourage dail
 
 All sailboard / wingboard / kiteboard participants of Weymouth Speed Week will automatically be entered into the applicable "fun" series, regardless of UKWA membership. There will be several "fun" series, either catering for all six combinations of sailboard / wingboard / kiteboard and men / women, or three individual series for sailboards, wingboards, and kiteboards (i.e. combining men and women).
 
-The WSW course(s) will remain open during any pre-agreed lunch breaks. Competitors will still be allowed to do speed runs during the lunch break, which will qualify for daily tankards and end of week prizes. However, runs during the lunch period will not count towards the UKWA Speed Championships or the WSW "fun" series. Like the UKWA series, "fun" series will have a maximum of two legs each day; AM and PM.
+The WSW course(s) will remain open during pre-agreed lunch breaks. Competitors will still be free to do runs during the lunch break, which will qualify for daily tankards and end of week prizes. However, runs during the lunch period will not count towards the UKWA Speed Championships or the WSW "fun" series. Like the UKWA series, "fun" series will have a maximum of two legs each day; AM and PM.
 
 The proposed rules for the "fun" series are very similar to those of the UKWA series, just using relaxed speed criteria. The criteria for sailboards will use the "bronze" fleet speeds in the ISWC rulebook, but will only consider finishers within the mens pro + gold fleets. The relaxed sailboard speed criteria have been chosen to allow for healthy competition on hydrofoils when the wind is light, but not too light.
 
@@ -97,7 +97,7 @@ Note: Speeds for the kiteboards have yet to be discussed with any of the kiters.
 
 ### Conclusions
 
-Tweaking the way that speed criteria are applied during the UKWA Speed Championships will allow moderately windy days to deemed as valid legs. The changes aren't huge and have been proposed to account for the differences between the average UKWA rider vs international riders.
+Tweaking the speed criteria of the UKWA Speed Championships will allow for moderately windy days to deemed as valid legs. The changes aren't huge and have been proposed to account for differences between the an average UKWA rider and international riders.
 
 The "fun" series with slightly relaxed speed criteria are to encourage daily participation from all sailboards, wingboards, and kiteboards. These would not have official prizes or trophies, but are expected to provide riders with additional "purpose" on the less windy days.
 
