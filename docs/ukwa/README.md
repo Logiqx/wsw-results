@@ -82,7 +82,7 @@ The proposed speed requirements for the UKWA wingfoil fleet have been determined
 
 
 
-### Fun Series
+### WSW Series
 
 Weymouth Speed Week are considering an additional "fun" series to encourage daily participation from sailboard / wingboard / kiteboard competitors, running alongside the UKWA Speed Championships. The format of the "fun" series will be practically identical to the UKWA Speed Championships, including the same pre-agreed times for lunch.
 
@@ -94,15 +94,15 @@ The proposed rules for the "fun" series are very similar to those of the UKWA se
 
 Sailboard:
 
-> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 23 knots.
+> One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 23 knots.
 
 Wingboard:
 
-> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 23 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 21 knots.
+> One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 23 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 21 knots.
 
 Kiteboard:
 
-> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 23 knots.
+> One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 23 knots.
 
 
 
