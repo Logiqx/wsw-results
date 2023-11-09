@@ -2,11 +2,11 @@
 
 ### Overview
 
-There is a desire amongst UKWA sailors to tweak the rules of the Speed Championships so that moderately windy days can become valid legs. The current criteria are a simplification of the ISWC rulebook, which applies to international speed windsurfing competitions. Whilst the ISWC rules work fine for very windy days and gentle days, they don't always work so well for moderately windy days at the UKWA Speed Championship.
+There is a desire amongst UKWA sailors to tweak the rules of the Speed Championships so that moderately windy days can become valid legs. The current criteria are a simplification of the ISWC rulebook, which apply to international speed windsurfing competitions. Whilst the ISWC rules work fine for very windy days and gentle days, they don't always work so well for moderately windy days during the UKWA event.
 
 The average ability of a UKWA competitor is lower than that of an international competitor, so use of the ISWC silver fleet criteria for the more capable UKWA competitors seems most appropriate. This proposal is for the use of silver fleet criteria from the ISWC rules (i.e. 28 knots for shore course, 26 knots for harbour course), applied only to the mens pro + gold fleets when determining whether a leg is valid.
 
-Weymouth Speed Week are also considering craft-specific "fun" series to encourage daily participation. The "fun" series would be similar to the UKWA series, but with different speed criteria. The criteria for sailboards would use the "bronze" fleet speeds from the ISWC rulebook (i.e. 26 knots for shore course, 24 knots for harbour course), applied only to the mens pro + gold fleets / open class (kites).
+Weymouth Speed Week are also considering some craft-specific "fun" series to encourage daily participation. The "fun" series would be similar to the UKWA series, but with different speed criteria. The criteria for sailboards would use the "bronze" fleet speeds from the ISWC rulebook (i.e. 26 knots for shore course, 24 knots for harbour course), applied only to the mens pro + gold fleets / open class (kites).
 
 
 
@@ -57,9 +57,9 @@ In addition to the above legs in 2023 and 2022, another 7 legs between 2012 and 
 
 ### UKWA Series
 
-The average UKWA pro and gold fleet riders cannot be expected to perform at the same level as the average competitor attending an international competition. The criteria for a silver fleet have therefore been deemed most appropriate for the combination of UKWA pro and gold fleets.
+The average UKWA pro and gold fleet riders cannot be expected to perform at the same level as competitors attending an international competition. The criteria for a silver fleet have therefore been deemed most appropriate for the combination of UKWA pro and gold fleets.
 
-This wording is based on the ISWC rulebook (included at the end of this document), and uses the speed criteria of a silver fleet.
+The proposal below is based on the ISWC wording (included at the end of this document), and uses the speed criteria of a silver fleet.
 
 > One leg is considered valid when at least 25% of the finishing UKWA racers in the mens pro + gold fleets have been recorded at least two times at a certain speed. The following matrix shows the necessary speeds for each fleet:
 
@@ -68,7 +68,7 @@ This wording is based on the ISWC rulebook (included at the end of this document
 | Windsurf / Windfoil    | 28 knots     | 26 knots       |
 | Wingfoil               | 25 knots     | 23 knots       |
 
-n.b. Increased speed requirements for the UKWA wingfoil fleet are also proposed in the table, based upon 2022 and 2023 results.
+n.b. Increased speed requirements for the UKWA wingfoil fleet have been determined using 2022 and 2023 results.
 
 
 
@@ -99,7 +99,7 @@ Note: Speeds for the kiteboards have yet to be discussed with any of the kiters.
 
 Tweaking the way that speed criteria are applied during the UKWA Speed Championships will allow moderately windy days to deemed as valid legs. The changes aren't huge and have been proposed to account for the differences between the average UKWA rider vs international riders.
 
-The addition of a "fun" series with slightly relaxed speed criteria is to encourage daily participation from all sailboards, wingboards, and kiteboards. This would not be awarded an official prize or trophy but is expected to provide riders with additional "purpose" on the less windy days.
+The "fun" series with slightly relaxed speed criteria are to encourage daily participation from all sailboards, wingboards, and kiteboards. These would have official prizes or trophies, but are expected to provide riders with additional "purpose" on the less windy days.
 
 
 
