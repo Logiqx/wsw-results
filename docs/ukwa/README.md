@@ -54,31 +54,31 @@ The basis for the 50% criteria has been derived from all 116 of the UKWA Speed C
 
 ![percentiles](percentiles.png)
 
-When applied to all previous UKWA Speed Championships, 2 days (3 legs) in recent years are affected by this change:
+When applied to all previous UKWA Speed Championships, 2 days / 3 legs in recent years are affected by this change:
 
 - Legs 1 and 2 on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) would be deemed valid
 - Leg 2 on Tue [18 Oct 2022](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html) would be deemed valid
 
-In addition to the 2 legs in 2023 and 1 leg in 2022, another 9 legs between 2011 and 2016 are also deemed valid.
+In addition to the 2 days / 3 legs in 2023 and 2022, another 9 legs between 2011 and 2016 are also deemed valid.
 
 
 
 
 ### UKWA Series
 
-The average UKWA windsurfers cannot be expected to perform at the same level as competitors attending an international competition. The criteria for 25% of the fleet is therefore reduced to 27 knots, and the equivalent for 50% is implemented as 25 knots.
+The average UKWA windsurfers cannot be expected to perform at the same level as competitors attending an international competition. The criteria for 25% of the fleet is therefore proposed to be 27 knots, and the equivalent for 50% is proposed as 25 knots.
 
-The wording below is based on the ISWC rulebook, which is referenced at the end of this document.
+The wording below is similar to the ISWC rulebook, which is referenced at the end of this document.
 
 Windsurf / Windfoil:
 
-> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 27 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 25 knots.
+> One leg is considered valid when at least 25% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 27 knots, or 50% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 25 knots.
 
 Wingfoil:
 
-> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 23 knots.
+> One leg is considered valid when at least 25% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 23 knots.
 
-The increased speed requirements for the UKWA wingfoil fleet have been determined using 2022 and 2023 results.
+The proposed speed requirements for the UKWA wingfoil fleet have been determined using 2022 and 2023 results.
 
 
 
@@ -90,7 +90,7 @@ All sailboard / wingboard / kiteboard participants of Weymouth Speed Week will a
 
 The WSW course(s) will remain open during pre-agreed lunch breaks. Competitors will still be free to do runs during the lunch break, which will qualify for daily tankards and end of week prizes. However, runs during the lunch period will not count towards the UKWA Speed Championships or the WSW "fun" series. Like the UKWA series, "fun" series will have a maximum of two legs each day; AM and PM.
 
-The proposed rules for the "fun" series are very similar to those of the UKWA series, just using relaxed speed criteria. For simplicity, all fleets will use speed criteria that are two knots lower than the UKWA Speed Championships. In particular, relaxed sailboard speed criteria have been chosen to allow for healthy competition on hydrofoils when the wind is light, but not too light.
+The proposed rules for the "fun" series are very similar to those of the UKWA series, just using relaxed speed criteria. For simplicity, all fleets will use speed criteria that are two knots lower than the UKWA Speed Championships. In particular, reduced sailboard speed criteria have been chosen to allow for healthy competition on hydrofoils when the wind is light, but not too light.
 
 Sailboard:
 
@@ -109,9 +109,9 @@ Kiteboard:
 
 ### Conclusions
 
-Tweaking the speed criteria of the UKWA Speed Championships will allow for moderately windy days to deemed as valid legs. The changes aren't huge and have been proposed to account for differences between the an average UKWA rider and international riders.
+Tweaking the speed criteria of the UKWA Speed Championships will allow for moderately windy days to deemed as valid legs. The changes aren't huge and have been proposed to account for differences between average UKWA riders and international riders.
 
-Analysis of historical data has shown that 12 legs in total would have been affected between 2010 and 2023. It is perhaps significant that this includes both legs on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) and the second leg on Tue [18 Oct 2022](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html), all of which are deemed valid by the revised criteria.
+Analysis of historical data has shown that a total of 12 legs are affected between 2010 and 2023. It is perhaps significant that this includes both legs on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) and the second leg on Tue [18 Oct 2022](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html), all of which are deemed valid by the revised criteria.
 
 The "fun" series with slightly relaxed speed criteria are to encourage daily participation from all sailboards, wingboards, and kiteboards. These probably won't have official prizes or trophies, but are expected to provide riders with additional "purpose" on the less windy days.
 
@@ -123,8 +123,8 @@ The following section from the ISWC rulebook has been used as reference.
 
 ![ISWC](iswc.png)
 
-Since the UKWA competitors are on average not of an international standard, 27 knots has been chosen:
+The average UKWA competitor is not of an international standard, so 27 knots has been chosen for the 25% rule:
 
-> One leg is considered valid when at least 25% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 27 knots, or 50% of the finishing UKWA racers in the mens fleet have been recorded at least two times at 25 knots.
+> One leg is considered valid when at least 25% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 27 knots, or 50% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 25 knots.
 
-The basis for the 50% criteria has been derived from all of the UKWA Speed Championship data between 2010 and 2023.
+The 50% criteria of 25 knots was determined using all of the UKWA Speed Championship data between 2010 and 2023.
