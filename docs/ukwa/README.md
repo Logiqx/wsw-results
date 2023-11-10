@@ -119,7 +119,7 @@ The "fun" series with slightly relaxed speed criteria are to encourage daily par
 
 
 
-### Reference
+### ISWC Reference
 
 The following section from the ISWC rulebook has been used as reference.
 
@@ -130,3 +130,21 @@ The average UKWA competitor is not of an international standard, so 27 knots has
 > One leg is considered valid when at least 25% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 27 knots, or 50% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 25 knots.
 
 The 50% criteria of 25 knots was determined using all of the UKWA Speed Championship data between 2010 and 2023.
+
+
+
+### Final Note
+
+The following sessions would be deemed valid if the speed criteria were changed to 25% @ 26 knots, or 50% @ 24 knots:
+
+- [20121009 / Leg 1 - Men / Harbour](https://logiqx.github.io/wsw-results/results/2012/20121009/ukwa.html)
+- [20121012 / Leg 1 - Men / Shore](https://logiqx.github.io/wsw-results/results/2012/20121012/ukwa.html)
+- [20131017 / Men / Shore](https://logiqx.github.io/wsw-results/results/2013/20131017/ukwa.html)
+- [20141022 / Leg 2 - Men / Shore](https://logiqx.github.io/wsw-results/results/2014/20141022/ukwa.html)
+- [20161012 / Leg 1 - Men / Harbour](https://logiqx.github.io/wsw-results/results/2016/20161012/ukwa.html)
+- [20181016 / Leg 2 - Men / Shore](https://logiqx.github.io/wsw-results/results/2018/20181016/ukwa.html)
+- [20221016 / Leg 1 - Sailboards (Men) / Harbour](https://logiqx.github.io/wsw-results/results/2022/20221016/ukwa.html)
+- [20221017 / Leg 1 - Sailboards (Men) / Shore](https://logiqx.github.io/wsw-results/results/2022/20221017/ukwa.html)
+- [20231012 / Leg 1 - Sailboards (Men) / Shore](https://logiqx.github.io/wsw-results/results/2023/20231012/ukwa.html)
+
+My personal opinion is that the majority of these legs should not be considered valid.
