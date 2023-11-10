@@ -70,11 +70,11 @@ The average UKWA windsurfers cannot be expected to perform at the same level as 
 
 The wording below is similar to the ISWC rulebook, which is referenced at the end of this document.
 
-Windsurf / Windfoil:
+Sailboards:
 
 > One leg is considered valid when at least 25% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 27 knots, or 50% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 25 knots.
 
-Wingfoil:
+Wingboards:
 
 > One leg is considered valid when at least 25% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 25 knots, or 50% of the finishing racers in the UKWA mens fleet have been recorded at least two times at 23 knots.
 
@@ -92,15 +92,15 @@ The WSW course(s) will remain open during pre-agreed lunch breaks. Competitors w
 
 The proposed rules for the "fun" series are very similar to those of the UKWA series, just relaxing the speed criteria. Sailboards and wingboards will use speed criteria that are 3 knots less than the UKWA Speed Championship, thus allowing for healthy competition on hydrofoils when the wind is light, but not too light. For simplicity, kiteboards will use the same speed criteria as sailboards.
 
-Sailboard:
+Sailboards:
 
 > One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 24 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 22 knots.
 
-Wingboard:
+Wingboards:
 
 > One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 22 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 20 knots.
 
-Kiteboard:
+Kiteboards:
 
 > One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 24 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 22 knots.
 
