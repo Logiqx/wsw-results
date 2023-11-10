@@ -45,7 +45,7 @@ A significant amount of analysis has been undertaken prior to presenting this pr
 
 The analysis has investigated median speeds of the fleet, relevance of the interquartile ranges, restricting the speed criteria to mens pro + gold fleet sailors, changes to the speed criteria and the effect of different speed criteria for shore / harbour courses.
 
-The most effective solution simply uses two independent criteria, which together are more [robust](https://en.wikipedia.org/wiki/Robust_statistics) than a single criteria:
+The most effective solution simply uses two complementary criteria, which together are more [robust](https://en.wikipedia.org/wiki/Robust_statistics) than a single criteria:
 
 - 25% of the fleet achieving over 27 knots
 - 50% of the fleet achieving over 25 knots
