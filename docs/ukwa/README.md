@@ -45,10 +45,12 @@ A significant amount of analysis has been undertaken prior to presenting this pr
 
 The analysis has investigated median speeds of the fleet, relevance of the interquartile ranges, restricting the speed criteria to mens pro + gold fleet sailors, changes to the speed criteria and the effect of different speed criteria for shore / harbour courses.
 
-The most effective solution simply uses two independent criteria, which are more [robust](https://en.wikipedia.org/wiki/Robust_statistics) than a single criteria:
+The most effective solution simply uses two independent criteria, which together are more [robust](https://en.wikipedia.org/wiki/Robust_statistics) than a single criteria:
 
 - 25% of the fleet achieving over 27 knots
 - 50% of the fleet achieving over 25 knots
+
+Neither one of these two criteria are objectively "better" than the other, due to their statistical equivalence. However, evaluating both criteria copes better with the inherent [variance](https://en.wikipedia.org/wiki/Variance) in real-world data and the fact that such data is [non-Gaussian](https://medium.com/@amanatulla1606/when-normal-just-wont-cut-it-understanding-and-utilizing-non-gaussian-distributions-9fb0d8e249a3).
 
 The basis for the 50% criteria has been derived from all 116 of the UKWA Speed Championship legs between 2010 and 2023:
 
