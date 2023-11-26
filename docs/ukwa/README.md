@@ -86,13 +86,13 @@ The proposed speed requirements for the UKWA wingfoil fleet have been determined
 
 ### WSW Series
 
-Weymouth Speed Week are considering an additional "fun" series to encourage daily participation from sailboard / wingboard / kiteboard competitors, running alongside the UKWA Speed Championships. The format of the "fun" series will be practically identical to the UKWA Speed Championships, including the same pre-agreed times for lunch.
+Weymouth Speed Week are considering some additional "fun" series to encourage daily participation from sailboard and wingboard competitors, running alongside the UKWA Speed Championships. The format of the "fun" series will be practically identical to the UKWA Speed Championships, including the same pre-agreed times for lunch.
 
-All sailboard / wingboard / kiteboard participants of Weymouth Speed Week will automatically be entered into the applicable "fun" series, regardless of UKWA membership. There will be several "fun" series, either catering for all six combinations of sailboard / wingboard / kiteboard and men / women, or three individual series for sailboards, wingboards, and kiteboards (i.e. combining men and women).
+All sailboard and wingboard participants of Weymouth Speed Week will automatically be entered into the applicable "fun" series, regardless of UKWA membership. There will be a number of "fun" series, either catering for all four combinations of sailboards / wingboards and men / women, or two individual series for sailboards and wingboards (i.e. combining men and women).
 
 The WSW course(s) will remain open during pre-agreed lunch breaks. Competitors will still be free to do runs during the lunch break, which will qualify for daily tankards and end of week prizes. However, runs during the lunch period will not count towards the UKWA Speed Championships or the WSW "fun" series. Like the UKWA series, "fun" series will have a maximum of two legs each day; AM and PM.
 
-The proposed rules for the "fun" series are very similar to those of the UKWA series, just relaxing the speed criteria. Sailboards and wingboards will use speed criteria that are 3 knots less than the UKWA Speed Championship, thus allowing for healthy competition on hydrofoils when the wind is light, but not too light. For simplicity, kiteboards will use the same speed criteria as sailboards.
+The proposed rules for the "fun" series are very similar to those of the UKWA series, just relaxing the speed criteria. Sailboards and wingboards will use speed criteria that are 3 knots less than the UKWA Speed Championship, thus allowing for healthy competition on hydrofoils when the wind is light, but not too light.
 
 Sailboards:
 
@@ -102,11 +102,6 @@ Wingboards:
 
 > One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 22 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 20 knots.
 
-Kiteboards:
-
-> One leg is considered valid when at least 25% of the finishing racers in the mens fleet have been recorded at least two times at 24 knots, or 50% of the finishing racers in the mens fleet have been recorded at least two times at 22 knots.
-
-
 
 
 ### Conclusions
@@ -115,7 +110,7 @@ Tweaking the speed criteria of the UKWA Speed Championships will allow for moder
 
 Analysis of historical data has shown that a total of 12 legs are affected between 2010 and 2023. It is perhaps significant that this includes both legs on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) and the second leg on Tue [18 Oct 2022](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html), all of which are deemed valid by the revised criteria.
 
-The "fun" series with slightly relaxed speed criteria are to encourage daily participation from all sailboards, wingboards, and kiteboards. These probably won't have official prizes or trophies, but are expected to provide riders with additional "purpose" on the less windy days.
+The "fun" series with slightly relaxed speed criteria are to encourage daily participation from all sailboards and wingboards. These probably won't have official prizes or trophies, but are expected to provide riders with additional "purpose" on the less windy days.
 
 
 
