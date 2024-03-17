@@ -8,9 +8,11 @@ IMAGE_TAG=$(git rev-parse --short=12 HEAD)
 # Docker Build
 DOCKER_BUILDKIT=1 docker build . --build-arg LOGIQX_DEBUG -t $IMAGE_NAME:$IMAGE_TAG
 
-# Remove extra whitespace
-YEAR=$(date +%Y)
-sed -i 's/ *$//;s/ *"/"/g;s/ *,/,/g' events/$YEAR/config/entries.csv
+# Remove extra whitespace from latest entries
+for ENTRIES in $(ls events/*/config/entries.csv)
+do
+  sed -i 's/ *$//;s/ *"/"/g;s/ *,/,/g' $ENTRIES
+done
 
 # Run entries conversion
 run_py_script entries.py
