@@ -75,7 +75,7 @@ The remainder of this document attempts to summarize how the various technical p
 - Motion tracks will be processed by GPSResults, or possibly some dedicated software to process each track as it is received.
 - The same software as 2022 will use the output of GPSResults / dedicated software to generate the daily rankings and update the weekly rankings.
 
-Note: The newly created reporting software has already been used to produce [results](https://logiqx.github.io/wsw-results/results/index.html) for all years since 1998.
+Note: The newly created reporting software has already been used to produce [results](https://logiqx.github.io/wsw-results/events/index.html) for all years since 1998.
 
 
 
