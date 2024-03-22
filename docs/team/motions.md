@@ -35,7 +35,7 @@ The team in the office will be responsible for switching on all of the Motions i
 
 ##### Overview
 
-Here's a quick overview of what needs to be done for all of the Motions. It is best performed by two persons; one person turning on the motions and the other person checking the console output on the laptop.
+Here's a quick overview of what needs to be done for all of the Motions. It can be performed by two persons; one person turning on the motions and the other person checking the console output on the laptop.
 
 ![img](img/process.png)
 
