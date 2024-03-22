@@ -58,8 +58,8 @@ The basis for the 50% criteria has been derived from all 116 of the UKWA Speed C
 
 When applied to all previous UKWA Speed Championships, 2 days / 3 legs in recent years are affected by this change:
 
-- Legs 1 and 2 on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) would be deemed valid
-- Leg 2 on Tue [18 Oct 2022](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html) would be deemed valid
+- Legs 1 and 2 on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/events/2023/20231011/ukwa.html) would be deemed valid
+- Leg 2 on Tue [18 Oct 2022](https://logiqx.github.io/wsw-results/events/2022/20221018/ukwa.html) would be deemed valid
 
 In addition to the 2 days / 3 legs in 2023 and 2022, another 9 legs between 2011 and 2016 are also deemed valid.
 
@@ -108,7 +108,7 @@ Wingboards:
 
 Tweaking the speed criteria of the UKWA Speed Championships will allow for moderately windy days to deemed as valid legs. The changes aren't huge and have been proposed to account for differences between average UKWA riders and international riders.
 
-Analysis of historical data has shown that a total of 12 legs are affected between 2010 and 2023. It is perhaps significant that this includes both legs on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/results/2023/20231011/ukwa.html) and the second leg on Tue [18 Oct 2022](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html), all of which are deemed valid by the revised criteria.
+Analysis of historical data has shown that a total of 12 legs are affected between 2010 and 2023. It is perhaps significant that this includes both legs on Wed [11 Oct 2023](https://logiqx.github.io/wsw-results/events/2023/20231011/ukwa.html) and the second leg on Tue [18 Oct 2022](https://logiqx.github.io/wsw-results/results/2022/20221018/ukwa.html), all of which are deemed valid by the revised criteria.
 
 The "fun" series with slightly relaxed speed criteria are to encourage daily participation from all sailboards and wingboards. These probably won't have official prizes or trophies, but are expected to provide riders with additional "purpose" on the less windy days.
 
@@ -132,14 +132,14 @@ The 50% criteria of 25 knots was determined using all of the UKWA Speed Champion
 
 The following sessions would be deemed valid if the speed criteria were changed to 25% @ 26 knots, or 50% @ 24 knots:
 
-- [20121009 / Leg 1 - Men / Harbour](https://logiqx.github.io/wsw-results/results/2012/20121009/ukwa.html)
-- [20121012 / Leg 1 - Men / Shore](https://logiqx.github.io/wsw-results/results/2012/20121012/ukwa.html)
-- [20131017 / Men / Shore](https://logiqx.github.io/wsw-results/results/2013/20131017/ukwa.html)
-- [20141022 / Leg 2 - Men / Shore](https://logiqx.github.io/wsw-results/results/2014/20141022/ukwa.html)
-- [20161012 / Leg 1 - Men / Harbour](https://logiqx.github.io/wsw-results/results/2016/20161012/ukwa.html)
-- [20181016 / Leg 2 - Men / Shore](https://logiqx.github.io/wsw-results/results/2018/20181016/ukwa.html)
-- [20221016 / Leg 1 - Sailboards (Men) / Harbour](https://logiqx.github.io/wsw-results/results/2022/20221016/ukwa.html)
-- [20221017 / Leg 1 - Sailboards (Men) / Shore](https://logiqx.github.io/wsw-results/results/2022/20221017/ukwa.html)
-- [20231012 / Leg 1 - Sailboards (Men) / Shore](https://logiqx.github.io/wsw-results/results/2023/20231012/ukwa.html)
+- [20121009 / Leg 1 - Men / Harbour](https://logiqx.github.io/wsw-results/events/2012/20121009/ukwa.html)
+- [20121012 / Leg 1 - Men / Shore](https://logiqx.github.io/wsw-results/events/2012/20121012/ukwa.html)
+- [20131017 / Men / Shore](https://logiqx.github.io/wsw-results/events/2013/20131017/ukwa.html)
+- [20141022 / Leg 2 - Men / Shore](https://logiqx.github.io/wsw-results/events/2014/20141022/ukwa.html)
+- [20161012 / Leg 1 - Men / Harbour](https://logiqx.github.io/wsw-results/events/2016/20161012/ukwa.html)
+- [20181016 / Leg 2 - Men / Shore](https://logiqx.github.io/wsw-results/events/2018/20181016/ukwa.html)
+- [20221016 / Leg 1 - Sailboards (Men) / Harbour](https://logiqx.github.io/wsw-results/events/2022/20221016/ukwa.html)
+- [20221017 / Leg 1 - Sailboards (Men) / Shore](https://logiqx.github.io/wsw-results/events/2022/20221017/ukwa.html)
+- [20231012 / Leg 1 - Sailboards (Men) / Shore](https://logiqx.github.io/wsw-results/events/2023/20231012/ukwa.html)
 
 My personal opinion is that the majority of these legs should not be considered valid.

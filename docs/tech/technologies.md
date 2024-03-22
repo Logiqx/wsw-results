@@ -40,5 +40,5 @@ The project will probably migrate over to Microsoft's [Visual Studio Code](https
 
 This [project](https://github.com/Logiqx/wsw-results) is entirely open source and the repository (source code, data and documentation) is stored on [GitHub](https://en.wikipedia.org/wiki/GitHub).
 
-The web pages for Weymouth Speed Week [results](https://logiqx.github.io/wsw-results/results/index.html) are hosted on [GitHub Pages](https://pages.github.com/) due to it's native integration with GitHub.
+The web pages for Weymouth Speed Week [results](https://logiqx.github.io/wsw-results/events/index.html) are hosted on [GitHub Pages](https://pages.github.com/) due to it's native integration with GitHub.
 
