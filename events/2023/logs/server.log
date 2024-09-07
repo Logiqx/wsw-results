@@ -13328,3 +13328,1378 @@
 2024-09-07 14:47:22,DEBUG,DisconnectionThread #7 finished
 2024-09-07 14:47:22,DEBUG,DisconnectionThread #8 finished
 2024-09-07 14:47:22,INFO,Thread pools stopped
+2024-09-07 15:32:37,INFO,Starting thread pools
+2024-09-07 15:32:37,DEBUG,DetectionThreadPool starting
+2024-09-07 15:32:38,DEBUG,DetectionThread #1 starting
+2024-09-07 15:32:38,DEBUG,DetectionThread #2 starting
+2024-09-07 15:32:38,DEBUG,DetectionThread #3 starting
+2024-09-07 15:32:38,DEBUG,DetectionThread #4 starting
+2024-09-07 15:32:38,DEBUG,DetectionThread #5 starting
+2024-09-07 15:32:38,DEBUG,DetectionThread #6 starting
+2024-09-07 15:32:38,DEBUG,DetectionThread #7 starting
+2024-09-07 15:32:38,DEBUG,DetectionThread #8 starting
+2024-09-07 15:32:38,DEBUG,InspectionThreadPool starting
+2024-09-07 15:32:38,DEBUG,InspectionThread #1 starting
+2024-09-07 15:32:38,DEBUG,InspectionThread #2 starting
+2024-09-07 15:32:38,DEBUG,InspectionThread #3 starting
+2024-09-07 15:32:38,DEBUG,InspectionThread #4 starting
+2024-09-07 15:32:38,DEBUG,DownloadThreadPool starting
+2024-09-07 15:32:38,DEBUG,DownloadThread #1 starting
+2024-09-07 15:32:38,DEBUG,DownloadThread #2 starting
+2024-09-07 15:32:38,DEBUG,DownloadThread #3 starting
+2024-09-07 15:32:38,DEBUG,DownloadThread #4 starting
+2024-09-07 15:32:38,DEBUG,DisconnectionThreadPool starting
+2024-09-07 15:32:38,DEBUG,DisconnectionThread #1 starting
+2024-09-07 15:32:38,DEBUG,DisconnectionThread #2 starting
+2024-09-07 15:32:38,DEBUG,DisconnectionThread #3 starting
+2024-09-07 15:32:38,DEBUG,DisconnectionThread #4 starting
+2024-09-07 15:32:38,DEBUG,DisconnectionThread #5 starting
+2024-09-07 15:32:38,DEBUG,DisconnectionThread #6 starting
+2024-09-07 15:32:38,DEBUG,DisconnectionThread #7 starting
+2024-09-07 15:32:38,DEBUG,DisconnectionThread #8 starting
+2024-09-07 15:32:38,INFO,Thread pools started
+2024-09-07 15:33:18,DEBUG,motion-693 detected at 192.168.0.130
+2024-09-07 15:33:18,INFO,motion-693 is connected
+2024-09-07 15:33:19,DEBUG,motion-693 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:33:19,DEBUG,motion-693 storage is 0% full
+2024-09-07 15:33:19,WARNING,motion-693 battery level is 56%
+2024-09-07 15:33:20,INFO,motion-693 can be disconnected
+2024-09-07 15:33:33,DEBUG,motion-693 has been disconnected
+2024-09-07 15:33:38,DEBUG,motion-693 detected at 192.168.0.130
+2024-09-07 15:33:39,DEBUG,motion-693 not accepting connections
+2024-09-07 15:33:43,DEBUG,motion-693 detected at 192.168.0.130
+2024-09-07 15:33:44,DEBUG,motion-693 not accepting connections
+2024-09-07 15:33:48,DEBUG,motion-693 detected at 192.168.0.130
+2024-09-07 15:33:49,DEBUG,motion-693 not accepting connections
+2024-09-07 15:33:53,DEBUG,motion-693 detected at 192.168.0.130
+2024-09-07 15:33:54,DEBUG,motion-693 not accepting connections
+2024-09-07 15:33:58,DEBUG,motion-693 detected at 192.168.0.130
+2024-09-07 15:33:59,DEBUG,motion-693 not accepting connections
+2024-09-07 15:34:03,DEBUG,motion-693 detected at 192.168.0.130
+2024-09-07 15:34:04,DEBUG,motion-693 not accepting connections
+2024-09-07 15:34:08,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 15:34:08,DEBUG,motion-693 detected at 192.168.0.130
+2024-09-07 15:34:08,DEBUG,motion-695 detected at 192.168.0.118
+2024-09-07 15:34:08,INFO,motion-695 is connected
+2024-09-07 15:34:09,DEBUG,motion-695 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:34:09,DEBUG,motion-695 storage is 0% full
+2024-09-07 15:34:09,WARNING,motion-695 battery level is 56%
+2024-09-07 15:34:09,DEBUG,motion-693 not accepting connections
+2024-09-07 15:34:09,INFO,motion-695 can be disconnected
+2024-09-07 15:34:13,DEBUG,motion-693 detected at 192.168.0.130
+2024-09-07 15:34:14,DEBUG,motion-693 not accepting connections
+2024-09-07 15:34:33,DEBUG,motion-695 has been disconnected
+2024-09-07 15:34:33,DEBUG,motion-695 detected at 192.168.0.118
+2024-09-07 15:34:34,DEBUG,motion-695 not accepting connections
+2024-09-07 15:34:38,DEBUG,motion-695 detected at 192.168.0.118
+2024-09-07 15:34:39,DEBUG,motion-695 not accepting connections
+2024-09-07 15:34:43,DEBUG,motion-695 detected at 192.168.0.118
+2024-09-07 15:34:44,DEBUG,motion-695 not accepting connections
+2024-09-07 15:34:48,DEBUG,motion-695 detected at 192.168.0.118
+2024-09-07 15:34:49,DEBUG,motion-695 not accepting connections
+2024-09-07 15:34:53,DEBUG,motion-695 detected at 192.168.0.118
+2024-09-07 15:34:54,DEBUG,motion-695 not accepting connections
+2024-09-07 15:34:58,DEBUG,motion-695 detected at 192.168.0.118
+2024-09-07 15:34:59,DEBUG,motion-695 not accepting connections
+2024-09-07 15:35:03,DEBUG,motion-695 detected at 192.168.0.118
+2024-09-07 15:35:04,DEBUG,motion-695 not accepting connections
+2024-09-07 15:35:08,DEBUG,motion-669 detected at 192.168.0.140
+2024-09-07 15:35:08,INFO,motion-669 is connected
+2024-09-07 15:35:09,DEBUG,motion-669 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:35:09,DEBUG,motion-669 storage is 0% full
+2024-09-07 15:35:09,WARNING,motion-669 battery level is 56%
+2024-09-07 15:35:10,INFO,motion-669 can be disconnected
+2024-09-07 15:35:23,DEBUG,motion-669 has been disconnected
+2024-09-07 15:35:23,DEBUG,motion-669 detected at 192.168.0.140
+2024-09-07 15:35:24,DEBUG,motion-669 not accepting connections
+2024-09-07 15:35:28,DEBUG,motion-669 detected at 192.168.0.140
+2024-09-07 15:35:29,DEBUG,motion-669 not accepting connections
+2024-09-07 15:35:33,DEBUG,motion-669 detected at 192.168.0.140
+2024-09-07 15:35:34,DEBUG,motion-669 not accepting connections
+2024-09-07 15:35:38,DEBUG,motion-669 detected at 192.168.0.140
+2024-09-07 15:35:39,DEBUG,motion-669 not accepting connections
+2024-09-07 15:35:43,DEBUG,motion-669 detected at 192.168.0.140
+2024-09-07 15:35:44,DEBUG,motion-669 not accepting connections
+2024-09-07 15:35:48,DEBUG,motion-669 detected at 192.168.0.140
+2024-09-07 15:35:48,DEBUG,motion-854 detected at 192.168.0.110
+2024-09-07 15:35:48,INFO,motion-854 is connected
+2024-09-07 15:35:49,DEBUG,motion-669 not accepting connections
+2024-09-07 15:35:49,DEBUG,motion-854 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:35:49,DEBUG,motion-854 storage is 0% full
+2024-09-07 15:35:49,WARNING,motion-854 battery level is 39%
+2024-09-07 15:35:50,INFO,motion-854 can be disconnected
+2024-09-07 15:35:53,DEBUG,motion-669 detected at 192.168.0.140
+2024-09-07 15:35:54,DEBUG,motion-669 not accepting connections
+2024-09-07 15:35:58,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 15:35:58,DEBUG,motion-669 detected at 192.168.0.140
+2024-09-07 15:35:59,DEBUG,motion-669 not accepting connections
+2024-09-07 15:36:03,DEBUG,motion-854 has been disconnected
+2024-09-07 15:36:03,DEBUG,motion-669 detected at 192.168.0.140
+2024-09-07 15:36:03,DEBUG,motion-854 detected at 192.168.0.110
+2024-09-07 15:36:04,DEBUG,motion-669 not accepting connections
+2024-09-07 15:36:04,DEBUG,motion-854 not accepting connections
+2024-09-07 15:36:08,DEBUG,motion-854 detected at 192.168.0.110
+2024-09-07 15:36:09,DEBUG,motion-854 not accepting connections
+2024-09-07 15:36:13,DEBUG,motion-854 detected at 192.168.0.110
+2024-09-07 15:36:14,DEBUG,motion-854 not accepting connections
+2024-09-07 15:36:18,DEBUG,motion-854 detected at 192.168.0.110
+2024-09-07 15:36:19,DEBUG,motion-854 not accepting connections
+2024-09-07 15:36:23,DEBUG,motion-854 detected at 192.168.0.110
+2024-09-07 15:36:24,DEBUG,motion-854 not accepting connections
+2024-09-07 15:36:28,DEBUG,motion-854 detected at 192.168.0.110
+2024-09-07 15:36:29,DEBUG,motion-854 not accepting connections
+2024-09-07 15:36:33,DEBUG,motion-641 detected at 192.168.0.196
+2024-09-07 15:36:33,DEBUG,motion-854 detected at 192.168.0.110
+2024-09-07 15:36:33,INFO,motion-641 is connected
+2024-09-07 15:36:34,DEBUG,motion-641 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:36:34,DEBUG,motion-641 storage is 0% full
+2024-09-07 15:36:34,WARNING,motion-641 battery level is 55%
+2024-09-07 15:36:34,DEBUG,motion-854 not accepting connections
+2024-09-07 15:36:34,INFO,motion-641 can be disconnected
+2024-09-07 15:36:38,DEBUG,motion-854 detected at 192.168.0.110
+2024-09-07 15:36:39,DEBUG,motion-854 not accepting connections
+2024-09-07 15:36:43,DEBUG,motion-854 detected at 192.168.0.110
+2024-09-07 15:36:44,DEBUG,motion-854 not accepting connections
+2024-09-07 15:36:53,DEBUG,motion-641 has been disconnected
+2024-09-07 15:36:53,DEBUG,motion-641 detected at 192.168.0.196
+2024-09-07 15:36:54,DEBUG,motion-641 not accepting connections
+2024-09-07 15:36:58,DEBUG,motion-641 detected at 192.168.0.196
+2024-09-07 15:36:59,DEBUG,motion-641 not accepting connections
+2024-09-07 15:37:03,DEBUG,motion-641 detected at 192.168.0.196
+2024-09-07 15:37:04,DEBUG,motion-641 not accepting connections
+2024-09-07 15:37:08,DEBUG,motion-641 detected at 192.168.0.196
+2024-09-07 15:37:09,DEBUG,motion-641 not accepting connections
+2024-09-07 15:37:13,DEBUG,motion-641 detected at 192.168.0.196
+2024-09-07 15:37:14,DEBUG,motion-641 not accepting connections
+2024-09-07 15:37:18,DEBUG,motion-641 detected at 192.168.0.196
+2024-09-07 15:37:18,DEBUG,motion-724 detected at 192.168.0.224
+2024-09-07 15:37:18,INFO,motion-724 is connected
+2024-09-07 15:37:19,DEBUG,motion-641 not accepting connections
+2024-09-07 15:37:19,DEBUG,motion-724 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:37:19,DEBUG,motion-724 storage is 0% full
+2024-09-07 15:37:19,WARNING,motion-724 battery level is 51%
+2024-09-07 15:37:19,INFO,motion-724 can be disconnected
+2024-09-07 15:37:23,DEBUG,motion-641 detected at 192.168.0.196
+2024-09-07 15:37:24,DEBUG,motion-641 not accepting connections
+2024-09-07 15:37:28,DEBUG,motion-641 detected at 192.168.0.196
+2024-09-07 15:37:29,DEBUG,motion-641 not accepting connections
+2024-09-07 15:37:33,DEBUG,motion-724 has been disconnected
+2024-09-07 15:37:33,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 15:37:33,DEBUG,motion-724 detected at 192.168.0.224
+2024-09-07 15:37:34,DEBUG,motion-724 not accepting connections
+2024-09-07 15:37:38,DEBUG,motion-724 detected at 192.168.0.224
+2024-09-07 15:37:39,DEBUG,motion-724 not accepting connections
+2024-09-07 15:37:43,DEBUG,motion-724 detected at 192.168.0.224
+2024-09-07 15:37:44,DEBUG,motion-724 not accepting connections
+2024-09-07 15:37:48,DEBUG,motion-724 detected at 192.168.0.224
+2024-09-07 15:37:49,DEBUG,motion-724 not accepting connections
+2024-09-07 15:37:53,DEBUG,motion-724 detected at 192.168.0.224
+2024-09-07 15:37:54,DEBUG,motion-724 not accepting connections
+2024-09-07 15:37:58,DEBUG,motion-694 detected at 192.168.0.188
+2024-09-07 15:37:58,DEBUG,motion-724 detected at 192.168.0.224
+2024-09-07 15:37:58,INFO,motion-694 is connected
+2024-09-07 15:37:59,DEBUG,motion-724 not accepting connections
+2024-09-07 15:37:59,DEBUG,motion-694 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:37:59,DEBUG,motion-694 storage is 0% full
+2024-09-07 15:37:59,WARNING,motion-694 battery level is 58%
+2024-09-07 15:38:00,INFO,motion-694 can be disconnected
+2024-09-07 15:38:03,DEBUG,motion-724 detected at 192.168.0.224
+2024-09-07 15:38:04,DEBUG,motion-724 not accepting connections
+2024-09-07 15:38:08,DEBUG,motion-724 detected at 192.168.0.224
+2024-09-07 15:38:09,DEBUG,motion-724 not accepting connections
+2024-09-07 15:38:13,DEBUG,motion-724 detected at 192.168.0.224
+2024-09-07 15:38:14,DEBUG,motion-724 not accepting connections
+2024-09-07 15:38:23,DEBUG,motion-694 has been disconnected
+2024-09-07 15:38:23,DEBUG,motion-694 detected at 192.168.0.188
+2024-09-07 15:38:24,DEBUG,motion-694 not accepting connections
+2024-09-07 15:38:28,DEBUG,motion-694 detected at 192.168.0.188
+2024-09-07 15:38:29,DEBUG,motion-694 not accepting connections
+2024-09-07 15:38:33,DEBUG,motion-694 detected at 192.168.0.188
+2024-09-07 15:38:34,DEBUG,motion-694 not accepting connections
+2024-09-07 15:38:38,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 15:38:38,DEBUG,motion-694 detected at 192.168.0.188
+2024-09-07 15:38:39,DEBUG,motion-694 not accepting connections
+2024-09-07 15:38:43,DEBUG,motion-694 detected at 192.168.0.188
+2024-09-07 15:38:44,DEBUG,motion-694 not accepting connections
+2024-09-07 15:38:48,DEBUG,motion-694 detected at 192.168.0.188
+2024-09-07 15:38:49,DEBUG,motion-694 not accepting connections
+2024-09-07 15:38:53,DEBUG,motion-642 detected at 192.168.0.198
+2024-09-07 15:38:53,DEBUG,motion-694 detected at 192.168.0.188
+2024-09-07 15:38:53,INFO,motion-642 is connected
+2024-09-07 15:38:53,DEBUG,motion-642 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:38:53,DEBUG,motion-642 storage is 0% full
+2024-09-07 15:38:53,INFO,motion-642 battery level is 64%
+2024-09-07 15:38:54,DEBUG,motion-694 not accepting connections
+2024-09-07 15:38:54,INFO,motion-642 can be disconnected
+2024-09-07 15:39:13,DEBUG,motion-642 has been disconnected
+2024-09-07 15:39:13,DEBUG,motion-642 detected at 192.168.0.198
+2024-09-07 15:39:14,DEBUG,motion-642 not accepting connections
+2024-09-07 15:39:18,DEBUG,motion-642 detected at 192.168.0.198
+2024-09-07 15:39:19,DEBUG,motion-642 not accepting connections
+2024-09-07 15:39:23,DEBUG,motion-642 detected at 192.168.0.198
+2024-09-07 15:39:24,DEBUG,motion-642 not accepting connections
+2024-09-07 15:39:28,DEBUG,motion-642 detected at 192.168.0.198
+2024-09-07 15:39:29,DEBUG,motion-642 not accepting connections
+2024-09-07 15:39:33,DEBUG,motion-642 detected at 192.168.0.198
+2024-09-07 15:39:34,DEBUG,motion-642 not accepting connections
+2024-09-07 15:39:38,DEBUG,motion-642 detected at 192.168.0.198
+2024-09-07 15:39:39,DEBUG,motion-642 not accepting connections
+2024-09-07 15:39:43,DEBUG,motion-642 detected at 192.168.0.198
+2024-09-07 15:39:43,DEBUG,motion-826 detected at 192.168.0.234
+2024-09-07 15:39:43,INFO,motion-826 is connected
+2024-09-07 15:39:44,DEBUG,motion-642 not accepting connections
+2024-09-07 15:39:44,DEBUG,motion-826 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:39:44,DEBUG,motion-826 storage is 0% full
+2024-09-07 15:39:44,WARNING,motion-826 battery level is 41%
+2024-09-07 15:39:44,INFO,motion-826 can be disconnected
+2024-09-07 15:39:48,DEBUG,motion-642 detected at 192.168.0.198
+2024-09-07 15:39:49,DEBUG,motion-642 not accepting connections
+2024-09-07 15:40:03,DEBUG,motion-826 has been disconnected
+2024-09-07 15:40:03,DEBUG,motion-826 detected at 192.168.0.234
+2024-09-07 15:40:04,DEBUG,motion-826 not accepting connections
+2024-09-07 15:40:08,DEBUG,motion-826 detected at 192.168.0.234
+2024-09-07 15:40:09,DEBUG,motion-826 not accepting connections
+2024-09-07 15:40:13,DEBUG,motion-826 detected at 192.168.0.234
+2024-09-07 15:40:14,DEBUG,motion-826 not accepting connections
+2024-09-07 15:40:18,DEBUG,motion-826 detected at 192.168.0.234
+2024-09-07 15:40:19,DEBUG,motion-826 not accepting connections
+2024-09-07 15:40:23,DEBUG,motion-826 detected at 192.168.0.234
+2024-09-07 15:40:24,DEBUG,motion-826 not accepting connections
+2024-09-07 15:40:28,DEBUG,motion-826 detected at 192.168.0.234
+2024-09-07 15:40:29,DEBUG,motion-826 not accepting connections
+2024-09-07 15:40:33,DEBUG,motion-826 detected at 192.168.0.234
+2024-09-07 15:40:34,DEBUG,motion-826 not accepting connections
+2024-09-07 15:40:38,DEBUG,motion-808 detected at 192.168.0.238
+2024-09-07 15:40:38,DEBUG,motion-826 detected at 192.168.0.234
+2024-09-07 15:40:38,INFO,motion-808 is connected
+2024-09-07 15:40:39,DEBUG,motion-826 not accepting connections
+2024-09-07 15:40:39,DEBUG,motion-808 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:40:39,DEBUG,motion-808 storage is 0% full
+2024-09-07 15:40:39,WARNING,motion-808 battery level is 47%
+2024-09-07 15:40:40,INFO,motion-808 can be disconnected
+2024-09-07 15:41:23,DEBUG,motion-808 has been disconnected
+2024-09-07 15:41:23,DEBUG,motion-653 detected at 192.168.0.178
+2024-09-07 15:41:23,INFO,motion-653 is connected
+2024-09-07 15:41:23,DEBUG,motion-808 detected at 192.168.0.238
+2024-09-07 15:41:23,DEBUG,motion-653 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:41:23,DEBUG,motion-653 storage is 0% full
+2024-09-07 15:41:23,WARNING,motion-653 battery level is 57%
+2024-09-07 15:41:24,INFO,motion-653 can be disconnected
+2024-09-07 15:41:24,DEBUG,motion-808 not accepting connections
+2024-09-07 15:41:28,DEBUG,motion-808 detected at 192.168.0.238
+2024-09-07 15:41:29,DEBUG,motion-808 not accepting connections
+2024-09-07 15:41:33,DEBUG,motion-808 detected at 192.168.0.238
+2024-09-07 15:41:34,DEBUG,motion-808 not accepting connections
+2024-09-07 15:41:38,DEBUG,motion-808 detected at 192.168.0.238
+2024-09-07 15:41:39,DEBUG,motion-808 not accepting connections
+2024-09-07 15:41:43,DEBUG,motion-653 has been disconnected
+2024-09-07 15:41:43,DEBUG,motion-653 detected at 192.168.0.178
+2024-09-07 15:41:43,DEBUG,motion-808 detected at 192.168.0.238
+2024-09-07 15:41:44,DEBUG,motion-653 not accepting connections
+2024-09-07 15:41:44,DEBUG,motion-808 not accepting connections
+2024-09-07 15:41:48,DEBUG,motion-653 detected at 192.168.0.178
+2024-09-07 15:41:48,DEBUG,motion-808 detected at 192.168.0.238
+2024-09-07 15:41:49,DEBUG,motion-653 not accepting connections
+2024-09-07 15:41:49,DEBUG,motion-808 not accepting connections
+2024-09-07 15:41:53,DEBUG,motion-653 detected at 192.168.0.178
+2024-09-07 15:41:53,DEBUG,motion-808 detected at 192.168.0.238
+2024-09-07 15:41:54,DEBUG,motion-653 not accepting connections
+2024-09-07 15:41:54,DEBUG,motion-808 not accepting connections
+2024-09-07 15:41:58,DEBUG,motion-653 detected at 192.168.0.178
+2024-09-07 15:41:58,DEBUG,motion-808 detected at 192.168.0.238
+2024-09-07 15:41:59,DEBUG,motion-653 not accepting connections
+2024-09-07 15:41:59,DEBUG,motion-808 not accepting connections
+2024-09-07 15:42:03,DEBUG,motion-653 detected at 192.168.0.178
+2024-09-07 15:42:03,DEBUG,motion-808 detected at 192.168.0.238
+2024-09-07 15:42:04,DEBUG,motion-653 not accepting connections
+2024-09-07 15:42:04,DEBUG,motion-808 not accepting connections
+2024-09-07 15:42:08,DEBUG,motion-653 detected at 192.168.0.178
+2024-09-07 15:42:09,DEBUG,motion-653 not accepting connections
+2024-09-07 15:42:13,DEBUG,motion-653 detected at 192.168.0.178
+2024-09-07 15:42:14,DEBUG,motion-653 not accepting connections
+2024-09-07 15:42:18,DEBUG,motion-653 detected at 192.168.0.178
+2024-09-07 15:42:19,DEBUG,motion-653 not accepting connections
+2024-09-07 15:42:48,DEBUG,motion-867 detected at 192.168.0.130
+2024-09-07 15:42:48,INFO,motion-867 is connected
+2024-09-07 15:42:49,DEBUG,motion-867 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:42:49,DEBUG,motion-867 storage is 0% full
+2024-09-07 15:42:49,WARNING,motion-867 battery level is 44%
+2024-09-07 15:42:50,INFO,motion-867 can be disconnected
+2024-09-07 15:43:03,DEBUG,motion-867 has been disconnected
+2024-09-07 15:43:03,DEBUG,motion-867 detected at 192.168.0.130
+2024-09-07 15:43:04,DEBUG,motion-867 not accepting connections
+2024-09-07 15:43:08,DEBUG,motion-867 detected at 192.168.0.130
+2024-09-07 15:43:09,DEBUG,motion-867 not accepting connections
+2024-09-07 15:43:13,DEBUG,motion-867 detected at 192.168.0.130
+2024-09-07 15:43:14,DEBUG,motion-867 not accepting connections
+2024-09-07 15:43:18,DEBUG,motion-867 detected at 192.168.0.130
+2024-09-07 15:43:19,DEBUG,motion-867 not accepting connections
+2024-09-07 15:43:23,DEBUG,motion-867 detected at 192.168.0.130
+2024-09-07 15:43:24,DEBUG,motion-867 not accepting connections
+2024-09-07 15:43:28,DEBUG,motion-867 detected at 192.168.0.130
+2024-09-07 15:43:29,DEBUG,motion-867 not accepting connections
+2024-09-07 15:43:33,DEBUG,motion-652 detected at 192.168.0.186
+2024-09-07 15:43:33,DEBUG,motion-867 detected at 192.168.0.130
+2024-09-07 15:43:33,INFO,motion-652 is connected
+2024-09-07 15:43:34,DEBUG,motion-652 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:43:34,DEBUG,motion-652 storage is 0% full
+2024-09-07 15:43:34,INFO,motion-652 battery level is 64%
+2024-09-07 15:43:34,DEBUG,motion-867 not accepting connections
+2024-09-07 15:43:34,INFO,motion-652 can be disconnected
+2024-09-07 15:43:38,DEBUG,motion-867 detected at 192.168.0.130
+2024-09-07 15:43:39,DEBUG,motion-867 not accepting connections
+2024-09-07 15:43:43,DEBUG,motion-867 detected at 192.168.0.130
+2024-09-07 15:43:44,DEBUG,motion-867 not accepting connections
+2024-09-07 15:43:53,DEBUG,motion-652 has been disconnected
+2024-09-07 15:43:53,DEBUG,motion-652 detected at 192.168.0.186
+2024-09-07 15:43:54,DEBUG,motion-652 not accepting connections
+2024-09-07 15:43:58,DEBUG,motion-652 detected at 192.168.0.186
+2024-09-07 15:43:59,DEBUG,motion-652 not accepting connections
+2024-09-07 15:44:03,DEBUG,motion-652 detected at 192.168.0.186
+2024-09-07 15:44:04,DEBUG,motion-652 not accepting connections
+2024-09-07 15:44:08,DEBUG,motion-652 detected at 192.168.0.186
+2024-09-07 15:44:09,DEBUG,motion-652 not accepting connections
+2024-09-07 15:44:13,DEBUG,motion-652 detected at 192.168.0.186
+2024-09-07 15:44:14,DEBUG,motion-652 not accepting connections
+2024-09-07 15:44:18,DEBUG,motion-652 detected at 192.168.0.186
+2024-09-07 15:44:19,DEBUG,motion-652 not accepting connections
+2024-09-07 15:44:23,DEBUG,motion-652 detected at 192.168.0.186
+2024-09-07 15:44:24,DEBUG,motion-652 not accepting connections
+2024-09-07 15:44:28,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 15:44:28,DEBUG,motion-643 detected at 192.168.0.194
+2024-09-07 15:44:28,DEBUG,motion-652 detected at 192.168.0.186
+2024-09-07 15:44:28,INFO,motion-643 is connected
+2024-09-07 15:44:29,DEBUG,motion-643 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:44:29,DEBUG,motion-643 storage is 0% full
+2024-09-07 15:44:29,INFO,motion-643 battery level is 61%
+2024-09-07 15:44:29,DEBUG,motion-652 not accepting connections
+2024-09-07 15:44:29,INFO,motion-643 can be disconnected
+2024-09-07 15:44:43,DEBUG,motion-643 has been disconnected
+2024-09-07 15:44:43,DEBUG,motion-643 detected at 192.168.0.194
+2024-09-07 15:44:44,DEBUG,motion-643 not accepting connections
+2024-09-07 15:44:48,DEBUG,motion-643 detected at 192.168.0.194
+2024-09-07 15:44:49,DEBUG,motion-643 not accepting connections
+2024-09-07 15:44:53,DEBUG,motion-643 detected at 192.168.0.194
+2024-09-07 15:44:54,DEBUG,motion-643 not accepting connections
+2024-09-07 15:44:58,DEBUG,motion-643 detected at 192.168.0.194
+2024-09-07 15:44:59,DEBUG,motion-643 not accepting connections
+2024-09-07 15:45:03,DEBUG,motion-643 detected at 192.168.0.194
+2024-09-07 15:45:04,DEBUG,motion-643 not accepting connections
+2024-09-07 15:45:08,DEBUG,motion-643 detected at 192.168.0.194
+2024-09-07 15:45:09,DEBUG,motion-643 not accepting connections
+2024-09-07 15:45:13,DEBUG,motion-643 detected at 192.168.0.194
+2024-09-07 15:45:13,DEBUG,motion-663 detected at 192.168.0.168
+2024-09-07 15:45:14,DEBUG,motion-643 not accepting connections
+2024-09-07 15:45:14,DEBUG,motion-663 not accepting connections
+2024-09-07 15:45:18,DEBUG,motion-643 detected at 192.168.0.194
+2024-09-07 15:45:18,DEBUG,motion-663 detected at 192.168.0.168
+2024-09-07 15:45:18,INFO,motion-663 is connected
+2024-09-07 15:45:19,DEBUG,motion-663 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:45:19,DEBUG,motion-663 storage is 0% full
+2024-09-07 15:45:19,WARNING,motion-663 battery level is 48%
+2024-09-07 15:45:19,DEBUG,motion-643 not accepting connections
+2024-09-07 15:45:20,INFO,motion-663 can be disconnected
+2024-09-07 15:45:23,DEBUG,motion-643 detected at 192.168.0.194
+2024-09-07 15:45:24,DEBUG,motion-643 not accepting connections
+2024-09-07 15:45:33,DEBUG,motion-663 has been disconnected
+2024-09-07 15:45:33,DEBUG,motion-663 detected at 192.168.0.168
+2024-09-07 15:45:34,DEBUG,motion-663 not accepting connections
+2024-09-07 15:45:38,DEBUG,motion-663 detected at 192.168.0.168
+2024-09-07 15:45:39,DEBUG,motion-663 not accepting connections
+2024-09-07 15:45:43,DEBUG,motion-663 detected at 192.168.0.168
+2024-09-07 15:45:44,DEBUG,motion-663 not accepting connections
+2024-09-07 15:45:48,DEBUG,motion-663 detected at 192.168.0.168
+2024-09-07 15:45:49,DEBUG,motion-663 not accepting connections
+2024-09-07 15:45:53,DEBUG,motion-647 detected at 192.168.0.244
+2024-09-07 15:45:53,DEBUG,motion-663 detected at 192.168.0.168
+2024-09-07 15:45:53,INFO,motion-647 is connected
+2024-09-07 15:45:54,DEBUG,motion-663 not accepting connections
+2024-09-07 15:45:55,DEBUG,motion-647 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:45:55,DEBUG,motion-647 storage is 0% full
+2024-09-07 15:45:55,WARNING,motion-647 battery level is 59%
+2024-09-07 15:45:55,INFO,motion-647 can be disconnected
+2024-09-07 15:45:58,DEBUG,motion-663 detected at 192.168.0.168
+2024-09-07 15:45:59,DEBUG,motion-663 not accepting connections
+2024-09-07 15:46:03,DEBUG,motion-663 detected at 192.168.0.168
+2024-09-07 15:46:04,DEBUG,motion-663 not accepting connections
+2024-09-07 15:46:08,DEBUG,motion-663 detected at 192.168.0.168
+2024-09-07 15:46:09,DEBUG,motion-663 not accepting connections
+2024-09-07 15:46:23,DEBUG,motion-647 has been disconnected
+2024-09-07 15:46:23,DEBUG,motion-647 detected at 192.168.0.244
+2024-09-07 15:46:24,DEBUG,motion-647 not accepting connections
+2024-09-07 15:46:28,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 15:46:28,DEBUG,motion-647 detected at 192.168.0.244
+2024-09-07 15:46:29,DEBUG,motion-647 not accepting connections
+2024-09-07 15:46:33,DEBUG,motion-647 detected at 192.168.0.244
+2024-09-07 15:46:34,DEBUG,motion-647 not accepting connections
+2024-09-07 15:46:38,DEBUG,motion-647 detected at 192.168.0.244
+2024-09-07 15:46:39,DEBUG,motion-647 not accepting connections
+2024-09-07 15:46:43,DEBUG,motion-647 detected at 192.168.0.244
+2024-09-07 15:46:43,DEBUG,motion-836 detected at 192.168.0.188
+2024-09-07 15:46:43,INFO,motion-836 is connected
+2024-09-07 15:46:44,DEBUG,motion-647 not accepting connections
+2024-09-07 15:46:44,DEBUG,motion-836 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:46:44,DEBUG,motion-836 storage is 0% full
+2024-09-07 15:46:44,WARNING,motion-836 battery level is 50%
+2024-09-07 15:46:45,INFO,motion-836 can be disconnected
+2024-09-07 15:46:48,DEBUG,motion-647 detected at 192.168.0.244
+2024-09-07 15:46:49,DEBUG,motion-647 not accepting connections
+2024-09-07 15:47:03,DEBUG,motion-836 has been disconnected
+2024-09-07 15:47:03,DEBUG,motion-836 detected at 192.168.0.188
+2024-09-07 15:47:04,DEBUG,motion-836 not accepting connections
+2024-09-07 15:47:08,DEBUG,motion-836 detected at 192.168.0.188
+2024-09-07 15:47:09,DEBUG,motion-836 not accepting connections
+2024-09-07 15:47:13,DEBUG,motion-836 detected at 192.168.0.188
+2024-09-07 15:47:14,DEBUG,motion-836 not accepting connections
+2024-09-07 15:47:18,DEBUG,motion-836 detected at 192.168.0.188
+2024-09-07 15:47:19,DEBUG,motion-836 not accepting connections
+2024-09-07 15:47:23,DEBUG,motion-836 detected at 192.168.0.188
+2024-09-07 15:47:24,DEBUG,motion-836 not accepting connections
+2024-09-07 15:47:28,DEBUG,motion-836 detected at 192.168.0.188
+2024-09-07 15:47:29,DEBUG,motion-836 not accepting connections
+2024-09-07 15:47:33,DEBUG,motion-836 detected at 192.168.0.188
+2024-09-07 15:47:34,DEBUG,motion-836 not accepting connections
+2024-09-07 15:47:38,DEBUG,motion-836 detected at 192.168.0.188
+2024-09-07 15:47:39,DEBUG,motion-836 not accepting connections
+2024-09-07 15:47:48,DEBUG,motion-852 detected at 192.168.0.248
+2024-09-07 15:47:49,INFO,motion-852 is connected
+2024-09-07 15:47:50,DEBUG,motion-852 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:47:50,DEBUG,motion-852 storage is 0% full
+2024-09-07 15:47:50,WARNING,motion-852 battery level is 47%
+2024-09-07 15:47:50,INFO,motion-852 can be disconnected
+2024-09-07 15:48:13,DEBUG,motion-852 has been disconnected
+2024-09-07 15:48:13,DEBUG,motion-852 detected at 192.168.0.248
+2024-09-07 15:48:14,DEBUG,motion-852 not accepting connections
+2024-09-07 15:48:18,DEBUG,motion-852 detected at 192.168.0.248
+2024-09-07 15:48:19,DEBUG,motion-852 not accepting connections
+2024-09-07 15:48:23,DEBUG,motion-852 detected at 192.168.0.248
+2024-09-07 15:48:24,DEBUG,motion-852 not accepting connections
+2024-09-07 15:48:28,DEBUG,motion-852 detected at 192.168.0.248
+2024-09-07 15:48:29,DEBUG,motion-852 not accepting connections
+2024-09-07 15:48:33,DEBUG,motion-852 detected at 192.168.0.248
+2024-09-07 15:48:34,DEBUG,motion-852 not accepting connections
+2024-09-07 15:48:38,DEBUG,motion-664 detected at 192.168.0.120
+2024-09-07 15:48:38,INFO,motion-664 is connected
+2024-09-07 15:48:38,DEBUG,motion-852 detected at 192.168.0.248
+2024-09-07 15:48:39,DEBUG,motion-664 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:48:39,DEBUG,motion-664 storage is 0% full
+2024-09-07 15:48:39,INFO,motion-664 battery level is 60%
+2024-09-07 15:48:39,DEBUG,motion-852 not accepting connections
+2024-09-07 15:48:40,INFO,motion-664 can be disconnected
+2024-09-07 15:48:43,DEBUG,motion-852 detected at 192.168.0.248
+2024-09-07 15:48:44,DEBUG,motion-852 not accepting connections
+2024-09-07 15:48:53,DEBUG,motion-664 has been disconnected
+2024-09-07 15:48:53,DEBUG,motion-664 detected at 192.168.0.120
+2024-09-07 15:48:54,DEBUG,motion-664 not accepting connections
+2024-09-07 15:48:58,DEBUG,motion-664 detected at 192.168.0.120
+2024-09-07 15:48:59,DEBUG,motion-664 not accepting connections
+2024-09-07 15:49:03,DEBUG,motion-664 detected at 192.168.0.120
+2024-09-07 15:49:04,DEBUG,motion-664 not accepting connections
+2024-09-07 15:49:08,DEBUG,motion-664 detected at 192.168.0.120
+2024-09-07 15:49:09,DEBUG,motion-664 not accepting connections
+2024-09-07 15:49:13,DEBUG,motion-664 detected at 192.168.0.120
+2024-09-07 15:49:14,DEBUG,motion-664 not accepting connections
+2024-09-07 15:49:18,DEBUG,motion-664 detected at 192.168.0.120
+2024-09-07 15:49:19,DEBUG,motion-664 not accepting connections
+2024-09-07 15:49:23,DEBUG,motion-664 detected at 192.168.0.120
+2024-09-07 15:49:24,DEBUG,motion-664 not accepting connections
+2024-09-07 15:49:28,DEBUG,motion-664 detected at 192.168.0.120
+2024-09-07 15:49:29,DEBUG,motion-664 not accepting connections
+2024-09-07 15:49:33,DEBUG,motion-651 detected at 192.168.0.134
+2024-09-07 15:49:33,DEBUG,motion-664 detected at 192.168.0.120
+2024-09-07 15:49:33,INFO,motion-651 is connected
+2024-09-07 15:49:34,DEBUG,motion-651 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:49:34,DEBUG,motion-651 storage is 0% full
+2024-09-07 15:49:34,WARNING,motion-651 battery level is 58%
+2024-09-07 15:49:34,DEBUG,motion-664 not accepting connections
+2024-09-07 15:49:34,INFO,motion-651 can be disconnected
+2024-09-07 15:49:53,DEBUG,motion-651 has been disconnected
+2024-09-07 15:49:53,DEBUG,motion-651 detected at 192.168.0.134
+2024-09-07 15:49:54,DEBUG,motion-651 not accepting connections
+2024-09-07 15:49:58,DEBUG,motion-651 detected at 192.168.0.134
+2024-09-07 15:49:59,DEBUG,motion-651 not accepting connections
+2024-09-07 15:50:03,DEBUG,motion-651 detected at 192.168.0.134
+2024-09-07 15:50:04,DEBUG,motion-651 not accepting connections
+2024-09-07 15:50:08,DEBUG,motion-651 detected at 192.168.0.134
+2024-09-07 15:50:09,DEBUG,motion-651 not accepting connections
+2024-09-07 15:50:13,DEBUG,motion-651 detected at 192.168.0.134
+2024-09-07 15:50:14,DEBUG,motion-651 not accepting connections
+2024-09-07 15:50:18,DEBUG,motion-651 detected at 192.168.0.134
+2024-09-07 15:50:18,DEBUG,motion-858 detected at 192.168.0.220
+2024-09-07 15:50:18,INFO,motion-858 is connected
+2024-09-07 15:50:19,DEBUG,motion-651 not accepting connections
+2024-09-07 15:50:19,DEBUG,motion-858 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:50:19,DEBUG,motion-858 storage is 0% full
+2024-09-07 15:50:19,WARNING,motion-858 battery level is 47%
+2024-09-07 15:50:20,INFO,motion-858 can be disconnected
+2024-09-07 15:50:23,DEBUG,motion-651 detected at 192.168.0.134
+2024-09-07 15:50:24,DEBUG,motion-651 not accepting connections
+2024-09-07 15:50:28,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 15:50:28,DEBUG,motion-651 detected at 192.168.0.134
+2024-09-07 15:50:29,DEBUG,motion-651 not accepting connections
+2024-09-07 15:50:33,DEBUG,motion-858 has been disconnected
+2024-09-07 15:50:33,DEBUG,motion-858 detected at 192.168.0.220
+2024-09-07 15:50:34,DEBUG,motion-858 not accepting connections
+2024-09-07 15:50:38,DEBUG,motion-858 detected at 192.168.0.220
+2024-09-07 15:50:39,DEBUG,motion-858 not accepting connections
+2024-09-07 15:50:43,DEBUG,motion-858 detected at 192.168.0.220
+2024-09-07 15:50:44,DEBUG,motion-858 not accepting connections
+2024-09-07 15:50:48,DEBUG,motion-858 detected at 192.168.0.220
+2024-09-07 15:50:49,DEBUG,motion-858 not accepting connections
+2024-09-07 15:50:53,DEBUG,motion-858 detected at 192.168.0.220
+2024-09-07 15:50:54,DEBUG,motion-858 not accepting connections
+2024-09-07 15:50:58,DEBUG,motion-858 detected at 192.168.0.220
+2024-09-07 15:50:59,DEBUG,motion-858 not accepting connections
+2024-09-07 15:51:03,DEBUG,motion-858 detected at 192.168.0.220
+2024-09-07 15:51:04,DEBUG,motion-858 not accepting connections
+2024-09-07 15:51:08,DEBUG,motion-858 detected at 192.168.0.220
+2024-09-07 15:51:09,DEBUG,motion-858 not accepting connections
+2024-09-07 15:51:13,DEBUG,motion-668 detected at 192.168.0.148
+2024-09-07 15:51:13,INFO,motion-668 is connected
+2024-09-07 15:51:13,DEBUG,motion-858 detected at 192.168.0.220
+2024-09-07 15:51:14,DEBUG,motion-668 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:51:14,DEBUG,motion-668 storage is 0% full
+2024-09-07 15:51:14,WARNING,motion-668 battery level is 56%
+2024-09-07 15:51:14,DEBUG,motion-858 not accepting connections
+2024-09-07 15:51:14,INFO,motion-668 can be disconnected
+2024-09-07 15:51:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 15:51:33,DEBUG,motion-668 has been disconnected
+2024-09-07 15:51:33,DEBUG,motion-648 detected at 192.168.0.226
+2024-09-07 15:51:33,DEBUG,motion-668 detected at 192.168.0.148
+2024-09-07 15:51:33,INFO,motion-648 is connected
+2024-09-07 15:51:34,DEBUG,motion-648 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:51:34,DEBUG,motion-648 storage is 0% full
+2024-09-07 15:51:34,WARNING,motion-648 battery level is 56%
+2024-09-07 15:51:34,DEBUG,motion-668 not accepting connections
+2024-09-07 15:51:34,INFO,motion-648 can be disconnected
+2024-09-07 15:51:38,DEBUG,motion-668 detected at 192.168.0.148
+2024-09-07 15:51:39,DEBUG,motion-668 not accepting connections
+2024-09-07 15:51:43,DEBUG,motion-668 detected at 192.168.0.148
+2024-09-07 15:51:44,DEBUG,motion-668 not accepting connections
+2024-09-07 15:51:48,DEBUG,motion-668 detected at 192.168.0.148
+2024-09-07 15:51:49,DEBUG,motion-668 not accepting connections
+2024-09-07 15:51:53,DEBUG,motion-668 detected at 192.168.0.148
+2024-09-07 15:51:54,DEBUG,motion-668 not accepting connections
+2024-09-07 15:51:58,DEBUG,motion-668 detected at 192.168.0.148
+2024-09-07 15:51:59,DEBUG,motion-668 not accepting connections
+2024-09-07 15:52:03,DEBUG,motion-648 has been disconnected
+2024-09-07 15:52:03,DEBUG,motion-648 detected at 192.168.0.226
+2024-09-07 15:52:03,DEBUG,motion-668 detected at 192.168.0.148
+2024-09-07 15:52:04,DEBUG,motion-648 not accepting connections
+2024-09-07 15:52:04,DEBUG,motion-668 not accepting connections
+2024-09-07 15:52:08,DEBUG,motion-648 detected at 192.168.0.226
+2024-09-07 15:52:08,DEBUG,motion-668 detected at 192.168.0.148
+2024-09-07 15:52:09,DEBUG,motion-648 not accepting connections
+2024-09-07 15:52:09,DEBUG,motion-668 not accepting connections
+2024-09-07 15:52:13,DEBUG,motion-648 detected at 192.168.0.226
+2024-09-07 15:52:14,DEBUG,motion-648 not accepting connections
+2024-09-07 15:52:18,DEBUG,motion-648 detected at 192.168.0.226
+2024-09-07 15:52:19,DEBUG,motion-648 not accepting connections
+2024-09-07 15:52:23,DEBUG,motion-648 detected at 192.168.0.226
+2024-09-07 15:52:24,DEBUG,motion-648 not accepting connections
+2024-09-07 15:52:28,DEBUG,motion-648 detected at 192.168.0.226
+2024-09-07 15:52:29,DEBUG,motion-648 not accepting connections
+2024-09-07 15:52:38,DEBUG,motion-853 detected at 192.168.0.244
+2024-09-07 15:52:39,INFO,motion-853 is connected
+2024-09-07 15:52:40,DEBUG,motion-853 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:52:40,DEBUG,motion-853 storage is 0% full
+2024-09-07 15:52:40,WARNING,motion-853 battery level is 47%
+2024-09-07 15:52:40,INFO,motion-853 can be disconnected
+2024-09-07 15:52:53,DEBUG,motion-853 has been disconnected
+2024-09-07 15:52:53,DEBUG,motion-853 detected at 192.168.0.244
+2024-09-07 15:52:54,DEBUG,motion-853 not accepting connections
+2024-09-07 15:52:58,DEBUG,motion-853 detected at 192.168.0.244
+2024-09-07 15:52:59,DEBUG,motion-853 not accepting connections
+2024-09-07 15:53:03,DEBUG,motion-853 detected at 192.168.0.244
+2024-09-07 15:53:04,DEBUG,motion-853 not accepting connections
+2024-09-07 15:53:08,DEBUG,motion-853 detected at 192.168.0.244
+2024-09-07 15:53:09,DEBUG,motion-853 not accepting connections
+2024-09-07 15:53:13,DEBUG,motion-853 detected at 192.168.0.244
+2024-09-07 15:53:14,DEBUG,motion-853 not accepting connections
+2024-09-07 15:53:18,DEBUG,motion-853 detected at 192.168.0.244
+2024-09-07 15:53:19,DEBUG,motion-853 not accepting connections
+2024-09-07 15:53:23,DEBUG,motion-829 detected at 192.168.0.116
+2024-09-07 15:53:23,DEBUG,motion-853 detected at 192.168.0.244
+2024-09-07 15:53:23,INFO,motion-829 is connected
+2024-09-07 15:53:24,DEBUG,motion-853 not accepting connections
+2024-09-07 15:53:24,DEBUG,motion-829 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:53:24,DEBUG,motion-829 storage is 0% full
+2024-09-07 15:53:24,WARNING,motion-829 battery level is 44%
+2024-09-07 15:53:25,INFO,motion-829 can be disconnected
+2024-09-07 15:53:28,DEBUG,motion-853 detected at 192.168.0.244
+2024-09-07 15:53:29,DEBUG,motion-853 not accepting connections
+2024-09-07 15:53:33,DEBUG,motion-853 detected at 192.168.0.244
+2024-09-07 15:53:34,DEBUG,motion-853 not accepting connections
+2024-09-07 15:53:43,DEBUG,motion-829 has been disconnected
+2024-09-07 15:53:43,DEBUG,motion-829 detected at 192.168.0.116
+2024-09-07 15:53:44,DEBUG,motion-829 not accepting connections
+2024-09-07 15:53:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 15:53:48,DEBUG,motion-829 detected at 192.168.0.116
+2024-09-07 15:53:49,DEBUG,motion-829 not accepting connections
+2024-09-07 15:53:53,DEBUG,motion-829 detected at 192.168.0.116
+2024-09-07 15:53:54,DEBUG,motion-829 not accepting connections
+2024-09-07 15:53:58,DEBUG,motion-829 detected at 192.168.0.116
+2024-09-07 15:53:59,DEBUG,motion-829 not accepting connections
+2024-09-07 15:54:03,DEBUG,motion-705 detected at 192.168.0.140
+2024-09-07 15:54:03,DEBUG,motion-829 detected at 192.168.0.116
+2024-09-07 15:54:04,DEBUG,motion-705 not accepting connections
+2024-09-07 15:54:04,DEBUG,motion-829 not accepting connections
+2024-09-07 15:54:08,DEBUG,motion-705 detected at 192.168.0.140
+2024-09-07 15:54:08,DEBUG,motion-829 detected at 192.168.0.116
+2024-09-07 15:54:08,INFO,motion-705 is connected
+2024-09-07 15:54:09,DEBUG,motion-829 not accepting connections
+2024-09-07 15:54:09,DEBUG,motion-705 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:54:09,DEBUG,motion-705 storage is 0% full
+2024-09-07 15:54:09,WARNING,motion-705 battery level is 57%
+2024-09-07 15:54:10,INFO,motion-705 can be disconnected
+2024-09-07 15:54:13,DEBUG,motion-829 detected at 192.168.0.116
+2024-09-07 15:54:14,DEBUG,motion-829 not accepting connections
+2024-09-07 15:54:18,DEBUG,motion-829 detected at 192.168.0.116
+2024-09-07 15:54:19,DEBUG,motion-829 not accepting connections
+2024-09-07 15:54:23,DEBUG,motion-705 has been disconnected
+2024-09-07 15:54:23,DEBUG,motion-705 detected at 192.168.0.140
+2024-09-07 15:54:24,DEBUG,motion-705 not accepting connections
+2024-09-07 15:54:28,DEBUG,motion-705 detected at 192.168.0.140
+2024-09-07 15:54:29,DEBUG,motion-705 not accepting connections
+2024-09-07 15:54:33,DEBUG,motion-705 detected at 192.168.0.140
+2024-09-07 15:54:34,DEBUG,motion-705 not accepting connections
+2024-09-07 15:54:38,DEBUG,motion-705 detected at 192.168.0.140
+2024-09-07 15:54:39,DEBUG,motion-705 not accepting connections
+2024-09-07 15:54:43,DEBUG,motion-705 detected at 192.168.0.140
+2024-09-07 15:54:44,DEBUG,motion-705 not accepting connections
+2024-09-07 15:54:48,DEBUG,motion-705 detected at 192.168.0.140
+2024-09-07 15:54:49,DEBUG,motion-705 not accepting connections
+2024-09-07 15:54:53,DEBUG,motion-705 detected at 192.168.0.140
+2024-09-07 15:54:53,DEBUG,motion-869 detected at 192.168.0.142
+2024-09-07 15:54:53,INFO,motion-869 is connected
+2024-09-07 15:54:54,DEBUG,motion-705 not accepting connections
+2024-09-07 15:54:54,DEBUG,motion-869 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:54:54,DEBUG,motion-869 storage is 0% full
+2024-09-07 15:54:54,WARNING,motion-869 battery level is 48%
+2024-09-07 15:54:55,INFO,motion-869 can be disconnected
+2024-09-07 15:54:58,DEBUG,motion-705 detected at 192.168.0.140
+2024-09-07 15:54:59,DEBUG,motion-705 not accepting connections
+2024-09-07 15:55:13,DEBUG,motion-869 has been disconnected
+2024-09-07 15:55:13,DEBUG,motion-869 detected at 192.168.0.142
+2024-09-07 15:55:14,DEBUG,motion-869 not accepting connections
+2024-09-07 15:55:18,DEBUG,motion-869 detected at 192.168.0.142
+2024-09-07 15:55:19,DEBUG,motion-869 not accepting connections
+2024-09-07 15:55:23,DEBUG,motion-869 detected at 192.168.0.142
+2024-09-07 15:55:24,DEBUG,motion-869 not accepting connections
+2024-09-07 15:55:28,DEBUG,motion-869 detected at 192.168.0.142
+2024-09-07 15:55:29,DEBUG,motion-869 not accepting connections
+2024-09-07 15:55:33,DEBUG,motion-869 detected at 192.168.0.142
+2024-09-07 15:55:34,DEBUG,motion-869 not accepting connections
+2024-09-07 15:55:38,DEBUG,motion-869 detected at 192.168.0.142
+2024-09-07 15:55:39,DEBUG,motion-869 not accepting connections
+2024-09-07 15:55:43,DEBUG,motion-869 detected at 192.168.0.142
+2024-09-07 15:55:44,DEBUG,motion-869 not accepting connections
+2024-09-07 15:55:48,DEBUG,motion-869 detected at 192.168.0.142
+2024-09-07 15:55:49,DEBUG,motion-869 not accepting connections
+2024-09-07 15:56:13,DEBUG,motion-807 detected at 192.168.0.140
+2024-09-07 15:56:13,INFO,motion-807 is connected
+2024-09-07 15:56:14,DEBUG,motion-807 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:56:14,DEBUG,motion-807 storage is 0% full
+2024-09-07 15:56:14,WARNING,motion-807 battery level is 48%
+2024-09-07 15:56:15,INFO,motion-807 can be disconnected
+2024-09-07 15:56:43,DEBUG,motion-807 has been disconnected
+2024-09-07 15:56:43,DEBUG,motion-807 detected at 192.168.0.140
+2024-09-07 15:56:44,DEBUG,motion-807 not accepting connections
+2024-09-07 15:56:48,DEBUG,motion-807 detected at 192.168.0.140
+2024-09-07 15:56:49,DEBUG,motion-807 not accepting connections
+2024-09-07 15:56:53,DEBUG,motion-700 detected at 192.168.0.104
+2024-09-07 15:56:53,DEBUG,motion-807 detected at 192.168.0.140
+2024-09-07 15:56:54,INFO,motion-700 is connected
+2024-09-07 15:56:54,DEBUG,motion-807 not accepting connections
+2024-09-07 15:56:55,DEBUG,motion-700 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:56:55,DEBUG,motion-700 storage is 0% full
+2024-09-07 15:56:55,WARNING,motion-700 battery level is 48%
+2024-09-07 15:56:55,INFO,motion-700 can be disconnected
+2024-09-07 15:56:58,DEBUG,motion-807 detected at 192.168.0.140
+2024-09-07 15:56:59,DEBUG,motion-807 not accepting connections
+2024-09-07 15:57:03,DEBUG,motion-807 detected at 192.168.0.140
+2024-09-07 15:57:04,DEBUG,motion-807 not accepting connections
+2024-09-07 15:57:08,DEBUG,motion-807 detected at 192.168.0.140
+2024-09-07 15:57:09,DEBUG,motion-807 not accepting connections
+2024-09-07 15:57:13,DEBUG,motion-700 has been disconnected
+2024-09-07 15:57:13,DEBUG,motion-700 detected at 192.168.0.104
+2024-09-07 15:57:14,DEBUG,motion-700 not accepting connections
+2024-09-07 15:57:18,DEBUG,motion-700 detected at 192.168.0.104
+2024-09-07 15:57:19,DEBUG,motion-700 not accepting connections
+2024-09-07 15:57:23,DEBUG,motion-700 detected at 192.168.0.104
+2024-09-07 15:57:24,DEBUG,motion-700 not accepting connections
+2024-09-07 15:57:28,DEBUG,motion-700 detected at 192.168.0.104
+2024-09-07 15:57:29,DEBUG,motion-700 not accepting connections
+2024-09-07 15:57:33,DEBUG,motion-700 detected at 192.168.0.104
+2024-09-07 15:57:34,DEBUG,motion-700 not accepting connections
+2024-09-07 15:57:38,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 15:57:38,DEBUG,motion-700 detected at 192.168.0.104
+2024-09-07 15:57:39,DEBUG,motion-700 not accepting connections
+2024-09-07 15:57:43,DEBUG,motion-700 detected at 192.168.0.104
+2024-09-07 15:57:43,DEBUG,motion-821 detected at 192.168.0.144
+2024-09-07 15:57:43,INFO,motion-821 is connected
+2024-09-07 15:57:44,DEBUG,motion-700 not accepting connections
+2024-09-07 15:57:44,DEBUG,motion-821 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:57:44,DEBUG,motion-821 storage is 0% full
+2024-09-07 15:57:44,WARNING,motion-821 battery level is 47%
+2024-09-07 15:57:45,INFO,motion-821 can be disconnected
+2024-09-07 15:57:48,DEBUG,motion-700 detected at 192.168.0.104
+2024-09-07 15:57:49,DEBUG,motion-700 not accepting connections
+2024-09-07 15:58:03,DEBUG,motion-821 has been disconnected
+2024-09-07 15:58:03,DEBUG,motion-821 detected at 192.168.0.144
+2024-09-07 15:58:04,DEBUG,motion-821 not accepting connections
+2024-09-07 15:58:08,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 15:58:08,DEBUG,motion-821 detected at 192.168.0.144
+2024-09-07 15:58:09,DEBUG,motion-821 not accepting connections
+2024-09-07 15:58:13,DEBUG,motion-821 detected at 192.168.0.144
+2024-09-07 15:58:14,DEBUG,motion-821 not accepting connections
+2024-09-07 15:58:18,DEBUG,motion-821 detected at 192.168.0.144
+2024-09-07 15:58:19,DEBUG,motion-821 not accepting connections
+2024-09-07 15:58:23,DEBUG,motion-821 detected at 192.168.0.144
+2024-09-07 15:58:24,DEBUG,motion-821 not accepting connections
+2024-09-07 15:58:28,DEBUG,motion-821 detected at 192.168.0.144
+2024-09-07 15:58:29,DEBUG,motion-821 not accepting connections
+2024-09-07 15:58:33,DEBUG,motion-821 detected at 192.168.0.144
+2024-09-07 15:58:34,DEBUG,motion-821 not accepting connections
+2024-09-07 15:58:38,DEBUG,motion-821 detected at 192.168.0.144
+2024-09-07 15:58:39,DEBUG,motion-821 not accepting connections
+2024-09-07 15:59:33,DEBUG,motion-814 detected at 192.168.0.168
+2024-09-07 15:59:33,INFO,motion-814 is connected
+2024-09-07 15:59:34,DEBUG,motion-814 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 15:59:34,DEBUG,motion-814 storage is 0% full
+2024-09-07 15:59:34,WARNING,motion-814 battery level is 48%
+2024-09-07 15:59:35,INFO,motion-814 can be disconnected
+2024-09-07 15:59:53,DEBUG,motion-814 has been disconnected
+2024-09-07 15:59:53,DEBUG,motion-814 detected at 192.168.0.168
+2024-09-07 15:59:54,DEBUG,motion-814 not accepting connections
+2024-09-07 15:59:58,DEBUG,motion-814 detected at 192.168.0.168
+2024-09-07 15:59:59,DEBUG,motion-814 not accepting connections
+2024-09-07 16:00:03,DEBUG,motion-814 detected at 192.168.0.168
+2024-09-07 16:00:04,DEBUG,motion-814 not accepting connections
+2024-09-07 16:00:08,DEBUG,motion-814 detected at 192.168.0.168
+2024-09-07 16:00:09,DEBUG,motion-814 not accepting connections
+2024-09-07 16:00:13,DEBUG,motion-814 detected at 192.168.0.168
+2024-09-07 16:00:14,DEBUG,motion-814 not accepting connections
+2024-09-07 16:00:18,DEBUG,motion-806 detected at 192.168.0.242
+2024-09-07 16:00:18,INFO,motion-806 is connected
+2024-09-07 16:00:18,DEBUG,motion-814 detected at 192.168.0.168
+2024-09-07 16:00:19,DEBUG,motion-814 not accepting connections
+2024-09-07 16:00:19,DEBUG,motion-806 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:00:19,DEBUG,motion-806 storage is 0% full
+2024-09-07 16:00:19,WARNING,motion-806 battery level is 47%
+2024-09-07 16:00:20,INFO,motion-806 can be disconnected
+2024-09-07 16:00:23,DEBUG,motion-814 detected at 192.168.0.168
+2024-09-07 16:00:24,DEBUG,motion-814 not accepting connections
+2024-09-07 16:00:28,DEBUG,motion-814 detected at 192.168.0.168
+2024-09-07 16:00:29,DEBUG,motion-814 not accepting connections
+2024-09-07 16:00:33,DEBUG,motion-806 has been disconnected
+2024-09-07 16:00:33,DEBUG,motion-806 detected at 192.168.0.242
+2024-09-07 16:00:34,DEBUG,motion-806 not accepting connections
+2024-09-07 16:00:38,DEBUG,motion-806 detected at 192.168.0.242
+2024-09-07 16:00:39,DEBUG,motion-806 not accepting connections
+2024-09-07 16:00:43,DEBUG,motion-806 detected at 192.168.0.242
+2024-09-07 16:00:44,DEBUG,motion-806 not accepting connections
+2024-09-07 16:00:48,DEBUG,motion-806 detected at 192.168.0.242
+2024-09-07 16:00:49,DEBUG,motion-806 not accepting connections
+2024-09-07 16:00:53,DEBUG,motion-806 detected at 192.168.0.242
+2024-09-07 16:00:54,DEBUG,motion-806 not accepting connections
+2024-09-07 16:00:58,DEBUG,motion-806 detected at 192.168.0.242
+2024-09-07 16:00:59,DEBUG,motion-806 not accepting connections
+2024-09-07 16:01:03,DEBUG,motion-806 detected at 192.168.0.242
+2024-09-07 16:01:04,DEBUG,motion-806 not accepting connections
+2024-09-07 16:01:08,DEBUG,motion-806 detected at 192.168.0.242
+2024-09-07 16:01:09,DEBUG,motion-806 not accepting connections
+2024-09-07 16:01:13,DEBUG,motion-806 detected at 192.168.0.242
+2024-09-07 16:01:14,DEBUG,motion-806 not accepting connections
+2024-09-07 16:01:18,DEBUG,motion-841 detected at 192.168.0.208
+2024-09-07 16:01:19,INFO,motion-841 is connected
+2024-09-07 16:01:20,DEBUG,motion-841 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:01:20,DEBUG,motion-841 storage is 0% full
+2024-09-07 16:01:20,WARNING,motion-841 battery level is 44%
+2024-09-07 16:01:20,INFO,motion-841 can be disconnected
+2024-09-07 16:01:43,DEBUG,motion-841 has been disconnected
+2024-09-07 16:01:43,DEBUG,motion-841 detected at 192.168.0.208
+2024-09-07 16:01:44,DEBUG,motion-841 not accepting connections
+2024-09-07 16:01:48,DEBUG,motion-841 detected at 192.168.0.208
+2024-09-07 16:01:49,DEBUG,motion-841 not accepting connections
+2024-09-07 16:01:53,DEBUG,motion-841 detected at 192.168.0.208
+2024-09-07 16:01:54,DEBUG,motion-841 not accepting connections
+2024-09-07 16:01:58,DEBUG,motion-841 detected at 192.168.0.208
+2024-09-07 16:01:59,DEBUG,motion-841 not accepting connections
+2024-09-07 16:02:03,DEBUG,motion-841 detected at 192.168.0.208
+2024-09-07 16:02:04,DEBUG,motion-841 not accepting connections
+2024-09-07 16:02:08,DEBUG,motion-841 detected at 192.168.0.208
+2024-09-07 16:02:09,DEBUG,motion-841 not accepting connections
+2024-09-07 16:02:13,DEBUG,motion-804 detected at 192.168.0.124
+2024-09-07 16:02:13,INFO,motion-804 is connected
+2024-09-07 16:02:13,DEBUG,motion-841 detected at 192.168.0.208
+2024-09-07 16:02:14,DEBUG,motion-804 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:02:14,DEBUG,motion-804 storage is 0% full
+2024-09-07 16:02:14,WARNING,motion-804 battery level is 47%
+2024-09-07 16:02:14,DEBUG,motion-841 not accepting connections
+2024-09-07 16:02:15,INFO,motion-804 can be disconnected
+2024-09-07 16:02:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 16:03:03,DEBUG,motion-804 has been disconnected
+2024-09-07 16:03:03,DEBUG,motion-804 detected at 192.168.0.124
+2024-09-07 16:03:04,DEBUG,motion-804 not accepting connections
+2024-09-07 16:03:08,DEBUG,motion-804 detected at 192.168.0.124
+2024-09-07 16:03:09,DEBUG,motion-804 not accepting connections
+2024-09-07 16:03:13,DEBUG,motion-804 detected at 192.168.0.124
+2024-09-07 16:03:14,DEBUG,motion-804 not accepting connections
+2024-09-07 16:03:18,DEBUG,motion-804 detected at 192.168.0.124
+2024-09-07 16:03:18,DEBUG,motion-833 detected at 192.168.0.212
+2024-09-07 16:03:19,DEBUG,motion-804 not accepting connections
+2024-09-07 16:03:19,DEBUG,motion-833 not accepting connections
+2024-09-07 16:03:23,DEBUG,motion-804 detected at 192.168.0.124
+2024-09-07 16:03:23,DEBUG,motion-833 detected at 192.168.0.212
+2024-09-07 16:03:23,INFO,motion-833 is connected
+2024-09-07 16:03:24,DEBUG,motion-804 not accepting connections
+2024-09-07 16:03:24,DEBUG,motion-833 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:03:24,DEBUG,motion-833 storage is 0% full
+2024-09-07 16:03:24,WARNING,motion-833 battery level is 44%
+2024-09-07 16:03:26,INFO,motion-833 can be disconnected
+2024-09-07 16:03:28,DEBUG,motion-804 detected at 192.168.0.124
+2024-09-07 16:03:29,DEBUG,motion-804 not accepting connections
+2024-09-07 16:03:33,DEBUG,motion-804 detected at 192.168.0.124
+2024-09-07 16:03:34,DEBUG,motion-804 not accepting connections
+2024-09-07 16:03:38,DEBUG,motion-804 detected at 192.168.0.124
+2024-09-07 16:03:39,DEBUG,motion-804 not accepting connections
+2024-09-07 16:03:43,DEBUG,motion-833 has been disconnected
+2024-09-07 16:03:43,DEBUG,motion-833 detected at 192.168.0.212
+2024-09-07 16:03:44,DEBUG,motion-833 not accepting connections
+2024-09-07 16:03:48,DEBUG,motion-833 detected at 192.168.0.212
+2024-09-07 16:03:49,DEBUG,motion-833 not accepting connections
+2024-09-07 16:03:53,DEBUG,motion-833 detected at 192.168.0.212
+2024-09-07 16:03:54,DEBUG,motion-833 not accepting connections
+2024-09-07 16:03:58,DEBUG,motion-833 detected at 192.168.0.212
+2024-09-07 16:03:59,DEBUG,motion-833 not accepting connections
+2024-09-07 16:04:03,DEBUG,motion-833 detected at 192.168.0.212
+2024-09-07 16:04:04,DEBUG,motion-833 not accepting connections
+2024-09-07 16:04:08,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:04:08,DEBUG,motion-833 detected at 192.168.0.212
+2024-09-07 16:04:08,INFO,motion-813 is connected
+2024-09-07 16:04:09,DEBUG,motion-813 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:04:09,DEBUG,motion-813 storage is 0% full
+2024-09-07 16:04:09,WARNING,motion-813 battery level is 48%
+2024-09-07 16:04:09,DEBUG,motion-833 not accepting connections
+2024-09-07 16:04:10,INFO,motion-813 can be disconnected
+2024-09-07 16:04:13,DEBUG,motion-833 detected at 192.168.0.212
+2024-09-07 16:04:14,DEBUG,motion-833 not accepting connections
+2024-09-07 16:04:43,DEBUG,motion-813 has been disconnected
+2024-09-07 16:04:43,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:04:44,DEBUG,motion-813 not accepting connections
+2024-09-07 16:04:48,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:04:49,DEBUG,motion-813 not accepting connections
+2024-09-07 16:04:53,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:04:54,DEBUG,motion-813 not accepting connections
+2024-09-07 16:04:58,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:04:58,DEBUG,motion-827 detected at 192.168.0.100
+2024-09-07 16:04:59,DEBUG,motion-813 not accepting connections
+2024-09-07 16:04:59,DEBUG,motion-827 not accepting connections
+2024-09-07 16:05:03,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:05:03,DEBUG,motion-827 detected at 192.168.0.100
+2024-09-07 16:05:03,INFO,motion-827 is connected
+2024-09-07 16:05:04,DEBUG,motion-813 not accepting connections
+2024-09-07 16:05:05,DEBUG,motion-827 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:05:05,DEBUG,motion-827 storage is 0% full
+2024-09-07 16:05:05,WARNING,motion-827 battery level is 41%
+2024-09-07 16:05:06,INFO,motion-827 can be disconnected
+2024-09-07 16:05:08,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:05:09,DEBUG,motion-813 not accepting connections
+2024-09-07 16:05:13,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:05:14,DEBUG,motion-813 not accepting connections
+2024-09-07 16:05:18,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:05:19,DEBUG,motion-813 not accepting connections
+2024-09-07 16:05:23,DEBUG,motion-827 has been disconnected
+2024-09-07 16:05:23,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:05:23,DEBUG,motion-827 detected at 192.168.0.100
+2024-09-07 16:05:24,DEBUG,motion-813 not accepting connections
+2024-09-07 16:05:24,DEBUG,motion-827 not accepting connections
+2024-09-07 16:05:28,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:05:28,DEBUG,motion-827 detected at 192.168.0.100
+2024-09-07 16:05:29,DEBUG,motion-813 not accepting connections
+2024-09-07 16:05:29,DEBUG,motion-827 not accepting connections
+2024-09-07 16:05:33,DEBUG,motion-813 detected at 192.168.0.202
+2024-09-07 16:05:33,DEBUG,motion-827 detected at 192.168.0.100
+2024-09-07 16:05:34,DEBUG,motion-813 not accepting connections
+2024-09-07 16:05:34,DEBUG,motion-827 not accepting connections
+2024-09-07 16:05:38,DEBUG,motion-827 detected at 192.168.0.100
+2024-09-07 16:05:39,DEBUG,motion-827 not accepting connections
+2024-09-07 16:05:43,DEBUG,motion-827 detected at 192.168.0.100
+2024-09-07 16:05:43,DEBUG,motion-855 detected at 192.168.0.102
+2024-09-07 16:05:43,INFO,motion-855 is connected
+2024-09-07 16:05:44,DEBUG,motion-827 not accepting connections
+2024-09-07 16:05:44,DEBUG,motion-855 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:05:44,DEBUG,motion-855 storage is 0% full
+2024-09-07 16:05:44,WARNING,motion-855 battery level is 44%
+2024-09-07 16:05:45,INFO,motion-855 can be disconnected
+2024-09-07 16:05:48,DEBUG,motion-827 detected at 192.168.0.100
+2024-09-07 16:05:49,DEBUG,motion-827 not accepting connections
+2024-09-07 16:05:53,DEBUG,motion-827 detected at 192.168.0.100
+2024-09-07 16:05:54,DEBUG,motion-827 not accepting connections
+2024-09-07 16:06:03,DEBUG,motion-855 has been disconnected
+2024-09-07 16:06:03,DEBUG,motion-855 detected at 192.168.0.102
+2024-09-07 16:06:04,DEBUG,motion-855 not accepting connections
+2024-09-07 16:06:08,DEBUG,motion-855 detected at 192.168.0.102
+2024-09-07 16:06:09,DEBUG,motion-855 not accepting connections
+2024-09-07 16:06:13,DEBUG,motion-855 detected at 192.168.0.102
+2024-09-07 16:06:14,DEBUG,motion-855 not accepting connections
+2024-09-07 16:06:18,DEBUG,motion-855 detected at 192.168.0.102
+2024-09-07 16:06:18,DEBUG,motion-819 detected at 192.168.0.198
+2024-09-07 16:06:19,DEBUG,motion-855 not accepting connections
+2024-09-07 16:06:19,DEBUG,motion-819 not accepting connections
+2024-09-07 16:06:23,DEBUG,motion-819 detected at 192.168.0.198
+2024-09-07 16:06:23,DEBUG,motion-855 detected at 192.168.0.102
+2024-09-07 16:06:23,INFO,motion-819 is connected
+2024-09-07 16:06:24,DEBUG,motion-819 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:06:24,DEBUG,motion-819 storage is 0% full
+2024-09-07 16:06:24,WARNING,motion-819 battery level is 47%
+2024-09-07 16:06:24,DEBUG,motion-855 not accepting connections
+2024-09-07 16:06:25,INFO,motion-819 can be disconnected
+2024-09-07 16:06:28,DEBUG,motion-855 detected at 192.168.0.102
+2024-09-07 16:06:29,DEBUG,motion-855 not accepting connections
+2024-09-07 16:06:33,DEBUG,motion-855 detected at 192.168.0.102
+2024-09-07 16:06:34,DEBUG,motion-855 not accepting connections
+2024-09-07 16:06:38,DEBUG,motion-855 detected at 192.168.0.102
+2024-09-07 16:06:39,DEBUG,motion-855 not accepting connections
+2024-09-07 16:06:43,DEBUG,motion-819 has been disconnected
+2024-09-07 16:06:43,DEBUG,motion-819 detected at 192.168.0.198
+2024-09-07 16:06:44,DEBUG,motion-819 not accepting connections
+2024-09-07 16:06:48,DEBUG,motion-819 detected at 192.168.0.198
+2024-09-07 16:06:49,DEBUG,motion-819 not accepting connections
+2024-09-07 16:06:53,DEBUG,motion-819 detected at 192.168.0.198
+2024-09-07 16:06:54,DEBUG,motion-819 not accepting connections
+2024-09-07 16:06:58,DEBUG,motion-819 detected at 192.168.0.198
+2024-09-07 16:06:59,DEBUG,motion-819 not accepting connections
+2024-09-07 16:07:03,DEBUG,motion-849 detected at 192.168.0.224
+2024-09-07 16:07:03,DEBUG,motion-819 detected at 192.168.0.198
+2024-09-07 16:07:03,INFO,motion-849 is connected
+2024-09-07 16:07:04,DEBUG,motion-819 not accepting connections
+2024-09-07 16:07:04,DEBUG,motion-849 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:07:04,DEBUG,motion-849 storage is 0% full
+2024-09-07 16:07:04,WARNING,motion-849 battery level is 48%
+2024-09-07 16:07:05,INFO,motion-849 can be disconnected
+2024-09-07 16:07:08,DEBUG,motion-819 detected at 192.168.0.198
+2024-09-07 16:07:09,DEBUG,motion-819 not accepting connections
+2024-09-07 16:07:13,DEBUG,motion-819 detected at 192.168.0.198
+2024-09-07 16:07:14,DEBUG,motion-819 not accepting connections
+2024-09-07 16:07:43,DEBUG,motion-849 has been disconnected
+2024-09-07 16:07:43,DEBUG,motion-849 detected at 192.168.0.224
+2024-09-07 16:07:44,DEBUG,motion-849 not accepting connections
+2024-09-07 16:07:48,DEBUG,motion-849 detected at 192.168.0.224
+2024-09-07 16:07:48,DEBUG,motion-857 detected at 192.168.0.225
+2024-09-07 16:07:49,INFO,motion-857 is connected
+2024-09-07 16:07:49,DEBUG,motion-849 not accepting connections
+2024-09-07 16:07:50,DEBUG,motion-857 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:07:50,DEBUG,motion-857 storage is 0% full
+2024-09-07 16:07:50,WARNING,motion-857 battery level is 44%
+2024-09-07 16:07:50,INFO,motion-857 can be disconnected
+2024-09-07 16:07:53,DEBUG,motion-849 detected at 192.168.0.224
+2024-09-07 16:07:54,DEBUG,motion-849 not accepting connections
+2024-09-07 16:07:58,DEBUG,motion-849 detected at 192.168.0.224
+2024-09-07 16:07:59,DEBUG,motion-849 not accepting connections
+2024-09-07 16:08:13,DEBUG,motion-857 has been disconnected
+2024-09-07 16:08:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 16:08:13,DEBUG,motion-857 detected at 192.168.0.225
+2024-09-07 16:08:14,DEBUG,motion-857 not accepting connections
+2024-09-07 16:08:18,DEBUG,motion-857 detected at 192.168.0.225
+2024-09-07 16:08:19,DEBUG,motion-857 not accepting connections
+2024-09-07 16:08:23,DEBUG,motion-857 detected at 192.168.0.225
+2024-09-07 16:08:24,DEBUG,motion-857 not accepting connections
+2024-09-07 16:08:28,DEBUG,motion-857 detected at 192.168.0.225
+2024-09-07 16:08:29,DEBUG,motion-857 not accepting connections
+2024-09-07 16:08:33,DEBUG,motion-857 detected at 192.168.0.225
+2024-09-07 16:08:34,DEBUG,motion-857 not accepting connections
+2024-09-07 16:08:38,DEBUG,motion-857 detected at 192.168.0.225
+2024-09-07 16:08:39,DEBUG,motion-857 not accepting connections
+2024-09-07 16:08:43,DEBUG,motion-857 detected at 192.168.0.225
+2024-09-07 16:08:44,DEBUG,motion-857 not accepting connections
+2024-09-07 16:08:48,DEBUG,motion-873 detected at 192.168.0.118
+2024-09-07 16:08:49,INFO,motion-873 is connected
+2024-09-07 16:08:50,DEBUG,motion-873 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:08:50,DEBUG,motion-873 storage is 0% full
+2024-09-07 16:08:50,WARNING,motion-873 battery level is 50%
+2024-09-07 16:08:50,INFO,motion-873 can be disconnected
+2024-09-07 16:09:03,DEBUG,motion-873 has been disconnected
+2024-09-07 16:09:03,DEBUG,motion-873 detected at 192.168.0.118
+2024-09-07 16:09:04,DEBUG,motion-873 not accepting connections
+2024-09-07 16:09:08,DEBUG,motion-871 detected at 192.168.0.206
+2024-09-07 16:09:08,DEBUG,motion-873 detected at 192.168.0.118
+2024-09-07 16:09:09,INFO,motion-871 is connected
+2024-09-07 16:09:09,DEBUG,motion-873 not accepting connections
+2024-09-07 16:09:10,DEBUG,motion-871 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:09:10,DEBUG,motion-871 storage is 0% full
+2024-09-07 16:09:10,WARNING,motion-871 battery level is 41%
+2024-09-07 16:09:11,INFO,motion-871 can be disconnected
+2024-09-07 16:09:13,DEBUG,motion-873 detected at 192.168.0.118
+2024-09-07 16:09:14,DEBUG,motion-873 not accepting connections
+2024-09-07 16:09:18,DEBUG,motion-873 detected at 192.168.0.118
+2024-09-07 16:09:19,DEBUG,motion-873 not accepting connections
+2024-09-07 16:09:23,DEBUG,motion-873 detected at 192.168.0.118
+2024-09-07 16:09:24,DEBUG,motion-873 not accepting connections
+2024-09-07 16:09:28,DEBUG,motion-873 detected at 192.168.0.118
+2024-09-07 16:09:29,DEBUG,motion-873 not accepting connections
+2024-09-07 16:09:33,DEBUG,motion-873 detected at 192.168.0.118
+2024-09-07 16:09:34,DEBUG,motion-873 not accepting connections
+2024-09-07 16:09:38,DEBUG,motion-873 detected at 192.168.0.118
+2024-09-07 16:09:39,DEBUG,motion-873 not accepting connections
+2024-09-07 16:09:43,DEBUG,motion-871 has been disconnected
+2024-09-07 16:09:43,DEBUG,motion-871 detected at 192.168.0.206
+2024-09-07 16:09:43,DEBUG,motion-873 detected at 192.168.0.118
+2024-09-07 16:09:44,DEBUG,motion-871 not accepting connections
+2024-09-07 16:09:44,DEBUG,motion-873 not accepting connections
+2024-09-07 16:09:48,DEBUG,motion-871 detected at 192.168.0.206
+2024-09-07 16:09:49,DEBUG,motion-871 not accepting connections
+2024-09-07 16:09:53,DEBUG,motion-872 detected at 192.168.0.178
+2024-09-07 16:09:53,DEBUG,motion-871 detected at 192.168.0.206
+2024-09-07 16:09:54,INFO,motion-872 is connected
+2024-09-07 16:09:54,DEBUG,motion-871 not accepting connections
+2024-09-07 16:09:55,DEBUG,motion-872 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:09:55,DEBUG,motion-872 storage is 0% full
+2024-09-07 16:09:55,WARNING,motion-872 battery level is 44%
+2024-09-07 16:09:56,INFO,motion-872 can be disconnected
+2024-09-07 16:09:58,DEBUG,motion-871 detected at 192.168.0.206
+2024-09-07 16:09:59,DEBUG,motion-871 not accepting connections
+2024-09-07 16:10:03,DEBUG,motion-871 detected at 192.168.0.206
+2024-09-07 16:10:04,DEBUG,motion-871 not accepting connections
+2024-09-07 16:10:18,DEBUG,motion-817 detected at 192.168.0.152
+2024-09-07 16:10:19,INFO,motion-817 is connected
+2024-09-07 16:10:20,DEBUG,motion-817 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:10:20,DEBUG,motion-817 storage is 0% full
+2024-09-07 16:10:20,WARNING,motion-817 battery level is 47%
+2024-09-07 16:10:20,INFO,motion-817 can be disconnected
+2024-09-07 16:10:23,DEBUG,motion-872 has been disconnected
+2024-09-07 16:10:23,DEBUG,motion-872 detected at 192.168.0.178
+2024-09-07 16:10:24,DEBUG,motion-872 not accepting connections
+2024-09-07 16:10:28,DEBUG,motion-872 detected at 192.168.0.178
+2024-09-07 16:10:29,DEBUG,motion-872 not accepting connections
+2024-09-07 16:10:33,DEBUG,motion-817 has been disconnected
+2024-09-07 16:10:33,DEBUG,motion-817 detected at 192.168.0.152
+2024-09-07 16:10:33,DEBUG,motion-872 detected at 192.168.0.178
+2024-09-07 16:10:34,DEBUG,motion-817 not accepting connections
+2024-09-07 16:10:34,DEBUG,motion-872 not accepting connections
+2024-09-07 16:10:38,DEBUG,motion-817 detected at 192.168.0.152
+2024-09-07 16:10:38,DEBUG,motion-872 detected at 192.168.0.178
+2024-09-07 16:10:39,DEBUG,motion-817 not accepting connections
+2024-09-07 16:10:39,DEBUG,motion-872 not accepting connections
+2024-09-07 16:10:43,DEBUG,motion-817 detected at 192.168.0.152
+2024-09-07 16:10:43,DEBUG,motion-872 detected at 192.168.0.178
+2024-09-07 16:10:44,DEBUG,motion-817 not accepting connections
+2024-09-07 16:10:44,DEBUG,motion-872 not accepting connections
+2024-09-07 16:10:48,DEBUG,motion-817 detected at 192.168.0.152
+2024-09-07 16:10:48,DEBUG,motion-872 detected at 192.168.0.178
+2024-09-07 16:10:49,DEBUG,motion-817 not accepting connections
+2024-09-07 16:10:49,DEBUG,motion-872 not accepting connections
+2024-09-07 16:10:53,DEBUG,motion-817 detected at 192.168.0.152
+2024-09-07 16:10:54,DEBUG,motion-817 not accepting connections
+2024-09-07 16:10:58,DEBUG,motion-817 detected at 192.168.0.152
+2024-09-07 16:10:58,DEBUG,motion-823 detected at 192.168.0.206
+2024-09-07 16:10:59,INFO,motion-823 is connected
+2024-09-07 16:10:59,DEBUG,motion-817 not accepting connections
+2024-09-07 16:10:59,DEBUG,motion-823 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:10:59,DEBUG,motion-823 storage is 0% full
+2024-09-07 16:10:59,WARNING,motion-823 battery level is 47%
+2024-09-07 16:11:01,INFO,motion-823 can be disconnected
+2024-09-07 16:11:03,DEBUG,motion-817 detected at 192.168.0.152
+2024-09-07 16:11:04,DEBUG,motion-817 not accepting connections
+2024-09-07 16:11:08,DEBUG,motion-817 detected at 192.168.0.152
+2024-09-07 16:11:09,DEBUG,motion-817 not accepting connections
+2024-09-07 16:11:13,DEBUG,motion-817 detected at 192.168.0.152
+2024-09-07 16:11:14,DEBUG,motion-817 not accepting connections
+2024-09-07 16:11:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 16:11:43,DEBUG,motion-823 has been disconnected
+2024-09-07 16:11:43,DEBUG,motion-822 detected at 192.168.0.226
+2024-09-07 16:11:43,DEBUG,motion-823 detected at 192.168.0.206
+2024-09-07 16:11:44,INFO,motion-822 is connected
+2024-09-07 16:11:44,DEBUG,motion-823 not accepting connections
+2024-09-07 16:11:45,DEBUG,motion-822 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:11:45,DEBUG,motion-822 storage is 0% full
+2024-09-07 16:11:45,WARNING,motion-822 battery level is 50%
+2024-09-07 16:11:45,INFO,motion-822 can be disconnected
+2024-09-07 16:11:48,DEBUG,motion-823 detected at 192.168.0.206
+2024-09-07 16:11:49,DEBUG,motion-823 not accepting connections
+2024-09-07 16:11:53,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 16:11:53,DEBUG,motion-823 detected at 192.168.0.206
+2024-09-07 16:11:54,DEBUG,motion-823 not accepting connections
+2024-09-07 16:11:58,DEBUG,motion-823 detected at 192.168.0.206
+2024-09-07 16:11:59,DEBUG,motion-823 not accepting connections
+2024-09-07 16:12:03,DEBUG,motion-822 has been disconnected
+2024-09-07 16:12:03,DEBUG,motion-822 detected at 192.168.0.226
+2024-09-07 16:12:03,DEBUG,motion-823 detected at 192.168.0.206
+2024-09-07 16:12:04,DEBUG,motion-822 not accepting connections
+2024-09-07 16:12:04,DEBUG,motion-823 not accepting connections
+2024-09-07 16:12:08,DEBUG,motion-822 detected at 192.168.0.226
+2024-09-07 16:12:08,DEBUG,motion-823 detected at 192.168.0.206
+2024-09-07 16:12:09,DEBUG,motion-822 not accepting connections
+2024-09-07 16:12:09,DEBUG,motion-823 not accepting connections
+2024-09-07 16:12:13,DEBUG,motion-823 detected at 192.168.0.206
+2024-09-07 16:12:13,DEBUG,motion-822 detected at 192.168.0.226
+2024-09-07 16:12:14,DEBUG,motion-823 not accepting connections
+2024-09-07 16:12:14,DEBUG,motion-822 not accepting connections
+2024-09-07 16:12:18,DEBUG,motion-822 detected at 192.168.0.226
+2024-09-07 16:12:18,DEBUG,motion-823 detected at 192.168.0.206
+2024-09-07 16:12:19,DEBUG,motion-822 not accepting connections
+2024-09-07 16:12:19,DEBUG,motion-823 not accepting connections
+2024-09-07 16:12:23,DEBUG,motion-822 detected at 192.168.0.226
+2024-09-07 16:12:23,DEBUG,motion-823 detected at 192.168.0.206
+2024-09-07 16:12:24,DEBUG,motion-861 detected at 192.168.0.232
+2024-09-07 16:12:24,INFO,motion-861 is connected
+2024-09-07 16:12:24,DEBUG,motion-822 not accepting connections
+2024-09-07 16:12:24,DEBUG,motion-823 not accepting connections
+2024-09-07 16:12:25,DEBUG,motion-861 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:12:25,DEBUG,motion-861 storage is 0% full
+2024-09-07 16:12:25,WARNING,motion-861 battery level is 47%
+2024-09-07 16:12:26,INFO,motion-861 can be disconnected
+2024-09-07 16:12:28,DEBUG,motion-822 detected at 192.168.0.226
+2024-09-07 16:12:29,DEBUG,motion-822 not accepting connections
+2024-09-07 16:12:33,DEBUG,motion-822 detected at 192.168.0.226
+2024-09-07 16:12:34,DEBUG,motion-822 not accepting connections
+2024-09-07 16:12:38,DEBUG,motion-822 detected at 192.168.0.226
+2024-09-07 16:12:39,DEBUG,motion-822 not accepting connections
+2024-09-07 16:12:53,DEBUG,motion-861 has been disconnected
+2024-09-07 16:12:53,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 16:12:54,DEBUG,motion-861 detected at 192.168.0.232
+2024-09-07 16:12:55,DEBUG,motion-861 not accepting connections
+2024-09-07 16:12:59,DEBUG,motion-699 detected at 192.168.0.108
+2024-09-07 16:12:59,INFO,motion-699 is connected
+2024-09-07 16:12:59,DEBUG,motion-861 detected at 192.168.0.232
+2024-09-07 16:13:00,DEBUG,motion-699 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:13:00,DEBUG,motion-699 storage is 0% full
+2024-09-07 16:13:00,WARNING,motion-699 battery level is 44%
+2024-09-07 16:13:00,DEBUG,motion-861 not accepting connections
+2024-09-07 16:13:00,INFO,motion-699 can be disconnected
+2024-09-07 16:13:04,DEBUG,motion-861 detected at 192.168.0.232
+2024-09-07 16:13:05,DEBUG,motion-861 not accepting connections
+2024-09-07 16:13:09,DEBUG,motion-861 detected at 192.168.0.232
+2024-09-07 16:13:10,DEBUG,motion-861 not accepting connections
+2024-09-07 16:13:13,DEBUG,motion-699 has been disconnected
+2024-09-07 16:13:14,DEBUG,motion-699 detected at 192.168.0.108
+2024-09-07 16:13:14,DEBUG,motion-861 detected at 192.168.0.232
+2024-09-07 16:13:15,DEBUG,motion-699 not accepting connections
+2024-09-07 16:13:15,DEBUG,motion-861 not accepting connections
+2024-09-07 16:13:19,DEBUG,motion-699 detected at 192.168.0.108
+2024-09-07 16:13:19,DEBUG,motion-861 detected at 192.168.0.232
+2024-09-07 16:13:20,DEBUG,motion-699 not accepting connections
+2024-09-07 16:13:20,DEBUG,motion-861 not accepting connections
+2024-09-07 16:13:24,DEBUG,motion-699 detected at 192.168.0.108
+2024-09-07 16:13:25,DEBUG,motion-699 not accepting connections
+2024-09-07 16:13:29,DEBUG,motion-699 detected at 192.168.0.108
+2024-09-07 16:13:30,DEBUG,motion-699 not accepting connections
+2024-09-07 16:13:34,DEBUG,motion-699 detected at 192.168.0.108
+2024-09-07 16:13:34,DEBUG,motion-866 detected at 192.168.0.146
+2024-09-07 16:13:34,INFO,motion-866 is connected
+2024-09-07 16:13:35,DEBUG,motion-699 not accepting connections
+2024-09-07 16:13:35,DEBUG,motion-866 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:13:35,DEBUG,motion-866 storage is 0% full
+2024-09-07 16:13:35,WARNING,motion-866 battery level is 47%
+2024-09-07 16:13:35,INFO,motion-866 can be disconnected
+2024-09-07 16:13:39,DEBUG,motion-699 detected at 192.168.0.108
+2024-09-07 16:13:40,DEBUG,motion-699 not accepting connections
+2024-09-07 16:13:44,DEBUG,motion-699 detected at 192.168.0.108
+2024-09-07 16:13:45,DEBUG,motion-699 not accepting connections
+2024-09-07 16:13:49,DEBUG,motion-699 detected at 192.168.0.108
+2024-09-07 16:13:50,DEBUG,motion-699 not accepting connections
+2024-09-07 16:13:54,DEBUG,motion-699 detected at 192.168.0.108
+2024-09-07 16:13:55,DEBUG,motion-699 not accepting connections
+2024-09-07 16:14:13,DEBUG,motion-866 has been disconnected
+2024-09-07 16:14:14,DEBUG,motion-866 detected at 192.168.0.146
+2024-09-07 16:14:15,DEBUG,motion-866 not accepting connections
+2024-09-07 16:14:19,DEBUG,motion-866 detected at 192.168.0.146
+2024-09-07 16:14:20,DEBUG,motion-866 not accepting connections
+2024-09-07 16:14:24,DEBUG,motion-718 detected at 192.168.0.188
+2024-09-07 16:14:24,DEBUG,motion-866 detected at 192.168.0.146
+2024-09-07 16:14:25,DEBUG,motion-718 not accepting connections
+2024-09-07 16:14:25,DEBUG,motion-866 not accepting connections
+2024-09-07 16:14:29,DEBUG,motion-718 detected at 192.168.0.188
+2024-09-07 16:14:29,INFO,motion-718 is connected
+2024-09-07 16:14:29,DEBUG,motion-866 detected at 192.168.0.146
+2024-09-07 16:14:30,DEBUG,motion-718 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:14:30,DEBUG,motion-718 storage is 0% full
+2024-09-07 16:14:30,WARNING,motion-718 battery level is 56%
+2024-09-07 16:14:30,DEBUG,motion-866 not accepting connections
+2024-09-07 16:14:30,INFO,motion-718 can be disconnected
+2024-09-07 16:15:03,DEBUG,motion-718 has been disconnected
+2024-09-07 16:15:03,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 16:15:04,DEBUG,motion-718 detected at 192.168.0.188
+2024-09-07 16:15:04,DEBUG,motion-824 detected at 192.168.0.246
+2024-09-07 16:15:05,INFO,motion-824 is connected
+2024-09-07 16:15:05,DEBUG,motion-718 not accepting connections
+2024-09-07 16:15:05,DEBUG,motion-824 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:15:05,DEBUG,motion-824 storage is 0% full
+2024-09-07 16:15:05,WARNING,motion-824 battery level is 48%
+2024-09-07 16:15:06,INFO,motion-824 can be disconnected
+2024-09-07 16:15:09,DEBUG,motion-718 detected at 192.168.0.188
+2024-09-07 16:15:10,DEBUG,motion-718 not accepting connections
+2024-09-07 16:15:14,DEBUG,motion-718 detected at 192.168.0.188
+2024-09-07 16:15:15,DEBUG,motion-718 not accepting connections
+2024-09-07 16:15:19,DEBUG,motion-718 detected at 192.168.0.188
+2024-09-07 16:15:20,DEBUG,motion-718 not accepting connections
+2024-09-07 16:15:43,DEBUG,motion-824 has been disconnected
+2024-09-07 16:15:44,DEBUG,motion-818 detected at 192.168.0.210
+2024-09-07 16:15:44,DEBUG,motion-824 detected at 192.168.0.246
+2024-09-07 16:15:44,INFO,motion-818 is connected
+2024-09-07 16:15:45,DEBUG,motion-824 not accepting connections
+2024-09-07 16:15:45,DEBUG,motion-818 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:15:45,DEBUG,motion-818 storage is 0% full
+2024-09-07 16:15:45,WARNING,motion-818 battery level is 44%
+2024-09-07 16:15:45,INFO,motion-818 can be disconnected
+2024-09-07 16:15:49,DEBUG,motion-824 detected at 192.168.0.246
+2024-09-07 16:15:50,DEBUG,motion-824 not accepting connections
+2024-09-07 16:15:54,DEBUG,motion-824 detected at 192.168.0.246
+2024-09-07 16:15:55,DEBUG,motion-824 not accepting connections
+2024-09-07 16:15:59,DEBUG,motion-824 detected at 192.168.0.246
+2024-09-07 16:16:00,DEBUG,motion-824 not accepting connections
+2024-09-07 16:16:03,DEBUG,motion-818 has been disconnected
+2024-09-07 16:16:04,DEBUG,motion-818 detected at 192.168.0.210
+2024-09-07 16:16:04,DEBUG,motion-824 detected at 192.168.0.246
+2024-09-07 16:16:05,DEBUG,motion-818 not accepting connections
+2024-09-07 16:16:05,DEBUG,motion-824 not accepting connections
+2024-09-07 16:16:09,DEBUG,motion-818 detected at 192.168.0.210
+2024-09-07 16:16:09,DEBUG,motion-824 detected at 192.168.0.246
+2024-09-07 16:16:10,DEBUG,motion-818 not accepting connections
+2024-09-07 16:16:10,DEBUG,motion-824 not accepting connections
+2024-09-07 16:16:14,DEBUG,motion-818 detected at 192.168.0.210
+2024-09-07 16:16:14,DEBUG,motion-824 detected at 192.168.0.246
+2024-09-07 16:16:15,DEBUG,motion-818 not accepting connections
+2024-09-07 16:16:15,DEBUG,motion-824 not accepting connections
+2024-09-07 16:16:19,DEBUG,motion-818 detected at 192.168.0.210
+2024-09-07 16:16:19,DEBUG,motion-824 detected at 192.168.0.246
+2024-09-07 16:16:20,DEBUG,motion-818 not accepting connections
+2024-09-07 16:16:20,DEBUG,motion-824 not accepting connections
+2024-09-07 16:16:24,DEBUG,motion-717 detected at 192.168.0.208
+2024-09-07 16:16:24,INFO,motion-717 is connected
+2024-09-07 16:16:24,DEBUG,motion-818 detected at 192.168.0.210
+2024-09-07 16:16:24,DEBUG,motion-824 detected at 192.168.0.246
+2024-09-07 16:16:25,DEBUG,motion-818 not accepting connections
+2024-09-07 16:16:25,DEBUG,motion-824 not accepting connections
+2024-09-07 16:16:26,DEBUG,motion-717 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:16:26,DEBUG,motion-717 storage is 0% full
+2024-09-07 16:16:26,WARNING,motion-717 battery level is 59%
+2024-09-07 16:16:26,INFO,motion-717 can be disconnected
+2024-09-07 16:16:29,DEBUG,motion-818 detected at 192.168.0.210
+2024-09-07 16:16:29,DEBUG,motion-824 detected at 192.168.0.246
+2024-09-07 16:16:30,DEBUG,motion-818 not accepting connections
+2024-09-07 16:16:30,DEBUG,motion-824 not accepting connections
+2024-09-07 16:16:34,DEBUG,motion-818 detected at 192.168.0.210
+2024-09-07 16:16:35,DEBUG,motion-818 not accepting connections
+2024-09-07 16:16:39,DEBUG,motion-818 detected at 192.168.0.210
+2024-09-07 16:16:40,DEBUG,motion-818 not accepting connections
+2024-09-07 16:16:43,DEBUG,motion-717 has been disconnected
+2024-09-07 16:16:44,DEBUG,motion-717 detected at 192.168.0.208
+2024-09-07 16:16:45,DEBUG,motion-717 not accepting connections
+2024-09-07 16:16:49,DEBUG,motion-717 detected at 192.168.0.208
+2024-09-07 16:16:50,DEBUG,motion-717 not accepting connections
+2024-09-07 16:16:54,DEBUG,motion-717 detected at 192.168.0.208
+2024-09-07 16:16:55,DEBUG,motion-717 not accepting connections
+2024-09-07 16:16:59,DEBUG,motion-717 detected at 192.168.0.208
+2024-09-07 16:17:00,DEBUG,motion-717 not accepting connections
+2024-09-07 16:17:04,DEBUG,motion-701 detected at 192.168.0.238
+2024-09-07 16:17:04,DEBUG,motion-717 detected at 192.168.0.208
+2024-09-07 16:17:04,INFO,motion-701 is connected
+2024-09-07 16:17:05,DEBUG,motion-717 not accepting connections
+2024-09-07 16:17:05,DEBUG,motion-701 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:17:05,DEBUG,motion-701 storage is 0% full
+2024-09-07 16:17:05,WARNING,motion-701 battery level is 48%
+2024-09-07 16:17:05,INFO,motion-701 can be disconnected
+2024-09-07 16:17:09,DEBUG,motion-717 detected at 192.168.0.208
+2024-09-07 16:17:10,DEBUG,motion-717 not accepting connections
+2024-09-07 16:17:14,DEBUG,motion-717 detected at 192.168.0.208
+2024-09-07 16:17:15,DEBUG,motion-717 not accepting connections
+2024-09-07 16:17:19,DEBUG,motion-717 detected at 192.168.0.208
+2024-09-07 16:17:20,DEBUG,motion-717 not accepting connections
+2024-09-07 16:17:23,DEBUG,motion-701 has been disconnected
+2024-09-07 16:17:24,DEBUG,motion-701 detected at 192.168.0.238
+2024-09-07 16:17:25,DEBUG,motion-701 not accepting connections
+2024-09-07 16:17:29,DEBUG,motion-701 detected at 192.168.0.238
+2024-09-07 16:17:30,DEBUG,motion-701 not accepting connections
+2024-09-07 16:17:34,DEBUG,motion-701 detected at 192.168.0.238
+2024-09-07 16:17:35,DEBUG,motion-701 not accepting connections
+2024-09-07 16:17:39,DEBUG,motion-701 detected at 192.168.0.238
+2024-09-07 16:17:40,DEBUG,motion-701 not accepting connections
+2024-09-07 16:17:44,DEBUG,motion-701 detected at 192.168.0.238
+2024-09-07 16:17:44,DEBUG,motion-667 detected at 192.168.0.184
+2024-09-07 16:17:44,INFO,motion-667 is connected
+2024-09-07 16:17:45,DEBUG,motion-701 not accepting connections
+2024-09-07 16:17:45,DEBUG,motion-667 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:17:45,DEBUG,motion-667 storage is 0% full
+2024-09-07 16:17:45,INFO,motion-667 battery level is 64%
+2024-09-07 16:17:45,INFO,motion-667 can be disconnected
+2024-09-07 16:17:49,DEBUG,motion-701 detected at 192.168.0.238
+2024-09-07 16:17:50,DEBUG,motion-701 not accepting connections
+2024-09-07 16:17:54,DEBUG,motion-701 detected at 192.168.0.238
+2024-09-07 16:17:55,DEBUG,motion-701 not accepting connections
+2024-09-07 16:17:59,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 16:17:59,DEBUG,motion-701 detected at 192.168.0.238
+2024-09-07 16:18:00,DEBUG,motion-701 not accepting connections
+2024-09-07 16:18:03,DEBUG,motion-667 has been disconnected
+2024-09-07 16:18:04,DEBUG,motion-667 detected at 192.168.0.184
+2024-09-07 16:18:05,DEBUG,motion-667 not accepting connections
+2024-09-07 16:18:09,DEBUG,motion-667 detected at 192.168.0.184
+2024-09-07 16:18:10,DEBUG,motion-667 not accepting connections
+2024-09-07 16:18:14,DEBUG,motion-667 detected at 192.168.0.184
+2024-09-07 16:18:15,DEBUG,motion-667 not accepting connections
+2024-09-07 16:18:19,DEBUG,motion-816 detected at 192.168.0.128
+2024-09-07 16:18:19,DEBUG,motion-667 detected at 192.168.0.184
+2024-09-07 16:18:20,INFO,motion-816 is connected
+2024-09-07 16:18:20,DEBUG,motion-667 not accepting connections
+2024-09-07 16:18:21,DEBUG,motion-816 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:18:21,DEBUG,motion-816 storage is 0% full
+2024-09-07 16:18:21,WARNING,motion-816 battery level is 47%
+2024-09-07 16:18:21,INFO,motion-816 can be disconnected
+2024-09-07 16:18:24,DEBUG,motion-667 detected at 192.168.0.184
+2024-09-07 16:18:25,DEBUG,motion-667 not accepting connections
+2024-09-07 16:18:29,DEBUG,motion-667 detected at 192.168.0.184
+2024-09-07 16:18:30,DEBUG,motion-667 not accepting connections
+2024-09-07 16:18:34,DEBUG,motion-667 detected at 192.168.0.184
+2024-09-07 16:18:35,DEBUG,motion-667 not accepting connections
+2024-09-07 16:18:39,DEBUG,motion-667 detected at 192.168.0.184
+2024-09-07 16:18:40,DEBUG,motion-667 not accepting connections
+2024-09-07 16:18:53,DEBUG,motion-816 has been disconnected
+2024-09-07 16:18:54,DEBUG,motion-816 detected at 192.168.0.128
+2024-09-07 16:18:55,DEBUG,motion-816 not accepting connections
+2024-09-07 16:18:59,DEBUG,motion-816 detected at 192.168.0.128
+2024-09-07 16:19:00,DEBUG,motion-816 not accepting connections
+2024-09-07 16:19:04,DEBUG,motion-803 detected at 192.168.0.120
+2024-09-07 16:19:04,DEBUG,motion-816 detected at 192.168.0.128
+2024-09-07 16:19:04,INFO,motion-803 is connected
+2024-09-07 16:19:05,DEBUG,motion-816 not accepting connections
+2024-09-07 16:19:05,DEBUG,motion-803 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 16:19:05,DEBUG,motion-803 storage is 0% full
+2024-09-07 16:19:05,WARNING,motion-803 battery level is 44%
+2024-09-07 16:19:05,INFO,motion-803 can be disconnected
+2024-09-07 16:19:09,DEBUG,motion-816 detected at 192.168.0.128
+2024-09-07 16:19:10,DEBUG,motion-816 not accepting connections
+2024-09-07 16:19:14,DEBUG,motion-816 detected at 192.168.0.128
+2024-09-07 16:19:15,DEBUG,motion-816 not accepting connections
+2024-09-07 16:19:22,INFO,Keyboard interrupt
+2024-09-07 16:19:22,INFO,Stopping thread pools
+2024-09-07 16:19:22,DEBUG,DetectionThreadPool finished
+2024-09-07 16:19:23,DEBUG,motion-803 has been disconnected
+2024-09-07 16:19:23,DEBUG,DetectionThread #1 finished
+2024-09-07 16:19:23,DEBUG,DetectionThread #2 finished
+2024-09-07 16:19:23,DEBUG,DetectionThread #3 finished
+2024-09-07 16:19:23,DEBUG,DetectionThread #4 finished
+2024-09-07 16:19:23,DEBUG,DetectionThread #5 finished
+2024-09-07 16:19:23,DEBUG,DetectionThread #6 finished
+2024-09-07 16:19:23,DEBUG,DetectionThread #7 finished
+2024-09-07 16:19:23,DEBUG,DetectionThread #8 finished
+2024-09-07 16:19:23,DEBUG,InspectionThreadPool finished
+2024-09-07 16:19:23,DEBUG,InspectionThread #1 finished
+2024-09-07 16:19:23,DEBUG,InspectionThread #2 finished
+2024-09-07 16:19:23,DEBUG,InspectionThread #3 finished
+2024-09-07 16:19:23,DEBUG,InspectionThread #4 finished
+2024-09-07 16:19:23,DEBUG,DownloadThreadPool finished
+2024-09-07 16:19:23,DEBUG,DownloadThread #1 finished
+2024-09-07 16:19:23,DEBUG,DownloadThread #2 finished
+2024-09-07 16:19:23,DEBUG,DownloadThread #3 finished
+2024-09-07 16:19:23,DEBUG,DownloadThread #4 finished
+2024-09-07 16:19:23,DEBUG,DisconnectionThreadPool finished
+2024-09-07 16:19:23,DEBUG,DisconnectionThread #1 finished
+2024-09-07 16:19:23,DEBUG,DisconnectionThread #2 finished
+2024-09-07 16:19:23,DEBUG,DisconnectionThread #3 finished
+2024-09-07 16:19:23,DEBUG,DisconnectionThread #4 finished
+2024-09-07 16:19:23,DEBUG,DisconnectionThread #5 finished
+2024-09-07 16:19:23,DEBUG,DisconnectionThread #6 finished
+2024-09-07 16:19:23,DEBUG,DisconnectionThread #7 finished
+2024-09-07 16:19:23,DEBUG,DisconnectionThread #8 finished
+2024-09-07 16:19:23,INFO,Thread pools stopped
