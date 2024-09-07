@@ -12,8 +12,8 @@
     "timezone": "60",
     "wifi": [
       {
-        "login": "WSW",
-        "password_length": "8",
+        "login": "",
+        "password_length": "0",
         "trust": "0"
       },
       {
