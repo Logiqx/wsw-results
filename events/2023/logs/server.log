@@ -11971,3 +11971,1003 @@
 2024-09-07 13:25:55,DEBUG,DisconnectionThread #7 finished
 2024-09-07 13:25:55,DEBUG,DisconnectionThread #8 finished
 2024-09-07 13:25:55,INFO,Thread pools stopped
+2024-09-07 14:00:11,INFO,Starting thread pools
+2024-09-07 14:00:11,DEBUG,DetectionThreadPool starting
+2024-09-07 14:00:11,DEBUG,DetectionThread #1 starting
+2024-09-07 14:00:11,DEBUG,DetectionThread #2 starting
+2024-09-07 14:00:11,DEBUG,DetectionThread #3 starting
+2024-09-07 14:00:11,DEBUG,DetectionThread #4 starting
+2024-09-07 14:00:11,DEBUG,DetectionThread #5 starting
+2024-09-07 14:00:11,DEBUG,DetectionThread #6 starting
+2024-09-07 14:00:11,DEBUG,DetectionThread #7 starting
+2024-09-07 14:00:11,DEBUG,DetectionThread #8 starting
+2024-09-07 14:00:11,DEBUG,InspectionThreadPool starting
+2024-09-07 14:00:11,DEBUG,InspectionThread #1 starting
+2024-09-07 14:00:11,DEBUG,InspectionThread #2 starting
+2024-09-07 14:00:11,DEBUG,InspectionThread #3 starting
+2024-09-07 14:00:11,DEBUG,InspectionThread #4 starting
+2024-09-07 14:00:11,DEBUG,DownloadThreadPool starting
+2024-09-07 14:00:11,DEBUG,DownloadThread #1 starting
+2024-09-07 14:00:11,DEBUG,DownloadThread #2 starting
+2024-09-07 14:00:11,DEBUG,DownloadThread #3 starting
+2024-09-07 14:00:11,DEBUG,DownloadThread #4 starting
+2024-09-07 14:00:11,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:00:11,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:00:11,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:00:11,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:00:11,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:00:11,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:00:11,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:00:11,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:00:11,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:00:11,INFO,Thread pools started
+2024-09-07 14:00:56,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 14:00:56,DEBUG,motion-634 detected at 192.168.0.186
+2024-09-07 14:00:56,INFO,motion-634 is connected
+2024-09-07 14:00:57,DEBUG,motion-634 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:00:57,DEBUG,motion-634 storage is 0% full
+2024-09-07 14:00:57,INFO,motion-634 battery level is 69%
+2024-09-07 14:00:58,INFO,motion-634 can be disconnected
+2024-09-07 14:01:00,INFO,Keyboard interrupt
+2024-09-07 14:01:00,INFO,Stopping thread pools
+2024-09-07 14:01:00,DEBUG,DetectionThreadPool finished
+2024-09-07 14:01:00,DEBUG,DetectionThread #1 finished
+2024-09-07 14:01:00,DEBUG,DetectionThread #2 finished
+2024-09-07 14:01:00,DEBUG,DetectionThread #3 finished
+2024-09-07 14:01:00,DEBUG,DetectionThread #4 finished
+2024-09-07 14:01:00,DEBUG,DetectionThread #5 finished
+2024-09-07 14:01:00,DEBUG,DetectionThread #6 finished
+2024-09-07 14:01:00,DEBUG,DetectionThread #7 finished
+2024-09-07 14:01:00,DEBUG,DetectionThread #8 finished
+2024-09-07 14:01:00,DEBUG,InspectionThreadPool finished
+2024-09-07 14:01:01,DEBUG,InspectionThread #1 finished
+2024-09-07 14:01:01,DEBUG,InspectionThread #2 finished
+2024-09-07 14:01:01,DEBUG,InspectionThread #3 finished
+2024-09-07 14:01:01,DEBUG,InspectionThread #4 finished
+2024-09-07 14:01:01,DEBUG,DownloadThreadPool finished
+2024-09-07 14:01:01,DEBUG,DownloadThread #1 finished
+2024-09-07 14:01:01,DEBUG,DownloadThread #2 finished
+2024-09-07 14:01:01,DEBUG,DownloadThread #3 finished
+2024-09-07 14:01:01,DEBUG,DownloadThread #4 finished
+2024-09-07 14:01:01,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:01:01,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:01:01,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:01:01,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:01:01,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:01:01,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:01:01,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:01:01,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:01:01,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:01:01,INFO,Thread pools stopped
+2024-09-07 14:02:20,INFO,Starting thread pools
+2024-09-07 14:02:20,DEBUG,DetectionThreadPool starting
+2024-09-07 14:02:20,DEBUG,DetectionThread #1 starting
+2024-09-07 14:02:20,DEBUG,DetectionThread #2 starting
+2024-09-07 14:02:20,DEBUG,DetectionThread #3 starting
+2024-09-07 14:02:20,DEBUG,DetectionThread #4 starting
+2024-09-07 14:02:20,DEBUG,DetectionThread #5 starting
+2024-09-07 14:02:20,DEBUG,DetectionThread #6 starting
+2024-09-07 14:02:20,DEBUG,DetectionThread #7 starting
+2024-09-07 14:02:20,DEBUG,DetectionThread #8 starting
+2024-09-07 14:02:20,DEBUG,InspectionThreadPool starting
+2024-09-07 14:02:20,DEBUG,InspectionThread #1 starting
+2024-09-07 14:02:20,DEBUG,InspectionThread #2 starting
+2024-09-07 14:02:20,DEBUG,InspectionThread #3 starting
+2024-09-07 14:02:20,DEBUG,InspectionThread #4 starting
+2024-09-07 14:02:20,DEBUG,DownloadThreadPool starting
+2024-09-07 14:02:20,DEBUG,DownloadThread #1 starting
+2024-09-07 14:02:20,DEBUG,DownloadThread #2 starting
+2024-09-07 14:02:20,DEBUG,DownloadThread #3 starting
+2024-09-07 14:02:20,DEBUG,DownloadThread #4 starting
+2024-09-07 14:02:20,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:02:20,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:02:20,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:02:20,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:02:20,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:02:20,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:02:20,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:02:20,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:02:20,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:02:20,INFO,Thread pools started
+2024-09-07 14:02:20,DEBUG,motion-634 detected at 192.168.0.186
+2024-09-07 14:02:20,INFO,motion-634 is connected
+2024-09-07 14:02:20,DEBUG,motion-634 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:02:20,DEBUG,motion-634 storage is 0% full
+2024-09-07 14:02:20,INFO,motion-634 battery level is 69%
+2024-09-07 14:02:21,INFO,motion-634 can be disconnected
+2024-09-07 14:02:23,INFO,Keyboard interrupt
+2024-09-07 14:02:23,INFO,Stopping thread pools
+2024-09-07 14:02:23,DEBUG,DetectionThreadPool finished
+2024-09-07 14:02:24,DEBUG,DetectionThread #1 finished
+2024-09-07 14:02:24,DEBUG,DetectionThread #2 finished
+2024-09-07 14:02:24,DEBUG,DetectionThread #3 finished
+2024-09-07 14:02:24,DEBUG,DetectionThread #4 finished
+2024-09-07 14:02:24,DEBUG,DetectionThread #5 finished
+2024-09-07 14:02:24,DEBUG,DetectionThread #6 finished
+2024-09-07 14:02:24,DEBUG,DetectionThread #7 finished
+2024-09-07 14:02:24,DEBUG,DetectionThread #8 finished
+2024-09-07 14:02:24,DEBUG,InspectionThreadPool finished
+2024-09-07 14:02:24,DEBUG,InspectionThread #1 finished
+2024-09-07 14:02:24,DEBUG,InspectionThread #2 finished
+2024-09-07 14:02:24,DEBUG,InspectionThread #3 finished
+2024-09-07 14:02:24,DEBUG,InspectionThread #4 finished
+2024-09-07 14:02:24,DEBUG,DownloadThreadPool finished
+2024-09-07 14:02:24,DEBUG,DownloadThread #1 finished
+2024-09-07 14:02:24,DEBUG,DownloadThread #2 finished
+2024-09-07 14:02:24,DEBUG,DownloadThread #3 finished
+2024-09-07 14:02:24,DEBUG,DownloadThread #4 finished
+2024-09-07 14:02:24,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:02:24,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:02:24,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:02:24,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:02:24,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:02:24,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:02:24,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:02:24,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:02:24,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:02:24,INFO,Thread pools stopped
+2024-09-07 14:03:36,INFO,Starting thread pools
+2024-09-07 14:03:36,DEBUG,DetectionThreadPool starting
+2024-09-07 14:03:36,DEBUG,DetectionThread #1 starting
+2024-09-07 14:03:36,DEBUG,DetectionThread #2 starting
+2024-09-07 14:03:36,DEBUG,DetectionThread #3 starting
+2024-09-07 14:03:36,DEBUG,DetectionThread #4 starting
+2024-09-07 14:03:36,DEBUG,DetectionThread #5 starting
+2024-09-07 14:03:36,DEBUG,DetectionThread #6 starting
+2024-09-07 14:03:36,DEBUG,DetectionThread #7 starting
+2024-09-07 14:03:36,DEBUG,DetectionThread #8 starting
+2024-09-07 14:03:36,DEBUG,InspectionThreadPool starting
+2024-09-07 14:03:36,DEBUG,InspectionThread #1 starting
+2024-09-07 14:03:36,DEBUG,InspectionThread #2 starting
+2024-09-07 14:03:36,DEBUG,InspectionThread #3 starting
+2024-09-07 14:03:36,DEBUG,InspectionThread #4 starting
+2024-09-07 14:03:36,DEBUG,DownloadThreadPool starting
+2024-09-07 14:03:36,DEBUG,DownloadThread #1 starting
+2024-09-07 14:03:36,DEBUG,DownloadThread #2 starting
+2024-09-07 14:03:36,DEBUG,DownloadThread #3 starting
+2024-09-07 14:03:36,DEBUG,DownloadThread #4 starting
+2024-09-07 14:03:36,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:03:36,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:03:36,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:03:36,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:03:36,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:03:36,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:03:36,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:03:36,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:03:36,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:03:36,INFO,Thread pools started
+2024-09-07 14:03:36,DEBUG,motion-634 detected at 192.168.0.186
+2024-09-07 14:03:37,DEBUG,motion-634 not accepting connections
+2024-09-07 14:04:01,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 14:04:01,DEBUG,motion-617 detected at 192.168.0.142
+2024-09-07 14:04:01,INFO,motion-617 is connected
+2024-09-07 14:04:01,DEBUG,motion-617 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:04:01,DEBUG,motion-617 storage is 0% full
+2024-09-07 14:04:01,INFO,motion-617 battery level is 68%
+2024-09-07 14:04:02,INFO,motion-617 can be disconnected
+2024-09-07 14:04:05,INFO,Keyboard interrupt
+2024-09-07 14:04:05,INFO,Stopping thread pools
+2024-09-07 14:04:05,DEBUG,DetectionThreadPool finished
+2024-09-07 14:04:05,DEBUG,DetectionThread #1 finished
+2024-09-07 14:04:05,DEBUG,DetectionThread #2 finished
+2024-09-07 14:04:05,DEBUG,DetectionThread #3 finished
+2024-09-07 14:04:05,DEBUG,DetectionThread #4 finished
+2024-09-07 14:04:05,DEBUG,DetectionThread #5 finished
+2024-09-07 14:04:05,DEBUG,DetectionThread #6 finished
+2024-09-07 14:04:05,DEBUG,DetectionThread #7 finished
+2024-09-07 14:04:05,DEBUG,DetectionThread #8 finished
+2024-09-07 14:04:05,DEBUG,InspectionThreadPool finished
+2024-09-07 14:04:06,DEBUG,InspectionThread #1 finished
+2024-09-07 14:04:06,DEBUG,InspectionThread #2 finished
+2024-09-07 14:04:06,DEBUG,InspectionThread #3 finished
+2024-09-07 14:04:06,DEBUG,InspectionThread #4 finished
+2024-09-07 14:04:06,DEBUG,DownloadThreadPool finished
+2024-09-07 14:04:06,DEBUG,DownloadThread #1 finished
+2024-09-07 14:04:06,DEBUG,DownloadThread #2 finished
+2024-09-07 14:04:06,DEBUG,DownloadThread #3 finished
+2024-09-07 14:04:06,DEBUG,DownloadThread #4 finished
+2024-09-07 14:04:06,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:04:06,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:04:06,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:04:06,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:04:06,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:04:06,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:04:06,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:04:06,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:04:06,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:04:06,INFO,Thread pools stopped
+2024-09-07 14:04:35,INFO,Starting thread pools
+2024-09-07 14:04:35,DEBUG,DetectionThreadPool starting
+2024-09-07 14:04:35,DEBUG,DetectionThread #1 starting
+2024-09-07 14:04:35,DEBUG,DetectionThread #2 starting
+2024-09-07 14:04:35,DEBUG,DetectionThread #3 starting
+2024-09-07 14:04:35,DEBUG,DetectionThread #4 starting
+2024-09-07 14:04:35,DEBUG,DetectionThread #5 starting
+2024-09-07 14:04:35,DEBUG,DetectionThread #6 starting
+2024-09-07 14:04:35,DEBUG,DetectionThread #7 starting
+2024-09-07 14:04:35,DEBUG,DetectionThread #8 starting
+2024-09-07 14:04:35,DEBUG,InspectionThreadPool starting
+2024-09-07 14:04:35,DEBUG,InspectionThread #1 starting
+2024-09-07 14:04:35,DEBUG,InspectionThread #2 starting
+2024-09-07 14:04:35,DEBUG,InspectionThread #3 starting
+2024-09-07 14:04:35,DEBUG,InspectionThread #4 starting
+2024-09-07 14:04:35,DEBUG,DownloadThreadPool starting
+2024-09-07 14:04:35,DEBUG,DownloadThread #1 starting
+2024-09-07 14:04:35,DEBUG,DownloadThread #2 starting
+2024-09-07 14:04:35,DEBUG,DownloadThread #3 starting
+2024-09-07 14:04:35,DEBUG,DownloadThread #4 starting
+2024-09-07 14:04:35,DEBUG,motion-617 detected at 192.168.0.142
+2024-09-07 14:04:35,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:04:35,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:04:35,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:04:35,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:04:35,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:04:35,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:04:35,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:04:35,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:04:35,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:04:35,INFO,Thread pools started
+2024-09-07 14:04:35,INFO,motion-617 is connected
+2024-09-07 14:04:35,DEBUG,motion-617 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:04:35,DEBUG,motion-617 storage is 0% full
+2024-09-07 14:04:35,INFO,motion-617 battery level is 68%
+2024-09-07 14:04:35,INFO,motion-617 can be disconnected
+2024-09-07 14:04:37,INFO,Keyboard interrupt
+2024-09-07 14:04:37,INFO,Stopping thread pools
+2024-09-07 14:04:37,DEBUG,DetectionThreadPool finished
+2024-09-07 14:04:38,DEBUG,DetectionThread #1 finished
+2024-09-07 14:04:38,DEBUG,DetectionThread #2 finished
+2024-09-07 14:04:38,DEBUG,DetectionThread #3 finished
+2024-09-07 14:04:38,DEBUG,DetectionThread #4 finished
+2024-09-07 14:04:38,DEBUG,DetectionThread #5 finished
+2024-09-07 14:04:38,DEBUG,DetectionThread #6 finished
+2024-09-07 14:04:38,DEBUG,DetectionThread #7 finished
+2024-09-07 14:04:38,DEBUG,DetectionThread #8 finished
+2024-09-07 14:04:38,DEBUG,InspectionThreadPool finished
+2024-09-07 14:04:38,DEBUG,InspectionThread #1 finished
+2024-09-07 14:04:38,DEBUG,InspectionThread #2 finished
+2024-09-07 14:04:38,DEBUG,InspectionThread #3 finished
+2024-09-07 14:04:38,DEBUG,InspectionThread #4 finished
+2024-09-07 14:04:38,DEBUG,DownloadThreadPool finished
+2024-09-07 14:04:38,DEBUG,DownloadThread #1 finished
+2024-09-07 14:04:38,DEBUG,DownloadThread #2 finished
+2024-09-07 14:04:38,DEBUG,DownloadThread #3 finished
+2024-09-07 14:04:38,DEBUG,DownloadThread #4 finished
+2024-09-07 14:04:38,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:04:38,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:04:38,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:04:38,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:04:38,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:04:38,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:04:38,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:04:38,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:04:38,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:04:38,INFO,Thread pools stopped
+2024-09-07 14:09:16,INFO,Starting thread pools
+2024-09-07 14:09:16,DEBUG,DetectionThreadPool starting
+2024-09-07 14:09:16,DEBUG,DetectionThread #1 starting
+2024-09-07 14:09:16,DEBUG,DetectionThread #2 starting
+2024-09-07 14:09:16,DEBUG,DetectionThread #3 starting
+2024-09-07 14:09:16,DEBUG,DetectionThread #4 starting
+2024-09-07 14:09:16,DEBUG,DetectionThread #5 starting
+2024-09-07 14:09:16,DEBUG,DetectionThread #6 starting
+2024-09-07 14:09:16,DEBUG,DetectionThread #7 starting
+2024-09-07 14:09:16,DEBUG,DetectionThread #8 starting
+2024-09-07 14:09:16,DEBUG,InspectionThreadPool starting
+2024-09-07 14:09:16,DEBUG,InspectionThread #1 starting
+2024-09-07 14:09:16,DEBUG,InspectionThread #2 starting
+2024-09-07 14:09:16,DEBUG,InspectionThread #3 starting
+2024-09-07 14:09:16,DEBUG,InspectionThread #4 starting
+2024-09-07 14:09:16,DEBUG,DownloadThreadPool starting
+2024-09-07 14:09:16,DEBUG,DownloadThread #1 starting
+2024-09-07 14:09:16,DEBUG,DownloadThread #2 starting
+2024-09-07 14:09:16,DEBUG,DownloadThread #3 starting
+2024-09-07 14:09:16,DEBUG,DownloadThread #4 starting
+2024-09-07 14:09:16,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:09:16,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:09:16,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:09:16,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:09:16,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:09:16,DEBUG,motion-619 detected at 192.168.0.240
+2024-09-07 14:09:16,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:09:16,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:09:16,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:09:16,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:09:16,INFO,Thread pools started
+2024-09-07 14:09:17,DEBUG,motion-619 not accepting connections
+2024-09-07 14:09:21,DEBUG,motion-619 detected at 192.168.0.240
+2024-09-07 14:09:22,DEBUG,motion-619 not accepting connections
+2024-09-07 14:09:26,DEBUG,motion-619 detected at 192.168.0.240
+2024-09-07 14:09:27,DEBUG,motion-619 not accepting connections
+2024-09-07 14:09:31,DEBUG,motion-619 detected at 192.168.0.240
+2024-09-07 14:09:31,INFO,motion-619 is connected
+2024-09-07 14:09:31,DEBUG,motion-619 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:09:31,DEBUG,motion-619 storage is 0% full
+2024-09-07 14:09:31,INFO,motion-619 battery level is 64%
+2024-09-07 14:09:32,INFO,motion-619 can be disconnected
+2024-09-07 14:09:36,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-09-07 14:09:49,INFO,Keyboard interrupt
+2024-09-07 14:09:49,INFO,Stopping thread pools
+2024-09-07 14:09:49,DEBUG,DetectionThreadPool finished
+2024-09-07 14:09:50,DEBUG,DetectionThread #1 finished
+2024-09-07 14:09:50,DEBUG,DetectionThread #2 finished
+2024-09-07 14:09:50,DEBUG,DetectionThread #3 finished
+2024-09-07 14:09:50,DEBUG,DetectionThread #4 finished
+2024-09-07 14:09:50,DEBUG,DetectionThread #5 finished
+2024-09-07 14:09:50,DEBUG,DetectionThread #6 finished
+2024-09-07 14:09:50,DEBUG,DetectionThread #7 finished
+2024-09-07 14:09:50,DEBUG,DetectionThread #8 finished
+2024-09-07 14:09:50,DEBUG,InspectionThreadPool finished
+2024-09-07 14:09:50,DEBUG,InspectionThread #1 finished
+2024-09-07 14:09:50,DEBUG,InspectionThread #2 finished
+2024-09-07 14:09:50,DEBUG,InspectionThread #3 finished
+2024-09-07 14:09:50,DEBUG,InspectionThread #4 finished
+2024-09-07 14:09:50,DEBUG,DownloadThreadPool finished
+2024-09-07 14:09:50,DEBUG,DownloadThread #1 finished
+2024-09-07 14:09:50,DEBUG,DownloadThread #2 finished
+2024-09-07 14:09:50,DEBUG,DownloadThread #3 finished
+2024-09-07 14:09:50,DEBUG,DownloadThread #4 finished
+2024-09-07 14:09:50,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:09:50,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:09:50,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:09:50,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:09:50,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:09:50,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:09:50,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:09:50,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:09:50,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:09:50,INFO,Thread pools stopped
+2024-09-07 14:10:51,INFO,Starting thread pools
+2024-09-07 14:10:51,DEBUG,DetectionThreadPool starting
+2024-09-07 14:10:51,DEBUG,DetectionThread #1 starting
+2024-09-07 14:10:51,DEBUG,DetectionThread #2 starting
+2024-09-07 14:10:51,DEBUG,DetectionThread #3 starting
+2024-09-07 14:10:51,DEBUG,DetectionThread #4 starting
+2024-09-07 14:10:51,DEBUG,DetectionThread #5 starting
+2024-09-07 14:10:51,DEBUG,DetectionThread #6 starting
+2024-09-07 14:10:51,DEBUG,DetectionThread #7 starting
+2024-09-07 14:10:51,DEBUG,DetectionThread #8 starting
+2024-09-07 14:10:51,DEBUG,InspectionThreadPool starting
+2024-09-07 14:10:51,DEBUG,InspectionThread #1 starting
+2024-09-07 14:10:51,DEBUG,InspectionThread #2 starting
+2024-09-07 14:10:51,DEBUG,InspectionThread #3 starting
+2024-09-07 14:10:51,DEBUG,InspectionThread #4 starting
+2024-09-07 14:10:51,DEBUG,DownloadThreadPool starting
+2024-09-07 14:10:51,DEBUG,DownloadThread #1 starting
+2024-09-07 14:10:51,DEBUG,DownloadThread #2 starting
+2024-09-07 14:10:51,DEBUG,DownloadThread #3 starting
+2024-09-07 14:10:51,DEBUG,DownloadThread #4 starting
+2024-09-07 14:10:51,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:10:51,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:10:51,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:10:51,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:10:51,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:10:51,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:10:51,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:10:51,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:10:51,DEBUG,motion-615 detected at 192.168.0.110
+2024-09-07 14:10:51,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:10:51,INFO,Thread pools started
+2024-09-07 14:10:51,DEBUG,motion-619 detected at 192.168.0.240
+2024-09-07 14:10:51,INFO,motion-615 is connected
+2024-09-07 14:10:51,DEBUG,motion-615 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:10:51,DEBUG,motion-615 storage is 0% full
+2024-09-07 14:10:51,WARNING,motion-615 battery level is 59%
+2024-09-07 14:10:52,INFO,motion-615 can be disconnected
+2024-09-07 14:10:52,DEBUG,motion-619 not accepting connections
+2024-09-07 14:10:54,INFO,Keyboard interrupt
+2024-09-07 14:10:54,INFO,Stopping thread pools
+2024-09-07 14:10:54,DEBUG,DetectionThreadPool finished
+2024-09-07 14:10:54,DEBUG,DetectionThread #1 finished
+2024-09-07 14:10:54,DEBUG,DetectionThread #2 finished
+2024-09-07 14:10:54,DEBUG,DetectionThread #3 finished
+2024-09-07 14:10:54,DEBUG,DetectionThread #4 finished
+2024-09-07 14:10:54,DEBUG,DetectionThread #5 finished
+2024-09-07 14:10:54,DEBUG,DetectionThread #6 finished
+2024-09-07 14:10:54,DEBUG,DetectionThread #7 finished
+2024-09-07 14:10:54,DEBUG,DetectionThread #8 finished
+2024-09-07 14:10:54,DEBUG,InspectionThreadPool finished
+2024-09-07 14:10:54,DEBUG,InspectionThread #1 finished
+2024-09-07 14:10:54,DEBUG,InspectionThread #2 finished
+2024-09-07 14:10:54,DEBUG,InspectionThread #3 finished
+2024-09-07 14:10:54,DEBUG,InspectionThread #4 finished
+2024-09-07 14:10:54,DEBUG,DownloadThreadPool finished
+2024-09-07 14:10:54,DEBUG,DownloadThread #1 finished
+2024-09-07 14:10:54,DEBUG,DownloadThread #2 finished
+2024-09-07 14:10:54,DEBUG,DownloadThread #3 finished
+2024-09-07 14:10:54,DEBUG,DownloadThread #4 finished
+2024-09-07 14:10:54,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:10:54,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:10:54,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:10:54,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:10:54,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:10:54,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:10:54,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:10:54,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:10:54,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:10:54,INFO,Thread pools stopped
+2024-09-07 14:12:09,INFO,Starting thread pools
+2024-09-07 14:12:09,DEBUG,DetectionThreadPool starting
+2024-09-07 14:12:09,DEBUG,DetectionThread #1 starting
+2024-09-07 14:12:09,DEBUG,DetectionThread #2 starting
+2024-09-07 14:12:09,DEBUG,DetectionThread #3 starting
+2024-09-07 14:12:09,DEBUG,DetectionThread #4 starting
+2024-09-07 14:12:09,DEBUG,DetectionThread #5 starting
+2024-09-07 14:12:09,DEBUG,DetectionThread #6 starting
+2024-09-07 14:12:09,DEBUG,DetectionThread #7 starting
+2024-09-07 14:12:09,DEBUG,DetectionThread #8 starting
+2024-09-07 14:12:09,DEBUG,InspectionThreadPool starting
+2024-09-07 14:12:09,DEBUG,InspectionThread #1 starting
+2024-09-07 14:12:09,DEBUG,InspectionThread #2 starting
+2024-09-07 14:12:09,DEBUG,InspectionThread #3 starting
+2024-09-07 14:12:09,DEBUG,InspectionThread #4 starting
+2024-09-07 14:12:09,DEBUG,DownloadThreadPool starting
+2024-09-07 14:12:09,DEBUG,DownloadThread #1 starting
+2024-09-07 14:12:09,DEBUG,DownloadThread #2 starting
+2024-09-07 14:12:09,DEBUG,DownloadThread #3 starting
+2024-09-07 14:12:09,DEBUG,DownloadThread #4 starting
+2024-09-07 14:12:09,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:12:09,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:12:09,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:12:09,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:12:09,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:12:09,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:12:09,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:12:09,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:12:09,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:12:09,INFO,Thread pools started
+2024-09-07 14:12:09,DEBUG,motion-633 detected at 192.168.0.214
+2024-09-07 14:12:09,INFO,motion-633 is connected
+2024-09-07 14:12:09,DEBUG,motion-633 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:12:09,DEBUG,motion-633 storage is 0% full
+2024-09-07 14:12:09,INFO,motion-633 battery level is 64%
+2024-09-07 14:12:11,INFO,motion-633 can be disconnected
+2024-09-07 14:12:12,INFO,Keyboard interrupt
+2024-09-07 14:12:12,INFO,Stopping thread pools
+2024-09-07 14:12:12,DEBUG,DetectionThreadPool finished
+2024-09-07 14:12:13,DEBUG,DetectionThread #1 finished
+2024-09-07 14:12:13,DEBUG,DetectionThread #2 finished
+2024-09-07 14:12:13,DEBUG,DetectionThread #3 finished
+2024-09-07 14:12:13,DEBUG,DetectionThread #4 finished
+2024-09-07 14:12:13,DEBUG,DetectionThread #5 finished
+2024-09-07 14:12:13,DEBUG,DetectionThread #6 finished
+2024-09-07 14:12:13,DEBUG,DetectionThread #7 finished
+2024-09-07 14:12:13,DEBUG,DetectionThread #8 finished
+2024-09-07 14:12:13,DEBUG,InspectionThreadPool finished
+2024-09-07 14:12:13,DEBUG,InspectionThread #1 finished
+2024-09-07 14:12:13,DEBUG,InspectionThread #2 finished
+2024-09-07 14:12:13,DEBUG,InspectionThread #3 finished
+2024-09-07 14:12:13,DEBUG,InspectionThread #4 finished
+2024-09-07 14:12:13,DEBUG,DownloadThreadPool finished
+2024-09-07 14:12:13,DEBUG,DownloadThread #1 finished
+2024-09-07 14:12:13,DEBUG,DownloadThread #2 finished
+2024-09-07 14:12:13,DEBUG,DownloadThread #3 finished
+2024-09-07 14:12:13,DEBUG,DownloadThread #4 finished
+2024-09-07 14:12:13,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:12:13,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:12:13,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:12:13,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:12:13,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:12:13,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:12:13,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:12:13,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:12:13,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:12:13,INFO,Thread pools stopped
+2024-09-07 14:13:30,INFO,Starting thread pools
+2024-09-07 14:13:30,DEBUG,DetectionThreadPool starting
+2024-09-07 14:13:30,DEBUG,DetectionThread #1 starting
+2024-09-07 14:13:30,DEBUG,DetectionThread #2 starting
+2024-09-07 14:13:30,DEBUG,DetectionThread #3 starting
+2024-09-07 14:13:30,DEBUG,DetectionThread #4 starting
+2024-09-07 14:13:30,DEBUG,DetectionThread #5 starting
+2024-09-07 14:13:30,DEBUG,DetectionThread #6 starting
+2024-09-07 14:13:30,DEBUG,DetectionThread #7 starting
+2024-09-07 14:13:30,DEBUG,DetectionThread #8 starting
+2024-09-07 14:13:30,DEBUG,InspectionThreadPool starting
+2024-09-07 14:13:30,DEBUG,InspectionThread #1 starting
+2024-09-07 14:13:30,DEBUG,InspectionThread #2 starting
+2024-09-07 14:13:30,DEBUG,InspectionThread #3 starting
+2024-09-07 14:13:30,DEBUG,InspectionThread #4 starting
+2024-09-07 14:13:30,DEBUG,DownloadThreadPool starting
+2024-09-07 14:13:30,DEBUG,DownloadThread #1 starting
+2024-09-07 14:13:30,DEBUG,DownloadThread #2 starting
+2024-09-07 14:13:30,DEBUG,DownloadThread #3 starting
+2024-09-07 14:13:30,DEBUG,DownloadThread #4 starting
+2024-09-07 14:13:30,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:13:30,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:13:30,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:13:30,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:13:30,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:13:30,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:13:30,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:13:30,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:13:30,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:13:30,INFO,Thread pools started
+2024-09-07 14:13:30,DEBUG,motion-601 detected at 192.168.0.162
+2024-09-07 14:13:30,INFO,motion-601 is connected
+2024-09-07 14:13:30,DEBUG,motion-601 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:13:30,DEBUG,motion-601 storage is 0% full
+2024-09-07 14:13:30,INFO,motion-601 battery level is 67%
+2024-09-07 14:13:31,INFO,motion-601 can be disconnected
+2024-09-07 14:13:33,INFO,Keyboard interrupt
+2024-09-07 14:13:33,INFO,Stopping thread pools
+2024-09-07 14:13:33,DEBUG,DetectionThreadPool finished
+2024-09-07 14:13:34,DEBUG,DetectionThread #1 finished
+2024-09-07 14:13:34,DEBUG,DetectionThread #2 finished
+2024-09-07 14:13:34,DEBUG,DetectionThread #3 finished
+2024-09-07 14:13:34,DEBUG,DetectionThread #4 finished
+2024-09-07 14:13:34,DEBUG,DetectionThread #5 finished
+2024-09-07 14:13:34,DEBUG,DetectionThread #6 finished
+2024-09-07 14:13:34,DEBUG,DetectionThread #7 finished
+2024-09-07 14:13:34,DEBUG,DetectionThread #8 finished
+2024-09-07 14:13:34,DEBUG,InspectionThreadPool finished
+2024-09-07 14:13:34,DEBUG,InspectionThread #1 finished
+2024-09-07 14:13:34,DEBUG,InspectionThread #2 finished
+2024-09-07 14:13:34,DEBUG,InspectionThread #3 finished
+2024-09-07 14:13:34,DEBUG,InspectionThread #4 finished
+2024-09-07 14:13:34,DEBUG,DownloadThreadPool finished
+2024-09-07 14:13:34,DEBUG,DownloadThread #1 finished
+2024-09-07 14:13:34,DEBUG,DownloadThread #2 finished
+2024-09-07 14:13:34,DEBUG,DownloadThread #3 finished
+2024-09-07 14:13:34,DEBUG,DownloadThread #4 finished
+2024-09-07 14:13:34,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:13:34,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:13:34,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:13:34,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:13:34,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:13:34,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:13:34,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:13:34,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:13:34,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:13:34,INFO,Thread pools stopped
+2024-09-07 14:14:25,INFO,Starting thread pools
+2024-09-07 14:14:25,DEBUG,DetectionThreadPool starting
+2024-09-07 14:14:25,DEBUG,DetectionThread #1 starting
+2024-09-07 14:14:25,DEBUG,DetectionThread #2 starting
+2024-09-07 14:14:25,DEBUG,DetectionThread #3 starting
+2024-09-07 14:14:25,DEBUG,DetectionThread #4 starting
+2024-09-07 14:14:25,DEBUG,DetectionThread #5 starting
+2024-09-07 14:14:25,DEBUG,DetectionThread #6 starting
+2024-09-07 14:14:25,DEBUG,DetectionThread #7 starting
+2024-09-07 14:14:25,DEBUG,DetectionThread #8 starting
+2024-09-07 14:14:25,DEBUG,InspectionThreadPool starting
+2024-09-07 14:14:25,DEBUG,InspectionThread #1 starting
+2024-09-07 14:14:25,DEBUG,InspectionThread #2 starting
+2024-09-07 14:14:25,DEBUG,InspectionThread #3 starting
+2024-09-07 14:14:25,DEBUG,InspectionThread #4 starting
+2024-09-07 14:14:25,DEBUG,DownloadThreadPool starting
+2024-09-07 14:14:25,DEBUG,DownloadThread #1 starting
+2024-09-07 14:14:25,DEBUG,DownloadThread #2 starting
+2024-09-07 14:14:25,DEBUG,DownloadThread #3 starting
+2024-09-07 14:14:25,DEBUG,DownloadThread #4 starting
+2024-09-07 14:14:25,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:14:25,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:14:25,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:14:25,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:14:25,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:14:25,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:14:25,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:14:25,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:14:25,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:14:25,INFO,Thread pools started
+2024-09-07 14:14:25,DEBUG,motion-601 detected at 192.168.0.162
+2024-09-07 14:14:25,DEBUG,motion-625 detected at 192.168.0.190
+2024-09-07 14:14:25,INFO,motion-625 is connected
+2024-09-07 14:14:25,DEBUG,motion-625 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:14:25,DEBUG,motion-625 storage is 0% full
+2024-09-07 14:14:25,INFO,motion-625 battery level is 66%
+2024-09-07 14:14:26,INFO,motion-625 can be disconnected
+2024-09-07 14:14:26,DEBUG,motion-601 not accepting connections
+2024-09-07 14:14:27,INFO,Keyboard interrupt
+2024-09-07 14:14:27,INFO,Stopping thread pools
+2024-09-07 14:14:27,DEBUG,DetectionThreadPool finished
+2024-09-07 14:14:28,DEBUG,DetectionThread #1 finished
+2024-09-07 14:14:28,DEBUG,DetectionThread #2 finished
+2024-09-07 14:14:28,DEBUG,DetectionThread #3 finished
+2024-09-07 14:14:28,DEBUG,DetectionThread #4 finished
+2024-09-07 14:14:28,DEBUG,DetectionThread #5 finished
+2024-09-07 14:14:28,DEBUG,DetectionThread #6 finished
+2024-09-07 14:14:28,DEBUG,DetectionThread #7 finished
+2024-09-07 14:14:28,DEBUG,DetectionThread #8 finished
+2024-09-07 14:14:28,DEBUG,InspectionThreadPool finished
+2024-09-07 14:14:28,DEBUG,InspectionThread #1 finished
+2024-09-07 14:14:28,DEBUG,InspectionThread #2 finished
+2024-09-07 14:14:28,DEBUG,InspectionThread #3 finished
+2024-09-07 14:14:28,DEBUG,InspectionThread #4 finished
+2024-09-07 14:14:28,DEBUG,DownloadThreadPool finished
+2024-09-07 14:14:28,DEBUG,DownloadThread #1 finished
+2024-09-07 14:14:28,DEBUG,DownloadThread #2 finished
+2024-09-07 14:14:28,DEBUG,DownloadThread #3 finished
+2024-09-07 14:14:28,DEBUG,DownloadThread #4 finished
+2024-09-07 14:14:28,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:14:28,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:14:28,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:14:28,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:14:28,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:14:28,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:14:28,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:14:28,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:14:28,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:14:28,INFO,Thread pools stopped
+2024-09-07 14:15:46,INFO,Starting thread pools
+2024-09-07 14:15:46,DEBUG,DetectionThreadPool starting
+2024-09-07 14:15:46,DEBUG,DetectionThread #1 starting
+2024-09-07 14:15:46,DEBUG,DetectionThread #2 starting
+2024-09-07 14:15:46,DEBUG,DetectionThread #3 starting
+2024-09-07 14:15:46,DEBUG,DetectionThread #4 starting
+2024-09-07 14:15:46,DEBUG,DetectionThread #5 starting
+2024-09-07 14:15:46,DEBUG,DetectionThread #6 starting
+2024-09-07 14:15:46,DEBUG,DetectionThread #7 starting
+2024-09-07 14:15:46,DEBUG,DetectionThread #8 starting
+2024-09-07 14:15:46,DEBUG,InspectionThreadPool starting
+2024-09-07 14:15:46,DEBUG,InspectionThread #1 starting
+2024-09-07 14:15:46,DEBUG,InspectionThread #2 starting
+2024-09-07 14:15:46,DEBUG,InspectionThread #3 starting
+2024-09-07 14:15:46,DEBUG,InspectionThread #4 starting
+2024-09-07 14:15:46,DEBUG,DownloadThreadPool starting
+2024-09-07 14:15:46,DEBUG,DownloadThread #1 starting
+2024-09-07 14:15:46,DEBUG,DownloadThread #2 starting
+2024-09-07 14:15:46,DEBUG,DownloadThread #3 starting
+2024-09-07 14:15:46,DEBUG,DownloadThread #4 starting
+2024-09-07 14:15:46,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:15:46,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:15:46,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:15:46,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:15:46,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:15:46,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:15:46,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:15:46,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:15:46,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:15:46,INFO,Thread pools started
+2024-09-07 14:15:46,DEBUG,motion-611 detected at 192.168.0.204
+2024-09-07 14:15:46,INFO,motion-611 is connected
+2024-09-07 14:15:47,DEBUG,motion-611 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:15:47,DEBUG,motion-611 storage is 0% full
+2024-09-07 14:15:47,INFO,motion-611 battery level is 61%
+2024-09-07 14:15:47,INFO,motion-611 can be disconnected
+2024-09-07 14:15:48,INFO,Keyboard interrupt
+2024-09-07 14:15:48,INFO,Stopping thread pools
+2024-09-07 14:15:48,DEBUG,DetectionThreadPool finished
+2024-09-07 14:15:49,DEBUG,DetectionThread #1 finished
+2024-09-07 14:15:49,DEBUG,DetectionThread #2 finished
+2024-09-07 14:15:49,DEBUG,DetectionThread #3 finished
+2024-09-07 14:15:49,DEBUG,DetectionThread #4 finished
+2024-09-07 14:15:49,DEBUG,DetectionThread #5 finished
+2024-09-07 14:15:49,DEBUG,DetectionThread #6 finished
+2024-09-07 14:15:49,DEBUG,DetectionThread #7 finished
+2024-09-07 14:15:49,DEBUG,DetectionThread #8 finished
+2024-09-07 14:15:49,DEBUG,InspectionThreadPool finished
+2024-09-07 14:15:49,DEBUG,InspectionThread #1 finished
+2024-09-07 14:15:49,DEBUG,InspectionThread #2 finished
+2024-09-07 14:15:49,DEBUG,InspectionThread #3 finished
+2024-09-07 14:15:49,DEBUG,InspectionThread #4 finished
+2024-09-07 14:15:49,DEBUG,DownloadThreadPool finished
+2024-09-07 14:15:49,DEBUG,DownloadThread #1 finished
+2024-09-07 14:15:49,DEBUG,DownloadThread #2 finished
+2024-09-07 14:15:49,DEBUG,DownloadThread #3 finished
+2024-09-07 14:15:49,DEBUG,DownloadThread #4 finished
+2024-09-07 14:15:49,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:15:49,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:15:49,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:15:49,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:15:49,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:15:49,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:15:49,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:15:49,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:15:49,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:15:49,INFO,Thread pools stopped
+2024-09-07 14:17:29,INFO,Starting thread pools
+2024-09-07 14:17:29,DEBUG,DetectionThreadPool starting
+2024-09-07 14:17:29,DEBUG,DetectionThread #1 starting
+2024-09-07 14:17:29,DEBUG,DetectionThread #2 starting
+2024-09-07 14:17:29,DEBUG,DetectionThread #3 starting
+2024-09-07 14:17:29,DEBUG,DetectionThread #4 starting
+2024-09-07 14:17:29,DEBUG,DetectionThread #5 starting
+2024-09-07 14:17:29,DEBUG,DetectionThread #6 starting
+2024-09-07 14:17:29,DEBUG,DetectionThread #7 starting
+2024-09-07 14:17:29,DEBUG,DetectionThread #8 starting
+2024-09-07 14:17:29,DEBUG,InspectionThreadPool starting
+2024-09-07 14:17:29,DEBUG,InspectionThread #1 starting
+2024-09-07 14:17:29,DEBUG,InspectionThread #2 starting
+2024-09-07 14:17:29,DEBUG,InspectionThread #3 starting
+2024-09-07 14:17:29,DEBUG,InspectionThread #4 starting
+2024-09-07 14:17:29,DEBUG,DownloadThreadPool starting
+2024-09-07 14:17:29,DEBUG,DownloadThread #1 starting
+2024-09-07 14:17:29,DEBUG,DownloadThread #2 starting
+2024-09-07 14:17:29,DEBUG,DownloadThread #3 starting
+2024-09-07 14:17:29,DEBUG,DownloadThread #4 starting
+2024-09-07 14:17:29,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:17:29,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:17:29,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:17:29,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:17:29,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:17:29,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:17:29,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:17:29,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:17:29,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:17:29,INFO,Thread pools started
+2024-09-07 14:17:29,DEBUG,motion-639 detected at 192.168.0.110
+2024-09-07 14:17:29,INFO,motion-639 is connected
+2024-09-07 14:17:29,DEBUG,motion-639 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:17:29,DEBUG,motion-639 storage is 0% full
+2024-09-07 14:17:29,WARNING,motion-639 battery level is 44%
+2024-09-07 14:17:30,INFO,motion-639 can be disconnected
+2024-09-07 14:17:32,INFO,Keyboard interrupt
+2024-09-07 14:17:32,INFO,Stopping thread pools
+2024-09-07 14:17:32,DEBUG,DetectionThreadPool finished
+2024-09-07 14:17:33,DEBUG,DetectionThread #1 finished
+2024-09-07 14:17:33,DEBUG,DetectionThread #2 finished
+2024-09-07 14:17:33,DEBUG,DetectionThread #3 finished
+2024-09-07 14:17:33,DEBUG,DetectionThread #4 finished
+2024-09-07 14:17:33,DEBUG,DetectionThread #5 finished
+2024-09-07 14:17:33,DEBUG,DetectionThread #6 finished
+2024-09-07 14:17:33,DEBUG,DetectionThread #7 finished
+2024-09-07 14:17:33,DEBUG,DetectionThread #8 finished
+2024-09-07 14:17:33,DEBUG,InspectionThreadPool finished
+2024-09-07 14:17:33,DEBUG,InspectionThread #1 finished
+2024-09-07 14:17:33,DEBUG,InspectionThread #2 finished
+2024-09-07 14:17:33,DEBUG,InspectionThread #3 finished
+2024-09-07 14:17:33,DEBUG,InspectionThread #4 finished
+2024-09-07 14:17:33,DEBUG,DownloadThreadPool finished
+2024-09-07 14:17:33,DEBUG,DownloadThread #1 finished
+2024-09-07 14:17:33,DEBUG,DownloadThread #2 finished
+2024-09-07 14:17:33,DEBUG,DownloadThread #3 finished
+2024-09-07 14:17:33,DEBUG,DownloadThread #4 finished
+2024-09-07 14:17:33,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:17:33,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:17:33,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:17:33,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:17:33,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:17:33,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:17:33,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:17:33,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:17:33,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:17:33,INFO,Thread pools stopped
+2024-09-07 14:18:36,INFO,Starting thread pools
+2024-09-07 14:18:36,DEBUG,DetectionThreadPool starting
+2024-09-07 14:18:36,DEBUG,DetectionThread #1 starting
+2024-09-07 14:18:36,DEBUG,DetectionThread #2 starting
+2024-09-07 14:18:36,DEBUG,DetectionThread #3 starting
+2024-09-07 14:18:36,DEBUG,DetectionThread #4 starting
+2024-09-07 14:18:36,DEBUG,DetectionThread #5 starting
+2024-09-07 14:18:36,DEBUG,DetectionThread #6 starting
+2024-09-07 14:18:36,DEBUG,DetectionThread #7 starting
+2024-09-07 14:18:36,DEBUG,DetectionThread #8 starting
+2024-09-07 14:18:36,DEBUG,InspectionThreadPool starting
+2024-09-07 14:18:36,DEBUG,InspectionThread #1 starting
+2024-09-07 14:18:36,DEBUG,InspectionThread #2 starting
+2024-09-07 14:18:36,DEBUG,InspectionThread #3 starting
+2024-09-07 14:18:36,DEBUG,InspectionThread #4 starting
+2024-09-07 14:18:36,DEBUG,DownloadThreadPool starting
+2024-09-07 14:18:36,DEBUG,DownloadThread #1 starting
+2024-09-07 14:18:36,DEBUG,DownloadThread #2 starting
+2024-09-07 14:18:36,DEBUG,DownloadThread #3 starting
+2024-09-07 14:18:36,DEBUG,DownloadThread #4 starting
+2024-09-07 14:18:36,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:18:36,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:18:36,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:18:36,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:18:36,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:18:36,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:18:36,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:18:36,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:18:36,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:18:36,INFO,Thread pools started
+2024-09-07 14:18:36,DEBUG,motion-618 detected at 192.168.0.206
+2024-09-07 14:18:36,INFO,motion-618 is connected
+2024-09-07 14:18:36,DEBUG,motion-618 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:18:36,DEBUG,motion-618 storage is 0% full
+2024-09-07 14:18:36,INFO,motion-618 battery level is 67%
+2024-09-07 14:18:37,INFO,motion-618 can be disconnected
+2024-09-07 14:18:38,INFO,Keyboard interrupt
+2024-09-07 14:18:38,INFO,Stopping thread pools
+2024-09-07 14:18:38,DEBUG,DetectionThreadPool finished
+2024-09-07 14:19:30,INFO,Starting thread pools
+2024-09-07 14:19:30,DEBUG,DetectionThreadPool starting
+2024-09-07 14:19:30,DEBUG,DetectionThread #1 starting
+2024-09-07 14:19:30,DEBUG,DetectionThread #2 starting
+2024-09-07 14:19:30,DEBUG,DetectionThread #3 starting
+2024-09-07 14:19:30,DEBUG,DetectionThread #4 starting
+2024-09-07 14:19:30,DEBUG,DetectionThread #5 starting
+2024-09-07 14:19:30,DEBUG,DetectionThread #6 starting
+2024-09-07 14:19:30,DEBUG,DetectionThread #7 starting
+2024-09-07 14:19:30,DEBUG,DetectionThread #8 starting
+2024-09-07 14:19:30,DEBUG,InspectionThreadPool starting
+2024-09-07 14:19:30,DEBUG,InspectionThread #1 starting
+2024-09-07 14:19:30,DEBUG,InspectionThread #2 starting
+2024-09-07 14:19:30,DEBUG,InspectionThread #3 starting
+2024-09-07 14:19:30,DEBUG,InspectionThread #4 starting
+2024-09-07 14:19:30,DEBUG,DownloadThreadPool starting
+2024-09-07 14:19:30,DEBUG,DownloadThread #1 starting
+2024-09-07 14:19:30,DEBUG,DownloadThread #2 starting
+2024-09-07 14:19:30,DEBUG,DownloadThread #3 starting
+2024-09-07 14:19:30,DEBUG,DownloadThread #4 starting
+2024-09-07 14:19:30,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:19:30,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:19:30,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:19:30,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:19:30,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:19:30,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:19:30,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:19:30,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:19:30,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:19:30,INFO,Thread pools started
+2024-09-07 14:19:30,DEBUG,motion-656 detected at 192.168.0.162
+2024-09-07 14:19:30,INFO,motion-656 is connected
+2024-09-07 14:19:30,DEBUG,motion-656 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:19:30,DEBUG,motion-656 storage is 0% full
+2024-09-07 14:19:30,INFO,motion-656 battery level is 60%
+2024-09-07 14:19:31,INFO,motion-656 can be disconnected
+2024-09-07 14:19:32,INFO,Keyboard interrupt
+2024-09-07 14:19:32,INFO,Stopping thread pools
+2024-09-07 14:19:32,DEBUG,DetectionThreadPool finished
+2024-09-07 14:19:32,DEBUG,DetectionThread #1 finished
+2024-09-07 14:19:32,DEBUG,DetectionThread #2 finished
+2024-09-07 14:19:32,DEBUG,DetectionThread #3 finished
+2024-09-07 14:19:32,DEBUG,DetectionThread #4 finished
+2024-09-07 14:19:32,DEBUG,DetectionThread #5 finished
+2024-09-07 14:19:32,DEBUG,DetectionThread #6 finished
+2024-09-07 14:19:32,DEBUG,DetectionThread #7 finished
+2024-09-07 14:19:32,DEBUG,DetectionThread #8 finished
+2024-09-07 14:19:32,DEBUG,InspectionThreadPool finished
+2024-09-07 14:19:32,DEBUG,InspectionThread #1 finished
+2024-09-07 14:19:32,DEBUG,InspectionThread #2 finished
+2024-09-07 14:19:32,DEBUG,InspectionThread #3 finished
+2024-09-07 14:19:32,DEBUG,InspectionThread #4 finished
+2024-09-07 14:19:32,DEBUG,DownloadThreadPool finished
+2024-09-07 14:19:32,DEBUG,DownloadThread #1 finished
+2024-09-07 14:19:32,DEBUG,DownloadThread #2 finished
+2024-09-07 14:19:32,DEBUG,DownloadThread #3 finished
+2024-09-07 14:19:32,DEBUG,DownloadThread #4 finished
+2024-09-07 14:19:32,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:19:32,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:19:32,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:19:32,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:19:32,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:19:32,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:19:32,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:19:32,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:19:32,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:19:32,INFO,Thread pools stopped
+2024-09-07 14:20:48,INFO,Starting thread pools
+2024-09-07 14:20:48,DEBUG,DetectionThreadPool starting
+2024-09-07 14:20:48,DEBUG,DetectionThread #1 starting
+2024-09-07 14:20:48,DEBUG,DetectionThread #2 starting
+2024-09-07 14:20:48,DEBUG,DetectionThread #3 starting
+2024-09-07 14:20:48,DEBUG,DetectionThread #4 starting
+2024-09-07 14:20:48,DEBUG,DetectionThread #5 starting
+2024-09-07 14:20:48,DEBUG,DetectionThread #6 starting
+2024-09-07 14:20:48,DEBUG,DetectionThread #7 starting
+2024-09-07 14:20:48,DEBUG,DetectionThread #8 starting
+2024-09-07 14:20:48,DEBUG,InspectionThreadPool starting
+2024-09-07 14:20:48,DEBUG,InspectionThread #1 starting
+2024-09-07 14:20:48,DEBUG,InspectionThread #2 starting
+2024-09-07 14:20:48,DEBUG,InspectionThread #3 starting
+2024-09-07 14:20:48,DEBUG,InspectionThread #4 starting
+2024-09-07 14:20:48,DEBUG,DownloadThreadPool starting
+2024-09-07 14:20:48,DEBUG,DownloadThread #1 starting
+2024-09-07 14:20:48,DEBUG,DownloadThread #2 starting
+2024-09-07 14:20:48,DEBUG,DownloadThread #3 starting
+2024-09-07 14:20:48,DEBUG,DownloadThread #4 starting
+2024-09-07 14:20:48,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:20:48,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:20:48,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:20:48,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:20:48,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:20:48,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:20:48,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:20:48,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:20:48,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:20:48,INFO,Thread pools started
+2024-09-07 14:20:48,DEBUG,motion-631 detected at 192.168.0.194
+2024-09-07 14:20:48,INFO,motion-631 is connected
+2024-09-07 14:20:48,DEBUG,motion-631 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:20:48,DEBUG,motion-631 storage is 0% full
+2024-09-07 14:20:48,INFO,motion-631 battery level is 82%
+2024-09-07 14:20:49,INFO,motion-631 OLI631JOH_631_20231013_084026.oao queued - 1.3 MiB, 7.5 hours, 56.5 km, 33.4 knots (500m)
+2024-09-07 14:20:51,INFO,motion-631 OLI631JOH_631_20231013_084026.oao downloaded - 1.3 MiB, 7.5 hours, 56.5 km, 33.4 knots (500m)
+2024-09-07 14:20:51,INFO,motion-631 can be disconnected
+2024-09-07 14:20:53,INFO,Keyboard interrupt
+2024-09-07 14:20:53,INFO,Stopping thread pools
+2024-09-07 14:20:53,DEBUG,DetectionThreadPool finished
+2024-09-07 14:20:53,DEBUG,DetectionThread #1 finished
+2024-09-07 14:20:53,DEBUG,DetectionThread #2 finished
+2024-09-07 14:20:53,DEBUG,DetectionThread #3 finished
+2024-09-07 14:20:53,DEBUG,DetectionThread #4 finished
+2024-09-07 14:20:53,DEBUG,DetectionThread #5 finished
+2024-09-07 14:20:53,DEBUG,DetectionThread #6 finished
+2024-09-07 14:20:53,DEBUG,DetectionThread #7 finished
+2024-09-07 14:20:53,DEBUG,DetectionThread #8 finished
+2024-09-07 14:20:53,DEBUG,InspectionThreadPool finished
+2024-09-07 14:20:53,DEBUG,InspectionThread #1 finished
+2024-09-07 14:20:53,DEBUG,InspectionThread #2 finished
+2024-09-07 14:20:53,DEBUG,InspectionThread #3 finished
+2024-09-07 14:20:53,DEBUG,InspectionThread #4 finished
+2024-09-07 14:20:53,DEBUG,DownloadThreadPool finished
+2024-09-07 14:20:53,DEBUG,DownloadThread #1 finished
+2024-09-07 14:20:53,DEBUG,DownloadThread #2 finished
+2024-09-07 14:20:53,DEBUG,DownloadThread #3 finished
+2024-09-07 14:20:53,DEBUG,DownloadThread #4 finished
+2024-09-07 14:20:53,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:20:53,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:20:53,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:20:53,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:20:53,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:20:53,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:20:53,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:20:53,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:20:53,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:20:53,INFO,Thread pools stopped
+2024-09-07 14:21:27,INFO,Starting thread pools
+2024-09-07 14:21:27,DEBUG,DetectionThreadPool starting
+2024-09-07 14:21:27,DEBUG,DetectionThread #1 starting
+2024-09-07 14:21:27,DEBUG,DetectionThread #2 starting
+2024-09-07 14:21:27,DEBUG,DetectionThread #3 starting
+2024-09-07 14:21:27,DEBUG,DetectionThread #4 starting
+2024-09-07 14:21:27,DEBUG,DetectionThread #5 starting
+2024-09-07 14:21:27,DEBUG,DetectionThread #6 starting
+2024-09-07 14:21:27,DEBUG,DetectionThread #7 starting
+2024-09-07 14:21:27,DEBUG,DetectionThread #8 starting
+2024-09-07 14:21:27,DEBUG,InspectionThreadPool starting
+2024-09-07 14:21:27,DEBUG,InspectionThread #1 starting
+2024-09-07 14:21:27,DEBUG,InspectionThread #2 starting
+2024-09-07 14:21:27,DEBUG,InspectionThread #3 starting
+2024-09-07 14:21:27,DEBUG,InspectionThread #4 starting
+2024-09-07 14:21:27,DEBUG,DownloadThreadPool starting
+2024-09-07 14:21:27,DEBUG,DownloadThread #1 starting
+2024-09-07 14:21:27,DEBUG,DownloadThread #2 starting
+2024-09-07 14:21:27,DEBUG,DownloadThread #3 starting
+2024-09-07 14:21:27,DEBUG,DownloadThread #4 starting
+2024-09-07 14:21:27,DEBUG,DisconnectionThreadPool starting
+2024-09-07 14:21:27,DEBUG,DisconnectionThread #1 starting
+2024-09-07 14:21:27,DEBUG,DisconnectionThread #2 starting
+2024-09-07 14:21:27,DEBUG,DisconnectionThread #3 starting
+2024-09-07 14:21:27,DEBUG,DisconnectionThread #4 starting
+2024-09-07 14:21:27,DEBUG,DisconnectionThread #5 starting
+2024-09-07 14:21:27,DEBUG,DisconnectionThread #6 starting
+2024-09-07 14:21:27,DEBUG,DisconnectionThread #7 starting
+2024-09-07 14:21:27,DEBUG,DisconnectionThread #8 starting
+2024-09-07 14:21:27,INFO,Thread pools started
+2024-09-07 14:21:27,DEBUG,motion-631 detected at 192.168.0.194
+2024-09-07 14:21:27,DEBUG,motion-632 detected at 192.168.0.218
+2024-09-07 14:21:27,INFO,motion-632 is connected
+2024-09-07 14:21:28,DEBUG,motion-631 not accepting connections
+2024-09-07 14:21:28,DEBUG,motion-632 firmware is approved (9008 Weymouth SW (3232))
+2024-09-07 14:21:28,DEBUG,motion-632 storage is 0% full
+2024-09-07 14:21:28,INFO,motion-632 battery level is 87%
+2024-09-07 14:21:28,INFO,motion-632 CRO632PET_632_20231013_092740.oao queued - 1.6 MiB, 6.8 hours, 65.7 km, 30.0 knots (500m)
+2024-09-07 14:21:31,INFO,motion-632 CRO632PET_632_20231013_092740.oao downloaded - 1.6 MiB, 6.8 hours, 65.7 km, 30.0 knots (500m)
+2024-09-07 14:21:31,INFO,motion-632 can be disconnected
+2024-09-07 14:21:32,DEBUG,motion-631 detected at 192.168.0.194
+2024-09-07 14:21:32,INFO,Keyboard interrupt
+2024-09-07 14:21:32,INFO,Stopping thread pools
+2024-09-07 14:21:33,DEBUG,motion-631 not accepting connections
+2024-09-07 14:21:33,DEBUG,DetectionThreadPool finished
+2024-09-07 14:21:33,DEBUG,DetectionThread #1 finished
+2024-09-07 14:21:33,DEBUG,DetectionThread #2 finished
+2024-09-07 14:21:33,DEBUG,DetectionThread #3 finished
+2024-09-07 14:21:33,DEBUG,DetectionThread #4 finished
+2024-09-07 14:21:33,DEBUG,DetectionThread #5 finished
+2024-09-07 14:21:33,DEBUG,DetectionThread #6 finished
+2024-09-07 14:21:33,DEBUG,DetectionThread #7 finished
+2024-09-07 14:21:33,DEBUG,DetectionThread #8 finished
+2024-09-07 14:21:33,DEBUG,InspectionThreadPool finished
+2024-09-07 14:21:33,DEBUG,InspectionThread #1 finished
+2024-09-07 14:21:33,DEBUG,InspectionThread #2 finished
+2024-09-07 14:21:33,DEBUG,InspectionThread #3 finished
+2024-09-07 14:21:33,DEBUG,InspectionThread #4 finished
+2024-09-07 14:21:33,DEBUG,DownloadThreadPool finished
+2024-09-07 14:21:33,DEBUG,DownloadThread #1 finished
+2024-09-07 14:21:33,DEBUG,DownloadThread #2 finished
+2024-09-07 14:21:33,DEBUG,DownloadThread #3 finished
+2024-09-07 14:21:33,DEBUG,DownloadThread #4 finished
+2024-09-07 14:21:33,DEBUG,DisconnectionThreadPool finished
+2024-09-07 14:21:33,DEBUG,DisconnectionThread #1 finished
+2024-09-07 14:21:33,DEBUG,DisconnectionThread #2 finished
+2024-09-07 14:21:33,DEBUG,DisconnectionThread #3 finished
+2024-09-07 14:21:33,DEBUG,DisconnectionThread #4 finished
+2024-09-07 14:21:33,DEBUG,DisconnectionThread #5 finished
+2024-09-07 14:21:33,DEBUG,DisconnectionThread #6 finished
+2024-09-07 14:21:33,DEBUG,DisconnectionThread #7 finished
+2024-09-07 14:21:33,DEBUG,DisconnectionThread #8 finished
+2024-09-07 14:21:33,INFO,Thread pools stopped
