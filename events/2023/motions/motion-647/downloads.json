@@ -63,5 +63,18 @@
     "10s_best": 15357,
     "500m_best": 14646,
     "status": "completed"
+  },
+  "PLA647CHR_647_20231013_084226.oao": {
+    "motion_file": "/logs/2023/10/0647_2023-10-13-0842.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/PLA647CHR_647_20231013_084226.oao",
+    "size": 1993084,
+    "start_date": 1697182946000,
+    "end_date": 1697210292000,
+    "duration": 27346000,
+    "distance": 76520153,
+    "2s_best": 16544,
+    "10s_best": 16354,
+    "500m_best": 15808,
+    "status": "completed"
   }
 }

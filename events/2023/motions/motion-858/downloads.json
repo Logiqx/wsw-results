@@ -11,5 +11,18 @@
     "10s_best": 14300,
     "500m_best": 13873,
     "status": "completed"
+  },
+  "CRI858GUY_858_20231013_084750.oao": {
+    "motion_file": "/logs/2023/10/0858_2023-10-13-0847.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/CRI858GUY_858_20231013_084750.oao",
+    "size": 2644488,
+    "start_date": 1697183270000,
+    "end_date": 1697210572000,
+    "duration": 27302000,
+    "distance": 96283743,
+    "2s_best": 15938,
+    "10s_best": 15628,
+    "500m_best": 14994,
+    "status": "completed"
   }
 }

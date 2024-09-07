@@ -37,5 +37,18 @@
     "10s_best": 14284,
     "500m_best": 14009,
     "status": "completed"
+  },
+  "BUL841JAM_841_20231013_083922.oao": {
+    "motion_file": "/logs/2023/10/0841_2023-10-13-0839.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/BUL841JAM_841_20231013_083922.oao",
+    "size": 2190528,
+    "start_date": 1697182762000,
+    "end_date": 1697209926000,
+    "duration": 27164000,
+    "distance": 76766348,
+    "2s_best": 15212,
+    "10s_best": 14874,
+    "500m_best": 14633,
+    "status": "completed"
   }
 }

@@ -76,5 +76,18 @@
     "10s_best": 21919,
     "500m_best": 21711,
     "status": "completed"
+  },
+  "LON618JAM_618_20231013_084316.oao": {
+    "motion_file": "/logs/2023/10/0618_2023-10-13-0843.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/LON618JAM_618_20231013_084316.oao",
+    "size": 3077752,
+    "start_date": 1697182996000,
+    "end_date": 1697210926000,
+    "duration": 27930000,
+    "distance": 114232169,
+    "2s_best": 22248,
+    "10s_best": 21943,
+    "500m_best": 21252,
+    "status": "completed"
   }
 }

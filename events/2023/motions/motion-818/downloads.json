@@ -37,5 +37,18 @@
     "10s_best": 9113,
     "500m_best": 8457,
     "status": "completed"
+  },
+  "STA818JOH_818_20231013_120904.oao": {
+    "motion_file": "/logs/2023/10/0818_2023-10-13-1209.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/STA818JOH_818_20231013_120904.oao",
+    "size": 2160,
+    "start_date": 1697195344000,
+    "end_date": 1697197686000,
+    "duration": 2342000,
+    "distance": 158010,
+    "2s_best": 1167,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

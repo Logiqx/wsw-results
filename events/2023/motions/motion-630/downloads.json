@@ -37,5 +37,18 @@
     "10s_best": 15204,
     "500m_best": 14833,
     "status": "completed"
+  },
+  "LAT630SAM_630_20231013_084128.oao": {
+    "motion_file": "/logs/2023/10/0630_2023-10-13-0841.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/LAT630SAM_630_20231013_084128.oao",
+    "size": 535940,
+    "start_date": 1697182888000,
+    "end_date": 1697194320000,
+    "duration": 11432000,
+    "distance": 21983814,
+    "2s_best": 16785,
+    "10s_best": 16311,
+    "500m_best": 15867,
+    "status": "completed"
   }
 }
