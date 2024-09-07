@@ -24,5 +24,18 @@
     "10s_best": 12621,
     "500m_best": 12388,
     "status": "completed"
+  },
+  "ALD849ELL_849_20231013_092020.oao": {
+    "motion_file": "/logs/2023/10/0849_2023-10-13-0920.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/ALD849ELL_849_20231013_092020.oao",
+    "size": 636352,
+    "start_date": 1697185220000,
+    "end_date": 1697199056000,
+    "duration": 13836000,
+    "distance": 22057912,
+    "2s_best": 21764,
+    "10s_best": 19137,
+    "500m_best": 18706,
+    "status": "completed"
   }
 }

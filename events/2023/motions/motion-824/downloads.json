@@ -11,5 +11,31 @@
     "10s_best": 23905,
     "500m_best": 22407,
     "status": "completed"
+  },
+  "DAV824STE_824_20231011_091532.oao": {
+    "motion_file": "/logs/2023/10/0824_2023-10-11-0915.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/DAV824STE_824_20231011_091532.oao",
+    "size": 107980,
+    "start_date": 1697012132000,
+    "end_date": 1697020424000,
+    "duration": 8292000,
+    "distance": 4153775,
+    "2s_best": 21329,
+    "10s_best": 21124,
+    "500m_best": 20814,
+    "status": "completed"
+  },
+  "DAV824STE_824_20231013_092916.oao": {
+    "motion_file": "/logs/2023/10/0824_2023-10-13-0929.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/DAV824STE_824_20231013_092916.oao",
+    "size": 2472,
+    "start_date": 1697185756000,
+    "end_date": 1697195748000,
+    "duration": 9992000,
+    "distance": 1936777,
+    "2s_best": 1713,
+    "10s_best": 1494,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

@@ -89,5 +89,18 @@
     "10s_best": 12877,
     "500m_best": 12423,
     "status": "completed"
+  },
+  "BRI656AND_656_20231013_093348.oao": {
+    "motion_file": "/logs/2023/10/0656_2023-10-13-0933.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/BRI656AND_656_20231013_093348.oao",
+    "size": 147344,
+    "start_date": 1697186028000,
+    "end_date": 1697201744000,
+    "duration": 15716000,
+    "distance": 8807373,
+    "2s_best": 14777,
+    "10s_best": 14410,
+    "500m_best": 14072,
+    "status": "completed"
   }
 }

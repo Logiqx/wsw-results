@@ -50,5 +50,18 @@
     "10s_best": 19846,
     "500m_best": 19460,
     "status": "completed"
+  },
+  "BRA615JAM_615_20231013_084106.oao": {
+    "motion_file": "/logs/2023/10/0615_2023-10-13-0841.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/BRA615JAM_615_20231013_084106.oao",
+    "size": 924016,
+    "start_date": 1697182866000,
+    "end_date": 1697210046000,
+    "duration": 27180000,
+    "distance": 41316347,
+    "2s_best": 17490,
+    "10s_best": 16962,
+    "500m_best": 16561,
+    "status": "completed"
   }
 }

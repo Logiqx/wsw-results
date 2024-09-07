@@ -50,5 +50,31 @@
     "10s_best": 8742,
     "500m_best": 8348,
     "status": "completed"
+  },
+  "SAL724MAR_724_20231013_095718.oao": {
+    "motion_file": "/logs/2023/10/0724_2023-10-13-0957.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/SAL724MAR_724_20231013_095718.oao",
+    "size": 346452,
+    "start_date": 1697187438000,
+    "end_date": 1697197540000,
+    "duration": 10102000,
+    "distance": 10109501,
+    "2s_best": 8400,
+    "10s_best": 7998,
+    "500m_best": 7570,
+    "status": "completed"
+  },
+  "SAL724MAR_724_20231013_124540.oao": {
+    "motion_file": "/logs/2023/10/0724_2023-10-13-1245.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/SAL724MAR_724_20231013_124540.oao",
+    "size": 1536,
+    "start_date": 1697197540000,
+    "end_date": 1697197540000,
+    "duration": 0,
+    "distance": 0,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

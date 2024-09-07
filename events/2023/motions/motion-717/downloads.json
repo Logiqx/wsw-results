@@ -24,5 +24,18 @@
     "10s_best": 25065,
     "500m_best": 24522,
     "status": "completed"
+  },
+  "WAD717ALF_717_20231013_120440.oao": {
+    "motion_file": "/logs/2023/10/0717_2023-10-13-1204.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/WAD717ALF_717_20231013_120440.oao",
+    "size": 1113868,
+    "start_date": 1697195080000,
+    "end_date": 1697211076000,
+    "duration": 15996000,
+    "distance": 38019537,
+    "2s_best": 18248,
+    "10s_best": 18150,
+    "500m_best": 17734,
+    "status": "completed"
   }
 }

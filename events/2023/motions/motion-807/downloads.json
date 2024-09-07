@@ -50,5 +50,18 @@
     "10s_best": 14968,
     "500m_best": 14484,
     "status": "completed"
+  },
+  "STR807DAV_807_20231013_100410.oao": {
+    "motion_file": "/logs/2023/10/0807_2023-10-13-1004.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/STR807DAV_807_20231013_100410.oao",
+    "size": 1024584,
+    "start_date": 1697187850000,
+    "end_date": 1697210226000,
+    "duration": 22376000,
+    "distance": 38712773,
+    "2s_best": 16474,
+    "10s_best": 16022,
+    "500m_best": 15812,
+    "status": "completed"
   }
 }

@@ -50,5 +50,18 @@
     "10s_best": 13327,
     "500m_best": 12980,
     "status": "completed"
+  },
+  "GOR664DEN_664_20231013_084132.oao": {
+    "motion_file": "/logs/2023/10/0664_2023-10-13-0841.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/GOR664DEN_664_20231013_084132.oao",
+    "size": 2358020,
+    "start_date": 1697182892000,
+    "end_date": 1697210112000,
+    "duration": 27220000,
+    "distance": 80834130,
+    "2s_best": 14172,
+    "10s_best": 13923,
+    "500m_best": 13419,
+    "status": "completed"
   }
 }

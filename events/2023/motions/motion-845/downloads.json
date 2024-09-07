@@ -50,5 +50,18 @@
     "10s_best": 8443,
     "500m_best": 7954,
     "status": "completed"
+  },
+  "STU845AND_845_20231013_115114.oao": {
+    "motion_file": "/logs/2023/10/0845_2023-10-13-1151.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/STU845AND_845_20231013_115114.oao",
+    "size": 17136,
+    "start_date": 1697194274000,
+    "end_date": 1697197724000,
+    "duration": 3450000,
+    "distance": 10844,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

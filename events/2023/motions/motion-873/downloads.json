@@ -24,5 +24,18 @@
     "10s_best": 11525,
     "500m_best": 11172,
     "status": "completed"
+  },
+  "OLD873FRE_873_20231013_115002.oao": {
+    "motion_file": "/logs/2023/10/0873_2023-10-13-1150.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/OLD873FRE_873_20231013_115002.oao",
+    "size": 16304,
+    "start_date": 1697194202000,
+    "end_date": 1697197662000,
+    "duration": 3460000,
+    "distance": 467161,
+    "2s_best": 1457,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
