@@ -26,7 +26,7 @@ In recent years the UKWA has used the following criteria for legs to be consider
 
 ### Proposed Rules
 
-The following criteria are proposed for legs to be considered valid, where the // operator represents [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division).
+The following criteria are proposed for legs to be considered valid, where the // operator represents [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division), essentially rounding down.
 
 > 1.1 Windsurfing rounds will count towards the UKWA windsurfing ranking, if both of the following conditions are met:
 >
