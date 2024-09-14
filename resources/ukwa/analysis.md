@@ -236,6 +236,43 @@ Probably the best option? Technically it should be 25% over 27.0 knots or 50% ov
 
 
 
+#### Joint Idea
+
+**Principles**
+
+- Use [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division) to determine the numbers of finishers that need to meet the **28 kts** requirement
+  - n = finishers // 4
+
+- If one rider in the top 25% marginally fails to achieve the 28 knots requirement then two additional tests will take place:
+  1) Check if the best 2 runs for that rider averaged 27.5 knots (or more) - e.g. 28.0 knots and 27.0 knots
+  2) Use [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division) to determine the numbers of finishers that need to meet the **26 kts** requirement
+     - n == finishers // 2
+
+
+
+**Top tip**
+
+- Try [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division) (e.g. 18 // 4) at https://trinket.io/console
+
+
+
+**Review**
+
+- [20111019 / UKWA - Men / Shore](https://results.weymouthspeedweek.com/events/2011/20111019/ukwa.html)
+- [20121009 / UKWA - Leg 1 - Men / Harbour](https://results.weymouthspeedweek.com/events/2012/20121009/ukwa.html)
+- [20121009 / UKWA - Leg 2 - Men / Harbour](https://results.weymouthspeedweek.com/events/2012/20121009/ukwa.html)
+- [20121010 / UKWA - Leg 2 - Men / Harbour](https://results.weymouthspeedweek.com/events/2012/20121010/ukwa.html)
+- [20131014 / UKWA - Men / Shore](https://results.weymouthspeedweek.com/events/2013/20131014/ukwa.html)
+- [20141018 / UKWA - Leg 1 - Men / Shore](https://results.weymouthspeedweek.com/events/2014/20141018/ukwa.html)
+- [20141018 / UKWA - Leg 2 - Men / Shore](https://results.weymouthspeedweek.com/events/2014/20141018/ukwa.html)
+- [20151005 / UKWA - Leg 1 - Men / Harbour](https://results.weymouthspeedweek.com/events/2015/20151005/ukwa.html)
+- [20161012 / UKWA - Leg 2 - Men / Harbour](https://results.weymouthspeedweek.com/events/2016/20161012/ukwa.html)
+- [20221016 / UKWA - Leg 1 - Sailboards (Men) / Harbour](https://results.weymouthspeedweek.com/events/2022/20221016/ukwa.html)
+- [20221018 / UKWA - Leg 2 - Sailboards (Men) / Harbour](https://results.weymouthspeedweek.com/events/2022/20221018/ukwa.html)
+- [20231011 / UKWA - Leg 2 - Sailboards (Men) / Shore](https://results.weymouthspeedweek.com/events/2023/20231011/ukwa.html)
+
+
+
 ### Possible Criteria - 25% and 50%
 
 #### Summary
