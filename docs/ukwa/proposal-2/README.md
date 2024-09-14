@@ -2,7 +2,7 @@
 
 Author: Michael George
 
-Created: 8 Nov 2023
+Created: 14 Aug 2024
 
 
 
@@ -30,25 +30,25 @@ The following criteria are proposed for legs to be considered valid, where the /
 
 > 1.1 Windsurfing rounds will count towards the UKWA windsurfing ranking, if both of the following conditions are met:
 >
-> - There are at least 4 UKWA windsurfers who finish the heat, from hereon referred to as the number of finishers.
-> - The required number of finishers have a 2-run average of 28 knots (or higher). The requirement is the total number of finishers // 4.
+> - There are at least 4 UKWA windsurfers who finish the round, from hereon referred to as the number of finishers.
+> - The required number of finishers have a 2-run average of 28 knots (or higher). The requirement is total number of finishers // 4.
 >
-> 1.2 Windsurfing rounds will also count towards the UKWA windsurfing ranking, if both of the following conditions are met:
+> 1.2 Windsurfing rounds will also count towards the UKWA windsurfing ranking, if all of the following conditions are met:
 >
-> - There are at least 4 UKWA windsurfers who finish the heat, from hereon referred to as the number of finishers.
+> - There are at least 4 UKWA windsurfers who finish the round, from hereon referred to as the number of finishers.
 > - The 28 knots criteria is only missed by one competitor, and the competitor has a 2-run average of 27.5 knots (or higher).
-> - The required number of finishers have a 2-run average of 26 knots (or higher). The requirement is the total number of finishers // 2.
+> - The required number of finishers have a 2-run average of 26 knots (or higher). The requirement is total number of finishers // 2.
 >
 > 1.3 Wing foiling rounds will count towards the UKWA wing foiling ranking, if both of the following conditions are met:
 >
-> - There are at least 4 UKWA wing foilers who finish the heat, from hereon referred to as the number of finishers.
-> - The required number of finishers have a 2-run average of 25 knots (or higher). The requirement is the total number of finishers // 4.
+> - There are at least 4 UKWA wing foilers who finish the round, from hereon referred to as the number of finishers.
+> - The required number of finishers have a 2-run average of 25 knots (or higher). The requirement is total number of finishers // 4.
 >
-> 1.4 Wing foiling rounds will also count towards the UKWA wing foiling ranking, if both of the following conditions are met:
+> 1.4 Wing foiling rounds will also count towards the UKWA wing foiling ranking, if all of the following conditions are met:
 >
-> - There are at least 4 UKWA wing foilers who finish the heat, from hereon referred to as the number of finishers.
+> - There are at least 4 UKWA wing foilers who finish the round, from hereon referred to as the number of finishers.
 > - The 25 knots criteria is only missed by one competitor, and the competitor has a 2-run average of 24.5 knots (or higher).
-> - The required number of finishers have a 2-run average of 23 knots (or higher). The requirement is the total number of finishers // 2.
+> - The required number of finishers have a 2-run average of 23 knots (or higher). The requirement is total number of finishers // 2.
 >
 > A minimum of one completed round is needed to ratify the event.
 
@@ -56,7 +56,7 @@ The following criteria are proposed for legs to be considered valid, where the /
 
 ### Illustration
 
-Quite a lot of analysis has been completed prior to writing this proposal, using all possible 116 UKWA legs between 2010 and 2023. The full analysis will not be written up in detail because it would take a long time to do so clearly. A quick summary will be provided in this document.
+Quite a lot of analysis has been completed after the meeting and prior to writing this proposal, using all possible 116 UKWA legs between 2010 and 2023. The full analysis will not be written up in detail because it would take a long time to do so clearly. This document is merely a brief summary.
 
 The scatter plot below shows the relationship between the 2-run averages being recorded by 25-ish percent versus 50-ish percent of the fleet. The phrase "ish" has been used because the actual calculation is based on [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division), essentially rounding down / towards zero.
 
@@ -64,17 +64,17 @@ The scatter plot shows at a glance which UKWA legs are deemed valid since 2010, 
 
 ![overview](img/overview.png)
 
-It should be apparent that the orange dots are heats that would be deemed valid by the new rules. The cluster that has been highlighted by an ellipse is due to the newly introduced 26 knots criteria, which only kicks in when a single competitor fails to meet the 28 knots criteria and by less than 0.5 knots.
+It should be apparent that the orange dots are rounds that would be deemed valid by the new rules. The cluster that has been highlighted by an ellipse is due to the newly introduced 26 knots criteria, which only kicks in when a single competitor fails to meet the 28 knots criteria and by less than 0.5 knots.
 
-Zooming in to the most interesting area, we can see that 4 legs in 2022 and 2023 have been labelled. The cluster within an ellipse has only been deemed valid under the mid-fleet criteria (over 26 knots) and the other orange dots are deemed valid because of the new upper-quartile criteria (over 28 knots).
+Zooming in to the most interesting area, we can see that 4 legs in 2022 and 2023 have been labelled. The cluster within the ellipse is deemed valid under the mid-fleet criteria (over 26 knots) and the other orange dots are deemed valid because of the refined upper-quartile criteria (over 28 knots).
 
 ![zoom](img/zoom.png)
 
 
 
-Orange dots to the right of 28 knots on the x-axis are due to the use of floor division. The dark orange dots are heats which only met the 28 knots / 26 knots criteria because the new proposal uses the 2-run average, rather than stipulating two runs both exceeding 26 / 28 knots.
+Orange dots to the right of 28 knots on the x-axis are due to the use of floor division (not rounding up). The dark orange dots are rounds which only met the 28 knots / 26 knots criteria because the new proposal uses 2-run averages, rather than stipulating two runs both exceeding 28 / 26 knots.
 
-The new rules deem a total of 12 additional heats being valid since 2010, including 2 from 2022 (due to the use of floor division) and 1 from 2023 (due to the 26 knots criteria). The 26 knots criteria for the middle of the fleet is only applied under the circumstances that were described earlier.
+The new rules deem an additional 12 rounds as valid since 2010, including 2 from 2022 (>28 knots, floor division) and 1 round from 2023, due to the new 26 knots criteria. The new 26 knots criteria for the middle of the fleet is only applied under the circumstances, which were described earlier.
 
 
 
@@ -82,12 +82,12 @@ The new rules deem a total of 12 additional heats being valid since 2010, includ
 
 The new proposal is the product of a discussion between Pete Davis, Zara Davis and Michael George on 12 Sep 2024.
 
-The proposed rules are more complex than previous UKWA rules, but they have been written to be consistent, unambiguous, and easy to apply. The use of [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division) keeps the new rules straightforward, whether writing software or applying them manually.
+The proposed rules are more lengthy than previous ones, but they have been written to be consistent, unambiguous, and easy to apply. The use of [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division) keeps the new rules straightforward, whether writing software or applying them manually.
 
-The scatter plots show how 12 additional heats would be deemed valid by the proposed rules, but not the old rules. 3 of those 12 heats were during 2022 and 2023, and there was another borderline heat in 2023 . That heat was 11 Oct 2023 and is deemed invalid by the proposed rules.
+The scatter plots show how 12 additional rounds would be deemed valid by the newly proposed rules, but not the old rules. 3 of those 12 rounds were during 2022 and 2023, and there was another borderline round in 2023 . That round was 11 Oct 2023 and deemed invalid by the proposed rules.
 
-The old rules deemed 49 heats valid between 2010 and 2023, so the additional 12 heats represent an increase of 25%. Looking back at the two scatter plots, it can be seen that these additional 12 heats are confined to 2 relatively distinct clusters. There is also one lonely orange dot amongst the green!
+The old rules deemed 49 rounds valid between 2010 and 2023, so the additional 12 rounds represent an increase of 25%. Looking back at the two scatter plots, it can be seen that these additional 12 rounds are confined to 2 relatively distinct clusters. There is also one lonely orange dot amongst the green!
 
-This page has been written with the intention that it is concise, whilst describing the new rules and demonstrating their effect.
+There was plenty of other analysis such as use of the the upper quartile and median, traditional rounding, rounding half to even (aka bankers rounding), and more besides! In the interests of simplicity this proposal has eventually been written to be consistent, unambiguous, and easy to apply.
 
-There was plenty of other analysis such as use of the the upper quartile and median, traditional rounding, rounding half to even (aka bankers rounding), and more besides. In the interests of simplicity this proposal has eventually been written to be consistent, unambiguous, and easy to apply.
+This page has been written with the intention that it is concise, whilst describing the new rules and demonstrating their effect for anyone interested.
