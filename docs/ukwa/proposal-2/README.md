@@ -86,15 +86,15 @@ The scatter plot shows at a glance which UKWA rounds are deemed valid since 2010
 
 It should be apparent that the orange dots are rounds that would be deemed valid by the new rules. The cluster that has been highlighted by an ellipse is due to the newly introduced 26 knots criteria, which only kicks in when a single competitor fails to meet the 28 knots criteria and by less than 0.5 knots.
 
-Zooming in to the most interesting area, we can see that 4 rounds in 2022 and 2023 have been highlighted. The cluster within the ellipse is deemed valid under the mid-fleet criteria (over 26 knots) and the other orange dots are deemed valid because of the use of floor division, instead of rounding up.
+Zooming in to the most interesting area, we can see that 4 rounds in 2022 and 2023 have been highlighted. The cluster within the ellipse is deemed valid under the mid-fleet criteria (over 26 knots) and the other orange dots are deemed valid because of the use of floor division, or 2-run averages.
 
 ![zoom](img/zoom.png)
 
 
 
-Orange dots to the right of 28 knots on the x-axis are due to the use of floor division (not rounding up). The dark orange dots are the rounds which only meet the 28 knots / 26 knots criteria because the proposals uses 2-run averages, rather than requiring two runs exceeding 28 / 26 knots.
+Light orange dots to the right of 28 knots (x-axis) are due to the proposed use of floor division, instead of 25%. The dark orange dots are rounds which only satisfy the 28 knots / 26 knots criteria because this proposals uses 2-run averages, rather than mandating two runs in excess of 28 / 26 knots.
 
-In total the new rules consider an additional 12 rounds to be valid since 2010, including 2 rounds from 2022 (>28 knots, floor division) and 1 round from 2023 (new 26 knots criteria). The new 26 knots criteria for the middle of the fleet is only applied under the circumstances described earlier.
+In total the new rules consider an additional 12 rounds to be valid since 2010, including 2 rounds from 2022 (>28 knots, floor division) and 1 round from 2023 (26 knots criteria). The new 26 knots criteria (approximating the middle of the fleet) is only applied under the circumstances described earlier.
 
 
 
@@ -104,13 +104,13 @@ This new proposal is the product of a discussion between Pete Davis, Zara Davis 
 
 The proposed rules are more lengthy than previous ones, but they have been written to be consistent, unambiguous, and easy to apply. The use of [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division) keeps the new rules straightforward, whether writing software or applying them manually.
 
-The scatter plots show how 12 additional rounds would be deemed valid by the newly proposed rules, but not the old rules. 3 of those 12 rounds were during 2022 and 2023, and there was another borderline round in 2023 . That round was 11 Oct 2023 and is still deemed invalid by the proposed rules.
+The scatter plots show how 12 rounds would be deemed valid by the newly proposed rules, but not the old rules. 3 of those 12 rounds were in 2022 and 2023, but there is one additional borderline round in 2023 . That round was 11 Oct 2023 and is deemed invalid by the proposed rules.
 
-The old rules deemed 49 rounds valid between 2010 and 2023, so the additional 12 rounds represent an increase of 25%. Looking back at the two scatter plots, it can be seen that these additional 12 rounds are confined to 2 distinct clusters. There is also one rogue orange dot amongst the green dots!
+The old rules deemed 49 rounds valid between 2010 and 2023, so 12 additional rounds represents an increase of 25%. Looking back at the two scatter plots, it can be seen that these additional 12 rounds are essentially 2 distinct clusters. There is also one rogue orange dot amongst the greens!
 
-There was some additional analysis relating to use of the the upper quartile and median, traditional rounding, and consideration of rounding half to even (aka [bankers rounding](https://wiki.c2.com/?BankersRounding)). In the interests of simplicity, floor division was used (consistent with the meeting) for the sake of simplicity and consistency.
+There was some further analysis relating to use of the the upper quartile and median, traditional rounding, and even some consideration of [bankers rounding](https://wiki.c2.com/?BankersRounding). Floor division was discussed during the meeting and has been used in this proposal, which ensures simplicity and consistency.
 
-This page covers some topics that are are a little hard going, but hopefully describes the new rules and demonstrates their effect for anyone interested.
+This page covers some topics that are probably a little hard going for some readers, but hopefully it describes the new rules in unambiguous terms and demonstrates their effectiveness for anyone interested.
 
 
 
