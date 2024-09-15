@@ -46,27 +46,27 @@ The following criteria are proposed for rounds to be considered valid.
 >
 > 2.1 Windsurfing rounds will count towards the UKWA windsurfing ranking, if both of the following conditions are met:
 >
-> - There are at least 4 UKWA windsurfers who finish the round, referred to as the number of finishers (N<sub>F</sub>).
-> - The number of required UKWA windsurfers (N<sub>R</sub>) have a 2-run average of 28 knots (or higher), where N<sub>R</sub> = N<sub>F</sub> // 4.
+> - There are at least 4 UKWA windsurfers who finish, referred to as the number of finishers (N<sub>F</sub>).
+> - The number of required finishers (N<sub>R</sub>) have a 2-run average of 28 knots (or higher), where N<sub>R</sub> = N<sub>F</sub> // 4.
 >
 > 2.2 Windsurfing rounds will also count towards the UKWA windsurfing ranking, if all of the following conditions are met:
 >
-> - There are at least 4 UKWA windsurfers who finish the round, referred to as the number of finishers (N<sub>F</sub>).
+> - There are at least 4 UKWA windsurfers who finish, referred to as the number of finishers (N<sub>F</sub>).
 > - The 28 knots criteria is only missed by one competitor, and the competitor has a 2-run average of 27.5 knots (or higher).
-> - The number of required UKWA windsurfers (N) have a 2-run average of 26 knots (or higher), where N = total number of finishers // 2.
+> - The number of required finishers (N<sub>R</sub>) have a 2-run average of 26 knots (or higher), where N<sub>R</sub> = N<sub>F</sub> // 2.
 >
 > 2.3 A minimum of one completed UKWA windsurfing round is required to ratify the event.
 >
 > 3.1 Wingfoiling rounds will count towards the UKWA wingfoiling ranking, if both of the following conditions are met:
 >
-> - There are at least 4 UKWA wingfoilers who finish the round, referred to as the number of finishers (N<sub>F</sub>).
-> - The number of required UKWA wingfoilers (N<sub>R</sub>) have a 2-run average of 25 knots (or higher), where N<sub>R</sub> = N<sub>F</sub> // 4.
+> - There are at least 4 UKWA wingfoilers who finish, referred to as the number of finishers (N<sub>F</sub>).
+> - The number of required finishers (N<sub>R</sub>) have a 2-run average of 25 knots (or higher), where N<sub>R</sub> = N<sub>F</sub> // 4.
 >
 > 3.2 Wingfoiling rounds will also count towards the UKWA wingfoiling ranking, if all of the following conditions are met:
 >
-> - There are at least 4 UKWA wingfoilers who finish the round, referred to as the number of finishers (N<sub>F</sub>).
+> - There are at least 4 UKWA wingfoilers who finish, referred to as the number of finishers (N<sub>F</sub>).
 > - The 25 knots criteria is only missed by one competitor, and the competitor has a 2-run average of 24.5 knots (or higher).
-> - The number of required UKWA wingfoilers (N<sub>R</sub>) have a 2-run average of 23 knots (or higher), where N<sub>R</sub> = N<sub>F</sub> // 2.
+> - The number of required finishers (N<sub>R</sub>) have a 2-run average of 23 knots (or higher), where N<sub>R</sub> = N<sub>F</sub> // 2.
 >
 > 3.3  A minimum of one completed UKWA wingfoiling round is required to ratify the event.
 
