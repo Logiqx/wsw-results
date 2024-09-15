@@ -42,7 +42,7 @@ In recent years the UKWA has used the following criteria for rounds to be consid
 
 The following criteria are proposed for rounds to be considered valid.
 
-> 1.1 The // operator represents [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division), which only ever rounds down - e.g. 12 // 4 = 3, and 14 // 4 = 3.
+> 1.1 The // operator represents [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division), which only ever rounds down - e.g. 20 // 4 = 5, and 23 // 4 = 5.
 >
 > 2.1 Windsurfing rounds will count towards the UKWA windsurfing ranking, if both of the following conditions are met:
 >
