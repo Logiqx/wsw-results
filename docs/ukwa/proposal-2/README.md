@@ -40,7 +40,7 @@ In recent years the UKWA has used the following rules for rounds to be considere
 >
 > 1.2 Wing Foiling Rounds will only count towards the UKWA wing foiling ranking, when 25% of the riders registered achieve over 18 knots two time. One completed round is needed to ratify the event.
 
-Strict interpretation of the 25% requirement means that a fleet of 23 riders required 6 riders to achieve over 28 knots, twice.
+Strict interpretation of the 25% rule meant that a fleet of 23 riders required 6 riders to achieve over 28 knots, twice.
 
 
 
