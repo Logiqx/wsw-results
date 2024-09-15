@@ -14,7 +14,7 @@ There is a desire to tweak the rules of the UKWA Speed Championships so that mod
 
 ### Chance Variability
 
-The existing rules essential consider the results of a single rider, who approximates the top 25% of the fleet. Typically, 1 or 2 specific riders will tip the balance as to whether it is a counting round, or not. [Chance variability](chance-variability.pdf) means that results will never be perfectly distributed.  The results during a specific round may approximate a specific distribution, but they will always be affected by chance variability.
+The existing rules essential consider the results of a single rider, who is approximately 25% from the top. Typically, 1 or 2 specific riders will tip the balance as to whether it is a counting round, or not. [Chance variability](chance-variability.pdf) means that results will never be perfectly distributed.  The results during a specific round may approximate a specific distribution, but they will always be affected by chance variability.
 
 This can be illustrated using the 500 m rankings for Portland Harbour on GPS-Speedsurfing, representing almost 200 riders. It's worth noting that these are personal bests, and should not be regarded typical results for Portland Harbour. It should also be noted that the distribution is not perfect, because the 500 m rankings are affected by chance variability; rider, equipment, general conditions, lucky gust, etc.
 
