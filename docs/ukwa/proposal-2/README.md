@@ -50,7 +50,7 @@ The following rules are proposed for future UKWA rounds to be considered valid.
 
 > **Windsurfing**
 >
-> Windsurfing rounds will count towards the UKWA windsurfing rankings, if the following conditions are met.
+> Windsurfing rounds will count towards the UKWA windsurfing rankings, if the following criteria are met.
 >
 > 1.1. There are at least 4 UKWA windsurfers who finish the round, referred to as finishers in 2.1 and 2.2.
 >
@@ -66,7 +66,7 @@ The following rules are proposed for future UKWA rounds to be considered valid.
 >
 > **Wingfoiling**
 >
-> 4.1. The windsurfing conditions 1.1 - 3.1 will also apply to the UKWA wingfoiling rankings.
+> 4.1. The windsurfing criteria 1.1 - 3.1 will also apply to the UKWA wingfoiling rankings.
 >
 > 4.1.1. The only difference is the use of 25 knots and 23 knots as the criteria for 2.1 and 2.2.1 respectively.
 >
