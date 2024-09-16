@@ -56,11 +56,11 @@ The following rules are proposed for future UKWA rounds to be considered valid.
 >
 > 2.1. Circa 25% of the finishers have a 2-run average of 28 knots or higher.
 >
-> 2.2. Should the criteria of 2.1 be missed by a very narrow margin, 2.2.1 and 2.2.2 may allow the round to count.
+> 2.2. Should the criteria for 2.1 be missed by a very narrow margin, 2.2.1 and 2.2.2 may trigger a counting round.
 >
 > 2.2.1. Circa 50% of the finishers have a 2-run average of 26 knots or higher, and 2.2.2 is satisfied.
 >
-> 2.2.2. The 2.1 criteria have only been missed because of one competitor, and by no more than half a knot.
+> 2.2.2. The criteria for 2.1 have only been missed because of one competitor, and by no more than half a knot.
 >
 > 3.1. A minimum of one completed UKWA round is required to ratify the event.
 >
@@ -77,7 +77,7 @@ The following rules are proposed for future UKWA rounds to be considered valid.
 > circa 25%... 20 finishers // 4 = 5 and 23 finishers // 4 = 5
 > circa 50%... 20 finishers // 2 = 10 and 23 finishers // 2 = 11
 >
-> Floor division ensures a greater number of fair counting rounds, instead of a strict 25% and 50% criteria.
+> Floor division ensures a greater number of fair counting rounds, instead of a strict 25% and 50%.
 
 
 
