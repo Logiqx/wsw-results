@@ -52,15 +52,13 @@ The following rules are proposed for future UKWA rounds to be considered valid.
 >
 > Windsurfing rounds will count towards the UKWA windsurfing rankings, if the following criteria are met.
 >
-> 1.1. There are at least 4 UKWA windsurfers who finish the round, referred to as finishers in 2.1 and 2.2.1.
+> 1.1. There are at least 4 UKWA windsurfers who finish the round, referred to as finishers in 2.1 and 2.3.
 >
-> 2.1. Circa 25% of the finishers have a 2-run average of 28 knots or higher. The calculation is detailed in 5.1.
+> 2.1. Circa 25% of the finishers have a 2-run average of 28 knots or higher. The % calculation is detailed in 5.1.
 >
-> 2.2. Should the criteria for 2.1 be missed by a narrow margin, 2.2.1 and 2.2.2 can trigger a counting round.
+> 2.2. Should the criteria for 2.1 be missed by a narrow margin (as described in 5.2), then 2.3 will be considered.
 >
-> 2.2.1. Circa 50% of the finishers have a 2-run average of 26 knots or higher, and the criteria for 2.2.2 are satisfied.
->
-> 2.2.2. The criteria for 2.1 have only been missed because of one competitor, and by no more than half a knot.
+> 2.3. Circa 50% of the finishers have a 2-run average of 26 knots. The % calculation is detailed in 5.1.
 >
 > 3.1. A minimum of one completed UKWA round is required to ratify the event.
 >
@@ -68,17 +66,23 @@ The following rules are proposed for future UKWA rounds to be considered valid.
 >
 > 4.1. The windsurfing criteria for 1.1 - 3.1 will also apply to the UKWA wingfoiling rankings.
 >
-> 4.1.1. The only difference is the use of 25 knots and 23 knots as the criteria for 2.1 and 2.2.1 respectively.
+> 4.1.1. The only difference is the use of 25 knots and 23 knots as the criteria for 2.1 and 2.3 respectively.
 >
 > **Percentages**
 >
-> 5.1. The criteria for 2.1 and 2.2.1 refer to percentages, but the actual calculation will be based upon [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division).
+> 5.1. The criteria for 2.1 and 2.3 refer to percentages, but the actual calculation will be based upon [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division).
+>
+> Floor division (//) is a type of division that rounds down the nearest integer less than or equal to the division result.
+>
+> The use of floor division ensures a greater number of fair counting rounds, instead of a strict 25% and 50%.
 >
 > circa 25%... 20 finishers // 4 = 5 and 23 finishers // 4 = 5
 >
 > circa 50%... 20 finishers // 2 = 10 and 23 finishers // 2 = 11
 >
-> Floor division ensures a greater number of fair counting rounds, instead of a strict 25% and 50%.
+> **Narrow Margins**
+>
+> 5.2. The criteria for 2.3 will only apply when 2.1 is missed due to one competitor, and by no more than half a knot.
 
 
 
