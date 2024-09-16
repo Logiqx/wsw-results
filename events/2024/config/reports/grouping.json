@@ -39,6 +39,11 @@
       "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
     },
     {
+      "Title": "SW Marine",
+      "Filter": "Grouping=SW Marine",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
+    },
+    {
       "Title": "The OTC",
       "Filter": "Grouping=The OTC",
       "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
