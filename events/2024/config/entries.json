@@ -1,11 +1,11 @@
 {
   "Filters": {
-    "Year": "2023"
+    "Year": "2025"
   },
   "Defaults": {
     "Entry Type": "All Week",
-    "Start Date": "2023-10-07",
-    "End Date": "2023-10-13",
+    "Start Date": "2024-10-12",
+    "End Date": "2024-10-18",
     "Withdrawn": "N"
   },
   "Mappings": {
@@ -22,14 +22,14 @@
   },
   "Derivations": {
     "Start Date": {
-      "2023-10-09": {
+      "2024-10-14": {
         "Filters": {
-          "2 Dayer": "YES"
+          "Week Days": "YES"
         }
       }
     },
     "End Date": {
-      "2023-10-08": {
+      "2024-10-13": {
         "Filters": {
           "Youth Weekend": "YES"
         }
@@ -38,7 +38,7 @@
     "Entry Type": {
       "2 Days": {
         "Filters": {
-          "2 Dayer": "YES"
+          "Week Days": "YES"
         }
       },
       "Youth W/E": {
