@@ -48,36 +48,36 @@ Strict interpretation of the 25% rule meant that a fleet of 21 riders required 6
 
 The following rules are proposed for future UKWA rounds to be considered valid.
 
-**Windsurfing**
-
-Windsurfing rounds will count towards the UKWA windsurfing rankings, if the following conditions are met.
-
+> **Windsurfing**
+>
+> Windsurfing rounds will count towards the UKWA windsurfing rankings, if the following conditions are met.
+>
 1.1. There are at least 4 UKWA windsurfers who finish the round, referred to as finishers in 2.1 and 2.2.
-
-2.1. Circa 25% of the finishers have a 2-run average of 28 knots or higher.
-
-2.2. Should the criteria of 2.1 be missed by a very narrow margin, 2.2.1 and 2.2.2 may allow the round to count.
-
-2.2.1. Circa 50% of the finishers have a 2-run average of 26 knots or higher, and 2.2.2 is satisfied.
-
-2.2.2. The 2.1 criteria have only been missed because of one competitor, and by no more than half a knot.
-
-3.1. A minimum of one completed UKWA round is required to ratify the event.
-
-**Wingfoiling**
-
-4.1. The windsurfing conditions 1.1 - 3.1 will also apply to the UKWA wingfoiling rankings.
-
-4.1.1. The only difference is the use of 25 knots and 23 knots as the criteria for 2.1 and 2.2.1 respectively.
-
-**Percentages**
-
-5.1. The criteria for 2.1 and 2.2.1 refer to percentages, but the actual calculation will be based upon [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division).
-
-circa 25%... 20 finishers // 4 = 5 and 23 finishers // 4 = 5
-circa 50%... 20 finishers // 2 = 10 and 23 finishers // 2 = 11
-
-Floor division ensures a greater number of fair counting rounds, instead of a strict 25% and 50% criteria.
+>
+> 2.1. Circa 25% of the finishers have a 2-run average of 28 knots or higher.
+>
+> 2.2. Should the criteria of 2.1 be missed by a very narrow margin, 2.2.1 and 2.2.2 may allow the round to count.
+>
+> 2.2.1. Circa 50% of the finishers have a 2-run average of 26 knots or higher, and 2.2.2 is satisfied.
+>
+> 2.2.2. The 2.1 criteria have only been missed because of one competitor, and by no more than half a knot.
+>
+> 3.1. A minimum of one completed UKWA round is required to ratify the event.
+>
+> **Wingfoiling**
+>
+> 4.1. The windsurfing conditions 1.1 - 3.1 will also apply to the UKWA wingfoiling rankings.
+>
+> 4.1.1. The only difference is the use of 25 knots and 23 knots as the criteria for 2.1 and 2.2.1 respectively.
+>
+> **Percentages**
+>
+> 5.1. The criteria for 2.1 and 2.2.1 refer to percentages, but the actual calculation will be based upon [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division).
+>
+> circa 25%... 20 finishers // 4 = 5 and 23 finishers // 4 = 5
+> circa 50%... 20 finishers // 2 = 10 and 23 finishers // 2 = 11
+>
+> Floor division ensures a greater number of fair counting rounds, instead of a strict 25% and 50% criteria.
 
 
 
