@@ -1,0 +1,67 @@
+{
+  "WAK699PAU_699_20231007_103746.oao": {
+    "motion_file": "/logs/2023/10/0699_2023-10-07-1037.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/WAK699PAU_699_20231007_103746.oao",
+    "size": 424348,
+    "start_date": 1696671466000,
+    "end_date": 1696692530000,
+    "duration": 21064000,
+    "distance": 16027138,
+    "2s_best": 9140,
+    "10s_best": 9032,
+    "500m_best": 8656,
+    "status": "completed"
+  },
+  "WAK699PAU_699_20231010_094419.oao": {
+    "motion_file": "/logs/2023/10/0699_2023-10-10-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/WAK699PAU_699_20231010_094419.oao",
+    "size": 684400,
+    "start_date": 1696927459000,
+    "end_date": 1696952092000,
+    "duration": 24633000,
+    "distance": 23155710,
+    "2s_best": 10418,
+    "10s_best": 10206,
+    "500m_best": 9848,
+    "status": "completed"
+  },
+  "WAK699PAU_699_20231011_100456.oao": {
+    "motion_file": "/logs/2023/10/0699_2023-10-11-1004.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/WAK699PAU_699_20231011_100456.oao",
+    "size": 568648,
+    "start_date": 1697015096000,
+    "end_date": 1697037380000,
+    "duration": 22284000,
+    "distance": 19294781,
+    "2s_best": 10967,
+    "10s_best": 10772,
+    "500m_best": 10403,
+    "status": "completed"
+  },
+  "WAK699PAU_699_20231012_100124.oao": {
+    "motion_file": "/logs/2023/10/0699_2023-10-12-1001.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/WAK699PAU_699_20231012_100124.oao",
+    "size": 603280,
+    "start_date": 1697101284000,
+    "end_date": 1697123736000,
+    "duration": 22452000,
+    "distance": 19762890,
+    "2s_best": 12142,
+    "10s_best": 11989,
+    "500m_best": 11317,
+    "status": "completed"
+  },
+  "WAK699PAU_699_20231013_084426.oao": {
+    "motion_file": "/logs/2023/10/0699_2023-10-13-0844.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/WAK699PAU_699_20231013_084426.oao",
+    "size": 1477764,
+    "start_date": 1697183066000,
+    "end_date": 1697208398000,
+    "duration": 25332000,
+    "distance": 50536503,
+    "2s_best": 12153,
+    "10s_best": 11962,
+    "500m_best": 11480,
+    "status": "completed"
+  }
+}

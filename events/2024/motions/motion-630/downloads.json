@@ -1,0 +1,54 @@
+{
+  "MAR125PET_630_20221015_110524.oao": {
+    "motion_file": "/logs/2022/10/0630_2022-10-15-1105.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/MAR125PET_630_20221015_110524.oao",
+    "size": 1065508,
+    "start_date": 1665828324000,
+    "end_date": 1665852060000,
+    "duration": 23736000,
+    "distance": 33579980,
+    "2s_best": 22446,
+    "10s_best": 21273,
+    "500m_best": 19498,
+    "status": "completed"
+  },
+  "KNI630FIN_630_20231007_102916.oao": {
+    "motion_file": "/logs/2023/10/0630_2023-10-07-1029.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/KNI630FIN_630_20231007_102916.oao",
+    "size": 489504,
+    "start_date": 1696670956000,
+    "end_date": 1696687856000,
+    "duration": 16900000,
+    "distance": 17900613,
+    "2s_best": 11852,
+    "10s_best": 11534,
+    "500m_best": 11402,
+    "status": "completed"
+  },
+  "LAT630SAM_630_20231012_111106.oao": {
+    "motion_file": "/logs/2023/10/0630_2023-10-12-1111.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/LAT630SAM_630_20231012_111106.oao",
+    "size": 182548,
+    "start_date": 1697105466000,
+    "end_date": 1697122622000,
+    "duration": 17156000,
+    "distance": 7773949,
+    "2s_best": 15358,
+    "10s_best": 15204,
+    "500m_best": 14833,
+    "status": "completed"
+  },
+  "LAT630SAM_630_20231013_084128.oao": {
+    "motion_file": "/logs/2023/10/0630_2023-10-13-0841.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/LAT630SAM_630_20231013_084128.oao",
+    "size": 535940,
+    "start_date": 1697182888000,
+    "end_date": 1697194320000,
+    "duration": 11432000,
+    "distance": 21983814,
+    "2s_best": 16785,
+    "10s_best": 16311,
+    "500m_best": 15867,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "OWE668AND_668_20231007_103402.oao": {
+    "motion_file": "/logs/2023/10/0668_2023-10-07-1034.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/OWE668AND_668_20231007_103402.oao",
+    "size": 163672,
+    "start_date": 1696671242000,
+    "end_date": 1696686300000,
+    "duration": 15058000,
+    "distance": 6454987,
+    "2s_best": 3942,
+    "10s_best": 3424,
+    "500m_best": 2669,
+    "status": "completed"
+  },
+  "OWE668AND_668_20231010_094326.oao": {
+    "motion_file": "/logs/2023/10/0668_2023-10-10-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/OWE668AND_668_20231010_094326.oao",
+    "size": 939304,
+    "start_date": 1696927406000,
+    "end_date": 1696947554000,
+    "duration": 20148000,
+    "distance": 26457662,
+    "2s_best": 12086,
+    "10s_best": 11797,
+    "500m_best": 11499,
+    "status": "completed"
+  },
+  "OWE668AND_668_20231011_094806.oao": {
+    "motion_file": "/logs/2023/10/0668_2023-10-11-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/OWE668AND_668_20231011_094806.oao",
+    "size": 847576,
+    "start_date": 1697014086000,
+    "end_date": 1697032880000,
+    "duration": 18794000,
+    "distance": 26042055,
+    "2s_best": 13537,
+    "10s_best": 13383,
+    "500m_best": 12735,
+    "status": "completed"
+  },
+  "OWE668AND_668_20231012_094256.oao": {
+    "motion_file": "/logs/2023/10/0668_2023-10-12-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/OWE668AND_668_20231012_094256.oao",
+    "size": 833536,
+    "start_date": 1697100176000,
+    "end_date": 1697120952000,
+    "duration": 20776000,
+    "distance": 26101720,
+    "2s_best": 20849,
+    "10s_best": 20608,
+    "500m_best": 20269,
+    "status": "completed"
+  },
+  "OWE668AND_668_20231013_084232.oao": {
+    "motion_file": "/logs/2023/10/0668_2023-10-13-0842.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/OWE668AND_668_20231013_084232.oao",
+    "size": 53068,
+    "start_date": 1697182952000,
+    "end_date": 1697197626000,
+    "duration": 14674000,
+    "distance": 4119296,
+    "2s_best": 19825,
+    "10s_best": 19586,
+    "500m_best": 18920,
+    "status": "completed"
+  }
+}

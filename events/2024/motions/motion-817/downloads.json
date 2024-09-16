@@ -1,0 +1,67 @@
+{
+  "LON817ROB_817_20231010_094402.oao": {
+    "motion_file": "/logs/2023/10/0817_2023-10-10-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/LON817ROB_817_20231010_094402.oao",
+    "size": 802180,
+    "start_date": 1696927442000,
+    "end_date": 1696944990000,
+    "duration": 17548000,
+    "distance": 22132783,
+    "2s_best": 11760,
+    "10s_best": 11306,
+    "500m_best": 10805,
+    "status": "completed"
+  },
+  "LON817ROB_817_20231011_100526.oao": {
+    "motion_file": "/logs/2023/10/0817_2023-10-11-1005.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/LON817ROB_817_20231011_100526.oao",
+    "size": 962548,
+    "start_date": 1697015126000,
+    "end_date": 1697032020000,
+    "duration": 16894000,
+    "distance": 23872032,
+    "2s_best": 12223,
+    "10s_best": 11251,
+    "500m_best": 10893,
+    "status": "completed"
+  },
+  "LON817ROB_817_20231012_132115.oao": {
+    "motion_file": "/logs/2023/10/0817_2023-10-12-1321.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/LON817ROB_817_20231012_132115.oao",
+    "size": 305840,
+    "start_date": 1697113275000,
+    "end_date": 1697121090000,
+    "duration": 7815000,
+    "distance": 9232261,
+    "2s_best": 11958,
+    "10s_best": 11604,
+    "500m_best": 11252,
+    "status": "completed"
+  },
+  "LON817ROB_817_20231013_084018.oao": {
+    "motion_file": "/logs/2023/10/0817_2023-10-13-0840.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/LON817ROB_817_20231013_084018.oao",
+    "size": 258208,
+    "start_date": 1697182818000,
+    "end_date": 1697193894000,
+    "duration": 11076000,
+    "distance": 10045061,
+    "2s_best": 12865,
+    "10s_best": 12706,
+    "500m_best": 11616,
+    "status": "completed"
+  },
+  "LON817ROB_817_20231013_114454.oao": {
+    "motion_file": "/logs/2023/10/0817_2023-10-13-1144.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/LON817ROB_817_20231013_114454.oao",
+    "size": 1536,
+    "start_date": 1697193894000,
+    "end_date": 1697193894000,
+    "duration": 0,
+    "distance": 0,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  }
+}

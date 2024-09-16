@@ -1,0 +1,67 @@
+{
+  "PIN816JOS_816_20231007_103102.oao": {
+    "motion_file": "/logs/2023/10/0816_2023-10-07-1031.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/PIN816JOS_816_20231007_103102.oao",
+    "size": 11000,
+    "start_date": 1696671062000,
+    "end_date": 1696682350000,
+    "duration": 11288000,
+    "distance": 2826925,
+    "2s_best": 3236,
+    "10s_best": 2515,
+    "500m_best": 2137,
+    "status": "completed"
+  },
+  "PIN816JOS_816_20231010_114702.oao": {
+    "motion_file": "/logs/2023/10/0816_2023-10-10-1147.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/PIN816JOS_816_20231010_114702.oao",
+    "size": 944192,
+    "start_date": 1696934822000,
+    "end_date": 1696951876000,
+    "duration": 17054000,
+    "distance": 33807381,
+    "2s_best": 23762,
+    "10s_best": 22240,
+    "500m_best": 19689,
+    "status": "completed"
+  },
+  "PIN816JOS_816_20231011_094956.oao": {
+    "motion_file": "/logs/2023/10/0816_2023-10-11-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/PIN816JOS_816_20231011_094956.oao",
+    "size": 842480,
+    "start_date": 1697014196000,
+    "end_date": 1697038064000,
+    "duration": 23868000,
+    "distance": 31805342,
+    "2s_best": 13621,
+    "10s_best": 13451,
+    "500m_best": 13234,
+    "status": "completed"
+  },
+  "PIN816JOS_816_20231012_133718.oao": {
+    "motion_file": "/logs/2023/10/0816_2023-10-12-1337.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/PIN816JOS_816_20231012_133718.oao",
+    "size": 205324,
+    "start_date": 1697114238000,
+    "end_date": 1697124164000,
+    "duration": 9926000,
+    "distance": 7013905,
+    "2s_best": 13221,
+    "10s_best": 13080,
+    "500m_best": 12546,
+    "status": "completed"
+  },
+  "PIN816JOS_816_20231013_082448.oao": {
+    "motion_file": "/logs/2023/10/0816_2023-10-13-0824.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/PIN816JOS_816_20231013_082448.oao",
+    "size": 1169560,
+    "start_date": 1697181888000,
+    "end_date": 1697210130000,
+    "duration": 28242000,
+    "distance": 50298157,
+    "2s_best": 15474,
+    "10s_best": 15232,
+    "500m_best": 14948,
+    "status": "completed"
+  }
+}

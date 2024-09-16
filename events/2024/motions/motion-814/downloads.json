@@ -1,0 +1,67 @@
+{
+  "SPE814NEI_814_20231007_102448.oao": {
+    "motion_file": "/logs/2023/10/0814_2023-10-07-1024.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/SPE814NEI_814_20231007_102448.oao",
+    "size": 951056,
+    "start_date": 1696670688000,
+    "end_date": 1696690026000,
+    "duration": 19338000,
+    "distance": 32985355,
+    "2s_best": 24181,
+    "10s_best": 23194,
+    "500m_best": 21940,
+    "status": "completed"
+  },
+  "SPE814NEI_814_20231010_094902.oao": {
+    "motion_file": "/logs/2023/10/0814_2023-10-10-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/SPE814NEI_814_20231010_094902.oao",
+    "size": 791988,
+    "start_date": 1696927742000,
+    "end_date": 1696951434000,
+    "duration": 23692000,
+    "distance": 28623465,
+    "2s_best": 18610,
+    "10s_best": 18461,
+    "500m_best": 18199,
+    "status": "completed"
+  },
+  "SPE814NEI_814_20231011_114020.oao": {
+    "motion_file": "/logs/2023/10/0814_2023-10-11-1140.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/SPE814NEI_814_20231011_114020.oao",
+    "size": 729120,
+    "start_date": 1697020820000,
+    "end_date": 1697032350000,
+    "duration": 11530000,
+    "distance": 25515672,
+    "2s_best": 18464,
+    "10s_best": 18351,
+    "500m_best": 17922,
+    "status": "completed"
+  },
+  "SPE814NEI_814_20231012_102406.oao": {
+    "motion_file": "/logs/2023/10/0814_2023-10-12-1024.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/SPE814NEI_814_20231012_102406.oao",
+    "size": 499332,
+    "start_date": 1697102646000,
+    "end_date": 1697120364000,
+    "duration": 17718000,
+    "distance": 21536717,
+    "2s_best": 22055,
+    "10s_best": 21919,
+    "500m_best": 21715,
+    "status": "completed"
+  },
+  "SPE814NEI_814_20231013_084040.oao": {
+    "motion_file": "/logs/2023/10/0814_2023-10-13-0840.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/SPE814NEI_814_20231013_084040.oao",
+    "size": 877164,
+    "start_date": 1697182840000,
+    "end_date": 1697207870000,
+    "duration": 25030000,
+    "distance": 37731021,
+    "2s_best": 20265,
+    "10s_best": 19685,
+    "500m_best": 19293,
+    "status": "completed"
+  }
+}

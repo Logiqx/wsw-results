@@ -1,0 +1,54 @@
+{
+  "BIN701NEI_701_20231010_094526.oao": {
+    "motion_file": "/logs/2023/10/0701_2023-10-10-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/BIN701NEI_701_20231010_094526.oao",
+    "size": 263564,
+    "start_date": 1696927526000,
+    "end_date": 1696952028000,
+    "duration": 24502000,
+    "distance": 14113491,
+    "2s_best": 12562,
+    "10s_best": 12394,
+    "500m_best": 10609,
+    "status": "completed"
+  },
+  "BIN701NEI_701_20231011_095810.oao": {
+    "motion_file": "/logs/2023/10/0701_2023-10-11-0958.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/BIN701NEI_701_20231011_095810.oao",
+    "size": 119524,
+    "start_date": 1697014690000,
+    "end_date": 1697036196000,
+    "duration": 21506000,
+    "distance": 7931617,
+    "2s_best": 13585,
+    "10s_best": 13369,
+    "500m_best": 13075,
+    "status": "completed"
+  },
+  "BIN701NEI_701_20231012_094434.oao": {
+    "motion_file": "/logs/2023/10/0701_2023-10-12-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/BIN701NEI_701_20231012_094434.oao",
+    "size": 21452,
+    "start_date": 1697100274000,
+    "end_date": 1697121542000,
+    "duration": 21268000,
+    "distance": 1089107,
+    "2s_best": 2589,
+    "10s_best": 1537,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "BIN701NEI_701_20231013_084410.oao": {
+    "motion_file": "/logs/2023/10/0701_2023-10-13-0844.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/BIN701NEI_701_20231013_084410.oao",
+    "size": 374168,
+    "start_date": 1697183050000,
+    "end_date": 1697210346000,
+    "duration": 27296000,
+    "distance": 16501793,
+    "2s_best": 15214,
+    "10s_best": 14979,
+    "500m_best": 14588,
+    "status": "completed"
+  }
+}

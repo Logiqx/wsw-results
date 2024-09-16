@@ -1,0 +1,67 @@
+{
+  "MAR694EDD_694_20231007_094219.oao": {
+    "motion_file": "/logs/2023/10/0694_2023-10-07-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/MAR694EDD_694_20231007_094219.oao",
+    "size": 14380,
+    "start_date": 1696668139000,
+    "end_date": 1696690876000,
+    "duration": 22737000,
+    "distance": 135694,
+    "2s_best": 2393,
+    "10s_best": 1811,
+    "500m_best": 0,
+    "status": "completed"
+  },
+  "MAR694EDD_694_20231010_104834.oao": {
+    "motion_file": "/logs/2023/10/0694_2023-10-10-1048.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/MAR694EDD_694_20231010_104834.oao",
+    "size": 35024,
+    "start_date": 1696931314000,
+    "end_date": 1696949788000,
+    "duration": 18474000,
+    "distance": 2820492,
+    "2s_best": 3799,
+    "10s_best": 2956,
+    "500m_best": 2442,
+    "status": "completed"
+  },
+  "MAR694EDD_694_20231011_095540.oao": {
+    "motion_file": "/logs/2023/10/0694_2023-10-11-0955.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/MAR694EDD_694_20231011_095540.oao",
+    "size": 582220,
+    "start_date": 1697014540000,
+    "end_date": 1697036740000,
+    "duration": 22200000,
+    "distance": 22969990,
+    "2s_best": 14754,
+    "10s_best": 14496,
+    "500m_best": 13832,
+    "status": "completed"
+  },
+  "MAR694EDD_694_20231012_121110.oao": {
+    "motion_file": "/logs/2023/10/0694_2023-10-12-1211.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/MAR694EDD_694_20231012_121110.oao",
+    "size": 667084,
+    "start_date": 1697109070000,
+    "end_date": 1697124086000,
+    "duration": 15016000,
+    "distance": 19859589,
+    "2s_best": 9479,
+    "10s_best": 9343,
+    "500m_best": 8598,
+    "status": "completed"
+  },
+  "MAR694EDD_694_20231013_094926.oao": {
+    "motion_file": "/logs/2023/10/0694_2023-10-13-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/MAR694EDD_694_20231013_094926.oao",
+    "size": 391484,
+    "start_date": 1697186966000,
+    "end_date": 1697209766000,
+    "duration": 22800000,
+    "distance": 18430307,
+    "2s_best": 16318,
+    "10s_best": 15955,
+    "500m_best": 15665,
+    "status": "completed"
+  }
+}

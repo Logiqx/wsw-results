@@ -1,0 +1,80 @@
+{
+  "DAV121ZAR_647_20221015_104642.oao": {
+    "motion_file": "/logs/2022/10/0647_2022-10-15-1046.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/DAV121ZAR_647_20221015_104642.oao",
+    "size": 847316,
+    "start_date": 1665827202000,
+    "end_date": 1665852184000,
+    "duration": 24982000,
+    "distance": 35673205,
+    "2s_best": 16240,
+    "10s_best": 15885,
+    "500m_best": 15426,
+    "status": "completed"
+  },
+  "DAV121ZAR_647_20221017_102124.oao": {
+    "motion_file": "/logs/2022/10/0647_2022-10-17-1021.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/DAV121ZAR_647_20221017_102124.oao",
+    "size": 1568764,
+    "start_date": 1665998484000,
+    "end_date": 1666017156000,
+    "duration": 18672000,
+    "distance": 53130697,
+    "2s_best": 21204,
+    "10s_best": 21140,
+    "500m_best": 20961,
+    "status": "completed"
+  },
+  "DAV121ZAR_647_20221019_112616.oao": {
+    "motion_file": "/logs/2022/10/0647_2022-10-19-1126.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221019/DAV121ZAR_647_20221019_112616.oao",
+    "size": 216816,
+    "start_date": 1666175176000,
+    "end_date": 1666194732000,
+    "duration": 19556000,
+    "distance": 7906276,
+    "2s_best": 12509,
+    "10s_best": 12218,
+    "500m_best": 10805,
+    "status": "completed"
+  },
+  "DAV121ZAR_647_20221021_100940.oao": {
+    "motion_file": "/logs/2022/10/0647_2022-10-21-1009.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221021/DAV121ZAR_647_20221021_100940.oao",
+    "size": 183952,
+    "start_date": 1666343380000,
+    "end_date": 1666366416000,
+    "duration": 23036000,
+    "distance": 7117177,
+    "2s_best": 16763,
+    "10s_best": 15907,
+    "500m_best": 13994,
+    "status": "completed"
+  },
+  "PLA647CHR_647_20231011_100001.oao": {
+    "motion_file": "/logs/2023/10/0647_2023-10-11-1000.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/PLA647CHR_647_20231011_100001.oao",
+    "size": 1536784,
+    "start_date": 1697014801000,
+    "end_date": 1697036100000,
+    "duration": 21299000,
+    "distance": 50951032,
+    "2s_best": 15529,
+    "10s_best": 15357,
+    "500m_best": 14646,
+    "status": "completed"
+  },
+  "PLA647CHR_647_20231013_084226.oao": {
+    "motion_file": "/logs/2023/10/0647_2023-10-13-0842.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/PLA647CHR_647_20231013_084226.oao",
+    "size": 1993084,
+    "start_date": 1697182946000,
+    "end_date": 1697210292000,
+    "duration": 27346000,
+    "distance": 76520153,
+    "2s_best": 16544,
+    "10s_best": 16354,
+    "500m_best": 15808,
+    "status": "completed"
+  }
+}

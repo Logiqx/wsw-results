@@ -1,0 +1,41 @@
+{
+  "CAR662DAN_662_20231007_092510.oao": {
+    "motion_file": "/logs/2023/10/0662_2023-10-07-0925.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/CAR662DAN_662_20231007_092510.oao",
+    "size": 250720,
+    "start_date": 1696667110000,
+    "end_date": 1696689660000,
+    "duration": 22550000,
+    "distance": 19343026,
+    "2s_best": 10018,
+    "10s_best": 9817,
+    "500m_best": 8646,
+    "status": "completed"
+  },
+  "CAR662DAN_662_20231011_095408.oao": {
+    "motion_file": "/logs/2023/10/0662_2023-10-11-0954.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/CAR662DAN_662_20231011_095408.oao",
+    "size": 1335076,
+    "start_date": 1697014448000,
+    "end_date": 1697037142000,
+    "duration": 22694000,
+    "distance": 51076049,
+    "2s_best": 15109,
+    "10s_best": 14710,
+    "500m_best": 14344,
+    "status": "completed"
+  },
+  "CAR662DAN_662_20231013_083954.oao": {
+    "motion_file": "/logs/2023/10/0662_2023-10-13-0839.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/CAR662DAN_662_20231013_083954.oao",
+    "size": 1519260,
+    "start_date": 1697182794000,
+    "end_date": 1697209588000,
+    "duration": 26794000,
+    "distance": 59571323,
+    "2s_best": 17021,
+    "10s_best": 16757,
+    "500m_best": 16479,
+    "status": "completed"
+  }
+}

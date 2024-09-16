@@ -1,0 +1,80 @@
+{
+  "YOU110PET_632_20221015_101940.oao": {
+    "motion_file": "/logs/2022/10/0632_2022-10-15-1019.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/YOU110PET_632_20221015_101940.oao",
+    "size": 1226292,
+    "start_date": 1665825580000,
+    "end_date": 1665852172000,
+    "duration": 26592000,
+    "distance": 56809783,
+    "2s_best": 19768,
+    "10s_best": 18961,
+    "500m_best": 18272,
+    "status": "completed"
+  },
+  "CRO632PET_632_20231007_103838.oao": {
+    "motion_file": "/logs/2023/10/0632_2023-10-07-1038.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/CRO632PET_632_20231007_103838.oao",
+    "size": 849240,
+    "start_date": 1696671518000,
+    "end_date": 1696683602000,
+    "duration": 12084000,
+    "distance": 28672488,
+    "2s_best": 10130,
+    "10s_best": 9940,
+    "500m_best": 9308,
+    "status": "completed"
+  },
+  "CRO632PET_632_20231010_094342.oao": {
+    "motion_file": "/logs/2023/10/0632_2023-10-10-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/CRO632PET_632_20231010_094342.oao",
+    "size": 1347192,
+    "start_date": 1696927422000,
+    "end_date": 1696948564000,
+    "duration": 21142000,
+    "distance": 47275049,
+    "2s_best": 10732,
+    "10s_best": 10595,
+    "500m_best": 10113,
+    "status": "completed"
+  },
+  "CRO632PET_632_20231011_095440.oao": {
+    "motion_file": "/logs/2023/10/0632_2023-10-11-0954.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/CRO632PET_632_20231011_095440.oao",
+    "size": 1440844,
+    "start_date": 1697014480000,
+    "end_date": 1697033218000,
+    "duration": 18738000,
+    "distance": 50338658,
+    "2s_best": 13505,
+    "10s_best": 13318,
+    "500m_best": 12951,
+    "status": "completed"
+  },
+  "CRO632PET_632_20231012_094528.oao": {
+    "motion_file": "/logs/2023/10/0632_2023-10-12-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/CRO632PET_632_20231012_094528.oao",
+    "size": 168248,
+    "start_date": 1697100328000,
+    "end_date": 1697117580000,
+    "duration": 17252000,
+    "distance": 7913439,
+    "2s_best": 11129,
+    "10s_best": 10923,
+    "500m_best": 10279,
+    "status": "completed"
+  },
+  "CRO632PET_632_20231013_092740.oao": {
+    "motion_file": "/logs/2023/10/0632_2023-10-13-0927.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/CRO632PET_632_20231013_092740.oao",
+    "size": 1683268,
+    "start_date": 1697185660000,
+    "end_date": 1697209996000,
+    "duration": 24336000,
+    "distance": 65711347,
+    "2s_best": 16564,
+    "10s_best": 16097,
+    "500m_best": 15420,
+    "status": "completed"
+  }
+}

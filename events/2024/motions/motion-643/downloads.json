@@ -1,0 +1,80 @@
+{
+  "GRE120KEV_643_20221015_104902.oao": {
+    "motion_file": "/logs/2022/10/0643_2022-10-15-1049.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221015/GRE120KEV_643_20221015_104902.oao",
+    "size": 1543284,
+    "start_date": 1665827342000,
+    "end_date": 1665852078000,
+    "duration": 24736000,
+    "distance": 65108163,
+    "2s_best": 18902,
+    "10s_best": 18536,
+    "500m_best": 18267,
+    "status": "completed"
+  },
+  "GRE120KEV_643_20221021_144009.oao": {
+    "motion_file": "/logs/2022/10/0643_2022-10-21-1440.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221021/GRE120KEV_643_20221021_144009.oao",
+    "size": 653772,
+    "start_date": 1666359609000,
+    "end_date": 1666366412000,
+    "duration": 6803000,
+    "distance": 25028999,
+    "2s_best": 19974,
+    "10s_best": 19606,
+    "500m_best": 18604,
+    "status": "completed"
+  },
+  "CON643GAR_643_20231007_092326.oao": {
+    "motion_file": "/logs/2023/10/0643_2023-10-07-0923.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/CON643GAR_643_20231007_092326.oao",
+    "size": 779560,
+    "start_date": 1696667006000,
+    "end_date": 1696689730000,
+    "duration": 22724000,
+    "distance": 37193774,
+    "2s_best": 13006,
+    "10s_best": 12787,
+    "500m_best": 12359,
+    "status": "completed"
+  },
+  "CON643GAR_643_20231011_095140.oao": {
+    "motion_file": "/logs/2023/10/0643_2023-10-11-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/CON643GAR_643_20231011_095140.oao",
+    "size": 989536,
+    "start_date": 1697014300000,
+    "end_date": 1697037350000,
+    "duration": 23050000,
+    "distance": 45382900,
+    "2s_best": 16320,
+    "10s_best": 16056,
+    "500m_best": 15162,
+    "status": "completed"
+  },
+  "CON643GAR_643_20231012_095110.oao": {
+    "motion_file": "/logs/2023/10/0643_2023-10-12-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/CON643GAR_643_20231012_095110.oao",
+    "size": 446292,
+    "start_date": 1697100670000,
+    "end_date": 1697123554000,
+    "duration": 22884000,
+    "distance": 21678604,
+    "2s_best": 16068,
+    "10s_best": 15767,
+    "500m_best": 15313,
+    "status": "completed"
+  },
+  "CON643GAR_643_20231013_085846.oao": {
+    "motion_file": "/logs/2023/10/0643_2023-10-13-0858.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/CON643GAR_643_20231013_085846.oao",
+    "size": 1324676,
+    "start_date": 1697183926000,
+    "end_date": 1697209760000,
+    "duration": 25834000,
+    "distance": 58858499,
+    "2s_best": 18958,
+    "10s_best": 18810,
+    "500m_best": 18047,
+    "status": "completed"
+  }
+}
