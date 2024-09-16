@@ -61,13 +61,12 @@ Windsurfing rounds will count towards the UKWA windsurfing rankings, if the foll
 
 **Wingfoiling**
 
-The windsurfing conditions 1.1 - 3.1 will also apply to the UKWA wingfoiling rankings.
-
-The only difference is the use of 25 knots and 23 knots as the criteria for 2.1 and 2.2.1 respectively.
+4.1. The windsurfing conditions 1.1 - 3.1 will also apply to the UKWA wingfoiling rankings.
+4.1.1. The only difference is the use of 25 knots and 23 knots as the criteria for 2.1 and 2.2.1 respectively.
 
 **Percentages**
 
-2.1 and 2.2.1 refer to percentages, but the actual calculation will be based upon [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division), only ever rounding down.
+5.1 The criteria for 2.1 and 2.2.1 refer to percentages, but the actual calculation will be based upon [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division).
 
 circa 25%... 20 finishers // 4 = 5 and 23 finishers // 4 = 5
 circa 50%... 20 finishers // 2 = 10 and 23 finishers // 2 = 11
