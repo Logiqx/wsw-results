@@ -64,9 +64,9 @@ The following rules are proposed for future UKWA rounds to be considered valid.
 >
 > **Wingfoiling**
 >
-> 4.1. The windsurfing criteria for 1.1 - 3.1 will also apply to the UKWA wingfoiling rankings.
+> 4.1. The windsurfing criteria for 1.1 - 3.1 will be used for the wingfoiling rankings, but with slightly lower speeds.
 >
-> 4.1.1. The only difference is the use of 25 knots and 23 knots as the criteria for 2.1 and 2.3 respectively.
+> 4.2. The wingfoiling rankings will use 25 knots and 23 knots as the criteria for 2.1 and 2.3 respectively.
 >
 > **Percentages**
 >
