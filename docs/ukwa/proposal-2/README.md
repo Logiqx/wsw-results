@@ -54,7 +54,7 @@ The following rules are proposed for future UKWA rounds to be considered valid.
 >
 > 1.1. There are at least 4 UKWA windsurfers who finish the round, referred to as finishers in 2.1 and 2.2.
 >
-> 2.1. Circa 25% of the finishers have a 2-run average of 28 knots or higher.
+> 2.1. Circa 25% of the finishers have a 2-run average of 28 knots or higher. The calculation is detailed in 5.1.
 >
 > 2.2. Should the criteria for 2.1 be missed by a narrow margin, 2.2.1 and 2.2.2 can trigger a counting round.
 >
