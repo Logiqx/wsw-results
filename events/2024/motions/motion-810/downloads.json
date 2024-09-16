@@ -1,0 +1,67 @@
+{
+  "KIR810JON_810_20231007_122420.oao": {
+    "motion_file": "/logs/2023/10/0810_2023-10-07-1224.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/KIR810JON_810_20231007_122420.oao",
+    "size": 1536,
+    "start_date": 1696677860000,
+    "end_date": 1696678680000,
+    "duration": 820000,
+    "distance": 38063,
+    "2s_best": 1031,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "KIR810JON_810_20231010_094410.oao": {
+    "motion_file": "/logs/2023/10/0810_2023-10-10-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/KIR810JON_810_20231010_094410.oao",
+    "size": 824436,
+    "start_date": 1696927450000,
+    "end_date": 1696951808000,
+    "duration": 24358000,
+    "distance": 37107173,
+    "2s_best": 13441,
+    "10s_best": 13127,
+    "500m_best": 12790,
+    "status": "completed"
+  },
+  "KIR810JON_810_20231011_094920.oao": {
+    "motion_file": "/logs/2023/10/0810_2023-10-11-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/KIR810JON_810_20231011_094920.oao",
+    "size": 1114752,
+    "start_date": 1697014160000,
+    "end_date": 1697037212000,
+    "duration": 23052000,
+    "distance": 36611685,
+    "2s_best": 14973,
+    "10s_best": 14310,
+    "500m_best": 13667,
+    "status": "completed"
+  },
+  "KIR810JON_810_20231012_094120.oao": {
+    "motion_file": "/logs/2023/10/0810_2023-10-12-0941.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/KIR810JON_810_20231012_094120.oao",
+    "size": 750336,
+    "start_date": 1697100080000,
+    "end_date": 1697123860000,
+    "duration": 23780000,
+    "distance": 30225394,
+    "2s_best": 13779,
+    "10s_best": 13085,
+    "500m_best": 12439,
+    "status": "completed"
+  },
+  "KIR810JON_810_20231013_083836.oao": {
+    "motion_file": "/logs/2023/10/0810_2023-10-13-0838.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/KIR810JON_810_20231013_083836.oao",
+    "size": 1695592,
+    "start_date": 1697182716000,
+    "end_date": 1697210296000,
+    "duration": 27580000,
+    "distance": 62627806,
+    "2s_best": 16060,
+    "10s_best": 15613,
+    "500m_best": 15037,
+    "status": "completed"
+  }
+}

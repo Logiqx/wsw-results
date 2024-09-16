@@ -1,0 +1,67 @@
+{
+  "WHA660TRE_660_20231007_103714.oao": {
+    "motion_file": "/logs/2023/10/0660_2023-10-07-1037.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/WHA660TRE_660_20231007_103714.oao",
+    "size": 25664,
+    "start_date": 1696671434000,
+    "end_date": 1696691382000,
+    "duration": 19948000,
+    "distance": 8690315,
+    "2s_best": 2989,
+    "10s_best": 2715,
+    "500m_best": 2197,
+    "status": "completed"
+  },
+  "WHA660TRE_660_20231010_094432.oao": {
+    "motion_file": "/logs/2023/10/0660_2023-10-10-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/WHA660TRE_660_20231010_094432.oao",
+    "size": 378952,
+    "start_date": 1696927472000,
+    "end_date": 1696948630000,
+    "duration": 21158000,
+    "distance": 14380569,
+    "2s_best": 11520,
+    "10s_best": 11242,
+    "500m_best": 11020,
+    "status": "completed"
+  },
+  "WHA660TRE_660_20231011_100031.oao": {
+    "motion_file": "/logs/2023/10/0660_2023-10-11-1000.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/WHA660TRE_660_20231011_100031.oao",
+    "size": 468288,
+    "start_date": 1697014831000,
+    "end_date": 1697036474000,
+    "duration": 21643000,
+    "distance": 17062957,
+    "2s_best": 12406,
+    "10s_best": 12063,
+    "500m_best": 11580,
+    "status": "completed"
+  },
+  "WHA660TRE_660_20231012_145916.oao": {
+    "motion_file": "/logs/2023/10/0660_2023-10-12-1459.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/WHA660TRE_660_20231012_145916.oao",
+    "size": 356384,
+    "start_date": 1697119156000,
+    "end_date": 1697123248000,
+    "duration": 4092000,
+    "distance": 11195304,
+    "2s_best": 12516,
+    "10s_best": 12378,
+    "500m_best": 12038,
+    "status": "completed"
+  },
+  "WHA660TRE_660_20231013_123201.oao": {
+    "motion_file": "/logs/2023/10/0660_2023-10-13-1232.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/WHA660TRE_660_20231013_123201.oao",
+    "size": 490648,
+    "start_date": 1697196721000,
+    "end_date": 1697208176000,
+    "duration": 11455000,
+    "distance": 15872834,
+    "2s_best": 13673,
+    "10s_best": 13026,
+    "500m_best": 12691,
+    "status": "completed"
+  }
+}

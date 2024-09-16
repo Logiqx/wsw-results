@@ -1,0 +1,67 @@
+{
+  "STU845AND_845_20231007_093946.oao": {
+    "motion_file": "/logs/2023/10/0845_2023-10-07-0939.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/STU845AND_845_20231007_093946.oao",
+    "size": 166272,
+    "start_date": 1696667986000,
+    "end_date": 1696690856000,
+    "duration": 22870000,
+    "distance": 4444624,
+    "2s_best": 8102,
+    "10s_best": 7790,
+    "500m_best": 7519,
+    "status": "completed"
+  },
+  "STU845AND_845_20231010_102626.oao": {
+    "motion_file": "/logs/2023/10/0845_2023-10-10-1026.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/STU845AND_845_20231010_102626.oao",
+    "size": 13392,
+    "start_date": 1696929986000,
+    "end_date": 1696951376000,
+    "duration": 21390000,
+    "distance": 132699,
+    "2s_best": 2094,
+    "10s_best": 1793,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "STU845AND_845_20231011_095534.oao": {
+    "motion_file": "/logs/2023/10/0845_2023-10-11-0955.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/STU845AND_845_20231011_095534.oao",
+    "size": 182652,
+    "start_date": 1697014534000,
+    "end_date": 1697043026000,
+    "duration": 28492000,
+    "distance": 6151841,
+    "2s_best": 18543,
+    "10s_best": 17766,
+    "500m_best": 16723,
+    "status": "completed"
+  },
+  "STU845AND_845_20231012_121640.oao": {
+    "motion_file": "/logs/2023/10/0845_2023-10-12-1216.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/STU845AND_845_20231012_121640.oao",
+    "size": 231272,
+    "start_date": 1697109400000,
+    "end_date": 1697124096000,
+    "duration": 14696000,
+    "distance": 5745156,
+    "2s_best": 8554,
+    "10s_best": 8443,
+    "500m_best": 7954,
+    "status": "completed"
+  },
+  "STU845AND_845_20231013_115114.oao": {
+    "motion_file": "/logs/2023/10/0845_2023-10-13-1151.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/STU845AND_845_20231013_115114.oao",
+    "size": 17136,
+    "start_date": 1697194274000,
+    "end_date": 1697197724000,
+    "duration": 3450000,
+    "distance": 10844,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  }
+}

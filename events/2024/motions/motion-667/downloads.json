@@ -1,0 +1,15 @@
+{
+  "BRA667PAU_667_20231011_115918.oao": {
+    "motion_file": "/logs/2023/10/0667_2023-10-11-1159.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/BRA667PAU_667_20231011_115918.oao",
+    "size": 1006228,
+    "start_date": 1697021958000,
+    "end_date": 1697037928000,
+    "duration": 15970000,
+    "distance": 39410149,
+    "2s_best": 13801,
+    "10s_best": 13431,
+    "500m_best": 12962,
+    "status": "completed"
+  }
+}

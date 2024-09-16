@@ -1,0 +1,15 @@
+{
+  "ING804JON_804_20231007_093032.oao": {
+    "motion_file": "/logs/2023/10/0804_2023-10-07-0930.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/ING804JON_804_20231007_093032.oao",
+    "size": 848824,
+    "start_date": 1696667432000,
+    "end_date": 1696690124000,
+    "duration": 22692000,
+    "distance": 31727147,
+    "2s_best": 12593,
+    "10s_best": 12481,
+    "500m_best": 12108,
+    "status": "completed"
+  }
+}

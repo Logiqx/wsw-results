@@ -1,0 +1,67 @@
+{
+  "STR807DAV_807_20231007_094618.oao": {
+    "motion_file": "/logs/2023/10/0807_2023-10-07-0946.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/STR807DAV_807_20231007_094618.oao",
+    "size": 501984,
+    "start_date": 1696668378000,
+    "end_date": 1696691270000,
+    "duration": 22892000,
+    "distance": 28126510,
+    "2s_best": 10431,
+    "10s_best": 10287,
+    "500m_best": 9773,
+    "status": "completed"
+  },
+  "STR807DAV_807_20231010_102320.oao": {
+    "motion_file": "/logs/2023/10/0807_2023-10-10-1023.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/STR807DAV_807_20231010_102320.oao",
+    "size": 135072,
+    "start_date": 1696929800000,
+    "end_date": 1696950890000,
+    "duration": 21090000,
+    "distance": 5859127,
+    "2s_best": 13384,
+    "10s_best": 13294,
+    "500m_best": 12787,
+    "status": "completed"
+  },
+  "STR807DAV_807_20231011_113806.oao": {
+    "motion_file": "/logs/2023/10/0807_2023-10-11-1138.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/STR807DAV_807_20231011_113806.oao",
+    "size": 1067640,
+    "start_date": 1697020686000,
+    "end_date": 1697037194000,
+    "duration": 16508000,
+    "distance": 36942041,
+    "2s_best": 15192,
+    "10s_best": 15017,
+    "500m_best": 14224,
+    "status": "completed"
+  },
+  "STR807DAV_807_20231012_121932.oao": {
+    "motion_file": "/logs/2023/10/0807_2023-10-12-1219.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/STR807DAV_807_20231012_121932.oao",
+    "size": 801296,
+    "start_date": 1697109572000,
+    "end_date": 1697123632000,
+    "duration": 14060000,
+    "distance": 29149857,
+    "2s_best": 15156,
+    "10s_best": 14968,
+    "500m_best": 14484,
+    "status": "completed"
+  },
+  "STR807DAV_807_20231013_100410.oao": {
+    "motion_file": "/logs/2023/10/0807_2023-10-13-1004.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/STR807DAV_807_20231013_100410.oao",
+    "size": 1024584,
+    "start_date": 1697187850000,
+    "end_date": 1697210226000,
+    "duration": 22376000,
+    "distance": 38712773,
+    "2s_best": 16474,
+    "10s_best": 16022,
+    "500m_best": 15812,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "STA867SCO_867_20231007_102940.oao": {
+    "motion_file": "/logs/2023/10/0867_2023-10-07-1029.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/STA867SCO_867_20231007_102940.oao",
+    "size": 1527372,
+    "start_date": 1696670980000,
+    "end_date": 1696690292000,
+    "duration": 19312000,
+    "distance": 66097308,
+    "2s_best": 14277,
+    "10s_best": 13999,
+    "500m_best": 13853,
+    "status": "completed"
+  },
+  "STA867SCO_867_20231010_094819.oao": {
+    "motion_file": "/logs/2023/10/0867_2023-10-10-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/STA867SCO_867_20231010_094819.oao",
+    "size": 948144,
+    "start_date": 1696927699000,
+    "end_date": 1696951218000,
+    "duration": 23519000,
+    "distance": 43837744,
+    "2s_best": 15840,
+    "10s_best": 15529,
+    "500m_best": 15143,
+    "status": "completed"
+  },
+  "STA867SCO_867_20231011_094740.oao": {
+    "motion_file": "/logs/2023/10/0867_2023-10-11-0947.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/STA867SCO_867_20231011_094740.oao",
+    "size": 2085228,
+    "start_date": 1697014060000,
+    "end_date": 1697037628000,
+    "duration": 23568000,
+    "distance": 91512437,
+    "2s_best": 17360,
+    "10s_best": 17206,
+    "500m_best": 16809,
+    "status": "completed"
+  },
+  "STA867SCO_867_20231012_100848.oao": {
+    "motion_file": "/logs/2023/10/0867_2023-10-12-1008.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/STA867SCO_867_20231012_100848.oao",
+    "size": 971180,
+    "start_date": 1697101728000,
+    "end_date": 1697124014000,
+    "duration": 22286000,
+    "distance": 42900548,
+    "2s_best": 17639,
+    "10s_best": 17280,
+    "500m_best": 16853,
+    "status": "completed"
+  },
+  "STA867SCO_867_20231013_083816.oao": {
+    "motion_file": "/logs/2023/10/0867_2023-10-13-0838.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/STA867SCO_867_20231013_083816.oao",
+    "size": 1736204,
+    "start_date": 1697182696000,
+    "end_date": 1697210990000,
+    "duration": 28294000,
+    "distance": 76035869,
+    "2s_best": 20079,
+    "10s_best": 19857,
+    "500m_best": 19668,
+    "status": "completed"
+  }
+}

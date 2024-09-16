@@ -1,0 +1,67 @@
+{
+  "GOR664DEN_664_20231007_103454.oao": {
+    "motion_file": "/logs/2023/10/0664_2023-10-07-1034.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231007/GOR664DEN_664_20231007_103454.oao",
+    "size": 1500020,
+    "start_date": 1696671294000,
+    "end_date": 1696692024000,
+    "duration": 20730000,
+    "distance": 56937884,
+    "2s_best": 12095,
+    "10s_best": 11585,
+    "500m_best": 11212,
+    "status": "completed"
+  },
+  "GOR664DEN_664_20231010_094410.oao": {
+    "motion_file": "/logs/2023/10/0664_2023-10-10-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231010/GOR664DEN_664_20231010_094410.oao",
+    "size": 1077000,
+    "start_date": 1696927450000,
+    "end_date": 1696947354000,
+    "duration": 19904000,
+    "distance": 40219870,
+    "2s_best": 13422,
+    "10s_best": 13129,
+    "500m_best": 12927,
+    "status": "completed"
+  },
+  "GOR664DEN_664_20231011_095240.oao": {
+    "motion_file": "/logs/2023/10/0664_2023-10-11-0952.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/GOR664DEN_664_20231011_095240.oao",
+    "size": 2351364,
+    "start_date": 1697014360000,
+    "end_date": 1697039330000,
+    "duration": 24970000,
+    "distance": 81146036,
+    "2s_best": 13587,
+    "10s_best": 13238,
+    "500m_best": 12866,
+    "status": "completed"
+  },
+  "GOR664DEN_664_20231012_094840.oao": {
+    "motion_file": "/logs/2023/10/0664_2023-10-12-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231012/GOR664DEN_664_20231012_094840.oao",
+    "size": 2112944,
+    "start_date": 1697100520000,
+    "end_date": 1697124102000,
+    "duration": 23582000,
+    "distance": 71987036,
+    "2s_best": 13562,
+    "10s_best": 13327,
+    "500m_best": 12980,
+    "status": "completed"
+  },
+  "GOR664DEN_664_20231013_084132.oao": {
+    "motion_file": "/logs/2023/10/0664_2023-10-13-0841.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/GOR664DEN_664_20231013_084132.oao",
+    "size": 2358020,
+    "start_date": 1697182892000,
+    "end_date": 1697210112000,
+    "duration": 27220000,
+    "distance": 80834130,
+    "2s_best": 14172,
+    "10s_best": 13923,
+    "500m_best": 13419,
+    "status": "completed"
+  }
+}

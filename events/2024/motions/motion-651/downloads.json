@@ -1,0 +1,80 @@
+{
+  "TBC0TBC_651_20221017_120822.oao": {
+    "motion_file": "/logs/2022/10/0651_2022-10-17-1208.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/TBC0TBC_651_20221017_120822.oao",
+    "size": 400740,
+    "start_date": 1666004902000,
+    "end_date": 1666017164000,
+    "duration": 12262000,
+    "distance": 16928308,
+    "2s_best": 25991,
+    "10s_best": 24314,
+    "500m_best": 21811,
+    "status": "completed"
+  },
+  "DAV126STE_651_20221017_120822.oao": {
+    "motion_file": "/logs/2022/10/0651_2022-10-17-1208.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/DAV126STE_651_20221017_120822.oao",
+    "size": 400740,
+    "start_date": 1666004902000,
+    "end_date": 1666017164000,
+    "duration": 12262000,
+    "distance": 16928308,
+    "2s_best": 25991,
+    "10s_best": 24314,
+    "500m_best": 21811,
+    "status": "completed"
+  },
+  "DAV126STE_651_20221017_153244.oao": {
+    "motion_file": "/logs/2022/10/0651_2022-10-17-1532.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221017/DAV126STE_651_20221017_153244.oao",
+    "size": 1536,
+    "start_date": 1666017164000,
+    "end_date": 1666017164000,
+    "duration": 0,
+    "distance": 0,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "DAV126STE_651_20221018_110016.oao": {
+    "motion_file": "/logs/2022/10/0651_2022-10-18-1100.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2022/gpslogs/20221018/DAV126STE_651_20221018_110016.oao",
+    "size": 792404,
+    "start_date": 1666087216000,
+    "end_date": 1666108712000,
+    "duration": 21496000,
+    "distance": 25964602,
+    "2s_best": 25910,
+    "10s_best": 25040,
+    "500m_best": 23936,
+    "status": "completed"
+  },
+  "TRO651WIL_651_20231011_100231.oao": {
+    "motion_file": "/logs/2023/10/0651_2023-10-11-1002.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/TRO651WIL_651_20231011_100231.oao",
+    "size": 1717068,
+    "start_date": 1697014951000,
+    "end_date": 1697037324000,
+    "duration": 22373000,
+    "distance": 68121015,
+    "2s_best": 15469,
+    "10s_best": 14955,
+    "500m_best": 14649,
+    "status": "completed"
+  },
+  "TRO651WIL_651_20231013_090106.oao": {
+    "motion_file": "/logs/2023/10/0651_2023-10-13-0901.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/TRO651WIL_651_20231013_090106.oao",
+    "size": 1664444,
+    "start_date": 1697184066000,
+    "end_date": 1697209870000,
+    "duration": 25804000,
+    "distance": 69594767,
+    "2s_best": 17304,
+    "10s_best": 16843,
+    "500m_best": 15964,
+    "status": "completed"
+  }
+}

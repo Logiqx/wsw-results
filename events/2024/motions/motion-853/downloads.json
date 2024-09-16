@@ -1,0 +1,15 @@
+{
+  "CAR853MAR_853_20231011_113150.oao": {
+    "motion_file": "/logs/2023/10/0853_2023-10-11-1131.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/CAR853MAR_853_20231011_113150.oao",
+    "size": 685336,
+    "start_date": 1697020310000,
+    "end_date": 1697032378000,
+    "duration": 12068000,
+    "distance": 20273736,
+    "2s_best": 23070,
+    "10s_best": 22708,
+    "500m_best": 22555,
+    "status": "completed"
+  }
+}
