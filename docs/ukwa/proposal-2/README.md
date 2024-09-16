@@ -52,11 +52,11 @@ The following rules are proposed for future UKWA rounds to be considered valid.
 >
 > Windsurfing rounds will count towards the UKWA windsurfing rankings, if the following conditions are met.
 >
-1.1. There are at least 4 UKWA windsurfers who finish the round, referred to as finishers in 2.1 and 2.2.
+> 1.1. There are at least 4 UKWA windsurfers who finish the round, referred to as finishers in 2.1 and 2.2.
 >
 > 2.1. Circa 25% of the finishers have a 2-run average of 28 knots or higher.
 >
-> 2.2. Should the criteria for 2.1 be missed by a very narrow margin, 2.2.1 and 2.2.2 may trigger a counting round.
+> 2.2. Should the criteria for 2.1 be missed by a narrow margin, 2.2.1 and 2.2.2 can trigger a counting round.
 >
 > 2.2.1. Circa 50% of the finishers have a 2-run average of 26 knots or higher, and 2.2.2 is satisfied.
 >
@@ -75,6 +75,7 @@ The following rules are proposed for future UKWA rounds to be considered valid.
 > 5.1. The criteria for 2.1 and 2.2.1 refer to percentages, but the actual calculation will be based upon [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division).
 >
 > circa 25%... 20 finishers // 4 = 5 and 23 finishers // 4 = 5
+>
 > circa 50%... 20 finishers // 2 = 10 and 23 finishers // 2 = 11
 >
 > Floor division ensures a greater number of fair counting rounds, instead of a strict 25% and 50%.
