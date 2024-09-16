@@ -72,7 +72,7 @@ Windsurfing rounds will count towards the UKWA windsurfing rankings, if the foll
 
 **Percentages**
 
-5.1 The criteria for 2.1 and 2.2.1 refer to percentages, but the actual calculation will be based upon [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division).
+5.1. The criteria for 2.1 and 2.2.1 refer to percentages, but the actual calculation will be based upon [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division).
 
 circa 25%... 20 finishers // 4 = 5 and 23 finishers // 4 = 5
 circa 50%... 20 finishers // 2 = 10 and 23 finishers // 2 = 11
