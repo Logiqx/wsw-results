@@ -72,7 +72,7 @@ The following rules are proposed for future UKWA rounds to be considered valid.
 >
 > 5.1. The criteria for 2.1 and 2.3 refer to percentages, but the actual calculation will be based upon [floor division](https://www.designgurus.io/answers/detail/what-is-floor-division).
 >
-> Floor division (//) is a type of division that rounds down the nearest integer less than or equal to the division result.
+> Floor division (//) is a type of division that rounds down to the nearest integer less than or equal to the division result.
 >
 > The use of floor division ensures a greater number of fair counting rounds, instead of a strict 25% and 50%.
 >
