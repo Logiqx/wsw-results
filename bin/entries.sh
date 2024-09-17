@@ -9,3 +9,7 @@ done
 
 # Run the daily results
 run_py_script entries.py
+
+# Patch entries.csv and motions.csv
+YEAR=$(date +%Y)
+$(dirname $0)/fix_$YEAR.sh
