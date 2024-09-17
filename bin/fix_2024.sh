@@ -1,8 +1,8 @@
 fix_all()
 {
     sed -i "s/$1/$2/" events/2024/config/entries.csv
-    sed -i "s/$1/$2/" events/2024/config/entrants.csv
-    sed -i "s/$1/$2/" events/2024/config/motions.csv
+    #sed -i "s/$1/$2/" events/2024/config/entrants.csv
+    #sed -i "s/$1/$2/" events/2024/config/motions.csv
 }
 
 # Fix countries
