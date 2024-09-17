@@ -88,8 +88,8 @@
       "Filter": "Craft Type=Sailboard,Age=Youth,Weekend=Y"
     },
     {
-      "Name": "'Fastest Lady' Shield",
-      "Category": "Lady",
+      "Name": "'Fastest Female' Shield",
+      "Category": "Female",
       "Filter": "Gender=F"
     },
     {
@@ -125,7 +125,7 @@
       "Places": 3
     },
     {
-      "Category": "Lady Sailboard",
+      "Category": "Female Sailboard",
       "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
       "Places": 1
     },

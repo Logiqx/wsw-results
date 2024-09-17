@@ -14,7 +14,7 @@
   "Profile": true,
   "Reports": [
     {
-      "Title": "All Ladies",
+      "Title": "All Females",
       "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)",
       "Filter": "Gender=F"
     },
@@ -69,7 +69,7 @@
       "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y"
     },
     {
-      "Title": "All Lady Sailboards",
+      "Title": "All Female Sailboards",
       "Comment": "(excluding pros)",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet"

@@ -60,7 +60,7 @@
       "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y"
     },
     {
-      "Title": "All Ladies",
+      "Title": "All Females",
       "Fields": "Name,Nation,Craft Type,Entry Type,First Timer,Tally",
       "Filter": "Gender=F"
     },
