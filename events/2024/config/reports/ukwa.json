@@ -6,52 +6,52 @@
   "Series": "UKWA",
   "Reports": [
     {
-      "Title": "Leg 1 - Sailboards (Men)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
+      "Title": "Leg 1 - Sailboards (Open)",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
       "Filter": "Craft Type=Sailboard,Gender=M,UKWA=Leg 1",
-      "Fleet": "Men's Sailboard"
+      "Fleet": "Open Sailboard"
     },
     {
-      "Title": "Leg 1 - Sailboards (Women)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
+      "Title": "Leg 1 - Sailboards (Female)",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
       "Filter": "Craft Type=Sailboard,Gender=F,UKWA=Leg 1",
-      "Fleet": "Women's Sailboard"
+      "Fleet": "Female Sailboard"
     },
     {
-      "Title": "Leg 1 - Wingboards (Men)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
+      "Title": "Leg 1 - Wingboards (Open)",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
       "Filter": "Craft Type=Wingboard,Gender=M,UKWA=Leg 1",
-      "Fleet": "Men's Wingboard"
+      "Fleet": "Open Wingboard"
     },
     {
-      "Title": "Leg 1 - Wingboards (Women)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
+      "Title": "Leg 1 - Wingboards (Female)",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
       "Filter": "Craft Type=Wingboard,Gender=F,UKWA=Leg 1",
-      "Fleet": "Women's Wingboard"
+      "Fleet": "Female Wingboard"
     },
     {
-      "Title": "Leg 2 - Sailboards (Men)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
+      "Title": "Leg 2 - Sailboards (Open)",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
       "Filter": "Craft Type=Sailboard,Gender=M,UKWA=Leg 2",
-      "Fleet": "Men's Sailboard"
+      "Fleet": "Open Sailboard"
     },
     {
-      "Title": "Leg 2 - Sailboards (Women)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 28 knots two times",
+      "Title": "Leg 2 - Sailboards (Female)",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
       "Filter": "Craft Type=Sailboard,Gender=F,UKWA=Leg 2",
-      "Fleet": "Women's Sailboard"
+      "Fleet": "Female Sailboard"
     },
     {
-      "Title": "Leg 2 - Wingboards (Men)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
+      "Title": "Leg 2 - Wingboards (Open)",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
       "Filter": "Craft Type=Wingboard,Gender=M,UKWA=Leg 2",
-      "Fleet": "Men's Wingboard"
+      "Fleet": "Open Wingboard"
     },
     {
-      "Title": "Leg 2 - Wingboards (Women)",
-      "Comment": "Rounds will only count towards the event when 25% of the riders achieve over 18 knots two times",
+      "Title": "Leg 2 - Wingboards (Female)",
+      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
       "Filter": "Craft Type=Wingboard,Gender=F,UKWA=Leg 2",
-      "Fleet": "Women's Wingboard"
+      "Fleet": "Female Wingboard"
     }
   ]
 }
