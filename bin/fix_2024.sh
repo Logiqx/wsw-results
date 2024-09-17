@@ -1,18 +1,3 @@
-fix_entries()
-{
-    sed -i "s/$1/$2/" events/2024/config/entries.csv
-}
-
-fix_entrants()
-{
-    sed -i "s/$1/$2/" events/2024/config/entrants.csv
-}
-
-fix_motions()
-{
-    sed -i "s/$1/$2/" events/2024/config/motions.csv
-}
-
 fix_all()
 {
     sed -i "s/$1/$2/" events/2024/config/entries.csv
@@ -21,15 +6,15 @@ fix_all()
 }
 
 # Fix countries
-fix_entrants Belgique Belgium
-fix_entrants Nederland Netherlands
-fix_entrants "E gland" "United Kingdom"
-fix_entrants "Great Britain" "United Kingdom"
-fix_entrants "U.K." "United Kingdom"
-fix_entrants "Slow,," "Slow,United Kingdom,"
-fix_entrants "Speedfine,," "Speedfine,United Kingdom,"
-fix_entrants "Standish,," "Standish,United Kingdom,"
-fix_entrants "USA" "United States"
+fix_all Belgique Belgium
+fix_all Nederland Netherlands
+fix_all "E gland" "United Kingdom"
+fix_all "Great Britain" "United Kingdom"
+fix_all "U.K." "United Kingdom"
+fix_all "Slow,," "Slow,United Kingdom,"
+fix_all "Speedfine,," "Speedfine,United Kingdom,"
+fix_all "Standish,," "Standish,United Kingdom,"
+fix_all "USA" "United States"
 
 # Fix names such as George Fulton Fulton
 fix_all "Chris Cleland" "Cleland"
