@@ -15,7 +15,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1294,15,Mr,Rob,Main,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,NO
 1295,16,Mr,Rob,Dunn,United Kingdom,NO,Sailboard,Amateur,Adult,,Forces - Royal Navy,All Week,NO
 2296,17,Mr,Emile,Burnaby Lautier,Netherlands,NO,Kiteboard,Open Class,Adult,,None,All Week,N
-1297,18,Mr,Peter,Crosby,England,NO,Sailboard,Gold-Fleet,Adult,,Surf Hogs,All Week,NO
+1297,18,Mr,Peter,Crosby,England,NO,Sailboard,Gold-Fleet,Adult,,Surf Hogs,All Week,YES
 1298,19,Mr,Gary,Nichols,United Kingdom,YES,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 3298,19,Mr,Gary,Nichols,United Kingdom,YES,Wingboard,Amateur,Adult,,None,All Week,YES
 1299,20,Mr,Eddie,Marsh,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
@@ -58,7 +58,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 2334,55,Mr,Neil,Slow,United Kingdom,NO,Kiteboard,Open Class,Adult,,None,All Week,N
 2335,56,Mr,Daniel,Speedfine,United Kingdom,YES,Kiteboard,Freeride,Youth,,None,Youth W/E,N
 3336,57,Mr,Simon,Maguire,United Kingdom,NO,Wingboard,Amateur,Adult,,None,All Week,NO
-1337,58,Mr,Danny,Cartridge,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,Hamworthy Heroes,All Week,NO
+1337,58,Mr,Danny,Cartridge,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,Hamworthy Heroes,All Week,YES
 3338,59,Mr,Mark,Salvage,England,NO,Wingboard,Amateur,Adult,,None,All Week,YES
 1339,60,Mr,Tim,Humphreys,United Kingdom,YES,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 1340,61,Mr,Dylan,Chick,United Kingdom,NO,Sailboard,Amateur,Youth,,None,Youth W/E,YES
@@ -85,7 +85,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1360,81,Mr,Scott,Norman,England,NO,Sailboard,Gold-Fleet,Youth,,The OTC,All Week,YES
 1361,82,Mr,Jim,Crossley,,NO,Sailboard,Pro-Fleet,Adult,,None,All Week,YES
 1362,83,Mr,Bob,Spagnoletti,United Kingdom,NO,Sailboard,Gold-Fleet,,,None,All Week,NO
-1363,84,Miss,Ellie,Gibson,England,YES,Sailboard,Amateur,,,Hamworthy Heroes,2 Days,NO
+1363,84,Miss,Ellie,Gibson,England,YES,Sailboard,Amateur,,,Hamworthy Heroes,2 Days,YES
 2364,85,Mr,Peter,Martin,United Kingdom,NO,Kiteboard,Freeride,,,None,All Week,N
 1365,86,Mr,Cash James,Cox,Uk,YES,Sailboard,Amateur,Youth,,None,Youth W/E,NO
 1366,87,Mr,Theo Cash,Cox,United Kingdom,YES,Sailboard,Amateur,Youth,,None,Youth W/E,NO
