@@ -8,6 +8,7 @@ fix_all()
 # Fix countries
 fix_all Belgique Belgium
 fix_all Nederland Netherlands
+fix_all ",DE," ",Germany,"
 fix_all "dosret" "United Kingdom"
 fix_all "E gland" "United Kingdom"
 fix_all "Great Britain" "United Kingdom"
