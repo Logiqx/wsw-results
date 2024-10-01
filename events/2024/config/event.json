@@ -5,6 +5,7 @@
     "End Date": "2024-10-18",
     "Banner": "wswlogo_2024.png"
   },
+  "Time Zone": 60,
   "Decimals": 2,
   "Courses": {
     "H": "Harbour",
