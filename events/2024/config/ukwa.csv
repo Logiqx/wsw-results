@@ -1,4 +1,4 @@
-Surname, first name	Membership	User	Is active	Renewal Date
+Member	Membership	User	Is active	Renewal Date
 Abbott, Tim (GBR902)	902	Timothyabbott	No	21 Jun 2021
 Abbott , Kelly (GBR905)	902	Kellyabbott	No
 Abbott, Alex (GBR904)	902	Alexabbott	No
@@ -7,7 +7,7 @@ Abel, Ben (GBR837)	837	babel	Yes	25 Oct 2024
 Acklam, David (GBR277)	277	DavidA	No	8 Oct 2018
 Acton, Oliver (GBR448)	448	Olliea	No	14 Mar 2014
 Adam, Duncan (GBR863)	863	DuncanAdam	Yes	1 Dec 2024
-Adams, Joe (GBR424)	424	Joeyyadams	Yes	1 Oct 2024
+Adams, Joe (GBR424)	424	Joeyyadams	No	1 Oct 2024
 Adcock, John (GBR890 / 6395)	890	johnadcock	No	20 Apr 2019
 Adcock, Mia (GBR894)	890	Miaadcock	No
 Adcock, Izzy (GBR988)	890	izzyadcock	No
@@ -283,7 +283,7 @@ Buchanan, Edward (GBR213)	213	Edbuchanan	No	14 May 2015
 Buckby, Sam (GBRK101)	101	SamBuckby	No	8 Dec 2010
 Buckland , Lewis (GBR861)	860	Lewisbuckland	No
 Budge, Andrew (GBR305 / 3054)	305	Andrew.Budge	No	14 Sep 2019
-Bukolt , Maciej (GBR404)	404	MaciejBukolt	No	6 Jul 2024
+Bukolt , Maciej (GBR404)	404	MaciejBukolt	Yes	7 Jul 2025
 Bulleid, James (GBR428)	428	gbr428	No	15 Jul 2011
 Bulson, James (GBR966 / 9926)	966	JABulson	Yes	18 Apr 2025
 Bulson, Ben (GBR408 / 9924)	408	benbulson	No	18 Aug 2019
@@ -824,6 +824,7 @@ Guest, Elodie (GBR336)	643	ElodieGuest	No
 Guest, Janine (GBR551)	551	JanineGuest	Yes	2 Dec 2024
 Guest, Chris (GBR145)	551	ChrisGuest	Yes
 Guest, Christopher (GBR643)	643	cguest	No	25 Mar 2016
+Guest, Leon (TBC)	None	leon73	Yes	3 Oct 2025
 Guest, Andrew (GBR172)	172	Guesty72	No	3 Jun 2022
 Gullan, Robert (GBR310)	310	Gullanrobert	Yes	23 Mar 2025
 Gulland, Tim (GBR454)	454	TimGulland	No	3 May 2022
@@ -967,7 +968,7 @@ Hill, Matt (GBR735)	735	planethill	No	11 Apr 2012
 Hill, Jason (GBR766)	766	jasonhill858	No	5 May 2018
 Hill, Ian (GBR622)	622	ianhill	No	15 May 2013
 Hill, Richard (GBR159)	159	bsidethecside	No	10 Apr 2016
-Hill, Ritchie (GBR396)	396	Ritchiehill	Yes	1 Oct 2025
+Hill, Ritchie (GBR395)	395	Ritchiehill	Yes	1 Oct 2025
 Hill, Gary (GBR554)	554	Gaz_217	No	13 May 2018
 Hilton, William (GBR194)	194	WillHilton94	No	2 May 2021
 Hilton, Dan (GBR980)	980	Dh4494	No	30 Oct 2015
@@ -1188,7 +1189,7 @@ King, Andy (TBC)	103	AndyKingK100	No	2 May 2024
 King, Stephen (GBR675)	675	Surftwin2	Yes	1 May 2025
 Kingaby, Leigh (GBR427)	427	leighkingaby	No	16 Apr 2023
 Kinnerley, David (GBR1311)	1311	DavidKinnerley	No	1 Dec 2020
-Kirkham, Corky (GBRK212)	212	corky	Yes	29 Sep 2025
+Kirkham, Corky (GBRK217)	217	corky	Yes	29 Sep 2025
 Kirton, Jonny (GBR997)	997	Jonnyk	No	14 May 2023
 Knight, Phil (GBR951)	951	coastobs	No	29 Jul 2017
 Knight, Genevieve (GBR663 / K663)	663	gknight	No	26 Oct 2013
@@ -1233,7 +1234,7 @@ Le Voi, Harry (GBR446)	446	tjlevoi	No	10 Sep 2019
 Leach, Julian (GBR375 / K375)	375	Jules	No	25 Oct 2014
 Leadbetter, Carole (GBR579)	579	josh	No	23 May 2011
 Leadbetter, Sam (GBR482)	482	samleadbetter	No	20 Aug 2017
-Leahy, Matt (TBC)	None	Mattjiml93	Yes	1 Oct 2025
+Leahy, Matt (GBR993)	993	Mattjiml93	Yes	1 Oct 2025
 Leary, Tim (GBR236)	236	TimLeary	No	1 Dec 2009
 Leask, Ingaela (GBR354 / GBR 3543)	354	Ingaela	Yes	19 Aug 2025
 Lee, Benjamin (GBR109)	109	BenjaminLee	No	11 Dec 2013
@@ -1260,7 +1261,7 @@ Lewis, Anya (GBR254)	254	AnyA	Yes	15 Aug 2025
 Libby, Dave (GBR429)	429	DaveLibby	No	2 Jun 2016
 Liddy, Aidan (GBR133 / 9909)	133	aidanliddy	No	27 Mar 2020
 Lila, Bondois (TBC)		BondoisLila	No
-Lilley, Matthew (GBR556)	556	Matt.L	Yes	2 Oct 2024
+Lilley, Matthew (GBR556)	556	Matt.L	Yes	3 Oct 2025
 Limm, Lewis (GBR168 / GBR3264)	168	LewisLimm03	Yes	8 Mar 2025
 Lindsay, Catriona (GBR / 430)	430	Catriona	No	26 Aug 2018
 Lindsay, Euan (GBR693)	693	euanl	No	22 Aug 2024
@@ -1386,7 +1387,7 @@ Mcguire, Ronan (GBRIR600)	1600	RonanMcguire	No	14 May 2011
 McIntosh, James (GBR450)	450	jamesmc2	No	26 Aug 2018
 Mcintyre, John (GBR113)	113	jm	No	14 Oct 2012
 Mcintyre, James (GBR221)	221	jamesmcintyre	No	10 Jun 2014
-McIvor, Joseph (GBR212)	212	joemcivor	No	29 Sep 2024
+McIvor, Joseph (GBR212)	212	joemcivor	Yes	30 Sep 2025
 McKenna, John (GBR440)	440	only1jmck	Yes	16 May 2025
 McKirgan, AJ (GBR648)	648	ajmckirgan	No	24 Aug 2016
 Mclawrence, John paul (GBR797 / K797)	797	pmclawrence	No	10 May 2016
@@ -1751,7 +1752,7 @@ Roberts, Ian (GBR1117)	1117	ianroberts	No	27 Jun 2021
 Roberts, Jennie (GBR667)	667	WINDJen	Yes	30 Jan 2025
 Roberts, Nick (GBR119)	119	NickR	No	29 Oct 2017
 Robertson, Callum (GBR443)	443	callumrobertson	Yes	14 Apr 2025
-Robineau Potts, Milo (GBR515 / 3531)	515	MiloRP	Yes	2 Oct 2024
+Robineau Potts, Milo (GBR515 / 3531)	515	MiloRP	No	2 Oct 2024
 Robins, Peter (GBR1113)	1113	PeterRobins	No	1 Dec 2022
 Robins, Sam (GBR694)	694	samrobins	No	8 Feb 2011
 Robinson, Liz (GBR190)	190	LizRobinson	No	3 Dec 2015
@@ -1965,7 +1966,7 @@ Smith, Callum (GBR392)	469	CallumSmith	No
 Smith, Lizzie (GBR458)	458	lizzieloosmith	No	6 May 2014
 Smith, Abigail (GBR295)	295	Cj2300	Yes	28 Aug 2025
 Smith, Rosemary (GBR823)	823	rosemarysmith	No	13 May 2022
-Smith, Luke (GBR255)	255	Luke-Smith93	No	30 Sep 2024
+Smith, Luke (GBR255)	255	Luke-Smith93	Yes	1 Oct 2025
 Smith, Phil (GBR283)	283	Gardaphil	No	2 Oct 2017
 Smith, James (GBR727)	727	jimgsmith	No	7 May 2019
 Smith, Amy (GBR171)	171	@smithadventures	Yes	3 Aug 2025
@@ -2021,7 +2022,7 @@ Stallman, Andy (GBR460)	460	intheblue	No	8 Sep 2021
 Stallman, Jo-anne (GBR461)	460	intheblue1	No
 Stallman, Scott (GBR68)	68	scottystallman@me.com	Yes	15 Sep 2025
 Standing, Dave (GBR203)	203	vinnie	No	1 Feb 2024
-Standish, JP (GBR555)	555	123standish	No	24 Sep 2024
+Standish, JP (GBR555)	555	123standish	Yes	25 Sep 2025
 Stanger, John (GBR420)	430	JohnStanger	No	20 Feb 2010
 stannard, jack (GBR362 / 3163)	362	windsurferjack	No	15 Jun 2016
 Staples, Ian (GBR479)	479	IanStaples	Yes	27 Dec 2024
@@ -2113,7 +2114,6 @@ Thompson, Alex (GBR98)	937	white_flock	No
 Thompson, Erica (GBR981)	937	ericathompson	No
 Thompson, George (GBR235)	235	georgeot	No	3 Sep 2010
 Thompson, Joseph (GBR201)	201	josephthompson	No	27 Jul 2018
-Thompson, Simon (GBR312)	312	Thompsonsimon	No	11 May 2020
 Thompson, Freddie (GBR832)	832	janer87	No	12 Jul 2017
 Thompson, James (GBR807)	807	suruga	No	13 Aug 2020
 Thompson, Peter (GBR410)	410	Braggingrights	No	21 Nov 2017
@@ -2201,8 +2201,7 @@ Van aken, Richard (TBC)	258	richard	No	28 Jan 2012
 VAN BIERVLIET, OLIVER (GBR876)	876	olly.vanbiervliet@gmail.com	No	29 Jul 2019
 Van der weijde, Lineke (TBC)	767	Lineke	No
 Vasey, Jeff (GBR128)	128	JeffVasey	No	1 Dec 2020
-Vass, Stacey (GBR470)	470	Stacey	No	28 Jan 2016
-Vass, Stacey (GBR117)	117	Staceyvass	No	16 Oct 2023
+Vass, Stacey (GBR117)	117	Staceyvass	Yes	1 Oct 2025
 Vasseur, Yann (GBR735 / F-735)	735	yannvasseur	No	28 Mar 2021
 Vasseur, Melanie (GBR738)	735	melanievasseur	No
 Veal, Mark (GBR438)	438	MarkVeal	No	6 Mar 2019

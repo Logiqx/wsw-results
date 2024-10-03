@@ -12,6 +12,7 @@ done
 # Fix countries
 fix_all ",UK *," ",United Kingdom,"
 fix_all ",U.K. *," ",United Kingdom,"
+fix_all ",US *," ",United States,"
 fix_all ",USA *," ",United States,"
 
 # Fix names such as George Fulton Fulton
