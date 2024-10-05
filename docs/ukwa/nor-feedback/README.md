@@ -6,7 +6,7 @@
 
 The formatting is nice, but there are ambiguities and inconsistencies.
 
-The rules up until 2023  were written ina way that  did not reflect the true intention. We therefore  had a number of rounds which were deemed invalid, simply because the rules were applied as they were written.
+The rules up until 2023  were written in a way that  did not reflect the true intention. We therefore  had a number of rounds which were deemed invalid, simply because the rules were applied as they were written.
 
 For this reason it is imperative that new rules be written in a way that is wholely unambiguous. It is difficult to write them so they are unambiguous as there are numerous pitfalls.
 
@@ -15,8 +15,6 @@ Here is a quick summary of where the NOR has issues and needs to be amended.
 ![img-01](img/img-01.png)
 
 - "Approximately 25% of the finishers ..."
-  - There is uncertainty in the precise figure, as it can be as low as 14% and not approximately 25%.
-    - I was loathed to even put "circa 25%" but did so to indicate uncertainty and nuance.
   - Ambiguity - Does "25% of finishers" refer to the WSW competitors, or just the UKWA competitors?
     - The original draft explicitly defined the "finishers"  and to which rules it applied.
 
@@ -28,7 +26,6 @@ Here is a quick summary of where the NOR has issues and needs to be amended.
   - Ambiguity - What if it is missed by 2 (or more) competitors with identical speeds?
     - e.g. 8 competitors - 29.0, 29.0, 28.0, 27.9, 27.9, 27.9, 27.9, 27.9
   - If interpreted strictly then the above example would be deemed non-counting.
-- As above, it's not not really 50% and can be as low as 40%.
 
 
 
