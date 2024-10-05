@@ -32,6 +32,7 @@ Here is a quick summary of where the NOR has issues and needs to be amended.
       - 8 competitors with averages of 29.0, 27.9, 27.0, 26.0, 25.0, 24.0, 23.0, 22.0
       - The second fastest competitor has just missed 28 knots, but the rest of the fleet are much slower this time.
       - Unlike the first example this would be deemed counting, because only one person has narrowly missed 28 knots, but 50% of the fleet have exceeded 26 knots.
+  - This is not how the rules are intended to be applied, since both examples should be deemed valid.
 
 
 ![img-02b](img/img-02b.png)
@@ -80,5 +81,4 @@ The section describing how percentages are calculated is inaccurate and makes no
 The original draft was carefully crafted to avoid any ambiguities and inconsistencies. It referred to circa 25% by way of compromise, prior to accurately describing the calculations, and making it clear that they are not based around percentages.
 
 It is unfortunate that the rules are so complex that we are in a situation where writing them can easily lead to ambiguities and inconsistencies. Far simpler rules are possible, including use of genuine percentages if the threshold was lowered to 27 knots.
-
 
