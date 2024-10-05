@@ -88,7 +88,7 @@ The wording "missed by one competitor" is ambiguous, but if it were to be strict
 
 The section describing how percentages are calculated is inaccurate and makes no sense mathematically. People working in my industry would be ridiculed for writing something like that in a software specification.
 
-The original draft was carefully crafted to avoid any ambiguities and inconsistencies. It referred to circa 25% by way of compromise, prior to accurately describing the calculations, and making it clear that they are not based around percentages.
+The original draft was carefully crafted to avoid any ambiguities. It referred to circa 25% by way of compromise, prior to accurately describing the actual calculations, and making it clear that they are not based around genuine percentages.
 
 It is unfortunate that the rules are so complex that we are in a situation where writing them can easily lead to ambiguities and inconsistencies. Far simpler rules are possible, including use of genuine percentages if the threshold was lowered to 27 knots.
 
