@@ -29,7 +29,7 @@ Here is a quick summary of where the NOR has issues and needs to be amended.
       - If interpreted strictly this would be deemed non-counting, because only seven people have narrowly missed 28 knots.
     - Example 2 is 8 competitors - 29.0, 27.9, 27.0, 26.0, 25.0, 24.0, 23.0, 22.0
       - The second fastest competitor has just missed 28 knots, but the rest of the fleet are much slower this time.
-      - Unlike the first example this would be deemed counting, because only one person has narrowly missed 28 knots.
+      - Unlike the first example this would be deemed counting, because only one person has narrowly missed 28 knots, but 50% of the fleet exceeded 26 knots.
 
 
 ![img-02b](img/img-02b.png)
