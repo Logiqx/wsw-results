@@ -31,11 +31,11 @@ Here is a quick summary of where the NOR has issues and needs to be amended.
     - Example 2
       - 8 competitors with averages of 29.0, 27.9, 27.0, 26.0, 25.0, 24.0, 23.0, 22.0
       - The second fastest competitor has narrowly missed 28 knots.
-      - This is counting, because only one person has narrowly missed 28 knots, and 50% of the fleet have exceeded 26 knots.
+      - This is counting, because only 1 person has narrowly missed 28 knots, and 50% of the fleet have exceeded 26 knots.
     - Example 3
       - 8 competitors with averages of 29.0, 27.9, 27.9, 27.9, 27.9, 27.9, 27.9, 27.9
       - Several competitors have narrowly missed 28 knots, but not by more than half a knot.
-      - If interpreted strictly this would be deemed non-counting, because seven people have narrowly missed 28 knots, despite the fleet being faster than the second example.
+      - This would be deemed non-counting, because 7 people have narrowly missed 28 knots.
   - This is not how the rules are intended to be applied, since examples 2 and 3 should both be deemed valid, noting that the third example is the fastest fleet.
 
 
