@@ -13,7 +13,7 @@ Here is a quick summary of where the wording has issues and needs to be amended.
 - "Approximately 25% of the finishers ..."
   - There is uncertainty in the precise figure, as it can be as low as 14% and not approximately 25%.
     - I was loathed to even put "circa 25%" but did so to indicate uncertainty and nuance.
-  - Ambiguity - Does "finishers" refer to the WSW competitors, or just the UKWA competitors?
+  - Ambiguity - Does "25% of finishers" refer to the WSW competitors, or just the UKWA competitors?
     - The original draft explicitly defined the "finishers"  and to which rules it applied.
 
 
@@ -23,13 +23,14 @@ Here is a quick summary of where the wording has issues and needs to be amended.
 - "If the above is missed by one competitor"
   - Ambiguity - What if it is missed by 2 (or more) competitors with identical speeds?
     - e.g. 8 competitors - 29.0, 29.0, 28.0, 27.9, 27.9, 27.9, 27.9, 27.9
+  - If interpreted strictly then the above example would be deemed non-counting.
 - As above, it's not not really 50% and can be as low as 40%.
 
 
 
 ![img-03](img/img-03.png)
 
-- It has since been agreed to use 24 and 22 knots, but that probably wasn't passed on.
+- It has since been agreed to use 24 and 22 knots for wings, but that probably wasn't passed on.
 
 
 
@@ -37,34 +38,32 @@ Here is a quick summary of where the wording has issues and needs to be amended.
 
 - "How percentages are calculated... Percentages are calculated using floor division"
   - These sentences make no mathematical sense. In this context the result is a number, not a percentage.
-
 - "Floor division divides two numbers and rounds down to the nearest whole number."
-
-  - This sentence is really incorrect, and at best ambiguous.
-  - Dividing 20 by 4 gives 5, then rounding down to the nearest whole number gives 4.
-  - There is a reason the standard definition includes "greater than or equal to the result".
+  - This is not the definition of floor division, and is at best ambiguous.
+- Dividing 20 by 4 gives 5, then rounding down to the nearest whole number gives 4, according to this definition.
+  - There is a reason why the standard definition includes "greater than or equal to the result".
 
   
 
 ![img-03](img/img-05.png)
 
 - "20 divided by 4 = 5" and "20 divided by 2 = 10".
-  - These are trivial cases and don't really have any value on their own.
+  - These are trivial examples and don't provide any value in isolation.
   - They are in contradiction with the (incorrect) definition of floor division, described earlier.
-  - The original examples illustrated numbers such as 23, illustrating the floor division, not typical rounding.
+  - The original examples included 23 to illustrate the appliction of floor division.
 
 
 
 ### Summary
 
-The reference to "finishers" has a vagueness which was addressed in the original draft. This could be misinterpreted, or abused by using the full WSW fleet. Rules should be unambiguous, not require interpretation.
+The reference to "finishers" has a vagueness which was addressed in the original draft. This could be misinterpreted, or abused by using the full WSW fleet. Rules should be unambiguous, and not require interpretation.
 
-The original proposal made a point of saying that the system is not based on percentages. The laymen rules referred to "circa 25%" to suggest uncertainty, but from thereon there was no reference to percentages, only the true definition.
+The original proposal made a point of saying that the system is not based on percentages. The laymen rules referred to "circa 25%" to obfuscate the true nature of the calculation, but from thereon there was no reference to percentages, only the use of floor division.
 
-The wording "missed by one competitor" is ambiguous, but if it were to be strictly interpreted rounds with lots of people who just miss the 28 knots threshold would be deemed non-counting. This is not the intention of the new system.
+The wording "missed by one competitor" is ambiguous, but if it were to be strictly applied then any rounds with lots of people just missing the 28 knots threshold would be deemed invalid. This is not the intention of the new system.
 
 The section describing how percentages are calculated is inaccurate and makes no sense mathematically. People working in my industry would be ridiculed for writing something like that in a specification.
 
-The original draft was carefully crafted to avoid any ambiguities and inconsistencies. It referred to circa 25% by way of compromise, prior to accurately describing the calculations, and making it clear that they are not based on percentages.
+The original draft was carefully crafted to avoid any ambiguities and inconsistencies. It referred to circa 25% by way of compromise, prior to accurately describing the calculations, and making it clear that they are not based around percentages.
 
-It is unfortunate that the rules are so complex that we are in a situation where writing them can easily lead to ambiguities and inconsistencies. Far simpler rules are possible, including genuine percentages if the requirement was 27 knots.
+It is unfortunate that the rules are so complex that we are in a situation where writing them can easily lead to ambiguities and inconsistencies. Far simpler rules are possible, including use of genuine percentages if the threshold was lowered to 27 knots.
