@@ -35,9 +35,15 @@ Here is a quick summary of where the NOR has issues and needs to be amended.
   - This is not how the rules are intended to be applied, since both examples should be deemed valid.
 
 
+
+
+
 ![img-02b](img/img-02b.png)
 
 - Fine, absent for wings?
+
+
+
 
 
 ![img-03](img/img-03.png)
@@ -45,6 +51,8 @@ Here is a quick summary of where the NOR has issues and needs to be amended.
 - For consistency this should perhaps also specify the minimum number of finishers, also 4?
 - It has since been agreed to use 24 and 22 knots for wings, but that probably wasn't passed on.
 - There is no equivalent of event ratification that was defined for windsurfers (see 9.3).
+
+
 
 
 
@@ -59,12 +67,14 @@ Here is a quick summary of where the NOR has issues and needs to be amended.
 
   
 
+
+
 ![img-03](img/img-05.png)
 
 - "20 divided by 4 = 5" and "20 divided by 2 = 10".
   - These are trivial examples and don't provide any value in isolation.
-  - They are in contradiction with the (incorrect) definition of floor division, described earlier.
-  - The original examples included 23 to illustrate the application of floor division.
+  - They are in contradiction with the (ambiguous) definition of floor division, described earlier.
+  - The original examples included 23 to clearly illustrate the application of floor division.
 
 
 
@@ -76,7 +86,7 @@ The original proposal made a point of saying that the system is not based on per
 
 The wording "missed by one competitor" is ambiguous, but if it were to be strictly applied then any rounds with lots of people just missing the 28 knots threshold would be deemed invalid. This is not the intention of the new system.
 
-The section describing how percentages are calculated is inaccurate and makes no sense mathematically. People working in my industry would be ridiculed for writing something like that in a specification.
+The section describing how percentages are calculated is inaccurate and makes no sense mathematically. People working in my industry would be ridiculed for writing something like that in a software specification.
 
 The original draft was carefully crafted to avoid any ambiguities and inconsistencies. It referred to circa 25% by way of compromise, prior to accurately describing the calculations, and making it clear that they are not based around percentages.
 
