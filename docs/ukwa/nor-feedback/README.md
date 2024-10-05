@@ -6,7 +6,11 @@
 
 The formatting is nice, but there are ambiguities and inconsistencies.
 
-Here is a quick summary of where the wording has issues and needs to be amended.
+The rules up until 2023  were written ina way that  did not reflect the true intention. We therefore  had a number of rounds which were deemed invalid, simply because the rules were applied as they were written.
+
+For this reason it is imperative that new rules be written in a way that is wholely unambiguous. It is difficult to write them so they are unambiguous as there are numerous pitfalls.
+
+Here is a quick summary of where the NOR has issues and needs to be amended.
 
 ![img-01](img/img-01.png)
 
@@ -67,3 +71,5 @@ The section describing how percentages are calculated is inaccurate and makes no
 The original draft was carefully crafted to avoid any ambiguities and inconsistencies. It referred to circa 25% by way of compromise, prior to accurately describing the calculations, and making it clear that they are not based around percentages.
 
 It is unfortunate that the rules are so complex that we are in a situation where writing them can easily lead to ambiguities and inconsistencies. Far simpler rules are possible, including use of genuine percentages if the threshold was lowered to 27 knots.
+
+
