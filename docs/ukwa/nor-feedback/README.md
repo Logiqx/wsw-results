@@ -29,10 +29,16 @@ Here is a quick summary of where the NOR has issues and needs to be amended.
     - If interpreted strictly this would be deemed non-counting, because 7 does not equal 1.
 
 
+![img-02b](img/img-02b.png)
+
+- Fine
+
 
 ![img-03](img/img-03.png)
 
+- For consistency this should perhaps also specify the minimum number of finishers, also 4?
 - It has since been agreed to use 24 and 22 knots for wings, but that probably wasn't passed on.
+- There is no equivalent of event ratification that was defined for windsurfers (see 9.3).
 
 
 
