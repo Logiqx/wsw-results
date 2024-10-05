@@ -41,7 +41,7 @@ Here is a quick summary of where the wording has issues and needs to be amended.
 - "Floor division divides two numbers and rounds down to the nearest whole number."
   - This is not the definition of floor division, and is at best ambiguous.
 - Dividing 20 by 4 gives 5, then rounding down to the nearest whole number gives 4, according to this definition.
-  - There is a reason why the standard definition includes "greater than or equal to the result".
+  - There is a reason why the standard definition includes "less than or equal to the division result".
 
   
 
