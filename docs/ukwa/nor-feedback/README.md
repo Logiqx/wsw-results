@@ -23,10 +23,13 @@ Here is a quick summary of where the NOR has issues and needs to be amended.
 ![img-02](img/img-02.png)
 
 - "If the above is missed by one competitor"
-  - Ambiguity - What if it is missed by 2 (or more) competitors with identical speeds?
-    - e.g. 8 competitors - 29.0, 27.9, 27.9, 27.9, 27.9, 27.9, 27.9, 27.9
-    - 2 people must exceed 28 knots, 7 competitors have narrowly missed 28 knots.
-    - If interpreted strictly this would be deemed non-counting, because 7 does not equal 1.
+  - Ambiguity - What if it is missed by 2 (or more) competitors with speeds just under 28 knots?
+    - Example 1.  8 competitors - 29.0, 27.9, 27.9, 27.9, 27.9, 27.9, 27.9, 27.9
+      - The second fastest competitor has just missed 28 knots, but not by more than half a knot.
+      - If interpreted strictly this would be deemed non-counting, because this applies to more than one person.
+    - Example 2. 8 competitors - 29.0, 27.9, 27.0, 26.0, 25.0, 24.0, 23.0, 22.0
+      - The second fastest competitor has just missed 28 knots, but the rest of the fleet are much slower this time.
+      - Unlike the first example this would be deemed counting, because only one person has narrowly missed 28 knots.
 
 
 ![img-02b](img/img-02b.png)
