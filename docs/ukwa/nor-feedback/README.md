@@ -50,7 +50,7 @@ Here is a quick summary of where the wording has issues and needs to be amended.
 - "20 divided by 4 = 5" and "20 divided by 2 = 10".
   - These are trivial examples and don't provide any value in isolation.
   - They are in contradiction with the (incorrect) definition of floor division, described earlier.
-  - The original examples included 23 to illustrate the appliction of floor division.
+  - The original examples included 23 to illustrate the application of floor division.
 
 
 
