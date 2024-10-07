@@ -1,0 +1,200 @@
+2024-10-07 06:57:33,WARNING,Motion 618 assigned to multiple people on 20241012
+2024-10-07 06:57:33,WARNING,Motion 618 assigned to multiple people on 20241013
+2024-10-07 06:57:33,WARNING,Motion 618 assigned to multiple people on 20241014
+2024-10-07 06:57:33,WARNING,Motion 618 assigned to multiple people on 20241015
+2024-10-07 06:57:33,WARNING,Motion 618 assigned to multiple people on 20241016
+2024-10-07 06:57:33,WARNING,Motion 618 assigned to multiple people on 20241017
+2024-10-07 06:57:33,WARNING,Motion 618 assigned to multiple people on 20241018
+2024-10-07 06:57:33,INFO,Starting thread pools
+2024-10-07 06:57:33,DEBUG,DetectionThreadPool starting
+2024-10-07 06:57:33,DEBUG,DetectionThread #1 starting
+2024-10-07 06:57:33,DEBUG,DetectionThread #2 starting
+2024-10-07 06:57:33,DEBUG,DetectionThread #3 starting
+2024-10-07 06:57:33,DEBUG,DetectionThread #4 starting
+2024-10-07 06:57:33,DEBUG,DetectionThread #5 starting
+2024-10-07 06:57:33,DEBUG,DetectionThread #6 starting
+2024-10-07 06:57:33,DEBUG,DetectionThread #7 starting
+2024-10-07 06:57:33,DEBUG,DetectionThread #8 starting
+2024-10-07 06:57:33,DEBUG,InspectionThreadPool starting
+2024-10-07 06:57:33,DEBUG,InspectionThread #1 starting
+2024-10-07 06:57:33,DEBUG,InspectionThread #2 starting
+2024-10-07 06:57:33,DEBUG,InspectionThread #3 starting
+2024-10-07 06:57:33,DEBUG,InspectionThread #4 starting
+2024-10-07 06:57:33,DEBUG,DownloadThreadPool starting
+2024-10-07 06:57:33,DEBUG,DownloadThread #1 starting
+2024-10-07 06:57:33,DEBUG,DownloadThread #2 starting
+2024-10-07 06:57:33,DEBUG,DownloadThread #3 starting
+2024-10-07 06:57:33,DEBUG,DownloadThread #4 starting
+2024-10-07 06:57:33,DEBUG,DisconnectionThreadPool starting
+2024-10-07 06:57:33,DEBUG,DisconnectionThread #1 starting
+2024-10-07 06:57:33,DEBUG,DisconnectionThread #2 starting
+2024-10-07 06:57:33,DEBUG,DisconnectionThread #3 starting
+2024-10-07 06:57:33,DEBUG,DisconnectionThread #4 starting
+2024-10-07 06:57:33,DEBUG,DisconnectionThread #5 starting
+2024-10-07 06:57:33,DEBUG,DisconnectionThread #6 starting
+2024-10-07 06:57:33,DEBUG,DisconnectionThread #7 starting
+2024-10-07 06:57:33,DEBUG,DisconnectionThread #8 starting
+2024-10-07 06:57:33,INFO,Thread pools started
+2024-10-07 06:57:43,INFO,Keyboard interrupt
+2024-10-07 06:57:43,INFO,Stopping thread pools
+2024-10-07 06:57:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-10-07 06:57:43,DEBUG,DetectionThreadPool finished
+2024-10-07 06:57:43,DEBUG,DetectionThread #1 finished
+2024-10-07 06:57:43,DEBUG,DetectionThread #2 finished
+2024-10-07 06:57:43,DEBUG,DetectionThread #3 finished
+2024-10-07 06:57:43,DEBUG,DetectionThread #4 finished
+2024-10-07 06:57:43,DEBUG,DetectionThread #5 finished
+2024-10-07 06:57:43,DEBUG,DetectionThread #6 finished
+2024-10-07 06:57:43,DEBUG,DetectionThread #7 finished
+2024-10-07 06:57:43,DEBUG,DetectionThread #8 finished
+2024-10-07 06:57:43,DEBUG,InspectionThreadPool finished
+2024-10-07 06:57:43,DEBUG,InspectionThread #1 finished
+2024-10-07 06:57:43,DEBUG,InspectionThread #2 finished
+2024-10-07 06:57:43,DEBUG,InspectionThread #3 finished
+2024-10-07 06:57:43,DEBUG,InspectionThread #4 finished
+2024-10-07 06:57:43,DEBUG,DownloadThreadPool finished
+2024-10-07 06:57:43,DEBUG,DownloadThread #1 finished
+2024-10-07 06:57:43,DEBUG,DownloadThread #2 finished
+2024-10-07 06:57:43,DEBUG,DownloadThread #3 finished
+2024-10-07 06:57:43,DEBUG,DownloadThread #4 finished
+2024-10-07 06:57:43,DEBUG,DisconnectionThreadPool finished
+2024-10-07 06:57:43,DEBUG,DisconnectionThread #1 finished
+2024-10-07 06:57:43,DEBUG,DisconnectionThread #2 finished
+2024-10-07 06:57:43,DEBUG,DisconnectionThread #3 finished
+2024-10-07 06:57:43,DEBUG,DisconnectionThread #4 finished
+2024-10-07 06:57:43,DEBUG,DisconnectionThread #5 finished
+2024-10-07 06:57:43,DEBUG,DisconnectionThread #6 finished
+2024-10-07 06:57:43,DEBUG,DisconnectionThread #7 finished
+2024-10-07 06:57:43,DEBUG,DisconnectionThread #8 finished
+2024-10-07 06:57:43,INFO,Thread pools stopped
+2024-10-07 07:41:52,WARNING,Motion 618 assigned to multiple people on 20241012
+2024-10-07 07:41:52,WARNING,Motion 618 assigned to multiple people on 20241013
+2024-10-07 07:41:52,WARNING,Motion 618 assigned to multiple people on 20241014
+2024-10-07 07:41:52,WARNING,Motion 618 assigned to multiple people on 20241015
+2024-10-07 07:41:52,WARNING,Motion 618 assigned to multiple people on 20241016
+2024-10-07 07:41:52,WARNING,Motion 618 assigned to multiple people on 20241017
+2024-10-07 07:41:52,WARNING,Motion 618 assigned to multiple people on 20241018
+2024-10-07 07:41:52,INFO,Starting thread pools
+2024-10-07 07:41:52,DEBUG,DetectionThreadPool starting
+2024-10-07 07:41:52,DEBUG,DetectionThread #1 starting
+2024-10-07 07:41:52,DEBUG,DetectionThread #2 starting
+2024-10-07 07:41:52,DEBUG,DetectionThread #3 starting
+2024-10-07 07:41:52,DEBUG,DetectionThread #4 starting
+2024-10-07 07:41:52,DEBUG,DetectionThread #5 starting
+2024-10-07 07:41:52,DEBUG,DetectionThread #6 starting
+2024-10-07 07:41:52,DEBUG,DetectionThread #7 starting
+2024-10-07 07:41:52,DEBUG,DetectionThread #8 starting
+2024-10-07 07:41:52,DEBUG,InspectionThreadPool starting
+2024-10-07 07:41:52,DEBUG,InspectionThread #1 starting
+2024-10-07 07:41:52,DEBUG,InspectionThread #2 starting
+2024-10-07 07:41:52,DEBUG,InspectionThread #3 starting
+2024-10-07 07:41:52,DEBUG,InspectionThread #4 starting
+2024-10-07 07:41:52,DEBUG,DownloadThreadPool starting
+2024-10-07 07:41:52,DEBUG,DownloadThread #1 starting
+2024-10-07 07:41:52,DEBUG,DownloadThread #2 starting
+2024-10-07 07:41:52,DEBUG,DownloadThread #3 starting
+2024-10-07 07:41:52,DEBUG,DownloadThread #4 starting
+2024-10-07 07:41:52,DEBUG,DisconnectionThreadPool starting
+2024-10-07 07:41:52,DEBUG,DisconnectionThread #1 starting
+2024-10-07 07:41:52,DEBUG,DisconnectionThread #2 starting
+2024-10-07 07:41:52,DEBUG,DisconnectionThread #3 starting
+2024-10-07 07:41:52,DEBUG,DisconnectionThread #4 starting
+2024-10-07 07:41:52,DEBUG,DisconnectionThread #5 starting
+2024-10-07 07:41:52,DEBUG,DisconnectionThread #6 starting
+2024-10-07 07:41:52,DEBUG,DisconnectionThread #7 starting
+2024-10-07 07:41:52,DEBUG,DisconnectionThread #8 starting
+2024-10-07 07:41:52,INFO,Thread pools started
+2024-10-07 07:41:55,INFO,Keyboard interrupt
+2024-10-07 07:41:55,INFO,Stopping thread pools
+2024-10-07 07:42:02,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-10-07 07:42:02,DEBUG,DetectionThreadPool finished
+2024-10-07 07:42:02,DEBUG,DetectionThread #1 finished
+2024-10-07 07:42:02,DEBUG,DetectionThread #2 finished
+2024-10-07 07:42:02,DEBUG,DetectionThread #3 finished
+2024-10-07 07:42:02,DEBUG,DetectionThread #4 finished
+2024-10-07 07:42:02,DEBUG,DetectionThread #5 finished
+2024-10-07 07:42:02,DEBUG,DetectionThread #6 finished
+2024-10-07 07:42:02,DEBUG,DetectionThread #7 finished
+2024-10-07 07:42:02,DEBUG,DetectionThread #8 finished
+2024-10-07 07:42:02,DEBUG,InspectionThreadPool finished
+2024-10-07 07:42:02,DEBUG,InspectionThread #1 finished
+2024-10-07 07:42:02,DEBUG,InspectionThread #2 finished
+2024-10-07 07:42:02,DEBUG,InspectionThread #3 finished
+2024-10-07 07:42:02,DEBUG,InspectionThread #4 finished
+2024-10-07 07:42:02,DEBUG,DownloadThreadPool finished
+2024-10-07 07:42:02,DEBUG,DownloadThread #1 finished
+2024-10-07 07:42:02,DEBUG,DownloadThread #2 finished
+2024-10-07 07:42:02,DEBUG,DownloadThread #3 finished
+2024-10-07 07:42:02,DEBUG,DownloadThread #4 finished
+2024-10-07 07:42:02,DEBUG,DisconnectionThreadPool finished
+2024-10-07 07:42:02,DEBUG,DisconnectionThread #1 finished
+2024-10-07 07:42:02,DEBUG,DisconnectionThread #2 finished
+2024-10-07 07:42:02,DEBUG,DisconnectionThread #3 finished
+2024-10-07 07:42:02,DEBUG,DisconnectionThread #4 finished
+2024-10-07 07:42:02,DEBUG,DisconnectionThread #5 finished
+2024-10-07 07:42:02,DEBUG,DisconnectionThread #6 finished
+2024-10-07 07:42:02,DEBUG,DisconnectionThread #7 finished
+2024-10-07 07:42:02,DEBUG,DisconnectionThread #8 finished
+2024-10-07 07:42:02,INFO,Thread pools stopped
+2024-10-07 07:48:25,INFO,Starting thread pools
+2024-10-07 07:48:25,DEBUG,DetectionThreadPool starting
+2024-10-07 07:48:25,DEBUG,DetectionThread #1 starting
+2024-10-07 07:48:25,DEBUG,DetectionThread #2 starting
+2024-10-07 07:48:25,DEBUG,DetectionThread #3 starting
+2024-10-07 07:48:25,DEBUG,DetectionThread #4 starting
+2024-10-07 07:48:25,DEBUG,DetectionThread #5 starting
+2024-10-07 07:48:25,DEBUG,DetectionThread #6 starting
+2024-10-07 07:48:25,DEBUG,DetectionThread #7 starting
+2024-10-07 07:48:25,DEBUG,DetectionThread #8 starting
+2024-10-07 07:48:25,DEBUG,InspectionThreadPool starting
+2024-10-07 07:48:25,DEBUG,InspectionThread #1 starting
+2024-10-07 07:48:25,DEBUG,InspectionThread #2 starting
+2024-10-07 07:48:25,DEBUG,InspectionThread #3 starting
+2024-10-07 07:48:25,DEBUG,InspectionThread #4 starting
+2024-10-07 07:48:25,DEBUG,DownloadThreadPool starting
+2024-10-07 07:48:25,DEBUG,DownloadThread #1 starting
+2024-10-07 07:48:25,DEBUG,DownloadThread #2 starting
+2024-10-07 07:48:25,DEBUG,DownloadThread #3 starting
+2024-10-07 07:48:25,DEBUG,DownloadThread #4 starting
+2024-10-07 07:48:25,DEBUG,DisconnectionThreadPool starting
+2024-10-07 07:48:25,DEBUG,DisconnectionThread #1 starting
+2024-10-07 07:48:25,DEBUG,DisconnectionThread #2 starting
+2024-10-07 07:48:25,DEBUG,DisconnectionThread #3 starting
+2024-10-07 07:48:25,DEBUG,DisconnectionThread #4 starting
+2024-10-07 07:48:25,DEBUG,DisconnectionThread #5 starting
+2024-10-07 07:48:25,DEBUG,DisconnectionThread #6 starting
+2024-10-07 07:48:25,DEBUG,DisconnectionThread #7 starting
+2024-10-07 07:48:25,DEBUG,DisconnectionThread #8 starting
+2024-10-07 07:48:25,INFO,Thread pools started
+2024-10-07 07:48:27,INFO,Keyboard interrupt
+2024-10-07 07:48:27,INFO,Stopping thread pools
+2024-10-07 07:48:35,DEBUG,DetectionThreadPool has exceeded the interval time
+2024-10-07 07:48:35,DEBUG,DetectionThreadPool finished
+2024-10-07 07:48:35,DEBUG,DetectionThread #1 finished
+2024-10-07 07:48:35,DEBUG,DetectionThread #2 finished
+2024-10-07 07:48:35,DEBUG,DetectionThread #3 finished
+2024-10-07 07:48:35,DEBUG,DetectionThread #4 finished
+2024-10-07 07:48:35,DEBUG,DetectionThread #5 finished
+2024-10-07 07:48:35,DEBUG,DetectionThread #6 finished
+2024-10-07 07:48:35,DEBUG,DetectionThread #7 finished
+2024-10-07 07:48:35,DEBUG,DetectionThread #8 finished
+2024-10-07 07:48:35,DEBUG,InspectionThreadPool finished
+2024-10-07 07:48:35,DEBUG,InspectionThread #1 finished
+2024-10-07 07:48:35,DEBUG,InspectionThread #2 finished
+2024-10-07 07:48:35,DEBUG,InspectionThread #3 finished
+2024-10-07 07:48:35,DEBUG,InspectionThread #4 finished
+2024-10-07 07:48:35,DEBUG,DownloadThreadPool finished
+2024-10-07 07:48:35,DEBUG,DownloadThread #1 finished
+2024-10-07 07:48:35,DEBUG,DownloadThread #2 finished
+2024-10-07 07:48:35,DEBUG,DownloadThread #3 finished
+2024-10-07 07:48:35,DEBUG,DownloadThread #4 finished
+2024-10-07 07:48:35,DEBUG,DisconnectionThreadPool finished
+2024-10-07 07:48:35,DEBUG,DisconnectionThread #1 finished
+2024-10-07 07:48:35,DEBUG,DisconnectionThread #2 finished
+2024-10-07 07:48:35,DEBUG,DisconnectionThread #3 finished
+2024-10-07 07:48:35,DEBUG,DisconnectionThread #4 finished
+2024-10-07 07:48:35,DEBUG,DisconnectionThread #5 finished
+2024-10-07 07:48:35,DEBUG,DisconnectionThread #6 finished
+2024-10-07 07:48:35,DEBUG,DisconnectionThread #7 finished
+2024-10-07 07:48:35,DEBUG,DisconnectionThread #8 finished
+2024-10-07 07:48:35,INFO,Thread pools stopped

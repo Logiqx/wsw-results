@@ -16,6 +16,7 @@ fix_all ",US *," ",United States,"
 fix_all ",USA *," ",United States,"
 
 # Fix names such as George Fulton Fulton
+fix_all "Jean-marc" "Jean-Marc"
 fix_all "Chris Cleland" "Cleland"
 fix_all "Jason Morton,Jason Morton" "Jason,Morton"
 
