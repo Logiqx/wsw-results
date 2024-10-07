@@ -20,7 +20,8 @@ fix_all "Jean-marc" "Jean-Marc"
 fix_all "Chris Cleland" "Cleland"
 fix_all "Jason Morton,Jason Morton" "Jason,Morton"
 
-# Use previous names
+# Fix groups
+fix_all "Weymouth and Portland Kitesurfing Club" ""
 
 # Check for any suspect family names!
 grep 'M[rs][a-z]*,[A-Za-z]*,[A-Za-z]* [A-Za-z]*' events/2024/config/entrants.csv
