@@ -6,7 +6,7 @@
   "Reports": [
     {
       "Title": "All Boats",
-      "Fields": "Name,Nation,Boat Name,Entry Type,First Timer,Tally,Motion",
+      "Fields": "Name,Nation,Boat Name,Entry Type,Tally,Motion",
       "Filter": "Craft Type=Boat"
     },
     {
@@ -61,18 +61,18 @@
     },
     {
       "Title": "All Females",
-      "Fields": "Name,Nation,Craft Type,Entry Type,First Timer,Tally,Motion",
+      "Fields": "Name,Nation,Craft Type,Entry Type,Tally,Motion",
       "Filter": "Gender=F"
     },
     {
       "Title": "All Youths",
       "Comment": "(age <18 for both days of the event)",
-      "Fields": "Name,Nation,Craft Type,Entry Type,First Timer,Tally,Motion",
+      "Fields": "Name,Nation,Craft Type,Entry Type,Tally,Motion",
       "Filter": "Age=Youth"
     },
     {
       "Title": "All Craft TBCs",
-      "Fields": "Name,Nation,Craft Type,Entry Type,First Timer,Tally,Motion",
+      "Fields": "Name,Nation,Craft Type,Entry Type,Tally,Motion",
       "Filter": "Craft Type=TBC"
     }
   ]
