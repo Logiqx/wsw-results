@@ -11,5 +11,8 @@ done
 YEAR=$(date +%Y)
 $(dirname $0)/fix_$YEAR.sh
 
-# Run the daily results
+# Process the entries
 run_py_script entries.py
+
+# Run the daily results
+run_py_script results.py
