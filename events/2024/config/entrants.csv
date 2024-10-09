@@ -14,7 +14,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1294,15,Mr,Rob,Main,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,NO
 1295,16,Mr,Rob,Dunn,United Kingdom,NO,Sailboard,Amateur,Adult,,Forces - Royal Navy,All Week,NO
 2296,17,Mr,Emile,Burnaby Lautier,Netherlands,NO,Kiteboard,Open Class,Adult,,None,All Week,N
-1297,18,Mr,Peter,Crosby,England,NO,Sailboard,Gold-Fleet,Adult,,Surf Hogs,All Week,YES
+1297,18,Mr,Peter,Crosby,England,NO,Sailboard,Gold-Fleet,Adult,,Surf Hogs,All Week,NO
 1298,19,Mr,Gary,Nichols,United Kingdom,YES,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 3298,19,Mr,Gary,Nichols,United Kingdom,YES,Wingboard,Amateur,Adult,,None,All Week,YES
 1299,20,Mr,Eddie,Marsh,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
@@ -99,7 +99,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1374,95,Ms,Jenna,Jenkins,uk,NO,Sailboard,Amateur,Youth,,None,All Week,NO
 1375,96,Mr,Scotty,Stallman,England,NO,Sailboard,Pro-Fleet,Adult,,The OTC,All Week,YES
 3375,96,Mr,Scotty,Stallman,England,NO,Wingboard,Pro-Fleet,Adult,,The OTC,All Week,YES
-3376,97,Mr,Nick,Barrett,United Kingdom,YES,Wingboard,Amateur,Adult,,None,Youth W/E,NO
+3376,97,Mr,Nick,Barrett,United Kingdom,YES,Wingboard,Amateur,Adult,,None,Youth W/E,YES
 3377,98,Mr,Finlay,Chandler,United Kingdom,NO,Wingboard,Pro-Fleet,Youth,,None,Youth W/E,YES
 3378,99,Mr,Sullie,Yelland,United Kingdom,NO,Wingboard,Pro-Fleet,Youth,,None,Youth W/E,YES
 3379,100,Miss,Mia,Adcock,United Kingdom,NO,Wingboard,Amateur,Adult,,None,All Week,NO
