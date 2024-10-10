@@ -1,0 +1,15 @@
+{
+  "1040_1040_20241010_154851.oao": {
+    "motion_file": "/logs/2024/10/1040_2024-10-10-1548.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241010/1040_1040_20241010_154851.oao",
+    "size": 182600,
+    "start_date": 1728571731000,
+    "end_date": 1728573575000,
+    "duration": 1844000,
+    "distance": 8157422,
+    "2s_best": 19942,
+    "10s_best": 19577,
+    "500m_best": 19387,
+    "status": "completed"
+  }
+}
