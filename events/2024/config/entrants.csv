@@ -30,7 +30,6 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1309,30,Mr,David,Beswick,United Kingdom,YES,Sailboard,Amateur,Adult,,None,2 Days,NO
 1310,31,Mr,Tim,Bate,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,Hamworthy Heroes,All Week,YES
 1311,32,Mr,Scott,Harrison,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
-1312,33,Mr,Simon,Coventry,United Kingdom,YES,Sailboard,Amateur,Adult,,Surf Hogs,All Week,NO
 1313,34,Mr,Scott,Mayhew,Uk,YES,Sailboard,Amateur,Adult,,None,All Week,NO
 1314,35,Mr,John,Oliver,United Kingdom,NO,Sailboard,Pro-Fleet,Adult,,Surf Hogs,All Week,YES
 1315,36,Mr,Will,Trossell,United Kingdom,NO,Sailboard,Pro-Fleet,Adult,,Hamworthy Heroes,All Week,YES
@@ -63,7 +62,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1340,61,Mr,Dylan,Chick,United Kingdom,NO,Sailboard,Amateur,Youth,,None,Youth W/E,YES
 1341,62,Mr,Trevor,Whatford,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 3343,64,Ms,Helena,Darvelid,Uk,NO,Wingboard,Amateur,Adult,,None,2 Days,NO
-2344,65,Ms,Aya,Eiffel,Germany,YES,Kiteboard,Open Class,Adult,,None,All Week,N
+2344,65,Ms,Aya,Eiffel,United States,YES,Kiteboard,Open Class,Adult,,None,All Week,N
 1345,66,Mr,Rob,Longstaff,United Kingdom,NO,Sailboard,Amateur,Adult,,None,2 Days,NO
 1346,67,Mr,Ben,Robbins,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 3346,67,Mr,Ben,Robbins,United Kingdom,NO,Wingboard,Amateur,Adult,,None,All Week,YES
