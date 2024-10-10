@@ -4,8 +4,8 @@
       "code": 108,
       "name": "Wireless Mini M10"
     },
-    "username": "WSW",
-    "speed_unit": "kn",
+    "username": "",
+    "speed_unit": "km/h",
     "distance_unit": "km",
     "gnss_rate": "5",
     "one_log_per_day": "0",
@@ -37,16 +37,16 @@
       "substract": "0",
       "rows": [
         {
-          "code": "78"
+          "code": "34"
         },
         {
-          "code": "79"
+          "code": "35"
         },
         {
-          "code": "67"
+          "code": "100"
         },
         {
-          "code": "68"
+          "code": "101"
         }
       ]
     }
