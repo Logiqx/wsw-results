@@ -29,7 +29,6 @@ Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailbo
 309,2024-09-07 14:39:39,Mr,David,Beswick,United Kingdom,,,1,Amateur,NO,NO,,,,,,,,YES,None,30,,YES,,,YES,,Sailboard Motion Allocated 858,,,2025
 310,2024-09-07 14:41:51,Mr,Tim,Bate,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,,,NO,Hamworthy Heroes,31,,YES,,YES,,,Sailboard Motion Allocated 667,,,2025
 311,2024-09-07 15:03:52,Mr,Scott,Harrison,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,JP/ Neil Pryde,,NO,None,32,,YES,,YES,,,Sailboard Motion Allocated 668,,,2025
-312,2024-09-07 15:13:10,Mr,Simon,Coventry,United Kingdom,,,1,Amateur,NO,NO,,,,,,,,YES,Surf Hogs,33,,YES,,YES,,,Sailboard Motion Allocated 669,,,2025
 313,2024-09-07 15:13:32,Mr,Scott,Mayhew,Uk,,,1,Amateur,NO,NO,,,,,,,,YES,None,34,,YES,,YES,,,Sailboard Motion Allocated 693,,,2025
 314,2024-09-07 16:13:09,Mr,John,Oliver,United Kingdom,,,1,Pro-Fleet,YES,NO,,,,,,,,NO,Surf Hogs,35,,YES,,YES,,,Sailboard Motion Allocated 694,,,2025
 315,2024-09-07 17:32:28,Mr,Will,Trossell,United Kingdom,,,1,Pro-Fleet,YES,NO,,,,,,JP Neilpryde,,NO,Hamworthy Heroes,36,,YES,,YES,,,Sailboard Motion Allocated 695,,,2025
@@ -60,7 +59,7 @@ Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailbo
 340,2024-09-09 21:20:07,Mr,Dylan,Chick,United Kingdom,,,1,Amateur,YES,NO,,,,,,,,NO,None,61,YES,,YES,,,,Sailboard Motion Allocated 855,,,2025
 341,2024-09-09 22:37:48,Mr,Trevor,Whatford,United Kingdom,,,1,Gold-Fleet,YES,NO,,,,,,None,,NO,None,62,,YES,,YES,,,Sailboard Motion Allocated 821,,,2025
 343,2024-09-10 11:47:33,Ms,Helena,Darvelid,Uk,1,Amateur,,,NO,,,,,,,,,NO,None,64,,YES,,,YES,Wingboard Motion Allocated 866,,,,2025
-344,2024-09-10 11:54:29,Ms,Aya,Eiffel,Germany,,,,,,,1,Open Class,,,,,,YES,None,65,,YES,,YES,,,,Kiteboard Motion Allocated 823,,2025
+344,2024-09-10 11:54:29,Ms,Aya,Eiffel,United States,,,,,,,1,Open Class,,,,,,YES,None,65,,YES,,YES,,,,Kiteboard Motion Allocated 823,,2025
 345,2024-09-10 17:59:02,Mr,Rob,Longstaff,United Kingdom,,,1,Amateur,NO,NO,,,,,,,,NO,None,66,,YES,,,YES,,Sailboard Motion Allocated 871,,,2025
 346,2024-09-10 18:45:52,Mr,Ben,Robbins,United Kingdom,1,Amateur,1,Gold-Fleet,YES,NO,,,,,,Boardwise,,NO,None,67,,YES,,YES,,Wingboard Motion Allocated 825,Sailboard Motion Allocated 826,,,2025
 347,2024-09-10 19:53:27,Mr,Andrew,Collenette,United Kingdom,1,Amateur,,,YES,,,,,,,,,NO,None,68,,YES,,,YES,Wingboard Motion Allocated 867,,,,2025
@@ -81,8 +80,6 @@ Id,Created,Title,First Name,Family Name,Country,Wingboard,Wingboard Fleet,Sailbo
 362,2024-09-15 21:22:29,Mr,Bob,Spagnoletti,United Kingdom,,,1,Gold-Fleet,NO,NO,,,,,,,,NO,None,83,,YES,,YES,,,Sailboard Motion Allocated 824,,,2025
 363,2024-09-16 10:28:17,Miss,Ellie,Gibson,England,,,1,Amateur,NO,NO,,,,,,,,YES,Hamworthy Heroes,84,,YES,,,YES,,Sailboard Motion Allocated 873,,,2025
 364,2024-09-17 13:00:23,Mr,Peter,Martin,United Kingdom,,,,,,,1,Freeride,,,,,,NO,None,85,,YES,,YES,,,,Kiteboard Motion Allocated 829,,2025
-365,2024-09-17 15:00:24,Mr,Cash James,Cox,Uk,,,1,Amateur,NO,NO,,,,,,,,YES,None,86,YES,,YES,,,,WITHDRAWN,,,2025
-366,2024-09-17 15:06:14,Mr,Theo Cash,Cox,United Kingdom,,,1,Amateur,NO,NO,,,,,,,,YES,None,87,YES,,YES,,,,WITHDRAWN,,,2025
 367,2024-09-19 20:46:52,Mr,Mark,Newman,United Kingdom,,,1,Pro-Fleet,NO,NO,,,,,,,,NO,Portland Pirates,88,,YES,,YES,,,Sailboard Motion Allocated 841,,,2025
 368,2024-09-19 21:14:03,Mr,Jonathan,Wills,Uk,1,Amateur,,,NO,,,,,,,,,YES,SW Marine,89,,YES,,YES,,Wingboard Motion Allocated 845,,,,2025
 369,2024-09-20 09:51:48,Mr,Stacey,Vass,United Kingdom,1,Pro-Fleet,,,YES,,1,Open Class,,,Core SAB foil,,Core SAB foil,NO,None,90,,YES,,YES,,Wingboard Motion Allocated 849,,Kiteboard Motion Allocated 852,,2025
