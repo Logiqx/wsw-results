@@ -63,5 +63,18 @@
     "10s_best": 18195,
     "500m_best": 17613,
     "status": "completed"
+  },
+  "STA607JOH_607_20241012_115533.oao": {
+    "motion_file": "/logs/2024/10/0607_2024-10-12-1155.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/STA607JOH_607_20241012_115533.oao",
+    "size": 1475580,
+    "start_date": 1728730533000,
+    "end_date": 1728751405000,
+    "duration": 20872000,
+    "distance": 43785264,
+    "2s_best": 12045,
+    "10s_best": 11558,
+    "500m_best": 10419,
+    "status": "completed"
   }
 }

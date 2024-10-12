@@ -63,5 +63,18 @@
     "10s_best": 19857,
     "500m_best": 19668,
     "status": "completed"
+  },
+  "SPE867DAN_867_20241012_110601.oao": {
+    "motion_file": "/logs/2024/10/0867_2024-10-12-1106.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/SPE867DAN_867_20241012_110601.oao",
+    "size": 1641408,
+    "start_date": 1728727561000,
+    "end_date": 1728751661000,
+    "duration": 24100000,
+    "distance": 45410891,
+    "2s_best": 19589,
+    "10s_best": 19546,
+    "500m_best": 19305,
+    "status": "completed"
   }
 }

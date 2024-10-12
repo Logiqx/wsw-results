@@ -12,8 +12,8 @@
     "timezone": "60",
     "wifi": [
       {
-        "login": "",
-        "password_length": "0",
+        "login": "PLUSNET-PNC3QZ",
+        "password_length": "14",
         "trust": "0"
       },
       {

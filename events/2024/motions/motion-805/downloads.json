@@ -11,5 +11,18 @@
     "10s_best": 12387,
     "500m_best": 12187,
     "status": "completed"
+  },
+  "TAY805ROG_805_20241012_105339.oao": {
+    "motion_file": "/logs/2024/10/0805_2024-10-12-1053.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/TAY805ROG_805_20241012_105339.oao",
+    "size": 11780,
+    "start_date": 1728726819000,
+    "end_date": 1728745953000,
+    "duration": 19134000,
+    "distance": 4819539,
+    "2s_best": 2308,
+    "10s_best": 1433,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

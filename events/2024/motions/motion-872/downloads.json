@@ -24,5 +24,18 @@
     "10s_best": 13355,
     "500m_best": 12862,
     "status": "completed"
+  },
+  "YEL872SUL_872_20241012_105933.oao": {
+    "motion_file": "/logs/2024/10/0872_2024-10-12-1059.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/YEL872SUL_872_20241012_105933.oao",
+    "size": 940136,
+    "start_date": 1728727173000,
+    "end_date": 1728747841000,
+    "duration": 20668000,
+    "distance": 29575350,
+    "2s_best": 12502,
+    "10s_best": 12247,
+    "500m_best": 11938,
+    "status": "completed"
   }
 }

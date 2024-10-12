@@ -63,5 +63,18 @@
     "10s_best": 15232,
     "500m_best": 14948,
     "status": "completed"
+  },
+  "CAR816DAN_816_20241012_104209.oao": {
+    "motion_file": "/logs/2024/10/0816_2024-10-12-1042.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/CAR816DAN_816_20241012_104209.oao",
+    "size": 2058136,
+    "start_date": 1728726129000,
+    "end_date": 1728751569000,
+    "duration": 25440000,
+    "distance": 42670551,
+    "2s_best": 12800,
+    "10s_best": 12507,
+    "500m_best": 12024,
+    "status": "completed"
   }
 }
