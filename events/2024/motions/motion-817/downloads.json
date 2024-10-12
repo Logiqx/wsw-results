@@ -63,5 +63,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "SAL817MAR_817_20241012_110209.oao": {
+    "motion_file": "/logs/2024/10/0817_2024-10-12-1102.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/SAL817MAR_817_20241012_110209.oao",
+    "size": 952928,
+    "start_date": 1728727329000,
+    "end_date": 1728748455000,
+    "duration": 21126000,
+    "distance": 25224543,
+    "2s_best": 7978,
+    "10s_best": 7788,
+    "500m_best": 7622,
+    "status": "completed"
   }
 }

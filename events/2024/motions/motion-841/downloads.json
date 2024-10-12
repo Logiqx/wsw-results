@@ -50,5 +50,18 @@
     "10s_best": 14874,
     "500m_best": 14633,
     "status": "completed"
+  },
+  "NEW841MAR_841_20241012_110819.oao": {
+    "motion_file": "/logs/2024/10/0841_2024-10-12-1108.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/NEW841MAR_841_20241012_110819.oao",
+    "size": 1734904,
+    "start_date": 1728727699000,
+    "end_date": 1728751641000,
+    "duration": 23942000,
+    "distance": 51253427,
+    "2s_best": 16406,
+    "10s_best": 15953,
+    "500m_best": 15306,
+    "status": "completed"
   }
 }

@@ -24,5 +24,18 @@
     "10s_best": 13765,
     "500m_best": 13540,
     "status": "completed"
+  },
+  "CHA871FIN_871_20241012_113725.oao": {
+    "motion_file": "/logs/2024/10/0871_2024-10-12-1137.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/CHA871FIN_871_20241012_113725.oao",
+    "size": 1376052,
+    "start_date": 1728729445000,
+    "end_date": 1728748177000,
+    "duration": 18732000,
+    "distance": 43028558,
+    "2s_best": 14833,
+    "10s_best": 14351,
+    "500m_best": 13958,
+    "status": "completed"
   }
 }

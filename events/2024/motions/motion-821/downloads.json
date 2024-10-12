@@ -63,5 +63,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "WHA821TRE_821_20241012_110139.oao": {
+    "motion_file": "/logs/2024/10/0821_2024-10-12-1101.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/WHA821TRE_821_20241012_110139.oao",
+    "size": 408696,
+    "start_date": 1728727299000,
+    "end_date": 1728751255000,
+    "duration": 23956000,
+    "distance": 13614662,
+    "2s_best": 12723,
+    "10s_best": 12462,
+    "500m_best": 11974,
+    "status": "completed"
   }
 }

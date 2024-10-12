@@ -63,5 +63,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "BAK870CHA_870_20241012_104521.oao": {
+    "motion_file": "/logs/2024/10/0870_2024-10-12-1045.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/BAK870CHA_870_20241012_104521.oao",
+    "size": 2639756,
+    "start_date": 1728726321000,
+    "end_date": 1728747981000,
+    "duration": 21660000,
+    "distance": 87370057,
+    "2s_best": 13674,
+    "10s_best": 13381,
+    "500m_best": 13069,
+    "status": "completed"
   }
 }

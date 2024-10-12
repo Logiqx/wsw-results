@@ -63,5 +63,18 @@
     "10s_best": 19685,
     "500m_best": 19293,
     "status": "completed"
+  },
+  "DEA814NIC_814_20241012_105147.oao": {
+    "motion_file": "/logs/2024/10/0814_2024-10-12-1051.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/DEA814NIC_814_20241012_105147.oao",
+    "size": 1037844,
+    "start_date": 1728726707000,
+    "end_date": 1728750765000,
+    "duration": 24058000,
+    "distance": 27318052,
+    "2s_best": 13905,
+    "10s_best": 13279,
+    "500m_best": 12821,
+    "status": "completed"
   }
 }

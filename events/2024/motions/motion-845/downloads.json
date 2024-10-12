@@ -63,5 +63,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "WIL845JON_845_20241012_110109.oao": {
+    "motion_file": "/logs/2024/10/0845_2024-10-12-1101.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/WIL845JON_845_20241012_110109.oao",
+    "size": 1450620,
+    "start_date": 1728727269000,
+    "end_date": 1728750931000,
+    "duration": 23662000,
+    "distance": 28342237,
+    "2s_best": 11055,
+    "10s_best": 10871,
+    "500m_best": 10358,
+    "status": "completed"
   }
 }

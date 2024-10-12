@@ -24,5 +24,18 @@
     "10s_best": 13430,
     "500m_best": 13072,
     "status": "completed"
+  },
+  "DEU854CHR_854_20241012_104511.oao": {
+    "motion_file": "/logs/2024/10/0854_2024-10-12-1045.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/DEU854CHR_854_20241012_104511.oao",
+    "size": 9440,
+    "start_date": 1728726311000,
+    "end_date": 1728745477000,
+    "duration": 19166000,
+    "distance": 3861350,
+    "2s_best": 2174,
+    "10s_best": 1462,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

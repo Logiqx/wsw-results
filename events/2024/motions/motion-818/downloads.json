@@ -50,5 +50,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "HUM818TIM_818_20241012_104431.oao": {
+    "motion_file": "/logs/2024/10/0818_2024-10-12-1044.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/HUM818TIM_818_20241012_104431.oao",
+    "size": 4188,
+    "start_date": 1728726271000,
+    "end_date": 1728745485000,
+    "duration": 19214000,
+    "distance": 3656179,
+    "2s_best": 1987,
+    "10s_best": 1522,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

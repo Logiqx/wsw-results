@@ -37,5 +37,18 @@
     "10s_best": 14856,
     "500m_best": 14511,
     "status": "completed"
+  },
+  "TRO695WIL_695_20241012_110435.oao": {
+    "motion_file": "/logs/2024/10/0695_2024-10-12-1104.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/TRO695WIL_695_20241012_110435.oao",
+    "size": 2262080,
+    "start_date": 1728727475000,
+    "end_date": 1728751411000,
+    "duration": 23936000,
+    "distance": 51962808,
+    "2s_best": 15813,
+    "10s_best": 15257,
+    "500m_best": 14677,
+    "status": "completed"
   }
 }

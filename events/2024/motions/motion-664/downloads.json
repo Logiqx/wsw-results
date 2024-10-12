@@ -63,5 +63,18 @@
     "10s_best": 13923,
     "500m_best": 13419,
     "status": "completed"
+  },
+  "YOR664MAT_664_20241012_105025.oao": {
+    "motion_file": "/logs/2024/10/0664_2024-10-12-1050.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/YOR664MAT_664_20241012_105025.oao",
+    "size": 293620,
+    "start_date": 1728726625000,
+    "end_date": 1728749735000,
+    "duration": 23110000,
+    "distance": 8556073,
+    "2s_best": 13663,
+    "10s_best": 13263,
+    "500m_best": 12031,
+    "status": "completed"
   }
 }

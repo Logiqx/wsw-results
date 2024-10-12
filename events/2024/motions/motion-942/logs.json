@@ -1,3 +1,25 @@
 {
-  "logs": []
+  "logs": [
+    {
+      "file": "/logs/2024/10/0942_2024-10-12-1049.oao",
+      "size": 471096,
+      "timezone": 60,
+      "mode": 0,
+      "start_date": 1728726547000,
+      "end_date": 1728750205000,
+      "duration": 23658000,
+      "distance": 13431421,
+      "2s_best": 10455,
+      "10s_best": 10119,
+      "500m_best": 9885,
+      "1852m_best": 7960,
+      "a500m_best": 6296,
+      "1h_best": 0,
+      "spot": "",
+      "wind": "",
+      "board": "",
+      "sail": "",
+      "fin": ""
+    }
+  ]
 }

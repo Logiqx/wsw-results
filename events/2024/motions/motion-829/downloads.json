@@ -11,5 +11,18 @@
     "10s_best": 16613,
     "500m_best": 15983,
     "status": "completed"
+  },
+  "MAR829PET_829_20241012_104509.oao": {
+    "motion_file": "/logs/2024/10/0829_2024-10-12-1045.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/MAR829PET_829_20241012_104509.oao",
+    "size": 1296804,
+    "start_date": 1728726309000,
+    "end_date": 1728750977000,
+    "duration": 24668000,
+    "distance": 39621950,
+    "2s_best": 19601,
+    "10s_best": 19555,
+    "500m_best": 19311,
+    "status": "completed"
   }
 }

@@ -11,5 +11,18 @@
     "10s_best": 12481,
     "500m_best": 12108,
     "status": "completed"
+  },
+  "LON804JAM_804_20241012_110431.oao": {
+    "motion_file": "/logs/2024/10/0804_2024-10-12-1104.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/LON804JAM_804_20241012_110431.oao",
+    "size": 2457652,
+    "start_date": 1728727471000,
+    "end_date": 1728750639000,
+    "duration": 23168000,
+    "distance": 79310669,
+    "2s_best": 20086,
+    "10s_best": 19546,
+    "500m_best": 19303,
+    "status": "completed"
   }
 }
