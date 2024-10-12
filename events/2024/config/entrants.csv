@@ -67,7 +67,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1346,67,Mr,Ben,Robbins,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
 3346,67,Mr,Ben,Robbins,United Kingdom,NO,Wingboard,Amateur,Adult,,None,All Week,YES
 3347,68,Mr,Andrew,Collenette,United Kingdom,NO,Wingboard,Amateur,Adult,,None,2 Days,YES
-3348,69,Mr,Paul,Wakelin,United Kingdom,NO,Wingboard,Pro-Fleet,Adult,,None,All Week,NO
+3348,69,Mr,Paul,Wakelin,United Kingdom,NO,Wingboard,Amateur,Adult,,None,All Week,NO
 2349,70,Mr,Phil,Horder,United Kingdom,NO,Kiteboard,Freeride,Adult,,None,2 Days,N
 1350,71,Mr,Joe,Trunkfield,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,YES
 2351,72,Mr,Dave,Williams,United Kingdom,NO,Kiteboard,Open Class,Adult,,None,All Week,N
@@ -86,7 +86,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1363,84,Miss,Ellie,Gibson,England,YES,Sailboard,Amateur,Adult,,Hamworthy Heroes,2 Days,NO
 2364,85,Mr,Peter,Martin,United Kingdom,NO,Kiteboard,Freeride,Adult,,None,All Week,N
 1367,88,Mr,Mark,Newman,United Kingdom,NO,Sailboard,Pro-Fleet,Adult,,Portland Pirates,All Week,NO
-3368,89,Mr,Jonathan,Wills,Uk,YES,Wingboard,Amateur,Adult,,SW Marine,All Week,NO
+1368,89,Mr,Jonathan,Wills,Uk,YES,Sailboard,Amateur,Adult,,SW Marine,All Week,NO
 2369,90,Mr,Stacey,Vass,United Kingdom,NO,Kiteboard,Open Class,Adult,,None,All Week,N
 3369,90,Mr,Stacey,Vass,United Kingdom,NO,Wingboard,Pro-Fleet,Adult,,None,All Week,YES
 1370,91,Mr,Maciej,Bukolt,Poland,NO,Sailboard,Gold-Fleet,Adult,,None,All Week,YES
@@ -96,12 +96,12 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1374,95,Ms,Jenna,Jenkins,uk,NO,Sailboard,Amateur,Youth,,None,All Week,NO
 1375,96,Mr,Scotty,Stallman,England,NO,Sailboard,Pro-Fleet,Adult,,The OTC,All Week,YES
 3375,96,Mr,Scotty,Stallman,England,NO,Wingboard,Pro-Fleet,Adult,,The OTC,All Week,YES
-3376,97,Mr,Nick,Barrett,United Kingdom,YES,Wingboard,Amateur,Adult,,None,Youth W/E,YES
+3376,97,Mr,Nick,Barrett,United Kingdom,YES,Wingboard,Amateur,Adult,,None,All Week,YES
 3377,98,Mr,Finlay,Chandler,United Kingdom,NO,Wingboard,Pro-Fleet,Youth,,None,Youth W/E,YES
 3378,99,Mr,Sullie,Yelland,United Kingdom,NO,Wingboard,Pro-Fleet,Youth,,None,Youth W/E,YES
 3379,100,Miss,Mia,Adcock,United Kingdom,NO,Wingboard,Amateur,Adult,,None,All Week,NO
 2380,101,Mr,Martin,Carter,Uk,NO,Kiteboard,Open Class,Adult,,,All Week,N
 3380,101,Mr,Martin,Carter,Uk,NO,Wingboard,Amateur,Adult,,,All Week,NO
-1381,102,Miss,Lilia,Yelland,United Kingdom,NO,Sailboard,Gold-Fleet,Adult,,The OTC,All Week,YES
-3382,103,Mr,Jowan,Vittle,United Kingdom,YES,Wingboard,Amateur,Adult,,None,Youth W/E,NO
-3383,104,Mr,Oscar,Dempsey,United Kingdom,YES,Wingboard,Amateur,Adult,,None,Youth W/E,YES
+1381,102,Miss,Lilia,Yelland,United Kingdom,NO,Sailboard,Gold-Fleet,Youth,,The OTC,All Week,YES
+3382,103,Mr,Jowan,Vittle,United Kingdom,YES,Wingboard,Amateur,Youth,,None,Youth W/E,NO
+3383,104,Mr,Oscar,Dempsey,United Kingdom,YES,Wingboard,Amateur,Youth,,None,Youth W/E,YES

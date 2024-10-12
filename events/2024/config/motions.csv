@@ -67,7 +67,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1346,67,826,2024-10-12,2024-10-18,ROB826BEN,Ben,Robbins,Sailboard,Gold-Fleet,All Week
 3346,67,825,2024-10-12,2024-10-18,ROB825BEN,Ben,Robbins,Wingboard,Amateur,All Week
 3347,68,867,2024-10-14,2024-10-18,COL867AND,Andrew,Collenette,Wingboard,Amateur,2 Days
-3348,69,827,2024-10-12,2024-10-18,WAK827PAU,Paul,Wakelin,Wingboard,Pro-Fleet,All Week
+3348,69,827,2024-10-12,2024-10-18,WAK827PAU,Paul,Wakelin,Wingboard,Amateur,All Week
 2349,70,872,2024-10-14,2024-10-18,HOR872PHI,Phil,Horder,Kiteboard,Freeride,2 Days
 1350,71,833,2024-10-12,2024-10-18,TRU833JOE,Joe,Trunkfield,Sailboard,Amateur,All Week
 2351,72,836,2024-10-12,2024-10-18,WIL836DAV,Dave,Williams,Kiteboard,Open Class,All Week
@@ -86,7 +86,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1363,84,873,2024-10-14,2024-10-18,GIB873ELL,Ellie,Gibson,Sailboard,Amateur,2 Days
 2364,85,829,2024-10-12,2024-10-18,MAR829PET,Peter,Martin,Kiteboard,Freeride,All Week
 1367,88,841,2024-10-12,2024-10-18,NEW841MAR,Mark,Newman,Sailboard,Pro-Fleet,All Week
-3368,89,845,2024-10-12,2024-10-18,WIL845JON,Jonathan,Wills,Wingboard,Amateur,All Week
+1368,89,845,2024-10-12,2024-10-18,WIL845JON,Jonathan,Wills,Sailboard,Amateur,All Week
 2369,90,852,2024-10-12,2024-10-18,VAS852STA,Stacey,Vass,Kiteboard,Open Class,All Week
 3369,90,849,2024-10-12,2024-10-18,VAS849STA,Stacey,Vass,Wingboard,Pro-Fleet,All Week
 1370,91,853,2024-10-12,2024-10-18,BUK853MAC,Maciej,Bukolt,Sailboard,Gold-Fleet,All Week
@@ -96,7 +96,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1374,95,942,2024-10-12,2024-10-18,JEN942JEN,Jenna,Jenkins,Sailboard,Amateur,All Week
 1375,96,952,2024-10-12,2024-10-18,STA952SCO,Scotty,Stallman,Sailboard,Pro-Fleet,All Week
 3375,96,950,2024-10-12,2024-10-18,STA950SCO,Scotty,Stallman,Wingboard,Pro-Fleet,All Week
-3376,97,978,2024-10-12,2024-10-13,BAR978NIC,Nick,Barrett,Wingboard,Amateur,Youth W/E
+3376,97,978,2024-10-12,2024-10-18,BAR978NIC,Nick,Barrett,Wingboard,Amateur,All Week
 3377,98,871,2024-10-12,2024-10-13,CHA871FIN,Finlay,Chandler,Wingboard,Pro-Fleet,Youth W/E
 3378,99,872,2024-10-12,2024-10-13,YEL872SUL,Sullie,Yelland,Wingboard,Pro-Fleet,Youth W/E
 3379,100,979,2024-10-12,2024-10-18,ADC979MIA,Mia,Adcock,Wingboard,Amateur,All Week
