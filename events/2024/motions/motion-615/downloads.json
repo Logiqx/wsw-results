@@ -76,5 +76,18 @@
     "10s_best": 13967,
     "500m_best": 13648,
     "status": "completed"
+  },
+  "HOB615RIC_615_20241014_094449.oao": {
+    "motion_file": "/logs/2024/10/0615_2024-10-14-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241014/HOB615RIC_615_20241014_094449.oao",
+    "size": 1091404,
+    "start_date": 1728895489000,
+    "end_date": 1728917065000,
+    "duration": 21576000,
+    "distance": 29413263,
+    "2s_best": 12269,
+    "10s_best": 12095,
+    "500m_best": 11643,
+    "status": "completed"
   }
 }

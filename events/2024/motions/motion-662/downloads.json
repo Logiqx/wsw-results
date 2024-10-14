@@ -50,5 +50,31 @@
     "10s_best": 11720,
     "500m_best": 11294,
     "status": "completed"
+  },
+  "DOD662NIC_662_20241013_135309.oao": {
+    "motion_file": "/logs/2024/10/0662_2024-10-13-1353.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241013/DOD662NIC_662_20241013_135309.oao",
+    "size": 2784,
+    "start_date": 1728823989000,
+    "end_date": 1728826201000,
+    "duration": 2212000,
+    "distance": 326364,
+    "2s_best": 1675,
+    "10s_best": 1267,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "DOD662NIC_662_20241014_094323.oao": {
+    "motion_file": "/logs/2024/10/0662_2024-10-14-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241014/DOD662NIC_662_20241014_094323.oao",
+    "size": 1628928,
+    "start_date": 1728895403000,
+    "end_date": 1728917197000,
+    "duration": 21794000,
+    "distance": 25149268,
+    "2s_best": 10617,
+    "10s_best": 10505,
+    "500m_best": 9903,
+    "status": "completed"
   }
 }

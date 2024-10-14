@@ -63,5 +63,31 @@
     "10s_best": 13044,
     "500m_best": 12411,
     "status": "completed"
+  },
+  "WIN802SIM_802_20241013_133825.oao": {
+    "motion_file": "/logs/2024/10/0802_2024-10-13-1338.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241013/WIN802SIM_802_20241013_133825.oao",
+    "size": 2784,
+    "start_date": 1728823105000,
+    "end_date": 1728825643000,
+    "duration": 2538000,
+    "distance": 547725,
+    "2s_best": 1706,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "WIN802SIM_802_20241014_090045.oao": {
+    "motion_file": "/logs/2024/10/0802_2024-10-14-0900.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241014/WIN802SIM_802_20241014_090045.oao",
+    "size": 753508,
+    "start_date": 1728892845000,
+    "end_date": 1728916353000,
+    "duration": 23508000,
+    "distance": 11328432,
+    "2s_best": 11047,
+    "10s_best": 10885,
+    "500m_best": 10569,
+    "status": "completed"
   }
 }

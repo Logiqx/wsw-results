@@ -89,5 +89,18 @@
     "10s_best": 1407,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "NIC647GAR_647_20241014_094502.oao": {
+    "motion_file": "/logs/2024/10/0647_2024-10-14-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241014/NIC647GAR_647_20241014_094502.oao",
+    "size": 2888,
+    "start_date": 1728895502000,
+    "end_date": 1728915867000,
+    "duration": 20365000,
+    "distance": 107529,
+    "2s_best": 1794,
+    "10s_best": 1489,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

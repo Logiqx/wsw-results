@@ -63,5 +63,18 @@
     "10s_best": 12961,
     "500m_best": 12370,
     "status": "completed"
+  },
+  "MEY700NEI_700_20241014_094526.oao": {
+    "motion_file": "/logs/2024/10/0700_2024-10-14-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241014/MEY700NEI_700_20241014_094526.oao",
+    "size": 6060,
+    "start_date": 1728895526000,
+    "end_date": 1728916737000,
+    "duration": 21211000,
+    "distance": 1460277,
+    "2s_best": 1705,
+    "10s_best": 1547,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
