@@ -6,52 +6,28 @@
   "Series": "UKWA",
   "Reports": [
     {
-      "Title": "Leg 1 - Sailboards (Open)",
+      "Title": "Leg 1 - Sailboards",
       "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Sailboard,Gender=M,UKWA=Leg 1",
+      "Filter": "Craft Type=Sailboard,UKWA=Leg 1",
       "Fleet": "Open Sailboard"
     },
     {
-      "Title": "Leg 1 - Sailboards (Female)",
+      "Title": "Leg 1 - Wingboards",
       "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Sailboard,Gender=F,UKWA=Leg 1",
-      "Fleet": "Female Sailboard"
-    },
-    {
-      "Title": "Leg 1 - Wingboards (Open)",
-      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Wingboard,Gender=M,UKWA=Leg 1",
+      "Filter": "Craft Type=Wingboard,UKWA=Leg 1",
       "Fleet": "Open Wingboard"
     },
     {
-      "Title": "Leg 1 - Wingboards (Female)",
+      "Title": "Leg 2 - Sailboards",
       "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Wingboard,Gender=F,UKWA=Leg 1",
-      "Fleet": "Female Wingboard"
-    },
-    {
-      "Title": "Leg 2 - Sailboards (Open)",
-      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Sailboard,Gender=M,UKWA=Leg 2",
+      "Filter": "Craft Type=Sailboard,UKWA=Leg 2",
       "Fleet": "Open Sailboard"
     },
     {
-      "Title": "Leg 2 - Sailboards (Female)",
+      "Title": "Leg 2 - Wingboards",
       "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Sailboard,Gender=F,UKWA=Leg 2",
-      "Fleet": "Female Sailboard"
-    },
-    {
-      "Title": "Leg 2 - Wingboards (Open)",
-      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Wingboard,Gender=M,UKWA=Leg 2",
+      "Filter": "Craft Type=Wingboard,UKWA=Leg 2",
       "Fleet": "Open Wingboard"
-    },
-    {
-      "Title": "Leg 2 - Wingboards (Female)",
-      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Wingboard,Gender=F,UKWA=Leg 2",
-      "Fleet": "Female Wingboard"
     }
   ]
 }
