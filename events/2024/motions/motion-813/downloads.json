@@ -37,5 +37,31 @@
     "10s_best": 19548,
     "500m_best": 19304,
     "status": "completed"
+  },
+  "SLO813NEI_813_20241013_125421.oao": {
+    "motion_file": "/logs/2024/10/0813_2024-10-13-1254.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241013/SLO813NEI_813_20241013_125421.oao",
+    "size": 9492,
+    "start_date": 1728820461000,
+    "end_date": 1728825075000,
+    "duration": 4614000,
+    "distance": 844402,
+    "2s_best": 1815,
+    "10s_best": 1470,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "SLO813NEI_813_20241014_095007.oao": {
+    "motion_file": "/logs/2024/10/0813_2024-10-14-0950.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241014/SLO813NEI_813_20241014_095007.oao",
+    "size": 975652,
+    "start_date": 1728895807000,
+    "end_date": 1728916587000,
+    "duration": 20780000,
+    "distance": 35788204,
+    "2s_best": 20634,
+    "10s_best": 19668,
+    "500m_best": 19297,
+    "status": "completed"
   }
 }
