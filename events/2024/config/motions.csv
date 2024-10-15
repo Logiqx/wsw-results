@@ -2,7 +2,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 3281,2,607,2024-10-12,2024-10-18,STA607JOH,John-Paul,Standish,Wingboard,Amateur,All Week
 1282,3,611,2024-10-12,2024-10-18,OWE611AND,Andrew,Owen,Sailboard,Amateur,All Week
 3283,4,615,2024-10-12,2024-10-18,HOB615RIC,Richard,Hobson,Wingboard,Pro-Fleet,All Week
-3284,5,617,2024-10-12,2024-10-18,MIL617JEZ,Jez,Milne,Wingboard,Amateur,All Week
+3284,5,0,2024-10-12,2024-10-18,MIL0JEZ,Jez,Milne,Wingboard,Amateur,All Week
 1285,6,618,2024-10-12,2024-10-18,GIB618JEN,Jenna,Gibson,Sailboard,Pro-Fleet,All Week
 1286,7,619,2024-10-12,2024-10-18,PET619SIM,Simon,Pettifer,Sailboard,Pro-Fleet,All Week
 1287,8,625,2024-10-12,2024-10-18,LIL625MAT,Matthew,Lilley,Sailboard,Amateur,All Week
@@ -84,13 +84,12 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1361,82,630,2024-10-12,2024-10-18,CRO630JIM,Jim,Crossley,Sailboard,Pro-Fleet,All Week
 1362,83,824,2024-10-12,2024-10-18,SPA824BOB,Bob,Spagnoletti,Sailboard,Gold-Fleet,All Week
 1363,84,873,2024-10-14,2024-10-18,GIB873ELL,Ellie,Gibson,Sailboard,Amateur,2 Days
-2364,85,829,2024-10-12,2024-10-18,MAR829PET,Peter,Martin,Kiteboard,Freeride,All Week
+2364,85,0,2024-10-12,2024-10-18,MAR0PET,Peter,Martin,Kiteboard,Freeride,All Week
 1367,88,841,2024-10-12,2024-10-18,NEW841MAR,Mark,Newman,Sailboard,Pro-Fleet,All Week
 1368,89,845,2024-10-12,2024-10-18,WIL845JON,Jonathan,Wills,Sailboard,Amateur,All Week
 2369,90,852,2024-10-12,2024-10-18,VAS852STA,Stacey,Vass,Kiteboard,Open Class,All Week
 3369,90,849,2024-10-12,2024-10-18,VAS849STA,Stacey,Vass,Wingboard,Pro-Fleet,All Week
 1370,91,853,2024-10-12,2024-10-18,BUK853MAC,Maciej,Bukolt,Sailboard,Gold-Fleet,All Week
-1371,92,854,2024-10-12,2024-10-18,DEU854CHR,Christoph,Deus,Sailboard,Pro-Fleet,All Week
 1372,93,870,2024-10-12,2024-10-13,BAK870CHA,Charlie,Baker,Sailboard,Amateur,Youth W/E
 1373,94,935,2024-10-12,2024-10-18,THO935RUS,Russell,Thompson,Sailboard,Amateur,All Week
 1374,95,942,2024-10-12,2024-10-18,JEN942JEN,Jenna,Jenkins,Sailboard,Amateur,All Week
@@ -104,7 +103,13 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 3380,101,601,2024-10-12,2024-10-18,CAR601MAR,Martin,Carter,Wingboard,Amateur,All Week
 1381,102,1037,2024-10-12,2024-10-18,YEL1037LIL,Lilia,Yelland,Sailboard,Gold-Fleet,All Week
 3382,103,1039,2024-10-12,2024-10-13,VIT1039JOW,Jowan,Vittle,Wingboard,Amateur,Youth W/E
-3383,104,1045,2024-10-12,2024-10-13,DEM1045OSC,Oscar,Dempsey,Wingboard,Amateur,Youth W/E
+3383,104,1045,2024-10-12,2024-10-18,DEM1045OSC,Oscar,Dempsey,Wingboard,Amateur,All Week
 2384,105,1040,2024-10-14,2024-10-18,YOU1040LIL,Lily,Young,Kiteboard,Open Class,2 Days
 2385,106,1042,2024-10-14,2024-10-18,DAV1042STE,Steve,Davison,Kiteboard,Open Class,2 Days
 1386,107,1020,2024-10-14,2024-10-18,BLO1020HEN,Henry,Bloodworth,Sailboard,Pro-Fleet,2 Days
+1387,108,617,2024-10-14,2024-10-18,LAT617SAM,Sam,Latham,Sailboard,Pro-Fleet,2 Days
+3388,109,1035,2024-10-14,2024-10-18,COL1035ANN,Anna,Collenette,Wingboard,Pro-Fleet,2 Days
+389,110,854,2024-10-14,2024-10-18,WET854HEN,HENRY,WETHERELL,Boat,Boat Fleet,2 Days
+3284,5,617,2024-10-12,2024-10-14,MIL617JEZ,Jez,Milne,Wingboard,Amateur,All Week
+1387,5,617,2024-10-15,2024-10-18,LAT617SAM,Sam,Latham,Sailboard,Pro Fleet,2 Days
+2364,85,829,2024-10-12,2024-10-14,MAR829PET,Peter,Martin,Kiteboard,Freeride,All Week
