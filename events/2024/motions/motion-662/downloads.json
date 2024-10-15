@@ -76,5 +76,18 @@
     "10s_best": 10505,
     "500m_best": 9903,
     "status": "completed"
+  },
+  "DOD662NIC_662_20241015_094832.oao": {
+    "motion_file": "/logs/2024/10/0662_2024-10-15-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/DOD662NIC_662_20241015_094832.oao",
+    "size": 799372,
+    "start_date": 1728982112000,
+    "end_date": 1729007233000,
+    "duration": 25121000,
+    "distance": 19649262,
+    "2s_best": 11098,
+    "10s_best": 10860,
+    "500m_best": 10538,
+    "status": "completed"
   }
 }

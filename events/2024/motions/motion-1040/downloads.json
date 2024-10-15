@@ -11,5 +11,18 @@
     "10s_best": 19577,
     "500m_best": 19387,
     "status": "completed"
+  },
+  "YOU1040LIL_1040_20241015_094851.oao": {
+    "motion_file": "/logs/2024/10/1040_2024-10-15-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/YOU1040LIL_1040_20241015_094851.oao",
+    "size": 2461292,
+    "start_date": 1728982131000,
+    "end_date": 1729010097000,
+    "duration": 27966000,
+    "distance": 97161844,
+    "2s_best": 21942,
+    "10s_best": 21681,
+    "500m_best": 21216,
+    "status": "completed"
   }
 }

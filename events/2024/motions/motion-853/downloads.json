@@ -24,5 +24,44 @@
     "10s_best": 1645,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "BUK853MAC_853_20241013_135727.oao": {
+    "motion_file": "/logs/2024/10/0853_2024-10-13-1357.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241013/BUK853MAC_853_20241013_135727.oao",
+    "size": 6736,
+    "start_date": 1728824247000,
+    "end_date": 1728825981000,
+    "duration": 1734000,
+    "distance": 592140,
+    "2s_best": 3809,
+    "10s_best": 1250,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "BUK853MAC_853_20241014_105647.oao": {
+    "motion_file": "/logs/2024/10/0853_2024-10-14-1056.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241014/BUK853MAC_853_20241014_105647.oao",
+    "size": 18176,
+    "start_date": 1728899807000,
+    "end_date": 1728914479000,
+    "duration": 14672000,
+    "distance": 2956349,
+    "2s_best": 2189,
+    "10s_best": 1963,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "BUK853MAC_853_20241015_100939.oao": {
+    "motion_file": "/logs/2024/10/0853_2024-10-15-1009.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/BUK853MAC_853_20241015_100939.oao",
+    "size": 2460720,
+    "start_date": 1728983379000,
+    "end_date": 1729008595000,
+    "duration": 25216000,
+    "distance": 63627458,
+    "2s_best": 13259,
+    "10s_best": 12989,
+    "500m_best": 12334,
+    "status": "completed"
   }
 }

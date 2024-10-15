@@ -2015,6 +2015,27 @@
       "board": "",
       "sail": "",
       "fin": ""
+    },
+    {
+      "file": "/logs/2024/10/0825_2024-10-15-0947.oao",
+      "size": 1900,
+      "timezone": 60,
+      "mode": 0,
+      "start_date": 1728982051000,
+      "end_date": 1729009123000,
+      "duration": 27072000,
+      "distance": 132843,
+      "2s_best": 1628,
+      "10s_best": 1432,
+      "500m_best": 0,
+      "1852m_best": 0,
+      "a500m_best": 0,
+      "1h_best": 0,
+      "spot": "",
+      "wind": "",
+      "board": "",
+      "sail": "",
+      "fin": ""
     }
   ]
 }

@@ -89,5 +89,18 @@
     "10s_best": 10136,
     "500m_best": 9059,
     "status": "completed"
+  },
+  "NAN705NOA_705_20241015_111249.oao": {
+    "motion_file": "/logs/2024/10/0705_2024-10-15-1112.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/NAN705NOA_705_20241015_111249.oao",
+    "size": 2159276,
+    "start_date": 1728987169000,
+    "end_date": 1729007305000,
+    "duration": 20136000,
+    "distance": 65140812,
+    "2s_best": 12992,
+    "10s_best": 12594,
+    "500m_best": 12372,
+    "status": "completed"
   }
 }

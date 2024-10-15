@@ -193,5 +193,18 @@
     "10s_best": 7680,
     "500m_best": 7069,
     "status": "completed"
+  },
+  "MAI635ROB_635_20241015_094801.oao": {
+    "motion_file": "/logs/2024/10/0635_2024-10-15-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/MAI635ROB_635_20241015_094801.oao",
+    "size": 989120,
+    "start_date": 1728982081000,
+    "end_date": 1729006877000,
+    "duration": 24796000,
+    "distance": 24432433,
+    "2s_best": 12351,
+    "10s_best": 11785,
+    "500m_best": 10968,
+    "status": "completed"
   }
 }

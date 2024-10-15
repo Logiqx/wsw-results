@@ -115,5 +115,18 @@
     "10s_best": 7148,
     "500m_best": 6851,
     "status": "completed"
+  },
+  "LIL625MAT_625_20241015_095719.oao": {
+    "motion_file": "/logs/2024/10/0625_2024-10-15-0957.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/LIL625MAT_625_20241015_095719.oao",
+    "size": 321024,
+    "start_date": 1728982639000,
+    "end_date": 1729006359000,
+    "duration": 23720000,
+    "distance": 8250130,
+    "2s_best": 12931,
+    "10s_best": 11850,
+    "500m_best": 11343,
+    "status": "completed"
   }
 }

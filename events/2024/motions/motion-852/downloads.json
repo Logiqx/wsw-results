@@ -89,5 +89,18 @@
     "10s_best": 1339,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "VAS852STA_852_20241015_095931.oao": {
+    "motion_file": "/logs/2024/10/0852_2024-10-15-0959.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/VAS852STA_852_20241015_095931.oao",
+    "size": 2117468,
+    "start_date": 1728982771000,
+    "end_date": 1729006519000,
+    "duration": 23748000,
+    "distance": 67511951,
+    "2s_best": 22728,
+    "10s_best": 22648,
+    "500m_best": 22497,
+    "status": "completed"
   }
 }
