@@ -89,5 +89,18 @@
     "10s_best": 11746,
     "500m_best": 11194,
     "status": "completed"
+  },
+  "NOR819SCO_819_20241015_104653.oao": {
+    "motion_file": "/logs/2024/10/0819_2024-10-15-1046.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/NOR819SCO_819_20241015_104653.oao",
+    "size": 1792208,
+    "start_date": 1728985613000,
+    "end_date": 1729008213000,
+    "duration": 22600000,
+    "distance": 66648537,
+    "2s_best": 14441,
+    "10s_best": 14061,
+    "500m_best": 13528,
+    "status": "completed"
   }
 }

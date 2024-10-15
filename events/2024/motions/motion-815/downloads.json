@@ -37,5 +37,18 @@
     "10s_best": 12748,
     "500m_best": 12433,
     "status": "completed"
+  },
+  "MAG815SIM_815_20241015_113119.oao": {
+    "motion_file": "/logs/2024/10/0815_2024-10-15-1131.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/MAG815SIM_815_20241015_113119.oao",
+    "size": 1451556,
+    "start_date": 1728988279000,
+    "end_date": 1729007409000,
+    "duration": 19130000,
+    "distance": 45178942,
+    "2s_best": 12936,
+    "10s_best": 12637,
+    "500m_best": 12384,
+    "status": "completed"
   }
 }

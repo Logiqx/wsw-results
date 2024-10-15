@@ -89,5 +89,18 @@
     "10s_best": 14130,
     "500m_best": 13833,
     "status": "completed"
+  },
+  "CRO632RIC_632_20241015_095111.oao": {
+    "motion_file": "/logs/2024/10/0632_2024-10-15-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/CRO632RIC_632_20241015_095111.oao",
+    "size": 1685972,
+    "start_date": 1728982271000,
+    "end_date": 1729009659000,
+    "duration": 27388000,
+    "distance": 46721539,
+    "2s_best": 14063,
+    "10s_best": 13958,
+    "500m_best": 13483,
+    "status": "completed"
   }
 }

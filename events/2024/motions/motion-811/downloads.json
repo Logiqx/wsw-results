@@ -89,5 +89,18 @@
     "10s_best": 2134,
     "500m_best": 1405,
     "status": "completed"
+  },
+  "MOR811JAS_811_20241015_141549.oao": {
+    "motion_file": "/logs/2024/10/0811_2024-10-15-1415.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/MOR811JAS_811_20241015_141549.oao",
+    "size": 2136136,
+    "start_date": 1728998149000,
+    "end_date": 1729009633000,
+    "duration": 11484000,
+    "distance": 86473407,
+    "2s_best": 15684,
+    "10s_best": 15472,
+    "500m_best": 15008,
+    "status": "completed"
   }
 }

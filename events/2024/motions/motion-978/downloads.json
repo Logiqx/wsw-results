@@ -50,5 +50,18 @@
     "10s_best": 10012,
     "500m_best": 9728,
     "status": "completed"
+  },
+  "BAR978NIC_978_20241015_135331.oao": {
+    "motion_file": "/logs/2024/10/0978_2024-10-15-1353.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/BAR978NIC_978_20241015_135331.oao",
+    "size": 1320568,
+    "start_date": 1728996811000,
+    "end_date": 1729007603000,
+    "duration": 10792000,
+    "distance": 34835310,
+    "2s_best": 11085,
+    "10s_best": 10676,
+    "500m_best": 10228,
+    "status": "completed"
   }
 }

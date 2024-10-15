@@ -102,5 +102,18 @@
     "10s_best": 21071,
     "500m_best": 19595,
     "status": "completed"
+  },
+  "WIL724DAV_724_20241015_095409.oao": {
+    "motion_file": "/logs/2024/10/0724_2024-10-15-0954.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/WIL724DAV_724_20241015_095409.oao",
+    "size": 699844,
+    "start_date": 1728982449000,
+    "end_date": 1729006643000,
+    "duration": 24194000,
+    "distance": 17144312,
+    "2s_best": 19306,
+    "10s_best": 18914,
+    "500m_best": 18585,
+    "status": "completed"
   }
 }

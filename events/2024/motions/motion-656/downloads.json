@@ -102,5 +102,18 @@
     "10s_best": 14410,
     "500m_best": 14072,
     "status": "completed"
+  },
+  "RAM656SIM_656_20241015_113540.oao": {
+    "motion_file": "/logs/2024/10/0656_2024-10-15-1135.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/RAM656SIM_656_20241015_113540.oao",
+    "size": 2190788,
+    "start_date": 1728988540000,
+    "end_date": 1729009157000,
+    "duration": 20617000,
+    "distance": 71594971,
+    "2s_best": 22521,
+    "10s_best": 22158,
+    "500m_best": 21528,
+    "status": "completed"
   }
 }

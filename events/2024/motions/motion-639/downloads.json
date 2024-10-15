@@ -115,5 +115,18 @@
     "10s_best": 12427,
     "500m_best": 12151,
     "status": "completed"
+  },
+  "DUN639ROB_639_20241015_140035.oao": {
+    "motion_file": "/logs/2024/10/0639_2024-10-15-1400.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/DUN639ROB_639_20241015_140035.oao",
+    "size": 1718888,
+    "start_date": 1728997235000,
+    "end_date": 1729007799000,
+    "duration": 10564000,
+    "distance": 56338458,
+    "2s_best": 13205,
+    "10s_best": 12564,
+    "500m_best": 12342,
+    "status": "completed"
   }
 }

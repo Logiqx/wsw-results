@@ -37,5 +37,18 @@
     "10s_best": 9025,
     "500m_best": 8777,
     "status": "completed"
+  },
+  "ADC979MIA_979_20241015_124317.oao": {
+    "motion_file": "/logs/2024/10/0979_2024-10-15-1243.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/ADC979MIA_979_20241015_124317.oao",
+    "size": 829168,
+    "start_date": 1728992597000,
+    "end_date": 1729008025000,
+    "duration": 15428000,
+    "distance": 25980794,
+    "2s_best": 11851,
+    "10s_best": 11650,
+    "500m_best": 10975,
+    "status": "completed"
   }
 }

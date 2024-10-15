@@ -89,5 +89,18 @@
     "10s_best": 9036,
     "500m_best": 8730,
     "status": "completed"
+  },
+  "TWI660AND_660_20241015_141325.oao": {
+    "motion_file": "/logs/2024/10/0660_2024-10-15-1413.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/TWI660AND_660_20241015_141325.oao",
+    "size": 1485304,
+    "start_date": 1728998005000,
+    "end_date": 1729008919000,
+    "duration": 10914000,
+    "distance": 47980837,
+    "2s_best": 13371,
+    "10s_best": 12947,
+    "500m_best": 12506,
+    "status": "completed"
   }
 }

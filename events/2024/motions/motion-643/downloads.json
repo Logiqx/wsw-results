@@ -102,5 +102,18 @@
     "10s_best": 1403,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "NIC643GAR_643_20241015_134603.oao": {
+    "motion_file": "/logs/2024/10/0643_2024-10-15-1346.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/NIC643GAR_643_20241015_134603.oao",
+    "size": 1575888,
+    "start_date": 1728996363000,
+    "end_date": 1729007385000,
+    "duration": 11022000,
+    "distance": 49250116,
+    "2s_best": 12181,
+    "10s_best": 11800,
+    "500m_best": 11470,
+    "status": "completed"
   }
 }
