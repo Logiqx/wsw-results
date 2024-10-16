@@ -76,5 +76,18 @@
     "10s_best": 15276,
     "500m_best": 14911,
     "status": "completed"
+  },
+  "CRO630JIM_630_20241016_115009.oao": {
+    "motion_file": "/logs/2024/10/0630_2024-10-16-1150.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241016/CRO630JIM_630_20241016_115009.oao",
+    "size": 922612,
+    "start_date": 1729075809000,
+    "end_date": 1729082712000,
+    "duration": 6903000,
+    "distance": 18284932,
+    "2s_best": 15028,
+    "10s_best": 14724,
+    "500m_best": 13739,
+    "status": "completed"
   }
 }

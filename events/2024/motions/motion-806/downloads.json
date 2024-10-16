@@ -63,5 +63,18 @@
     "10s_best": 13862,
     "500m_best": 13351,
     "status": "completed"
+  },
+  "CAR806BOB_806_20241016_094129.oao": {
+    "motion_file": "/logs/2024/10/0806_2024-10-16-0941.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241016/CAR806BOB_806_20241016_094129.oao",
+    "size": 1186356,
+    "start_date": 1729068089000,
+    "end_date": 1729083727000,
+    "duration": 15638000,
+    "distance": 22797414,
+    "2s_best": 13356,
+    "10s_best": 12841,
+    "500m_best": 11804,
+    "status": "completed"
   }
 }

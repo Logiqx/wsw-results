@@ -102,5 +102,18 @@
     "10s_best": 12864,
     "500m_best": 12483,
     "status": "completed"
+  },
+  "WIN802SIM_802_20241016_103349.oao": {
+    "motion_file": "/logs/2024/10/0802_2024-10-16-1033.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241016/WIN802SIM_802_20241016_103349.oao",
+    "size": 36740,
+    "start_date": 1729071229000,
+    "end_date": 1729088591000,
+    "duration": 17362000,
+    "distance": 3239533,
+    "2s_best": 1883,
+    "10s_best": 1730,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
