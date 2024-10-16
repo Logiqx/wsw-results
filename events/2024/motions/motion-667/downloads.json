@@ -50,5 +50,18 @@
     "10s_best": 14086,
     "500m_best": 13601,
     "status": "completed"
+  },
+  "BAT667TIM_667_20241016_104105.oao": {
+    "motion_file": "/logs/2024/10/0667_2024-10-16-1041.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241016/BAT667TIM_667_20241016_104105.oao",
+    "size": 1788256,
+    "start_date": 1729071665000,
+    "end_date": 1729087691000,
+    "duration": 16026000,
+    "distance": 50606659,
+    "2s_best": 13964,
+    "10s_best": 13092,
+    "500m_best": 12458,
+    "status": "completed"
   }
 }
