@@ -115,5 +115,18 @@
     "10s_best": 1918,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "GOR803MAR_803_20241017_105639.oao": {
+    "motion_file": "/logs/2024/10/0803_2024-10-17-1056.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/GOR803MAR_803_20241017_105639.oao",
+    "size": 1852320,
+    "start_date": 1729158999000,
+    "end_date": 1729181746000,
+    "duration": 22747000,
+    "distance": 21851221,
+    "2s_best": 8745,
+    "10s_best": 7847,
+    "500m_best": 5052,
+    "status": "completed"
   }
 }

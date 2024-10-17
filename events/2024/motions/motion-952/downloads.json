@@ -63,5 +63,18 @@
     "10s_best": 17170,
     "500m_best": 16678,
     "status": "completed"
+  },
+  "STA952SCO_952_20241017_095019.oao": {
+    "motion_file": "/logs/2024/10/0952_2024-10-17-0950.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/STA952SCO_952_20241017_095019.oao",
+    "size": 1239084,
+    "start_date": 1729155019000,
+    "end_date": 1729182467000,
+    "duration": 27448000,
+    "distance": 50186379,
+    "2s_best": 15395,
+    "10s_best": 15209,
+    "500m_best": 14911,
+    "status": "completed"
   }
 }

@@ -76,5 +76,18 @@
     "10s_best": 14128,
     "500m_best": 13361,
     "status": "completed"
+  },
+  "ROB826BEN_826_20241017_094501.oao": {
+    "motion_file": "/logs/2024/10/0826_2024-10-17-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/ROB826BEN_826_20241017_094501.oao",
+    "size": 5332,
+    "start_date": 1729154701000,
+    "end_date": 1729181541000,
+    "duration": 26840000,
+    "distance": 155387,
+    "2s_best": 2089,
+    "10s_best": 1847,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

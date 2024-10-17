@@ -37,5 +37,18 @@
     "10s_best": 1274,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "BES858DAV_858_20241017_135959.oao": {
+    "motion_file": "/logs/2024/10/0858_2024-10-17-1359.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/BES858DAV_858_20241017_135959.oao",
+    "size": 1895480,
+    "start_date": 1729169999000,
+    "end_date": 1729182335000,
+    "duration": 12336000,
+    "distance": 36852404,
+    "2s_best": 11350,
+    "10s_best": 11232,
+    "500m_best": 10685,
+    "status": "completed"
   }
 }

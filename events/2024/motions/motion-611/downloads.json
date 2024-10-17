@@ -167,5 +167,18 @@
     "10s_best": 20337,
     "500m_best": 19303,
     "status": "completed"
+  },
+  "OWE611AND_611_20241017_094539.oao": {
+    "motion_file": "/logs/2024/10/0611_2024-10-17-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/OWE611AND_611_20241017_094539.oao",
+    "size": 1976964,
+    "start_date": 1729154739000,
+    "end_date": 1729176197000,
+    "duration": 21458000,
+    "distance": 20928981,
+    "2s_best": 22921,
+    "10s_best": 22403,
+    "500m_best": 22262,
+    "status": "completed"
   }
 }

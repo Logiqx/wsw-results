@@ -89,5 +89,31 @@
     "10s_best": 7175,
     "500m_best": 6338,
     "status": "completed"
+  },
+  "BRA861JAM_861_20241016_112801.oao": {
+    "motion_file": "/logs/2024/10/0861_2024-10-16-1128.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241016/BRA861JAM_861_20241016_112801.oao",
+    "size": 7932,
+    "start_date": 1729074481000,
+    "end_date": 1729083225000,
+    "duration": 8744000,
+    "distance": 799850,
+    "2s_best": 2100,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "BRA861JAM_861_20241017_110541.oao": {
+    "motion_file": "/logs/2024/10/0861_2024-10-17-1105.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/BRA861JAM_861_20241017_110541.oao",
+    "size": 3148,
+    "start_date": 1729159541000,
+    "end_date": 1729176181000,
+    "duration": 16640000,
+    "distance": 82793,
+    "2s_best": 1741,
+    "10s_best": 1565,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
