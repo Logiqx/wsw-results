@@ -180,5 +180,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "BAR633ANT_633_20241017_110009.oao": {
+    "motion_file": "/logs/2024/10/0633_2024-10-17-1100.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/BAR633ANT_633_20241017_110009.oao",
+    "size": 78288,
+    "start_date": 1729159209000,
+    "end_date": 1729175589000,
+    "duration": 16380000,
+    "distance": 3644017,
+    "2s_best": 24266,
+    "10s_best": 24053,
+    "500m_best": 23635,
+    "status": "completed"
   }
 }

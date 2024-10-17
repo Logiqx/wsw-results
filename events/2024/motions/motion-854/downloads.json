@@ -63,5 +63,18 @@
     "10s_best": 17380,
     "500m_best": 15889,
     "status": "completed"
+  },
+  "WET854HEN_854_20241017_112751.oao": {
+    "motion_file": "/logs/2024/10/0854_2024-10-17-1127.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/WET854HEN_854_20241017_112751.oao",
+    "size": 1588,
+    "start_date": 1729160871000,
+    "end_date": 1729175873000,
+    "duration": 15002000,
+    "distance": 87727,
+    "2s_best": 1543,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

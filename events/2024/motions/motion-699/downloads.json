@@ -102,5 +102,18 @@
     "10s_best": 14160,
     "500m_best": 13232,
     "status": "completed"
+  },
+  "MEY699BEN_699_20241017_094619.oao": {
+    "motion_file": "/logs/2024/10/0699_2024-10-17-0946.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/MEY699BEN_699_20241017_094619.oao",
+    "size": 3304,
+    "start_date": 1729154779000,
+    "end_date": 1729175565000,
+    "duration": 20786000,
+    "distance": 464468,
+    "2s_best": 1848,
+    "10s_best": 1479,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
