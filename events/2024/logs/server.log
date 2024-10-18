@@ -11060,3 +11060,81 @@
 2024-10-18 16:29:10,DEBUG,DisconnectionThread #7 finished
 2024-10-18 16:29:10,DEBUG,DisconnectionThread #8 finished
 2024-10-18 16:29:10,INFO,Thread pools stopped
+2024-10-18 16:32:55,INFO,Starting thread pools
+2024-10-18 16:32:55,DEBUG,DetectionThreadPool starting
+2024-10-18 16:32:55,DEBUG,DetectionThread #1 starting
+2024-10-18 16:32:55,DEBUG,DetectionThread #2 starting
+2024-10-18 16:32:55,DEBUG,DetectionThread #3 starting
+2024-10-18 16:32:55,DEBUG,DetectionThread #4 starting
+2024-10-18 16:32:55,DEBUG,DetectionThread #5 starting
+2024-10-18 16:32:55,DEBUG,DetectionThread #6 starting
+2024-10-18 16:32:55,DEBUG,DetectionThread #7 starting
+2024-10-18 16:32:55,DEBUG,DetectionThread #8 starting
+2024-10-18 16:32:55,DEBUG,InspectionThreadPool starting
+2024-10-18 16:32:55,DEBUG,InspectionThread #1 starting
+2024-10-18 16:32:55,DEBUG,InspectionThread #2 starting
+2024-10-18 16:32:55,DEBUG,InspectionThread #3 starting
+2024-10-18 16:32:55,DEBUG,InspectionThread #4 starting
+2024-10-18 16:32:55,DEBUG,DownloadThreadPool starting
+2024-10-18 16:32:55,DEBUG,DownloadThread #1 starting
+2024-10-18 16:32:55,DEBUG,DownloadThread #2 starting
+2024-10-18 16:32:55,DEBUG,DownloadThread #3 starting
+2024-10-18 16:32:55,DEBUG,DownloadThread #4 starting
+2024-10-18 16:32:55,DEBUG,DisconnectionThreadPool starting
+2024-10-18 16:32:55,DEBUG,DisconnectionThread #1 starting
+2024-10-18 16:32:55,DEBUG,DisconnectionThread #2 starting
+2024-10-18 16:32:55,DEBUG,DisconnectionThread #3 starting
+2024-10-18 16:32:55,DEBUG,DisconnectionThread #4 starting
+2024-10-18 16:32:55,DEBUG,DisconnectionThread #5 starting
+2024-10-18 16:32:55,DEBUG,DisconnectionThread #6 starting
+2024-10-18 16:32:55,DEBUG,DisconnectionThread #7 starting
+2024-10-18 16:32:55,DEBUG,DisconnectionThread #8 starting
+2024-10-18 16:32:55,INFO,Thread pools started
+2024-10-18 16:32:55,DEBUG,motion-693 detected at 192.168.0.130
+2024-10-18 16:32:55,INFO,motion-693 is connected
+2024-10-18 16:32:55,DEBUG,motion-693 firmware is approved (9008 Weymouth SW (3232))
+2024-10-18 16:32:55,DEBUG,motion-693 storage is 0% full
+2024-10-18 16:32:55,WARNING,motion-693 battery level is 59%
+2024-10-18 16:32:56,INFO,motion-693 can be disconnected
+2024-10-18 16:33:40,DEBUG,motion-1043 detected at 192.168.0.166
+2024-10-18 16:33:41,INFO,motion-1043 is connected
+2024-10-18 16:33:41,DEBUG,motion-1043 firmware is approved (9010 (3232) Weymouth SW)
+2024-10-18 16:33:41,DEBUG,motion-1043 storage is 0% full
+2024-10-18 16:33:41,INFO,motion-1043 battery level is 68%
+2024-10-18 16:33:41,INFO,motion-1043 PLA1043CHR_1043_20241015_093249.oao queued - 0.4 MiB, 5.9 hours, 13.7 km, 30.6 knots (500m)
+2024-10-18 16:33:41,DEBUG,motion-1043 PLA1043CHR_1043_20241017_133501.oao skipped - 0.0 MiB, 2.0 hours, 0.6 km, 0.0 knots (500m)
+2024-10-18 16:33:41,INFO,motion-1043 PLA1043CHR_1043_20241018_131419.oao queued - 1.9 MiB, 3.9 hours, 46.5 km, 24.5 knots (500m)
+2024-10-18 16:33:42,INFO,motion-1043 PLA1043CHR_1043_20241015_093249.oao downloaded - 0.4 MiB, 5.9 hours, 13.7 km, 30.6 knots (500m)
+2024-10-18 16:33:44,INFO,motion-1043 PLA1043CHR_1043_20241018_131419.oao downloaded - 1.9 MiB, 3.9 hours, 46.5 km, 24.5 knots (500m)
+2024-10-18 16:33:44,INFO,motion-1043 can be disconnected
+2024-10-18 16:33:55,INFO,Keyboard interrupt
+2024-10-18 16:33:55,INFO,Stopping thread pools
+2024-10-18 16:33:55,DEBUG,DetectionThreadPool finished
+2024-10-18 16:33:55,DEBUG,DetectionThread #1 finished
+2024-10-18 16:33:55,DEBUG,DetectionThread #2 finished
+2024-10-18 16:33:55,DEBUG,DetectionThread #3 finished
+2024-10-18 16:33:55,DEBUG,DetectionThread #4 finished
+2024-10-18 16:33:55,DEBUG,DetectionThread #5 finished
+2024-10-18 16:33:55,DEBUG,DetectionThread #6 finished
+2024-10-18 16:33:55,DEBUG,DetectionThread #7 finished
+2024-10-18 16:33:55,DEBUG,DetectionThread #8 finished
+2024-10-18 16:33:55,DEBUG,InspectionThreadPool finished
+2024-10-18 16:33:55,DEBUG,InspectionThread #1 finished
+2024-10-18 16:33:55,DEBUG,InspectionThread #2 finished
+2024-10-18 16:33:55,DEBUG,InspectionThread #3 finished
+2024-10-18 16:33:55,DEBUG,InspectionThread #4 finished
+2024-10-18 16:33:55,DEBUG,DownloadThreadPool finished
+2024-10-18 16:33:55,DEBUG,DownloadThread #1 finished
+2024-10-18 16:33:55,DEBUG,DownloadThread #2 finished
+2024-10-18 16:33:55,DEBUG,DownloadThread #3 finished
+2024-10-18 16:33:55,DEBUG,DownloadThread #4 finished
+2024-10-18 16:33:55,DEBUG,DisconnectionThreadPool finished
+2024-10-18 16:33:55,DEBUG,DisconnectionThread #1 finished
+2024-10-18 16:33:55,DEBUG,DisconnectionThread #2 finished
+2024-10-18 16:33:55,DEBUG,DisconnectionThread #3 finished
+2024-10-18 16:33:55,DEBUG,DisconnectionThread #4 finished
+2024-10-18 16:33:55,DEBUG,DisconnectionThread #5 finished
+2024-10-18 16:33:55,DEBUG,DisconnectionThread #6 finished
+2024-10-18 16:33:55,DEBUG,DisconnectionThread #7 finished
+2024-10-18 16:33:55,DEBUG,DisconnectionThread #8 finished
+2024-10-18 16:33:55,INFO,Thread pools stopped
