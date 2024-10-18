@@ -115,5 +115,18 @@
     "10s_best": 2886,
     "500m_best": 1002,
     "status": "completed"
+  },
+  "MAR648EDD_648_20241018_120847.oao": {
+    "motion_file": "/logs/2024/10/0648_2024-10-18-1208.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/MAR648EDD_648_20241018_120847.oao",
+    "size": 421436,
+    "start_date": 1729249727000,
+    "end_date": 1729264459000,
+    "duration": 14732000,
+    "distance": 7735729,
+    "2s_best": 13417,
+    "10s_best": 13289,
+    "500m_best": 11425,
+    "status": "completed"
   }
 }

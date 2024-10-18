@@ -13,10 +13,10 @@
       "special": "This firmware is event specific. Most settings are locked. Only runs faster than 3kn are logged. Please upgrade to the latest stable firmware after the event."
     },
     "filesystem": {
-      "level": 1
+      "level": 2
     },
     "battery": {
-      "level": 73,
+      "level": 74,
       "charging": false
     },
     "units": {

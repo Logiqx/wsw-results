@@ -115,5 +115,18 @@
     "10s_best": 11654,
     "500m_best": 11337,
     "status": "completed"
+  },
+  "NEA665IAI_665_20241018_094309.oao": {
+    "motion_file": "/logs/2024/10/0665_2024-10-18-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/NEA665IAI_665_20241018_094309.oao",
+    "size": 2142064,
+    "start_date": 1729240989000,
+    "end_date": 1729267341000,
+    "duration": 26352000,
+    "distance": 40974513,
+    "2s_best": 14533,
+    "10s_best": 14104,
+    "500m_best": 13411,
+    "status": "completed"
   }
 }
