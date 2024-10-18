@@ -1,33 +1,35 @@
 {
-  "Suptitle": "UKWA Runs of the Day - {Date}",
-  "Period": "Session",
-  "Fields": "Name,Nation,Status,Run 1 (kts),Run 2 (kts),Avg (kts)",
-  "Sort": "Avg (kts)=DSC,Run 1 (kts)=DSC",
-  "Series": "UKWA",
+  "Suptitle": "UKWA Rankings",
+  "Period": "Event",
+  "Fields": "Name,Nation,Age,Tally,Points,Nett,Speed (kts)",
   "Reports": [
     {
-      "Title": "Leg 1 - Sailboards",
-      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Sailboard,UKWA=Leg 1",
-      "Fleet": "Open Sailboard"
+      "Title": "Overall Sailboard",
+      "Filter": "Craft Type=Sailboard,UKWA<>"
     },
     {
-      "Title": "Leg 1 - Wingboards",
-      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Wingboard,UKWA=Leg 1",
-      "Fleet": "Open Wingboard"
+      "Title": "Male Sailboard",
+      "Filter": "Craft Type=Sailboard,Gender=M,UKWA<>"
     },
     {
-      "Title": "Leg 2 - Sailboards",
-      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Sailboard,UKWA=Leg 2",
-      "Fleet": "Open Sailboard"
+      "Title": "Female Sailboard",
+      "Filter": "Craft Type=Sailboard,Gender=F,UKWA<>"
     },
     {
-      "Title": "Leg 2 - Wingboards",
-      "Comment": "Rounds will only count towards the event if they meet the criteria in the notice of race",
-      "Filter": "Craft Type=Wingboard,UKWA=Leg 2",
-      "Fleet": "Open Wingboard"
+      "Title": "Overall Wingboard",
+      "Filter": "Craft Type=Wingboard,UKWA<>"
+    },
+    {
+      "Title": "Male Wingboard",
+      "Filter": "Craft Type=Wingboard,Gender=M,UKWA<>"
+    },
+    {
+      "Title": "Female Wingboard",
+      "Filter": "Craft Type=Wingboard,Gender=F,UKWA<>"
+    },
+    {
+      "Title": "All Craft TBCs",
+      "Filter": "Craft Type=TBC,UKWA<>"
     }
   ]
 }
