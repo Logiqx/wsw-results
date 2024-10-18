@@ -1,30 +1,30 @@
-Place,HelmName,Fleet,Status
-1,Scotty Stallman,Open Sailboard,Pro Fleet
-2,Simon Pettifer,Open Sailboard,Pro Fleet
-3,Jim Crossley,Open Sailboard,Pro Fleet
-4,Jenna Gibson,Open Sailboard,Pro Fleet
-5,Garry Connell,Open Sailboard,Pro Fleet
-6,Ben Robbins,Open Sailboard,Gold Fleet
-7,Michael George,Open Sailboard,Pro Fleet
-8,John Oliver,Open Sailboard,Pro Fleet
-9,Will Trossell,Open Sailboard,Pro Fleet
-10,Iain Neary,Open Sailboard,Amateur
-11,George Fulton,Open Sailboard,Gold Fleet
-12,Richard Crosby,Open Sailboard,Gold Fleet
-13,Scott Harrison,Open Sailboard,Gold Fleet
-14,Charlie Baker,Open Sailboard,Amateur
-15,Tim Bate,Open Sailboard,Gold Fleet
-16,Nick Deakin,Open Sailboard,Amateur
-17,Andrew Twinn,Open Sailboard,Gold Fleet
-18,Stuart Trunkfield,Open Sailboard,Gold Fleet
-19,Andy Stuart-William,Open Sailboard,Gold Fleet
-20,Russell Thompson,Open Sailboard,Amateur
-21,Joe Trunkfield,Open Sailboard,Amateur
-22,Trevor Whatford,Open Sailboard,Gold Fleet
-23,Nic Dodd,Open Sailboard,Gold Fleet
-24,Simon Barker,Open Sailboard,Amateur
-25,Dylan Chick,Open Sailboard,Amateur
-26,Lilia Yelland,Open Sailboard,Gold Fleet
-27,Matthew Lilley,Open Sailboard,Amateur
-28,Matthew York,Open Sailboard,Gold Fleet
-29,Garry Goodwin,Open Sailboard,Amateur
+Place,HelmName,Fleet,Tally
+1,Scotty Stallman,Sailboard,96
+2,Simon Pettifer,Sailboard,7
+3,Jim Crossley,Sailboard,82
+4,Jenna Gibson,Sailboard,6
+5,Garry Connell,Sailboard,41
+6,Ben Robbins,Sailboard,67
+7,Michael George,Sailboard,39
+8,John Oliver,Sailboard,35
+9,Will Trossell,Sailboard,36
+10,Iain Neary,Sailboard,75
+11,George Fulton,Sailboard,52
+12,Richard Crosby,Sailboard,11
+13,Scott Harrison,Sailboard,32
+14,Charlie Baker,Sailboard,93
+15,Tim Bate,Sailboard,31
+16,Nick Deakin,Sailboard,80
+17,Andrew Twinn,Sailboard,25
+18,Stuart Trunkfield,Sailboard,73
+19,Andy Stuart-William,Sailboard,22
+20,Russell Thompson,Sailboard,94
+21,Joe Trunkfield,Sailboard,71
+22,Trevor Whatford,Sailboard,62
+23,Nic Dodd,Sailboard,27
+24,Simon Barker,Sailboard,44
+25,Dylan Chick,Sailboard,61
+26,Lilia Yelland,Sailboard,102
+27,Matthew Lilley,Sailboard,8
+28,Matthew York,Sailboard,76
+29,Garry Goodwin,Sailboard,42
