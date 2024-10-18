@@ -1,6 +1,6 @@
 fix_all()
 {
-    sed -i "s/$1/$2/" events/2024/config/entries.csv
+    sed -i "s/$1/$2/i" events/2024/config/entries.csv
 }
 
 # Remove extra whitespace from latest entries
@@ -10,6 +10,8 @@ do
 done
 
 # Fix countries
+fix_all ",England *," ",United Kingdom,"
+fix_all ",UNITED KINGDOM *," ",United Kingdom,"
 fix_all ",UK *," ",United Kingdom,"
 fix_all ",U.K. *," ",United Kingdom,"
 fix_all ",US *," ",United States,"
