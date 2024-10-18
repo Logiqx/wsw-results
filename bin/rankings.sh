@@ -1,5 +1,5 @@
 # Project Env
 . $(dirname $0)/env.sh
 
-# Run the daily results
+# Refresh the rankings
 run_py_script rankings.py

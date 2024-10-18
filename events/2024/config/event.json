@@ -189,7 +189,8 @@
   "Series": {
     "UKWA": {
       "Name": "UKWA Speed Championship",
-      "Filter": "UKWA=Y"
+      "Filter": "UKWA=Y",
+      "Refresh": true
     }
   }
 }
