@@ -1,8 +1,8 @@
-Place,HelmName,Fleet,Status
-1,Richard Hobson,Open Wingboard,Pro Fleet
-2,Scotty Stallman,Open Wingboard,Pro Fleet
-3,Ben Robbins,Open Wingboard,Amateur
-4,Gary Nichols,Open Wingboard,Amateur
-5,Nick Barrett,Open Wingboard,Amateur
-6,Peter Mallett,Open Wingboard,Amateur
-7,Mark Salvage,Open Wingboard,Amateur
+Place,HelmName,Fleet,Tally
+1,Richard Hobson,Wingboard,4
+2,Scotty Stallman,Wingboard,96
+3,Ben Robbins,Wingboard,67
+4,Gary Nichols,Wingboard,19
+5,Nick Barrett,Wingboard,97
+6,Peter Mallett,Wingboard,54
+7,Mark Salvage,Wingboard,59

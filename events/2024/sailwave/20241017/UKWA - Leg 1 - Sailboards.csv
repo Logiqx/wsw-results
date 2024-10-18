@@ -1,24 +1,24 @@
-Place,HelmName,Fleet,Status
-1,Henry Bloodworth,Open Sailboard,Pro Fleet
-2,Scotty Stallman,Open Sailboard,Pro Fleet
-3,Simon Pettifer,Open Sailboard,Pro Fleet
-4,Garry Connell,Open Sailboard,Pro Fleet
-5,Jenna Gibson,Open Sailboard,Pro Fleet
-6,Michael George,Open Sailboard,Pro Fleet
-7,Scott Harrison,Open Sailboard,Gold Fleet
-8,Alice Read,Open Sailboard,Pro Fleet
-9,Will Trossell,Open Sailboard,Pro Fleet
-10,Andy Stuart-William,Open Sailboard,Gold Fleet
-11,Mark Ingram,Open Sailboard,Gold Fleet
-12,Tim Bate,Open Sailboard,Gold Fleet
-13,Nick Deakin,Open Sailboard,Amateur
-14,Iain Neary,Open Sailboard,Amateur
-15,Jim Crossley,Open Sailboard,Pro Fleet
-16,Nic Dodd,Open Sailboard,Gold Fleet
-17,Joe Trunkfield,Open Sailboard,Amateur
-18,Maciej Bukolt,Open Sailboard,Gold Fleet
-19,Russell Thompson,Open Sailboard,Amateur
-20,Trevor Whatford,Open Sailboard,Gold Fleet
-21,Simon Barker,Open Sailboard,Amateur
-22,Garry Goodwin,Open Sailboard,Amateur
-23,Neil Binding,Open Sailboard,Amateur
+Place,HelmName,Fleet,Tally
+1,Henry Bloodworth,Sailboard,107
+2,Scotty Stallman,Sailboard,96
+3,Simon Pettifer,Sailboard,7
+4,Garry Connell,Sailboard,41
+5,Jenna Gibson,Sailboard,6
+6,Michael George,Sailboard,39
+7,Scott Harrison,Sailboard,32
+8,Alice Read,Sailboard,78
+9,Will Trossell,Sailboard,36
+10,Andy Stuart-William,Sailboard,22
+11,Mark Ingram,Sailboard,50
+12,Tim Bate,Sailboard,31
+13,Nick Deakin,Sailboard,80
+14,Iain Neary,Sailboard,75
+15,Jim Crossley,Sailboard,82
+16,Nic Dodd,Sailboard,27
+17,Joe Trunkfield,Sailboard,71
+18,Maciej Bukolt,Sailboard,91
+19,Russell Thompson,Sailboard,94
+20,Trevor Whatford,Sailboard,62
+21,Simon Barker,Sailboard,44
+22,Garry Goodwin,Sailboard,42
+23,Neil Binding,Sailboard,26
