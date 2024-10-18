@@ -102,5 +102,18 @@
     "10s_best": 17400,
     "500m_best": 17372,
     "status": "completed"
+  },
+  "SLO813NEI_813_20241018_105819.oao": {
+    "motion_file": "/logs/2024/10/0813_2024-10-18-1058.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/SLO813NEI_813_20241018_105819.oao",
+    "size": 1079964,
+    "start_date": 1729245499000,
+    "end_date": 1729263755000,
+    "duration": 18256000,
+    "distance": 39684486,
+    "2s_best": 20070,
+    "10s_best": 19941,
+    "500m_best": 19495,
+    "status": "completed"
   }
 }

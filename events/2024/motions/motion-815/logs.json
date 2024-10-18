@@ -2393,6 +2393,27 @@
       "board": "",
       "sail": "",
       "fin": ""
+    },
+    {
+      "file": "/logs/2024/10/0815_2024-10-18-0946.oao",
+      "size": 1187916,
+      "timezone": 60,
+      "mode": 0,
+      "start_date": 1729241201000,
+      "end_date": 1729266723000,
+      "duration": 25522000,
+      "distance": 34700848,
+      "2s_best": 13568,
+      "10s_best": 13364,
+      "500m_best": 12981,
+      "1852m_best": 9218,
+      "a500m_best": 8478,
+      "1h_best": 0,
+      "spot": "",
+      "wind": "",
+      "board": "",
+      "sail": "",
+      "fin": ""
     }
   ]
 }

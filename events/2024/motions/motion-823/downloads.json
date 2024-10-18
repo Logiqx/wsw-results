@@ -154,5 +154,18 @@
     "10s_best": 19837,
     "500m_best": 18166,
     "status": "completed"
+  },
+  "EIF823AYA_823_20241018_094325.oao": {
+    "motion_file": "/logs/2024/10/0823_2024-10-18-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/EIF823AYA_823_20241018_094325.oao",
+    "size": 2289276,
+    "start_date": 1729241005000,
+    "end_date": 1729266191000,
+    "duration": 25186000,
+    "distance": 68206354,
+    "2s_best": 25367,
+    "10s_best": 24825,
+    "500m_best": 24082,
+    "status": "completed"
   }
 }

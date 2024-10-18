@@ -115,5 +115,18 @@
     "10s_best": 10395,
     "500m_best": 10106,
     "status": "completed"
+  },
+  "WAT651JOE_651_20241018_133749.oao": {
+    "motion_file": "/logs/2024/10/0651_2024-10-18-1337.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/WAT651JOE_651_20241018_133749.oao",
+    "size": 1397840,
+    "start_date": 1729255069000,
+    "end_date": 1729266395000,
+    "duration": 11326000,
+    "distance": 34312356,
+    "2s_best": 10945,
+    "10s_best": 10657,
+    "500m_best": 10226,
+    "status": "completed"
   }
 }

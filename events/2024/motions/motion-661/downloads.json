@@ -89,5 +89,18 @@
     "10s_best": 8416,
     "500m_best": 7832,
     "status": "completed"
+  },
+  "BIN661NEI_661_20241018_094607.oao": {
+    "motion_file": "/logs/2024/10/0661_2024-10-18-0946.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/BIN661NEI_661_20241018_094607.oao",
+    "size": 309220,
+    "start_date": 1729241167000,
+    "end_date": 1729265891000,
+    "duration": 24724000,
+    "distance": 7137814,
+    "2s_best": 12310,
+    "10s_best": 12160,
+    "500m_best": 11889,
+    "status": "completed"
   }
 }

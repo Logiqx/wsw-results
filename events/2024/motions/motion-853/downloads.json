@@ -89,5 +89,18 @@
     "10s_best": 11344,
     "500m_best": 10778,
     "status": "completed"
+  },
+  "BUK853MAC_853_20241018_113409.oao": {
+    "motion_file": "/logs/2024/10/0853_2024-10-18-1134.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/BUK853MAC_853_20241018_113409.oao",
+    "size": 1761060,
+    "start_date": 1729247649000,
+    "end_date": 1729267467000,
+    "duration": 19818000,
+    "distance": 53854234,
+    "2s_best": 13417,
+    "10s_best": 13138,
+    "500m_best": 12820,
+    "status": "completed"
   }
 }

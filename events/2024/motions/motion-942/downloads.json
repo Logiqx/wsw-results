@@ -50,5 +50,18 @@
     "10s_best": 13939,
     "500m_best": 9729,
     "status": "completed"
+  },
+  "JEN942JEN_942_20241018_110643.oao": {
+    "motion_file": "/logs/2024/10/0942_2024-10-18-1106.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/JEN942JEN_942_20241018_110643.oao",
+    "size": 1118236,
+    "start_date": 1729246003000,
+    "end_date": 1729268181000,
+    "duration": 22178000,
+    "distance": 20443993,
+    "2s_best": 10712,
+    "10s_best": 10440,
+    "500m_best": 9758,
+    "status": "completed"
   }
 }

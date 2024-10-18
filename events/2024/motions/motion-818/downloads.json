@@ -63,5 +63,70 @@
     "10s_best": 1522,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "HUM818TIM_818_20241013_130545.oao": {
+    "motion_file": "/logs/2024/10/0818_2024-10-13-1305.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241013/HUM818TIM_818_20241013_130545.oao",
+    "size": 8504,
+    "start_date": 1728821145000,
+    "end_date": 1728826021000,
+    "duration": 4876000,
+    "distance": 1114981,
+    "2s_best": 2050,
+    "10s_best": 1836,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "HUM818TIM_818_20241015_141707.oao": {
+    "motion_file": "/logs/2024/10/0818_2024-10-15-1417.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/HUM818TIM_818_20241015_141707.oao",
+    "size": 3304,
+    "start_date": 1728998227000,
+    "end_date": 1729004193000,
+    "duration": 5966000,
+    "distance": 683146,
+    "2s_best": 1721,
+    "10s_best": 1110,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "HUM818TIM_818_20241016_112859.oao": {
+    "motion_file": "/logs/2024/10/0818_2024-10-16-1128.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241016/HUM818TIM_818_20241016_112859.oao",
+    "size": 2212,
+    "start_date": 1729074539000,
+    "end_date": 1729083075000,
+    "duration": 8536000,
+    "distance": 482998,
+    "2s_best": 1403,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "HUM818TIM_818_20241017_115147.oao": {
+    "motion_file": "/logs/2024/10/0818_2024-10-17-1151.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/HUM818TIM_818_20241017_115147.oao",
+    "size": 5228,
+    "start_date": 1729162307000,
+    "end_date": 1729175715000,
+    "duration": 13408000,
+    "distance": 1295350,
+    "2s_best": 1875,
+    "10s_best": 1342,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "HUM818TIM_818_20241018_102009.oao": {
+    "motion_file": "/logs/2024/10/0818_2024-10-18-1020.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/HUM818TIM_818_20241018_102009.oao",
+    "size": 1091456,
+    "start_date": 1729243209000,
+    "end_date": 1729267145000,
+    "duration": 23936000,
+    "distance": 33667002,
+    "2s_best": 14142,
+    "10s_best": 13616,
+    "500m_best": 12679,
+    "status": "completed"
   }
 }
