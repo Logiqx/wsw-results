@@ -1,0 +1,39 @@
+2024 SUMMARY
+
+TOTAL (PEOPLE) = 106
+
+Boat = 2
++ sailboard = 0
++ kiteboard = 0
++ wingboard = 0
+
+Sailboard = 75
++ boat = 0
++ kiteboard = 0
++ wingboard = 5
+    Gary Nichols
+    Reg Mallett
+    Peter Mallett
+    Ben Robbins
+    Scotty Stallman
+
+Kiteboard = 11
++ boat = 0
++ sailboard = 0
++ wingboard = 3
+    Dave Williams
+    Stacey Vass
+    Martin Carter
+
+Wingboard = 26
++ boat = 0
++ sailboard = 5
+    Gary Nichols
+    Reg Mallett
+    Peter Mallett
+    Ben Robbins
+    Scotty Stallman
++ kiteboard = 3
+    Dave Williams
+    Stacey Vass
+    Martin Carter
