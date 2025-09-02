@@ -1,0 +1,39 @@
+2023 SUMMARY
+
+TOTAL (PEOPLE) = 97
+
+Boat = 2
++ sailboard = 0
++ kiteboard = 0
++ wingboard = 0
+
+Sailboard = 61
++ boat = 0
++ kiteboard = 0
++ wingboard = 5
+    Andy Stuart-William
+    Zack Peaple
+    Mia Adcock
+    Finnley Knight
+    Sam Latham
+
+Kiteboard = 10
++ boat = 0
++ sailboard = 0
++ wingboard = 3
+    Dave Williams
+    Ellie Aldridge
+    Martin Carter
+
+Wingboard = 32
++ boat = 0
++ sailboard = 5
+    Andy Stuart-William
+    Zack Peaple
+    Mia Adcock
+    Finnley Knight
+    Sam Latham
++ kiteboard = 3
+    Dave Williams
+    Ellie Aldridge
+    Martin Carter
