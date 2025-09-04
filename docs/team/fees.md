@@ -21,7 +21,7 @@
 #### Youth Admin
 
 ```c
-// Youth admin = 0 or 20 (depending on Adult or Youth respectively)
+// Youth admin = 0 or 20 (depending on adult or youth respectively)
 
 [YOUTHADMIN]
 ```
@@ -57,8 +57,8 @@
 #### Basic Discount
 
 ```c
-// Mini Motion basic discount = 0, -10, -35
-// Negates the GPS hire charge for single craft entries
+// Basic discount = 0, -10, -35 if you have your own GPS
+// Negates the Mini Motion hire charge for single craft entries
 // Pro-rated according to the number of days (youth weekend or all week)
 //    MMO (MINI MOTION OWNER) = 0 or -35 (basic discount)
 //    ENTRYTYPE = 2 or 7 (number of days)
@@ -66,7 +66,7 @@
 [MMO] * [ENTRYTYPE] / 7
 ```
 
-#### Additional Discount
+#### Additional Discount - Second Craft
 
 ```c
 // Additional discount = 0, -20 or -70 if you have your own GPS and enter two craft types
