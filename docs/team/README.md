@@ -4,7 +4,9 @@
 
 #### Topics
 
+- [Entry fees](fees.md) - calculation of the entry fee
 - [Motions](motions.md) - operation, lights, etc
   - [Motion Server](server.md) - Starting / stopping the Motion server
 - [Backups](backups.md) - retrieving data from backup devices, if required
 - [Reports](reports.md) - accessing the daily / weekly reports, etc
+- [Visitors](https://mapmyvisitors.com/web/1bynb) - Website visitor stats
