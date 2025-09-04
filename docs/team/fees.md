@@ -7,7 +7,6 @@
 ```c
 // ENTRYTYPE = 2 or 7 (number of days)
 // YOUTH = 1 or 0.5 (depending on Adult or Youth respectively)
-// YOUTHADMIN = 0 or 20 (depending on Adult or Youth respectively)
 // MMO (MINI MOTION OWNER) = 0 or -35 (basic discount)
 ```
 
@@ -22,7 +21,7 @@
 #### Youth Admin
 
 ```c
-// Youth admin = 0 or 20
+// Youth admin = 0 or 20 (depending on Adult or Youth respectively)
 
 [YOUTHADMIN]
 ```
@@ -43,10 +42,10 @@
 5 * [ENTRYTYPE]
 ```
 
-#### Basic Refund
+#### Basic Discount
 
 ```c
-// Mini Motion base refund = 0, -10, -35
+// Mini Motion basic discount = 0, -10, -35
 // Negates the GPS hire charge for single craft entries
 // Factored by number of days for youth weekend or all week
 //    MMO (MINI MOTION OWNER) = 0 or -35 (basic discount)
@@ -66,10 +65,10 @@
 ((105 * ([2ND1] + [2ND2] + [2ND3] + [2ND4] + [2ND5])) * [ENTRYTYPE] / 7)
 ```
 
-#### Additional Refund
+#### Additional Discount
 
 ```c
-// Additional refund = 0, -20 or -70 if you have your own GPS and enter two craft types
+// Additional discount = 0, -20 or -70 if you have your own GPS and enter two craft types
 // Note *2 (rather than *3, which might be expected) as the single craft entries is also active
 //    MMO (MINI MOTION OWNER) = 0 or -35 (basic discount)
 
