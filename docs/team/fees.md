@@ -51,7 +51,7 @@
 //   They are either 0 (no second) craft or 1 (second craft)
 //   ENTRYTYPE = 2 or 7 (number of days)
 
-((105 * ([2ND1] + [2ND2] + [2ND3] + [2ND4] + [2ND5])) * [ENTRYTYPE] / 7)
+(105 * ([2ND1] + [2ND2] + [2ND3] + [2ND4] + [2ND5])) * [ENTRYTYPE] / 7
 ```
 
 #### Basic Discount
@@ -75,7 +75,7 @@
 //    MMO (MINI MOTION OWNER) = 0 or -35 (basic discount)
 //    ENTRYTYPE = 2 or 7 (number of days)
 
-(([MMO] * 2 * ([2ND1] + [2ND2] + [2ND3] + [2ND4] + [2ND5])) * [ENTRYTYPE] / 7)
+([MMO] * 2 * ([2ND1] + [2ND2] + [2ND3] + [2ND4] + [2ND5])) * [ENTRYTYPE] / 7
 ```
 
 
