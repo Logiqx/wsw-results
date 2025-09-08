@@ -128,7 +128,7 @@
     },
     {
       "Category": "Female Sailboard",
-      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet,Gender=F,Status<>Pro Fleet",
+      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet,Status<>Pro Fleet,Gender=F",
       "Places": 1
     },
     {
