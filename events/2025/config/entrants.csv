@@ -36,9 +36,10 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1095,35,Mr,Stephen,Thompson,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,NO
 1096,36,Mr,Richard,Dudley,United Kingdom,YES,Sailboard,Amateur,Adult,,SW Marine,All Week,NO
 1097,37,Mr,Pavel,Dvoulety,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,NO
-3098,38,Mr,Nick,Nick Barrett,United Kingdom,NO,Wingboard,Freeride,Adult,,None,All Week,YES
+3098,38,Mr,Nick,Barrett,United Kingdom,NO,Wingboard,Freeride,Adult,,None,All Week,YES
 1099,39,Mr,Mark,Weller,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,NO
 1100,40,Mr,Tim,Bate,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,Hamworthy Heroes,All Week,YES
+3101,41,Mrs,Kate,Rogers,United Kingdom,YES,Wingboard,Open Class,Adult,,None,All Week,NO
 1102,42,Mr,Andy,Stuart-William,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,YES
 3102,42,Mr,Andy,Stuart-William,United Kingdom,NO,Wingboard,Freeride,Adult,,None,All Week,YES
 1103,43,Miss,Lilia,Yelland,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,The OTC,All Week,YES
@@ -65,12 +66,12 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,
 1125,65,Mr,Neil,Meyerhoff,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,NO
 3126,66,Mr,Jason,Morton,United Kingdom,NO,Wingboard,Open Class,Adult,,None,All Week,NO
 2127,67,Mr,Emile,Burnaby Lautier,Netherlands,NO,Kiteboard,Open Class,Adult,,None,All Week,N
-1128,68,Mr,Anthony,Anthony Barber,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,NO
+1128,68,Mr,Anthony,Barber,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,NO
 1129,69,Mr,Shane,Verrion,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,YES
 2130,70,Mr,Sebastien,CAMARET,France,YES,Kiteboard,Open Class,Adult,,None,All Week,N
 2131,71,Mr,David,Williams,United Kingdom,NO,Kiteboard,Open Class,Adult,,None,All Week,N
 3131,71,Mr,David,Williams,United Kingdom,NO,Wingboard,Open Class,Adult,,None,All Week,NO
 1132,72,Mr,Casey,Waite,United Kingdom,YES,Sailboard,Amateur,Youth,,None,Youth W/E,NO
-1133,73,Mr,paul,Arnold,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,Portland Pirates,All Week,YES
+1133,73,Mr,Paul,Arnold,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,Portland Pirates,All Week,YES
 2134,74,Mr,Phil,Horder,United Kingdom,NO,Kiteboard,Freeride,Adult,,None,All Week,N
 1135,75,Mr,Andrew,Twinn,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,YES
