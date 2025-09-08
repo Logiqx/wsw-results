@@ -101,8 +101,7 @@
         "Sailboard (fin)": "1"
       },
       "Defaults": {
-        "Craft Type": "Sailboard",
-        "Class": "Fin"
+        "Craft Type": "Sailboard"
       },
       "Mappings": {
         "Status": "Sailboard Fleet",
