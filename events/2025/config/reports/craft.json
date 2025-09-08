@@ -24,9 +24,10 @@
       "Filter": "Craft Type=Kiteboard"
     },
     {
-      "Title": "All Sailboards - Fin",
+      "Title": "All Sailboards",
+      "Comment": "(excludes foils)",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Class=Fin"
+      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet"
     },
     {
       "Title": "All Wingboards",
