@@ -24,7 +24,7 @@
       "Filter": "Craft Type=Kiteboard"
     },
     {
-      "Title": "All Sailboards (fin)",
+      "Title": "All Sailboards - Fin",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard"
     },
