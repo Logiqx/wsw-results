@@ -101,7 +101,8 @@
         "Sailboard (fin)": "1"
       },
       "Defaults": {
-        "Craft Type": "Sailboard"
+        "Craft Type": "Sailboard",
+        "Class": "Fin"
       },
       "Mappings": {
         "Status": "Sailboard Fleet",
@@ -126,6 +127,35 @@
     },
     {
       "Filters": {
+        "Sailboard (foil)": "1"
+      },
+      "Defaults": {
+        "Craft Type": "Sailboard",
+        "Class": "Foil",
+        "Status": "Foil Fleet"
+      },
+      "Mappings": {
+        "Sponsors": "Sailboard Sponsors",
+        "UKWA": "UKWA Member",
+        "ISWC": "ISWC Member"
+      },
+      "Derivations": {
+        "Withdrawn": {
+          "Y": {
+            "Filters": {
+              "Motion for Sailboard (fin)": "WITHDRAWN"
+            }
+          }
+        }
+      },
+      "Offsets": {
+        "ID": 2000,
+        "Entrant ID": 2000
+      },
+      "Motion ID": "Motion for Sailboard (foil)"
+    },
+    {
+      "Filters": {
         "Kiteboard": "1"
       },
       "Defaults": {
@@ -147,8 +177,8 @@
         }
       },
       "Offsets": {
-        "ID": 2000,
-        "Entrant ID": 2000
+        "ID": 3000,
+        "Entrant ID": 3000
       },
       "Motion ID": "Motion for Kiteboard"
     },
@@ -175,8 +205,8 @@
         }
       },
       "Offsets": {
-        "ID": 3000,
-        "Entrant ID": 3000
+        "ID": 4000,
+        "Entrant ID": 4000
       },
       "Motion ID": "Motion for Wingboard"
     }
@@ -196,6 +226,7 @@
         "Country",
         "First Timer",
         "Craft Type",
+        "Class",
         "Status",
         "Age",
         "Boat Name",
@@ -222,6 +253,7 @@
         "First Name",
         "Family Name",
         "Craft Type",
+        "Class",
         "Status",
         "Entry Type"
       ],
