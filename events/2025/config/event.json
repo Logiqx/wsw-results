@@ -69,7 +69,7 @@
     "Filters": [
       "Craft Type=Boat",
       "Craft Type=Kiteboard",
-      "Craft Type=Sailboard",
+      "Craft Type=Sailboard,Status<>Foil Fleet",
       "Craft Type=Wingboard"
     ]
   },
@@ -87,7 +87,7 @@
     {
       "Name": "'Fastest Youth' Trophy",
       "Category": "Youth Sailboard",
-      "Filter": "Craft Type=Sailboard,Age=Youth,Weekend=Y"
+      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet,Age=Youth,Weekend=Y"
     },
     {
       "Name": "'Fastest Female' Shield",
@@ -107,7 +107,7 @@
     {
       "Name": "Fastest Sailboard Shield",
       "Category": "Sailboard",
-      "Filter": "Craft Type=Sailboard"
+      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet"
     },
     {
       "Name": "Fastest Wingboard Trophy",
@@ -128,7 +128,7 @@
     },
     {
       "Category": "Female Sailboard",
-      "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
+      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet,Gender=F,Status<>Pro Fleet",
       "Places": 1
     },
     {
@@ -137,12 +137,12 @@
       "Places": 1
     },
     {
-      "Category": "Amateur Sailboards - Fin",
+      "Category": "Amateur Sailboards",
       "Filter": "Craft Type=Sailboard,Status=Amateur",
       "Places": 3
     },
     {
-      "Category": "Gold Fleet Sailboards - Fin",
+      "Category": "Gold Fleet Sailboards",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet",
       "Places": 3
     },
