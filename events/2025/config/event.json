@@ -136,12 +136,12 @@
       "Places": 1
     },
     {
-      "Category": "Amateur Sailboards",
+      "Category": "Amateur Sailboards (fin)",
       "Filter": "Craft Type=Sailboard,Status=Amateur",
       "Places": 3
     },
     {
-      "Category": "Gold Fleet Sailboards",
+      "Category": "Gold Fleet Sailboards (fin)",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet",
       "Places": 3
     },
