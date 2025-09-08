@@ -4,13 +4,13 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1063,3,0,2024-10-12,2024-10-18,GIB0JEN,Jenna,Gibson,Sailboard,Pro Fleet,All Week
 1064,4,0,2024-10-12,2024-10-18,WAT0STE,Steve,watson,Sailboard,Amateur,All Week
 1065,5,0,2024-10-12,2024-10-18,WAT0JOE,Joey,Watts,Sailboard,Amateur,All Week
-1066,6,0,2024-10-12,2024-10-18,WIL0JON,Jon,Wills,Sailboard,Amateur,All Week
+1066,6,0,2024-10-12,2024-10-18,WIL0JON,Jonathan,Wills,Sailboard,Amateur,All Week
 1067,7,0,2024-10-12,2024-10-18,LOC0JAS,Jason,Lockyer,Sailboard,Amateur,All Week
 1068,8,0,2024-10-12,2024-10-18,HAR0SCO,Scott,Harrison,Sailboard,Gold Fleet,All Week
 1069,9,0,2024-10-12,2024-10-18,FUL0GEO,George,Fulton,Sailboard,Gold Fleet,All Week
 1070,10,0,2024-10-12,2024-10-18,WIN0SIM,Simon,Winkley,Sailboard,Gold Fleet,All Week
 1071,11,0,2024-10-12,2024-10-18,NEA0IAI,Iain,Neary,Sailboard,Gold Fleet,All Week
-1072,12,0,2024-10-12,2024-10-18,SPA0ROB,Robert,Spagnoletti,Sailboard,Gold Fleet,All Week
+1072,12,0,2024-10-12,2024-10-18,SPA0BOB,Bob,Spagnoletti,Sailboard,Gold Fleet,All Week
 3073,13,0,2024-10-12,2024-10-18,NIC0GAR,Gary,Nichols,Wingboard,Freeride,All Week
 1074,14,0,2024-10-12,2024-10-18,CRO0RIC,Richard,Crosby,Sailboard,Gold Fleet,All Week
 1075,15,0,2024-10-12,2024-10-18,SMI0PAU,PAUL,SMITHSON,Sailboard,Amateur,All Week
@@ -33,7 +33,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1092,32,0,2024-10-12,2024-10-18,TRO0WIL,Will,Trossell,Sailboard,Pro Fleet,All Week
 1093,33,0,2024-10-12,2024-10-13,CRO0JAC,Jack,Crossley,Sailboard,Amateur,Youth W/E
 3094,34,0,2024-10-12,2024-10-13,BER0FIN,Fin,Bernie,Wingboard,Open Class,Youth W/E
-1095,35,0,2024-10-12,2024-10-18,THO0STE,Stephen,Thompson,Sailboard,Amateur,All Week
+1095,35,0,2024-10-12,2024-10-18,THO0STE,Steve,Thompson,Sailboard,Amateur,All Week
 1096,36,0,2024-10-12,2024-10-18,DUD0RIC,Richard,Dudley,Sailboard,Amateur,All Week
 1097,37,0,2024-10-12,2024-10-18,DVO0PAV,Pavel,Dvoulety,Sailboard,Amateur,All Week
 3098,38,0,2024-10-12,2024-10-18,BAR0NIC,Nick,Barrett,Wingboard,Freeride,All Week
@@ -52,13 +52,13 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1111,51,0,2024-10-12,2024-10-18,NOR0SCO,Scott,Norman,Sailboard,Gold Fleet,All Week
 1112,52,0,2024-10-12,2024-10-18,WHI0JON,Jonathan,White,Sailboard,Amateur,All Week
 1113,53,0,2024-10-12,2024-10-18,GRA0STE,Steven,Gray,Sailboard,Amateur,All Week
-1114,54,0,2024-10-12,2024-10-18,DEB0JEA,Jean-marc,De Bruyne,Sailboard,Pro Fleet,All Week
+1114,54,0,2024-10-12,2024-10-18,DEB0JEA,Jean-Marc,De Bruyne,Sailboard,Pro Fleet,All Week
 3115,55,0,2024-10-12,2024-10-18,COL0AND,Andrew,Collenette,Wingboard,Open Class,All Week
 1116,56,0,2024-10-12,2024-10-18,ING0MAR,Mark,Ingram,Sailboard,Pro Fleet,All Week
 1117,57,0,2024-10-12,2024-10-18,ING0JON,Jonathan,Ingram,Sailboard,Amateur,All Week
 1118,58,0,2024-10-12,2024-10-13,CHI0DYL,Dylan,Chick,Sailboard,Amateur,Youth W/E
 3119,59,0,2024-10-12,2024-10-18,CUN0CHR,Chris,Cunningham,Wingboard,Open Class,All Week
-3120,60,0,2024-10-12,2024-10-18,STA0JP,JP,Standish,Wingboard,Freeride,All Week
+3120,60,0,2024-10-12,2024-10-18,STA0JOH,John-Paul,Standish,Wingboard,Freeride,All Week
 1121,61,0,2024-10-12,2024-10-13,ROB0MIL,Milo,Robineau-Potts,Sailboard,Gold Fleet,Youth W/E
 3122,62,0,2024-10-12,2024-10-18,GOR0DEN,Denis,Gordo,Wingboard,Freeride,All Week
 3123,63,0,2024-10-12,2024-10-18,SAN0SIM,Simon,Sanderson,Wingboard,Open Class,All Week
@@ -69,8 +69,8 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1128,68,0,2024-10-12,2024-10-18,BAR0ANT,Anthony,Barber,Sailboard,Gold Fleet,All Week
 1129,69,0,2024-10-12,2024-10-18,VER0SHA,Shane,Verrion,Sailboard,Amateur,All Week
 2130,70,0,2024-10-12,2024-10-18,CAM0SEB,Sebastien,CAMARET,Kiteboard,Open Class,All Week
-2131,71,0,2024-10-12,2024-10-18,WIL0DAV,David,Williams,Kiteboard,Open Class,All Week
-3131,71,0,2024-10-12,2024-10-18,WIL0DAV,David,Williams,Wingboard,Open Class,All Week
+2131,71,0,2024-10-12,2024-10-18,WIL0DAV,Dave,Williams,Kiteboard,Open Class,All Week
+3131,71,0,2024-10-12,2024-10-18,WIL0DAV,Dave,Williams,Wingboard,Open Class,All Week
 1132,72,0,2024-10-12,2024-10-13,WAI0CAS,Casey,Waite,Sailboard,Amateur,Youth W/E
 1133,73,0,2024-10-12,2024-10-18,ARN0PAU,Paul,Arnold,Sailboard,Gold Fleet,All Week
 2134,74,0,2024-10-12,2024-10-18,HOR0PHI,Phil,Horder,Kiteboard,Freeride,All Week
