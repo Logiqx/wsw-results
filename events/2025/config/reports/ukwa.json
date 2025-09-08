@@ -4,15 +4,15 @@
   "Fields": "Name,Nation,Age,Tally,Points,Nett,Speed (kts)",
   "Reports": [
     {
-      "Title": "Overall Wingboard",
+      "Title": "Overall Wingfoil",
       "Filter": "Craft Type=Wingboard,UKWA<>"
     },
     {
-      "Title": "Male Wingboard",
+      "Title": "Male Wingfoil",
       "Filter": "Craft Type=Wingboard,Gender=M,UKWA<>"
     },
     {
-      "Title": "Female Wingboard",
+      "Title": "Female Wingfoil",
       "Filter": "Craft Type=Wingboard,Gender=F,UKWA<>"
     },
     {
