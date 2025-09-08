@@ -24,7 +24,7 @@
     "Start Date": {
       "2024-10-14": {
         "Filters": {
-          "Week Days": "YES"
+          "Weekdays": "YES"
         }
       }
     },
@@ -38,7 +38,7 @@
     "Entry Type": {
       "2 Days": {
         "Filters": {
-          "Week Days": "YES"
+          "Weekdays": "YES"
         }
       },
       "Youth W/E": {
@@ -98,7 +98,7 @@
     },
     {
       "Filters": {
-        "Sailboard": "1"
+        "Sailboard (fin)": "1"
       },
       "Defaults": {
         "Craft Type": "Sailboard"
@@ -113,7 +113,7 @@
         "Withdrawn": {
           "Y": {
             "Filters": {
-              "Motion for Sailboard": "WITHDRAWN"
+              "Motion for Sailboard (fin)": "WITHDRAWN"
             }
           }
         }
@@ -122,7 +122,7 @@
         "ID": 1000,
         "Entrant ID": 1000
       },
-      "Motion ID": "Motion for Sailboard"
+      "Motion ID": "Motion for Sailboard (fin)"
     },
     {
       "Filters": {
