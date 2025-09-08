@@ -1,77 +1,85 @@
-ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Status,Age,Boat Name,Grouping,Entry Type,UKWA
-1061,1,Mr,Michael,George,United Kingdom,NO,Sailboard,Pro Fleet,Adult,,Portland Pirates,All Week,YES
-1062,2,Mr,Simon,Pettifer,United Kingdom,NO,Sailboard,Pro Fleet,Adult,,Hamworthy Heroes,All Week,YES
-1063,3,Miss,Jenna,Gibson,United Kingdom,NO,Sailboard,Pro Fleet,Adult,,Hamworthy Heroes,All Week,YES
-1064,4,Mr,Steve,watson,United Kingdom,NO,Sailboard,Amateur,Adult,,Surf Hogs,All Week,NO
-1065,5,Mrs,Joey,Watts,United Kingdom,NO,Sailboard,Amateur,Adult,,Surf Hogs,All Week,NO
-1066,6,Mr,Jonathan,Wills,United Kingdom,NO,Sailboard,Amateur,Adult,,SW Marine,All Week,NO
-1067,7,Mr,Jason,Lockyer,Portugal,YES,Sailboard,Amateur,Adult,,SW Marine,All Week,NO
-1068,8,Mr,Scott,Harrison,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,YES
-1069,9,Mr,George,Fulton,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,Portland Pirates,All Week,YES
-1070,10,Mr,Simon,Winkley,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,SW Marine,All Week,NO
-1071,11,Mr,Iain,Neary,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,YES
-1072,12,Mr,Bob,Spagnoletti,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,NO
-3073,13,Mr,Gary,Nichols,United Kingdom,NO,Wingboard,Freeride,Adult,,None,All Week,YES
-1074,14,Mr,Richard,Crosby,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,Surf Hogs,All Week,YES
-1075,15,Mr,PAUL,SMITHSON,United Kingdom,YES,Sailboard,Amateur,Adult,,SW Marine,All Week,NO
-1076,16,Mr,Neil,Binding,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,YES
-1077,17,Mr,Peter,Crosby,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,Surf Hogs,All Week,NO
-1078,18,Mr,Paul,Bran,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,NO
-1079,19,Mr,Garry,Connell,United Kingdom,NO,Sailboard,Pro Fleet,Adult,,Hamworthy Heroes,All Week,YES
-1080,20,Mr,George,Crossley,United Kingdom,YES,Sailboard,Amateur,Youth,,None,Youth W/E,NO
-1081,21,Mr,Mark,Newman,United Kingdom,NO,Sailboard,Pro Fleet,Adult,,Portland Pirates,All Week,NO
-3082,22,Miss,Anna,Collenette,United Kingdom,NO,Wingboard,Open Class,Youth,,None,Youth W/E,YES
-1083,23,Mr,Andrew,Owen,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,NO
-1084,24,Mr,James,Brake,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,YES
-2085,25,Mr,Peter,Martin,United Kingdom,NO,Kiteboard,Freeride,Adult,,None,All Week,N
-1086,26,Mr,Simon,Barker,United Kingdom,NO,Sailboard,Amateur,Adult,,SW Marine,All Week,YES
-1087,27,Mr,Barry,Smith,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,NO
-3088,28,Mr,Jez,Milne,United Kingdom,NO,Wingboard,Freeride,Adult,,None,All Week,YES
-1089,29,Mr,Jim,Crossley,United Kingdom,NO,Sailboard,Pro Fleet,Adult,,None,All Week,YES
-1090,30,Mr,Matthew,Lilley,United Kingdom,NO,Sailboard,Amateur,Adult,,Surf Hogs,All Week,YES
-3091,31,Mr,Rod,Dickinson,United Kingdom,NO,Wingboard,Open Class,Adult,,None,All Week,YES
-1092,32,Mr,Will,Trossell,United Kingdom,NO,Sailboard,Pro Fleet,Adult,,Hamworthy Heroes,All Week,YES
-1093,33,Mr,Jack,Crossley,United Kingdom,YES,Sailboard,Amateur,Youth,,None,Youth W/E,NO
-3094,34,Mr,Fin,Bernie,United Kingdom,YES,Wingboard,Open Class,Youth,,None,Youth W/E,YES
-1095,35,Mr,Steve,Thompson,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,NO
-1096,36,Mr,Richard,Dudley,United Kingdom,YES,Sailboard,Amateur,Adult,,SW Marine,All Week,NO
-1097,37,Mr,Pavel,Dvoulety,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,NO
-3098,38,Mr,Nick,Barrett,United Kingdom,NO,Wingboard,Freeride,Adult,,None,All Week,YES
-1099,39,Mr,Mark,Weller,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,NO
-1100,40,Mr,Tim,Bate,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,Hamworthy Heroes,All Week,YES
-3101,41,Mrs,Kate,Rogers,United Kingdom,YES,Wingboard,Open Class,Adult,,None,All Week,NO
-1102,42,Mr,Andy,Stuart-William,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,YES
-3102,42,Mr,Andy,Stuart-William,United Kingdom,NO,Wingboard,Freeride,Adult,,None,All Week,YES
-1103,43,Miss,Lilia,Yelland,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,The OTC,All Week,YES
-3104,44,Mr,Jon,Nichols,United Kingdom,YES,Wingboard,Open Class,Adult,,None,All Week,YES
-1105,45,Mr,Fin,Dickinson,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,NO
-2106,46,Mr,Stacey,Vass,United Kingdom,NO,Kiteboard,Open Class,Adult,,None,All Week,N
-1108,48,Mr,Mark,Palmer,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,YES
-1109,49,Mr,Eddie,Marsh,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,YES
-1110,50,Mr,John,Oliver,United Kingdom,NO,Sailboard,Pro Fleet,Adult,,Surf Hogs,All Week,YES
-1111,51,Mr,Scott,Norman,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,The OTC,All Week,YES
-1112,52,Mr,Jonathan,White,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,NO
-1113,53,Mr,Steven,Gray,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,NO
-1114,54,Mr,Jean-Marc,De Bruyne,Belgium,NO,Sailboard,Pro Fleet,Adult,,None,All Week,NO
-3115,55,Mr,Andrew,Collenette,United Kingdom,NO,Wingboard,Open Class,Adult,,None,All Week,YES
-1116,56,Mr,Mark,Ingram,United Kingdom,NO,Sailboard,Pro Fleet,Adult,,None,All Week,YES
-1117,57,Mr,Jonathan,Ingram,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,YES
-1118,58,Mr,Dylan,Chick,United Kingdom,NO,Sailboard,Amateur,Youth,,None,Youth W/E,NO
-3119,59,Mr,Chris,Cunningham,United Kingdom,NO,Wingboard,Open Class,Adult,,None,All Week,YES
-3120,60,Mr,John-Paul,Standish,United Kingdom,NO,Wingboard,Freeride,Adult,,None,All Week,YES
-1121,61,Mr,Milo,Robineau-Potts,United Kingdom,YES,Sailboard,Gold Fleet,Youth,,None,Youth W/E,YES
-3122,62,Mr,Denis,Gordo,United Kingdom,NO,Wingboard,Freeride,Adult,,None,All Week,YES
-3123,63,Mr,Simon,Sanderson,United Kingdom,NO,Wingboard,Open Class,Adult,,None,All Week,NO
-3124,64,Mr,FINLAY,CHANDLER,United Kingdom,NO,Wingboard,Freeride,Youth,,None,Youth W/E,NO
-1125,65,Mr,Neil,Meyerhoff,United Kingdom,NO,Sailboard,Amateur,Adult,,None,All Week,NO
-3126,66,Mr,Jason,Morton,United Kingdom,NO,Wingboard,Open Class,Adult,,None,All Week,NO
-2127,67,Mr,Emile,Burnaby Lautier,Netherlands,NO,Kiteboard,Open Class,Adult,,None,All Week,N
-1128,68,Mr,Anthony,Barber,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,NO
-1129,69,Mr,Shane,Verrion,United Kingdom,YES,Sailboard,Amateur,Adult,,None,All Week,YES
-2130,70,Mr,Sebastien,CAMARET,France,YES,Kiteboard,Open Class,Adult,,None,All Week,N
-2131,71,Mr,Dave,Williams,United Kingdom,NO,Kiteboard,Open Class,Adult,,None,All Week,N
-3131,71,Mr,Dave,Williams,United Kingdom,NO,Wingboard,Open Class,Adult,,None,All Week,NO
-1132,72,Mr,Casey,Waite,United Kingdom,YES,Sailboard,Amateur,Youth,,None,Youth W/E,NO
-1133,73,Mr,Paul,Arnold,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,Portland Pirates,All Week,YES
-2134,74,Mr,Phil,Horder,United Kingdom,NO,Kiteboard,Freeride,Adult,,None,All Week,N
-1135,75,Mr,Andrew,Twinn,United Kingdom,NO,Sailboard,Gold Fleet,Adult,,None,All Week,YES
+ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Status,Age,Boat Name,Grouping,Entry Type,UKWA
+1061,1,Mr,Michael,George,United Kingdom,NO,Sailboard,Fin,Pro Fleet,Adult,,Portland Pirates,All Week,YES
+2061,1,Mr,Michael,George,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Portland Pirates,All Week,YES
+1062,2,Mr,Simon,Pettifer,United Kingdom,NO,Sailboard,Fin,Pro Fleet,Adult,,Hamworthy Heroes,All Week,YES
+2062,2,Mr,Simon,Pettifer,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Hamworthy Heroes,All Week,YES
+1063,3,Miss,Jenna,Gibson,United Kingdom,NO,Sailboard,Fin,Pro Fleet,Adult,,Hamworthy Heroes,All Week,YES
+2063,3,Miss,Jenna,Gibson,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Hamworthy Heroes,All Week,YES
+1064,4,Mr,Steve,watson,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,Surf Hogs,All Week,NO
+1065,5,Mrs,Joey,Watts,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,Surf Hogs,All Week,NO
+1066,6,Mr,Jonathan,Wills,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,SW Marine,All Week,NO
+1067,7,Mr,Jason,Lockyer,Portugal,YES,Sailboard,Fin,Amateur,Adult,,SW Marine,All Week,NO
+1068,8,Mr,Scott,Harrison,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,None,All Week,YES
+1069,9,Mr,George,Fulton,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,Portland Pirates,All Week,YES
+1070,10,Mr,Simon,Winkley,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,SW Marine,All Week,NO
+1071,11,Mr,Iain,Neary,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,None,All Week,YES
+1072,12,Mr,Bob,Spagnoletti,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,None,All Week,NO
+4073,13,Mr,Gary,Nichols,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
+1074,14,Mr,Richard,Crosby,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,Surf Hogs,All Week,YES
+1075,15,Mr,PAUL,SMITHSON,United Kingdom,YES,Sailboard,Fin,Amateur,Adult,,SW Marine,All Week,NO
+1076,16,Mr,Neil,Binding,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,None,All Week,YES
+1077,17,Mr,Peter,Crosby,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,Surf Hogs,All Week,NO
+1078,18,Mr,Paul,Bran,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,None,All Week,NO
+1079,19,Mr,Garry,Connell,United Kingdom,NO,Sailboard,Fin,Pro Fleet,Adult,,Hamworthy Heroes,All Week,YES
+2079,19,Mr,Garry,Connell,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Hamworthy Heroes,All Week,YES
+1080,20,Mr,George,Crossley,United Kingdom,YES,Sailboard,Fin,Amateur,Youth,,None,Youth W/E,NO
+1081,21,Mr,Mark,Newman,United Kingdom,NO,Sailboard,Fin,Pro Fleet,Adult,,Portland Pirates,All Week,NO
+2081,21,Mr,Mark,Newman,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Portland Pirates,All Week,NO
+4082,22,Miss,Anna,Collenette,United Kingdom,NO,Wingboard,,Open Class,Youth,,None,Youth W/E,YES
+1083,23,Mr,Andrew,Owen,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,None,All Week,NO
+1084,24,Mr,James,Brake,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,None,All Week,YES
+3085,25,Mr,Peter,Martin,United Kingdom,NO,Kiteboard,,Freeride,Adult,,None,All Week,N
+1086,26,Mr,Simon,Barker,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,SW Marine,All Week,YES
+1087,27,Mr,Barry,Smith,United Kingdom,YES,Sailboard,Fin,Amateur,Adult,,None,All Week,NO
+4088,28,Mr,Jez,Milne,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
+1089,29,Mr,Jim,Crossley,United Kingdom,NO,Sailboard,Fin,Pro Fleet,Adult,,None,All Week,YES
+1090,30,Mr,Matthew,Lilley,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,Surf Hogs,All Week,YES
+4091,31,Mr,Rod,Dickinson,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,YES
+1092,32,Mr,Will,Trossell,United Kingdom,NO,Sailboard,Fin,Pro Fleet,Adult,,Hamworthy Heroes,All Week,YES
+1093,33,Mr,Jack,Crossley,United Kingdom,YES,Sailboard,Fin,Amateur,Youth,,None,Youth W/E,NO
+4094,34,Mr,Fin,Bernie,United Kingdom,YES,Wingboard,,Open Class,Youth,,None,Youth W/E,YES
+1095,35,Mr,Steve,Thompson,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,None,All Week,NO
+1096,36,Mr,Richard,Dudley,United Kingdom,YES,Sailboard,Fin,Amateur,Adult,,SW Marine,All Week,NO
+1097,37,Mr,Pavel,Dvoulety,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,None,All Week,NO
+4098,38,Mr,Nick,Barrett,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
+1099,39,Mr,Mark,Weller,United Kingdom,YES,Sailboard,Fin,Amateur,Adult,,None,All Week,NO
+1100,40,Mr,Tim,Bate,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,Hamworthy Heroes,All Week,YES
+2100,40,Mr,Tim,Bate,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Hamworthy Heroes,All Week,YES
+4101,41,Mrs,Kate,Rogers,United Kingdom,YES,Wingboard,,Open Class,Adult,,None,All Week,NO
+1102,42,Mr,Andy,Stuart-William,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,None,All Week,YES
+4102,42,Mr,Andy,Stuart-William,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
+1103,43,Miss,Lilia,Yelland,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,The OTC,All Week,YES
+4104,44,Mr,Jon,Nichols,United Kingdom,YES,Wingboard,,Open Class,Adult,,None,All Week,YES
+1105,45,Mr,Fin,Dickinson,United Kingdom,YES,Sailboard,Fin,Amateur,Adult,,None,All Week,NO
+3106,46,Mr,Stacey,Vass,United Kingdom,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
+2107,47,Mr,Rob,Longstaff,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,None,All Week,NO
+1108,48,Mr,Mark,Palmer,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,None,All Week,YES
+1109,49,Mr,Eddie,Marsh,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,None,All Week,YES
+1110,50,Mr,John,Oliver,United Kingdom,NO,Sailboard,Fin,Pro Fleet,Adult,,Surf Hogs,All Week,YES
+1111,51,Mr,Scott,Norman,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,The OTC,All Week,YES
+2111,51,Mr,Scott,Norman,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,The OTC,All Week,YES
+1112,52,Mr,Jonathan,White,United Kingdom,YES,Sailboard,Fin,Amateur,Adult,,None,All Week,NO
+1113,53,Mr,Steven,Gray,United Kingdom,YES,Sailboard,Fin,Amateur,Adult,,None,All Week,NO
+1114,54,Mr,Jean-Marc,De Bruyne,Belgium,NO,Sailboard,Fin,Pro Fleet,Adult,,None,All Week,NO
+4115,55,Mr,Andrew,Collenette,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,YES
+1116,56,Mr,Mark,Ingram,United Kingdom,NO,Sailboard,Fin,Pro Fleet,Adult,,None,All Week,YES
+1117,57,Mr,Jonathan,Ingram,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,None,All Week,YES
+1118,58,Mr,Dylan,Chick,United Kingdom,NO,Sailboard,Fin,Amateur,Youth,,None,Youth W/E,NO
+4119,59,Mr,Chris,Cunningham,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,YES
+4120,60,Mr,John-Paul,Standish,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
+1121,61,Mr,Milo,Robineau-Potts,United Kingdom,YES,Sailboard,Fin,Gold Fleet,Youth,,None,Youth W/E,YES
+4122,62,Mr,Denis,Gordo,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
+4123,63,Mr,Simon,Sanderson,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,NO
+4124,64,Mr,FINLAY,CHANDLER,United Kingdom,NO,Wingboard,,Freeride,Youth,,None,Youth W/E,NO
+1125,65,Mr,Neil,Meyerhoff,United Kingdom,NO,Sailboard,Fin,Amateur,Adult,,None,All Week,NO
+4126,66,Mr,Jason,Morton,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,NO
+3127,67,Mr,Emile,Burnaby Lautier,Netherlands,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
+1128,68,Mr,Anthony,Barber,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,None,All Week,NO
+1129,69,Mr,Shane,Verrion,United Kingdom,YES,Sailboard,Fin,Amateur,Adult,,None,All Week,YES
+3130,70,Mr,Sebastien,CAMARET,France,YES,Kiteboard,,Open Class,Adult,,None,All Week,N
+3131,71,Mr,Dave,Williams,United Kingdom,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
+4131,71,Mr,Dave,Williams,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,NO
+1132,72,Mr,Casey,Waite,United Kingdom,YES,Sailboard,Fin,Amateur,Youth,,None,Youth W/E,NO
+1133,73,Mr,Paul,Arnold,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,Portland Pirates,All Week,YES
+3134,74,Mr,Phil,Horder,United Kingdom,NO,Kiteboard,,Freeride,Adult,,None,All Week,N
+1135,75,Mr,Andrew,Twinn,United Kingdom,NO,Sailboard,Fin,Gold Fleet,Adult,,None,All Week,YES
