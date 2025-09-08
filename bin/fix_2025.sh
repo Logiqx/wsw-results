@@ -16,6 +16,14 @@ fix_all ",GBR *," ",United Kingdom,"
 fix_all ",NED *," ",Netherlands,"
 fix_all ",POR *," ",Portugal,"
 
+# Fix names for consistency with past events
+fix_all ",David,Williams," ",Dave,Williams,"
+fix_all ",JP,Standish," ",John-Paul,Standish,"
+fix_all ",Jean-marc," ",Jean-Marc,"
+fix_all ",Jon,Wills," ",Jonathan,Wills,"
+fix_all ",Robert,Spagnoletti," ",Bob,Spagnoletti,"
+fix_all ",Stephen,Thompson," ",Steve,Thompson,"
+
 # Fix groups
 fix_all "Weymouth and Portland Kitesurfing Club" ""
 
