@@ -1,0 +1,67 @@
+{
+  "1020_1020_20241010_154829.oao": {
+    "motion_file": "/logs/2024/10/1020_2024-10-10-1548.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241010/1020_1020_20241010_154829.oao",
+    "size": 188840,
+    "start_date": 1728571709000,
+    "end_date": 1728573613000,
+    "duration": 1904000,
+    "distance": 8338561,
+    "2s_best": 19949,
+    "10s_best": 19580,
+    "500m_best": 19388,
+    "status": "completed"
+  },
+  "BLO1020HEN_1020_20241015_110113.oao": {
+    "motion_file": "/logs/2024/10/1020_2024-10-15-1101.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/BLO1020HEN_1020_20241015_110113.oao",
+    "size": 2242112,
+    "start_date": 1728986473000,
+    "end_date": 1729009609000,
+    "duration": 23136000,
+    "distance": 97039446,
+    "2s_best": 17544,
+    "10s_best": 17474,
+    "500m_best": 16978,
+    "status": "completed"
+  },
+  "BLO1020HEN_1020_20241016_120431.oao": {
+    "motion_file": "/logs/2024/10/1020_2024-10-16-1204.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241016/BLO1020HEN_1020_20241016_120431.oao",
+    "size": 853868,
+    "start_date": 1729076671000,
+    "end_date": 1729084231000,
+    "duration": 7560000,
+    "distance": 16103958,
+    "2s_best": 18039,
+    "10s_best": 17026,
+    "500m_best": 15710,
+    "status": "completed"
+  },
+  "BLO1020HEN_1020_20241017_094831.oao": {
+    "motion_file": "/logs/2024/10/1020_2024-10-17-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/BLO1020HEN_1020_20241017_094831.oao",
+    "size": 3426360,
+    "start_date": 1729154911000,
+    "end_date": 1729181985000,
+    "duration": 27074000,
+    "distance": 96305492,
+    "2s_best": 15541,
+    "10s_best": 15308,
+    "500m_best": 15123,
+    "status": "completed"
+  },
+  "BLO1020HEN_1020_20241018_094549.oao": {
+    "motion_file": "/logs/2024/10/1020_2024-10-18-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/BLO1020HEN_1020_20241018_094549.oao",
+    "size": 1633608,
+    "start_date": 1729241149000,
+    "end_date": 1729267209000,
+    "duration": 26060000,
+    "distance": 56032094,
+    "2s_best": 17532,
+    "10s_best": 17232,
+    "500m_best": 16845,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "STA857KUB_857_20231011_104132.oao": {
+    "motion_file": "/logs/2023/10/0857_2023-10-11-1041.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/STA857KUB_857_20231011_104132.oao",
+    "size": 2068536,
+    "start_date": 1697017292000,
+    "end_date": 1697036348000,
+    "duration": 19056000,
+    "distance": 73927120,
+    "2s_best": 14172,
+    "10s_best": 13866,
+    "500m_best": 13263,
+    "status": "completed"
+  },
+  "DIC857ROD_857_20241014_102909.oao": {
+    "motion_file": "/logs/2024/10/0857_2024-10-14-1029.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241014/DIC857ROD_857_20241014_102909.oao",
+    "size": 62116,
+    "start_date": 1728898149000,
+    "end_date": 1728914587000,
+    "duration": 16438000,
+    "distance": 3496289,
+    "2s_best": 4097,
+    "10s_best": 2467,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "DIC857ROD_857_20241015_122249.oao": {
+    "motion_file": "/logs/2024/10/0857_2024-10-15-1222.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241015/DIC857ROD_857_20241015_122249.oao",
+    "size": 1663872,
+    "start_date": 1728991369000,
+    "end_date": 1729006459000,
+    "duration": 15090000,
+    "distance": 53452396,
+    "2s_best": 13130,
+    "10s_best": 13060,
+    "500m_best": 12739,
+    "status": "completed"
+  },
+  "DIC857ROD_857_20241018_115841.oao": {
+    "motion_file": "/logs/2024/10/0857_2024-10-18-1158.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/DIC857ROD_857_20241018_115841.oao",
+    "size": 1262900,
+    "start_date": 1729249121000,
+    "end_date": 1729266957000,
+    "duration": 17836000,
+    "distance": 42216814,
+    "2s_best": 14152,
+    "10s_best": 14038,
+    "500m_best": 13388,
+    "status": "completed"
+  }
+}
