@@ -1,0 +1,67 @@
+{
+  "CRI858GUY_858_20231011_100701.oao": {
+    "motion_file": "/logs/2023/10/0858_2023-10-11-1007.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231011/CRI858GUY_858_20231011_100701.oao",
+    "size": 1891632,
+    "start_date": 1697015221000,
+    "end_date": 1697035080000,
+    "duration": 19859000,
+    "distance": 72182222,
+    "2s_best": 14631,
+    "10s_best": 14300,
+    "500m_best": 13873,
+    "status": "completed"
+  },
+  "CRI858GUY_858_20231013_084750.oao": {
+    "motion_file": "/logs/2023/10/0858_2023-10-13-0847.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/CRI858GUY_858_20231013_084750.oao",
+    "size": 2644488,
+    "start_date": 1697183270000,
+    "end_date": 1697210572000,
+    "duration": 27302000,
+    "distance": 96283743,
+    "2s_best": 15938,
+    "10s_best": 15628,
+    "500m_best": 14994,
+    "status": "completed"
+  },
+  "BES858DAV_858_20241016_130119.oao": {
+    "motion_file": "/logs/2024/10/0858_2024-10-16-1301.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241016/BES858DAV_858_20241016_130119.oao",
+    "size": 1536,
+    "start_date": 1729080079000,
+    "end_date": 1729084061000,
+    "duration": 3982000,
+    "distance": 44548,
+    "2s_best": 1341,
+    "10s_best": 1274,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "BES858DAV_858_20241017_135959.oao": {
+    "motion_file": "/logs/2024/10/0858_2024-10-17-1359.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/BES858DAV_858_20241017_135959.oao",
+    "size": 1895480,
+    "start_date": 1729169999000,
+    "end_date": 1729182335000,
+    "duration": 12336000,
+    "distance": 36852404,
+    "2s_best": 11350,
+    "10s_best": 11232,
+    "500m_best": 10685,
+    "status": "completed"
+  },
+  "BES858DAV_858_20241018_135147.oao": {
+    "motion_file": "/logs/2024/10/0858_2024-10-18-1351.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241018/BES858DAV_858_20241018_135147.oao",
+    "size": 1166804,
+    "start_date": 1729255907000,
+    "end_date": 1729267721000,
+    "duration": 11814000,
+    "distance": 28993377,
+    "2s_best": 13099,
+    "10s_best": 12995,
+    "500m_best": 11718,
+    "status": "completed"
+  }
+}

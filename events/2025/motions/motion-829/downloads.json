@@ -1,0 +1,67 @@
+{
+  "BUK829MAC_829_20231013_082820.oao": {
+    "motion_file": "/logs/2023/10/0829_2023-10-13-0828.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2023/gpslogs/20231013/BUK829MAC_829_20231013_082820.oao",
+    "size": 1805000,
+    "start_date": 1697182100000,
+    "end_date": 1697207056000,
+    "duration": 24956000,
+    "distance": 75951345,
+    "2s_best": 16883,
+    "10s_best": 16613,
+    "500m_best": 15983,
+    "status": "completed"
+  },
+  "MAR829PET_829_20241012_104509.oao": {
+    "motion_file": "/logs/2024/10/0829_2024-10-12-1045.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241012/MAR829PET_829_20241012_104509.oao",
+    "size": 1296804,
+    "start_date": 1728726309000,
+    "end_date": 1728750977000,
+    "duration": 24668000,
+    "distance": 39621950,
+    "2s_best": 19601,
+    "10s_best": 19555,
+    "500m_best": 19311,
+    "status": "completed"
+  },
+  "MAR829PET_829_20241013_115729.oao": {
+    "motion_file": "/logs/2024/10/0829_2024-10-13-1157.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241013/MAR829PET_829_20241013_115729.oao",
+    "size": 6580,
+    "start_date": 1728817049000,
+    "end_date": 1728825065000,
+    "duration": 8016000,
+    "distance": 343786,
+    "2s_best": 1336,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "MAR829PET_829_20241014_104353.oao": {
+    "motion_file": "/logs/2024/10/0829_2024-10-14-1043.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241014/MAR829PET_829_20241014_104353.oao",
+    "size": 998272,
+    "start_date": 1728899033000,
+    "end_date": 1728915513000,
+    "duration": 16480000,
+    "distance": 29045810,
+    "2s_best": 22609,
+    "10s_best": 22470,
+    "500m_best": 21801,
+    "status": "completed"
+  },
+  "GOY829NIC_829_20241017_111119.oao": {
+    "motion_file": "/logs/2024/10/0829_2024-10-17-1111.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2024/gpslogs/20241017/GOY829NIC_829_20241017_111119.oao",
+    "size": 1024896,
+    "start_date": 1729159879000,
+    "end_date": 1729173985000,
+    "duration": 14106000,
+    "distance": 33400572,
+    "2s_best": 14786,
+    "10s_best": 14486,
+    "500m_best": 13864,
+    "status": "completed"
+  }
+}
