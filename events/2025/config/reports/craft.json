@@ -26,7 +26,7 @@
     {
       "Title": "All Sailboards - Fin",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard"
+      "Filter": "Craft Type=Sailboard,Class=Fin"
     },
     {
       "Title": "All Wingboards",
