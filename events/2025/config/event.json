@@ -171,18 +171,18 @@
       "Places": 1
     },
     {
-      "Category": "First Time Amateur Wingboard",
-      "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y",
+      "Category": "First Time Freeride Wingboard",
+      "Filter": "Craft Type=Wingboard,Status=Freeride,First Timer=Y",
       "Places": 1
     },
     {
-      "Category": "Pro Wingboard",
-      "Filter": "Craft Type=Wingboard,Status=Pro Fleet",
+      "Category": "Open Class Wingboard",
+      "Filter": "Craft Type=Wingboard,Status=Open Class",
       "Places": 1
     },
     {
-      "Category": "Amateur Wingboards",
-      "Filter": "Craft Type=Wingboard,Status=Amateur",
+      "Category": "Freeride Wingboards",
+      "Filter": "Craft Type=Wingboard,Status=Freeride",
       "Places": 3
     }
   ],
