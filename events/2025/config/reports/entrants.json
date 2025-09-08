@@ -45,19 +45,19 @@
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
     },
     {
-      "Title": "Pro Fleet Wingboards",
+      "Title": "Open Class Wingboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally,Motion,PB (kts)",
-      "Filter": "Craft Type=Wingboard,Status=Pro Fleet"
+      "Filter": "Craft Type=Wingboard,Status=Open Class"
     },
     {
-      "Title": "Amateur Wingboards",
+      "Title": "Freeride Wingboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally,Motion,PB (kts)",
-      "Filter": "Craft Type=Wingboard,Status=Amateur"
+      "Filter": "Craft Type=Wingboard,Status=Freeride"
     },
     {
-      "Title": "First Time Amateur Wingboards",
+      "Title": "First Time Freeride Wingboards",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally,Motion,PB (kts)",
-      "Filter": "Craft Type=Wingboard,Status=Amateur,First Timer=Y"
+      "Filter": "Craft Type=Wingboard,Status=Freeride,First Timer=Y"
     },
     {
       "Title": "All Females",
