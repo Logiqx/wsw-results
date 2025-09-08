@@ -34,22 +34,22 @@
       "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y"
     },
     {
-      "Title": "All Pro Fleet Sailboards (fin)",
+      "Title": "All Pro Fleet Sailboards - Fin",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
-      "Title": "All Gold Fleet Sailboards (fin)",
+      "Title": "All Gold Fleet Sailboards - Fin",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
-      "Title": "All Amateur Sailboards (fin)",
+      "Title": "All Amateur Sailboards - Fin",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
-      "Title": "All First Time Amateur Sailboards (fin)",
+      "Title": "All First Time Amateur Sailboards - Fin",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
     },
@@ -69,7 +69,7 @@
       "Filter": "Craft Type=Wingboard,Status=Freeride,First Timer=Y"
     },
     {
-      "Title": "All Female Sailboards (fin)",
+      "Title": "All Female Sailboards - Fin",
       "Comment": "(excluding pros)",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet"

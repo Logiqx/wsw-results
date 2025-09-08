@@ -25,22 +25,22 @@
       "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y"
     },
     {
-      "Title": "Pro Fleet Sailboards (fin)",
+      "Title": "Pro Fleet Sailboards - Fin",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally,Motion,PB (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
-      "Title": "Gold Fleet Sailboards (fin)",
+      "Title": "Gold Fleet Sailboards - Fin",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally,Motion,PB (kts)",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
-      "Title": "Amateur Sailboards (fin)",
+      "Title": "Amateur Sailboards - Fin",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally,Motion,PB (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
-      "Title": "First Time Amateur Sailboards (fin)",
+      "Title": "First Time Amateur Sailboards - Fin",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally,Motion,PB (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
     },
