@@ -10,12 +10,11 @@ do
 done
 
 # Fix countries
-fix_all ",England *," ",United Kingdom,"
-fix_all ",UNITED KINGDOM *," ",United Kingdom,"
-fix_all ",UK *," ",United Kingdom,"
-fix_all ",U.K. *," ",United Kingdom,"
-fix_all ",US *," ",United States,"
-fix_all ",USA *," ",United States,"
+fix_all ",BEL *," ",Belgium,"
+fix_all ",FRA *," ",France,"
+fix_all ",GBR *," ",United Kingdom,"
+fix_all ",NED *," ",Netherlands,"
+fix_all ",POR *," ",Portugal,"
 
 # Fix groups
 fix_all "Weymouth and Portland Kitesurfing Club" ""
