@@ -12,9 +12,11 @@ done
 # Fix countries
 fix_all ",BEL *," ",Belgium,"
 fix_all ",FRA *," ",France,"
+fix_all ",GER *," ",Germany,"
 fix_all ",GBR *," ",United Kingdom,"
 fix_all ",NED *," ",Netherlands,"
 fix_all ",POR *," ",Portugal,"
+fix_all ",USA *," ",United States,"
 
 # Fix names for consistency with past events
 fix_all ",David,Williams," ",Dave,Williams,"
