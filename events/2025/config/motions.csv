@@ -6,7 +6,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1063,3,0,2024-10-12,2024-10-18,GIB0JEN,Jenna,Gibson,Sailboard,,Pro Fleet,All Week
 2063,3,610,2024-10-12,2024-10-18,GIB610JEN,Jenna,Gibson,Sailboard,Foil,Foil Fleet,All Week
 1064,4,0,2024-10-12,2024-10-18,WAT0STE,Steve,watson,Sailboard,,Amateur,All Week
-1065,5,0,2024-10-12,2024-10-18,WAT0JOE,Joey,Watts,Sailboard,,Amateur,All Week
+1065,5,0,2024-10-14,2024-10-18,WAT0JOE,Joey,Watts,Sailboard,,Amateur,Weekdays
 1066,6,0,2024-10-12,2024-10-18,WIL0JON,Jonathan,Wills,Sailboard,,Amateur,All Week
 1067,7,0,2024-10-12,2024-10-18,LOC0JAS,Jason,Lockyer,Sailboard,,Amateur,All Week
 1068,8,0,2024-10-12,2024-10-18,HAR0SCO,Scott,Harrison,Sailboard,,Gold Fleet,All Week
@@ -83,3 +83,17 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1133,73,0,2024-10-12,2024-10-18,ARN0PAU,Paul,Arnold,Sailboard,,Gold Fleet,All Week
 3134,74,0,2024-10-12,2024-10-18,HOR0PHI,Phil,Horder,Kiteboard,,Freeride,All Week
 1135,75,0,2024-10-12,2024-10-18,TWI0AND,Andrew,Twinn,Sailboard,,Gold Fleet,All Week
+4136,76,0,2024-10-12,2024-10-18,WAK0PAU,Paul,Wakelin,Wingboard,,Open Class,All Week
+4137,77,0,2024-10-12,2024-10-13,CUL0DYL,Dylan,Cullen,Wingboard,,Open Class,Youth W/E
+3138,78,0,2024-10-12,2024-10-18,LON0JAM,James,Longmuir,Kiteboard,,Open Class,All Week
+2139,79,0,2024-10-12,2024-10-13,BAK0CHA,Charlie,Baker,Sailboard,Foil,Foil Fleet,Youth W/E
+1140,80,0,2024-10-12,2024-10-18,SAL0SAV,Sav,Salvage,Sailboard,,Amateur,All Week
+1141,81,0,2024-10-12,2024-10-18,MAY0SCO,Scott,Mayhew,Sailboard,,Amateur,All Week
+3142,82,0,2024-10-12,2024-10-18,HEI0TIL,Tilmann,Heinig,Kiteboard,,Open Class,All Week
+1143,83,0,2024-10-12,2024-10-18,CAR0BOB,Bob,Cartridge,Sailboard,,Pro Fleet,All Week
+1144,84,0,2024-10-12,2024-10-18,CAR0DAN,Danny,Cartridge,Sailboard,,Gold Fleet,All Week
+4145,85,0,2024-10-12,2024-10-13,MIL0JAY,Jay,Miller,Wingboard,,Freeride,Youth W/E
+3146,86,0,2024-10-12,2024-10-18,CAR0MAR,Martin,Carter,Kiteboard,,Open Class,All Week
+4146,86,0,2024-10-12,2024-10-18,CAR0MAR,Martin,Carter,Wingboard,,Open Class,All Week
+1147,87,0,2024-10-12,2024-10-18,HIL0IAN,Ian,Hill,Sailboard,,Gold Fleet,All Week
+1148,88,0,2024-10-12,2024-10-18,TOD0SIM,Simon,Todd,Sailboard,,Pro Fleet,All Week
