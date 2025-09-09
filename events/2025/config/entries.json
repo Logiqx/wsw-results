@@ -36,7 +36,7 @@
       }
     },
     "Entry Type": {
-      "2 Days": {
+      "Weekdays": {
         "Filters": {
           "Weekdays": "YES"
         }
