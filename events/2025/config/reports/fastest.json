@@ -32,7 +32,7 @@
     {
       "Title": "Fastest Sailboards",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet"
+      "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "Fastest Wingboards",
@@ -66,25 +66,25 @@
     },
     {
       "Title": "Fastest Pro Fleet Sailboards",
-      "Comment": "(excludes foils)",
+      "Comment": "(excluding foils)",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "Fastest Gold Fleet Sailboards",
-      "Comment": "(excludes foils)",
+      "Comment": "(excluding foils)",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
       "Title": "Fastest Amateur Sailboards",
-      "Comment": "(excludes foils)",
+      "Comment": "(excluding foils)",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
       "Title": "Fastest First Time Amateur Sailboards",
-      "Comment": "(excludes foils)",
+      "Comment": "(excluding foils)",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
     },
@@ -105,9 +105,9 @@
     },
     {
       "Title": "Fastest Female Sailboards",
-      "Comment": "(excluding pros and foils)",
+      "Comment": "(excluding pros)",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet,Status<>Pro Fleet,Gender=F"
+      "Filter": "Craft Type=Sailboard,Status<>Pro Fleet,Gender=F"
     },
     {
       "Title": "Fastest Youths",
