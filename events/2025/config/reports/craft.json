@@ -25,9 +25,8 @@
     },
     {
       "Title": "All Sailboards",
-      "Comment": "(excludes foils)",
       "Fields": "Name,Nation,Status,First Timer,Course,Time,Speed (kts)",
-      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet"
+      "Filter": "Craft Type=Sailboard"
     },
     {
       "Title": "All Wingboards",

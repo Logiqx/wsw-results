@@ -26,25 +26,25 @@
     },
     {
       "Title": "Pro Fleet Sailboards",
-      "Comment": "(excludes foils)",
+      "Comment": "(excluding foils)",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally,Motion,PB (kts)",
       "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
     },
     {
       "Title": "Gold Fleet Sailboards",
-      "Comment": "(excludes foils)",
+      "Comment": "(excluding foils)",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally,Motion,PB (kts)",
       "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
     },
     {
       "Title": "Amateur Sailboards",
-      "Comment": "(excludes foils)",
+      "Comment": "(excluding foils)",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally,Motion,PB (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur"
     },
     {
       "Title": "First Time Amateur Sailboards",
-      "Comment": "(excludes foils)",
+      "Comment": "(excluding foils)",
       "Fields": "Name,Nation,Entry Type,UKWA,Tally,Motion,PB (kts)",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
     },
