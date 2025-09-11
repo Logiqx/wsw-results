@@ -37,7 +37,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 4091,31,0,2024-10-12,2024-10-18,DIC0ROD,Rod,Dickinson,Wingboard,,Open Class,All Week
 1092,32,0,2024-10-12,2024-10-18,TRO0WIL,Will,Trossell,Sailboard,,Pro Fleet,All Week
 1093,33,0,2024-10-12,2024-10-13,CRO0JAC,Jack,Crossley,Sailboard,,Amateur,Youth W/E
-4094,34,0,2024-10-12,2024-10-13,BER0FIN,Fin,Bernie,Wingboard,,Open Class,Youth W/E
+4094,34,0,2024-10-12,2024-10-13,BER0FIN,Fin,Bernie,Wingboard,,Freeride,Youth W/E
 1095,35,0,2024-10-12,2024-10-18,THO0STE,Steve,Thompson,Sailboard,,Amateur,All Week
 1096,36,0,2024-10-12,2024-10-18,DUD0RIC,Richard,Dudley,Sailboard,,Amateur,All Week
 1097,37,0,2024-10-12,2024-10-18,DVO0PAV,Pavel,Dvoulety,Sailboard,,Amateur,All Week
@@ -45,11 +45,11 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1099,39,0,2024-10-12,2024-10-18,WEL0MAR,Mark,Weller,Sailboard,,Amateur,All Week
 1100,40,0,2024-10-12,2024-10-18,BAT0TIM,Tim,Bate,Sailboard,,Gold Fleet,All Week
 2100,40,0,2024-10-12,2024-10-18,BAT0TIM,Tim,Bate,Sailboard,Foil,Foil Fleet,All Week
-4101,41,0,2024-10-12,2024-10-18,ROG0KAT,Kate,Rogers,Wingboard,,Open Class,All Week
+4101,41,0,2024-10-12,2024-10-18,ROG0KAT,Kate,Rogers,Wingboard,,Freeride,All Week
 1102,42,0,2024-10-12,2024-10-18,STU0AND,Andy,Stuart-William,Sailboard,,Gold Fleet,All Week
 4102,42,0,2024-10-12,2024-10-18,STU0AND,Andy,Stuart-William,Wingboard,,Freeride,All Week
 1103,43,0,2024-10-12,2024-10-18,YEL0LIL,Lilia,Yelland,Sailboard,,Gold Fleet,All Week
-4104,44,0,2024-10-12,2024-10-18,NIC0JON,Jon,Nichols,Wingboard,,Open Class,All Week
+4104,44,0,2024-10-12,2024-10-18,NIC0JON,Jon,Nichols,Wingboard,,Freeride,All Week
 1105,45,0,2024-10-12,2024-10-18,DIC0FIN,Fin,Dickinson,Sailboard,,Amateur,All Week
 3106,46,0,2024-10-12,2024-10-18,VAS0STA,Stacey,Vass,Kiteboard,,Open Class,All Week
 1107,47,0,2024-10-12,2024-10-18,LON0ROB,Rob,Longstaff,Sailboard,,Amateur,All Week
@@ -104,3 +104,5 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1153,93,0,2024-10-12,2024-10-18,BUK0MAC,Maciej,Bukolt,Sailboard,,Gold Fleet,All Week
 3154,94,0,2024-10-12,2024-10-18,EIF0AYA,Aya,Eiffel,Kiteboard,,Open Class,All Week
 4155,95,0,2024-10-12,2024-10-18,REA0RAF,Rafferty,Read,Wingboard,,Open Class,All Week
+3156,96,0,2024-10-12,2024-10-18,DAV0STE,Steve,Davison,Kiteboard,,Freeride,All Week
+157,97,0,2024-10-12,2024-10-18,MCL0STE,Steven,McLean,Boat,,Boat Fleet,All Week

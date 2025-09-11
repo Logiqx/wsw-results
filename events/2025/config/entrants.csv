@@ -37,7 +37,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 4091,31,Mr,Rod,Dickinson,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,YES
 1092,32,Mr,Will,Trossell,United Kingdom,NO,Sailboard,,Pro Fleet,Adult,,Hamworthy Heroes,All Week,YES
 1093,33,Mr,Jack,Crossley,United Kingdom,YES,Sailboard,,Amateur,Youth,,None,Youth W/E,NO
-4094,34,Mr,Fin,Bernie,United Kingdom,YES,Wingboard,,Open Class,Youth,,None,Youth W/E,YES
+4094,34,Mr,Fin,Bernie,United Kingdom,YES,Wingboard,,Freeride,Youth,,None,Youth W/E,YES
 1095,35,Mr,Steve,Thompson,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
 1096,36,Mr,Richard,Dudley,United Kingdom,YES,Sailboard,,Amateur,Adult,,SW Marine,All Week,NO
 1097,37,Mr,Pavel,Dvoulety,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
@@ -45,11 +45,11 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 1099,39,Mr,Mark,Weller,United Kingdom,YES,Sailboard,,Amateur,Adult,,None,All Week,NO
 1100,40,Mr,Tim,Bate,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,Hamworthy Heroes,All Week,YES
 2100,40,Mr,Tim,Bate,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Hamworthy Heroes,All Week,YES
-4101,41,Mrs,Kate,Rogers,United Kingdom,YES,Wingboard,,Open Class,Adult,,None,All Week,NO
+4101,41,Mrs,Kate,Rogers,United Kingdom,YES,Wingboard,,Freeride,Adult,,None,All Week,NO
 1102,42,Mr,Andy,Stuart-William,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
 4102,42,Mr,Andy,Stuart-William,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
 1103,43,Miss,Lilia,Yelland,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,The OTC,All Week,YES
-4104,44,Mr,Jon,Nichols,United Kingdom,YES,Wingboard,,Open Class,Adult,,None,All Week,YES
+4104,44,Mr,Jon,Nichols,United Kingdom,YES,Wingboard,,Freeride,Adult,,None,All Week,YES
 1105,45,Mr,Fin,Dickinson,United Kingdom,YES,Sailboard,,Amateur,Adult,,None,All Week,NO
 3106,46,Mr,Stacey,Vass,United Kingdom,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
 1107,47,Mr,Rob,Longstaff,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
@@ -104,3 +104,5 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 1153,93,Mr,Maciej,Bukolt,Poland,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
 3154,94,Ms,Aya,Eiffel,Germany,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
 4155,95,Mr,Rafferty,Read,United Kingdom,YES,Wingboard,,Open Class,Adult,,None,All Week,YES
+3156,96,Mr,Steve,Davison,United Kingdom,NO,Kiteboard,,Freeride,Adult,,None,All Week,N
+157,97,Mr,Steven,McLean,United Kingdom,YES,Boat,,Boat Fleet,Adult,LED Low Energy Design,None,All Week,N
