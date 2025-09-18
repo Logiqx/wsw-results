@@ -10,7 +10,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1066,6,0,2024-10-12,2024-10-18,WIL0JON,Jonathan,Wills,Sailboard,,Amateur,All Week
 1067,7,0,2024-10-12,2024-10-18,LOC0JAS,Jason,Lockyer,Sailboard,,Amateur,All Week
 1068,8,0,2024-10-12,2024-10-18,HAR0SCO,Scott,Harrison,Sailboard,,Gold Fleet,All Week
-1069,9,0,2024-10-12,2024-10-18,FUL0GEO,George,Fulton,Sailboard,,Gold Fleet,All Week
+1069,9,623,2024-10-12,2024-10-18,FUL623GEO,George,Fulton,Sailboard,,Gold Fleet,All Week
 1070,10,0,2024-10-12,2024-10-18,WIN0SIM,Simon,Winkley,Sailboard,,Gold Fleet,All Week
 1071,11,0,2024-10-12,2024-10-18,NEA0IAI,Iain,Neary,Sailboard,,Gold Fleet,All Week
 1072,12,0,2024-10-12,2024-10-18,SPA0BOB,Bob,Spagnoletti,Sailboard,,Gold Fleet,All Week
@@ -73,7 +73,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 4124,64,0,2024-10-12,2024-10-13,CHA0FIN,FINLAY,CHANDLER,Wingboard,,Open Class,Youth W/E
 1125,65,0,2024-10-12,2024-10-18,MEY0NEI,Neil,Meyerhoff,Sailboard,,Amateur,All Week
 4126,66,0,2024-10-12,2024-10-18,MOR0JAS,Jason,Morton,Wingboard,,Open Class,All Week
-3127,67,0,2024-10-12,2024-10-18,BUR0EMI,Emile,Burnaby Lautier,Kiteboard,,Open Class,All Week
+3127,67,846,2024-10-12,2024-10-18,BUR846EMI,Emile,Burnaby Lautier,Kiteboard,,Open Class,All Week
 1128,68,0,2024-10-12,2024-10-18,BAR0ANT,Anthony,Barber,Sailboard,,Gold Fleet,All Week
 1129,69,0,2024-10-12,2024-10-18,VER0SHA,Shane,Verrion,Sailboard,,Amateur,All Week
 3130,70,0,2024-10-12,2024-10-18,CAM0SEB,Sebastien,CAMARET,Kiteboard,,Open Class,All Week
@@ -100,9 +100,10 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 2149,89,0,2024-10-12,2024-10-18,STA0SCO,Scotty,Stallman,Sailboard,Foil,Foil Fleet,All Week
 1150,90,0,2024-10-12,2024-10-18,HEN0RIC,Richard,Henderson,Sailboard,,Amateur,All Week
 4151,91,0,2024-10-12,2024-10-13,MAL0REG,Reg,Mallett,Wingboard,,Freeride,Youth W/E
-4152,92,0,2024-10-12,2024-10-18,HOB0RIC,Richard,Hobson,Wingboard,,Open Class,All Week
+4152,92,946,2024-10-12,2024-10-18,HOB946RIC,Richard,Hobson,Wingboard,,Open Class,All Week
 1153,93,0,2024-10-12,2024-10-18,BUK0MAC,Maciej,Bukolt,Sailboard,,Gold Fleet,All Week
-3154,94,0,2024-10-12,2024-10-18,EIF0AYA,Aya,Eiffel,Kiteboard,,Open Class,All Week
+3154,94,0,2024-10-12,2024-10-18,EIF0AYA,Aya,Eiffel,Kiteboard,,Freeride,All Week
 4155,95,0,2024-10-12,2024-10-18,REA0RAF,Rafferty,Read,Wingboard,,Open Class,All Week
 3156,96,0,2024-10-12,2024-10-18,DAV0STE,Steve,Davison,Kiteboard,,Freeride,All Week
 157,97,0,2024-10-12,2024-10-18,MCL0STE,Steven,McLean,Boat,,Boat Fleet,All Week
+1158,98,0,2024-10-12,2024-10-18,DAF0CHR,Christine,Daffe,Sailboard,,Amateur,All Week
