@@ -6,14 +6,14 @@
     {
       "Title": "All Tallies",
       "Comment": "Sorted by Tally Number",
-      "Fields": "Tally,Name,Nation,Craft Type,Status,Entry Type,Motion",
+      "Fields": "Tally,Name,Nation,Craft Type,Status,Motion",
       "Filter": "Tally<>",
       "Sort": "Tally=ASC,Craft Type=ASC"
     },
     {
       "Title": "All Entrants",
       "Comment": "Sorted by Name",
-      "Fields": "Tally,Name,Nation,Craft Type,Status,Entry Type,Motion",
+      "Fields": "Tally,Name,Nation,Craft Type,Status,Motion",
       "Sort": "Name=ASC,Craft Type=ASC"
     }
   ]
