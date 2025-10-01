@@ -1,4 +1,14 @@
-## UKWA Speed Championships
+## UKWA Speed Champions
+
+### Official Documents
+
+The following documents describe how Weymouth Speed Week results will be used by the UKWA.
+
+- [Weymouth Speed Week 2025](2025.md)
+
+
+
+### Proposals
 
 Two proposals have been written for the UKWA Windsurfing Speed Championships:
 
