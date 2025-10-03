@@ -4,7 +4,7 @@
 
 The following documents describe how Weymouth Speed Week results will be used by the UKWA.
 
-- [Weymouth Speed Week 2025](2025.md)
+- [UKWA Speed Champions 2025](2025.md)
 
 
 
