@@ -24,8 +24,8 @@ The most important settings are the logging rate (5 Hz), minimum speed (3 kts), 
 
 The following files are available for download:
 
-- [Mini-Motion-9010-3232.bin](Mini-Motion-9010-3232.bin) is the Weymouth Speed Week firmware
-- [Mini-Motion-3232.bin](Mini-Motion-3232.bin) is the non-customized firmware
+- [Mini-Motion-9010-3232.bin](firmware/Mini-Motion-9010-3232.bin) is the Weymouth Speed Week firmware
+- [Mini-Motion-3232.bin](firmware/Mini-Motion-3232.bin) is the non-customized firmware
 
 Use the links above to download the files to your laptop, phone or tablet.
 
