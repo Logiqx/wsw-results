@@ -1,7 +1,6 @@
 Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Type,Class,Status,Entry Type
-1031,102,0,2024-10-14,2024-10-18,WHA0TRE,Trevor,Whatford,Sailboard,,Gold Fleet,Weekdays
-1061,1,0,2024-10-12,2024-10-18,GEO0MIC,Michael,George,Sailboard,,Pro Fleet,All Week
-2061,1,0,2024-10-12,2024-10-18,GEO0MIC,Michael,George,Sailboard,Foil,Foil Fleet,All Week
+1061,1,611,2024-10-12,2024-10-18,GEO611MIC,Michael,George,Sailboard,,Pro Fleet,All Week
+2061,1,617,2024-10-12,2024-10-18,GEO617MIC,Michael,George,Sailboard,Foil,Foil Fleet,All Week
 1062,2,0,2024-10-12,2024-10-18,PET0SIM,Simon,Pettifer,Sailboard,,Pro Fleet,All Week
 2062,2,612,2024-10-12,2024-10-18,PET612SIM,Simon,Pettifer,Sailboard,Foil,Foil Fleet,All Week
 1063,3,0,2024-10-12,2024-10-18,GIB0JEN,Jenna,Gibson,Sailboard,,Pro Fleet,All Week
@@ -68,7 +67,6 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1118,58,0,2024-10-12,2024-10-13,CHI0DYL,Dylan,Chick,Sailboard,,Amateur,Youth W/E
 4119,59,0,2024-10-12,2024-10-18,CUN0CHR,Chris,Cunningham,Wingboard,,Freeride,All Week
 4120,60,0,2024-10-12,2024-10-18,STA0JOH,John-Paul,Standish,Wingboard,,Freeride,All Week
-1121,61,0,2024-10-12,2024-10-13,ROB0MIL,Milo,Robineau-Potts,Sailboard,,Amateur,Youth W/E
 4122,62,707,2024-10-12,2024-10-18,GOR707DEN,Denis,Gordo,Wingboard,,Open Class,All Week
 4123,63,0,2024-10-12,2024-10-18,SAN0SIM,Simon,Sanderson,Wingboard,,Open Class,All Week
 4124,64,0,2024-10-12,2024-10-13,CHA0FIN,FINLAY,CHANDLER,Wingboard,,Open Class,Youth W/E
@@ -107,3 +105,4 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1158,98,0,2024-10-12,2024-10-18,DAF0CHR,Christine,Daffe,Sailboard,,Amateur,All Week
 4159,99,0,2024-10-12,2024-10-13,DEM0OSC,Oscar,Dempsey,Wingboard,,Open Class,Youth W/E
 4160,100,0,2024-10-12,2024-10-13,VIT0JOW,Jowan,Vittle,Wingboard,,Freeride,Youth W/E
+1031,102,0,2024-10-14,2024-10-18,WHA0TRE,Trevor,Whatford,Sailboard,,Gold Fleet,Weekdays

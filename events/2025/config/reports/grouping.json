@@ -44,6 +44,11 @@
       "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
     },
     {
+      "Title": "The Old Geezers",
+      "Filter": "Grouping=The Old Geezers",
+      "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
+    },
+    {
       "Title": "The OTC",
       "Filter": "Grouping=The OTC",
       "Fields": "Name,Nation,Craft Type,Status,First Timer,Course,Time,Speed (kts)"
