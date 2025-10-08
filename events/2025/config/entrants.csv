@@ -68,7 +68,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 4119,59,Mr,Chris,Cunningham,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
 4120,60,Mr,John-Paul,Standish,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
 4122,62,Mr,Denis,Gordo,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,YES
-4123,63,Mr,Simon,Sanderson,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,NO
+4123,63,Mr,Simon,Sanderson,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,NO
 4124,64,Mr,FINLAY,CHANDLER,United Kingdom,NO,Wingboard,,Open Class,Youth,,None,Youth W/E,NO
 1125,65,Mr,Neil,Meyerhoff,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
 3127,67,Mr,Emile,Burnaby Lautier,Netherlands,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
@@ -83,7 +83,6 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 1135,75,Mr,Andrew,Twinn,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
 4136,76,Mr,Paul,Wakelin,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,NO
 4137,77,Mr,Dylan,Cullen,United Kingdom,YES,Wingboard,,Freeride,Youth,,None,Youth W/E,YES
-3138,78,Mr,James,Longmuir,United Kingdom,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
 2139,79,Mr,Charlie,Baker,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Youth,,None,Youth W/E,YES
 1140,80,Mr,Mark,Salvage,United Kingdom,NO,Sailboard,,Amateur,Adult,,The Old Geezers,All Week,YES
 1141,81,Mr,Scott,Mayhew,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
@@ -94,6 +93,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 4146,86,Mr,Martin,Carter,United Kingdom,NO,Wingboard,,Freeride,Adult,,,All Week,NO
 1147,87,Mr,Ian,Hill,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,Hamworthy Heroes,All Week,NO
 1148,88,Mr,Simon,Todd,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,NO
+1149,89,Mr,Scotty,Stallman,United Kingdom,NO,Sailboard,,Pro Fleet,Adult,,The OTC,All Week,YES
 2149,89,Mr,Scotty,Stallman,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,The OTC,All Week,YES
 1150,90,Mr,Richard,Henderson,United Kingdom,YES,Sailboard,,Amateur,Adult,,SW Marine,All Week,NO
 4151,91,Mr,Reg,Mallett,United Kingdom,NO,Wingboard,,Freeride,Youth,,None,Youth W/E,YES
