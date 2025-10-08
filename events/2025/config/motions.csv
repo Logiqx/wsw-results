@@ -1,6 +1,6 @@
 Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Type,Class,Status,Entry Type
-1061,1,611,2024-10-12,2024-10-18,GEO611MIC,Michael,George,Sailboard,,Pro Fleet,All Week
-2061,1,617,2024-10-12,2024-10-18,GEO617MIC,Michael,George,Sailboard,Foil,Foil Fleet,All Week
+1061,1,0,2024-10-12,2024-10-18,GEO0MIC,Michael,George,Sailboard,,Pro Fleet,All Week
+2061,1,0,2024-10-12,2024-10-18,GEO0MIC,Michael,George,Sailboard,Foil,Foil Fleet,All Week
 1062,2,0,2024-10-12,2024-10-18,PET0SIM,Simon,Pettifer,Sailboard,,Pro Fleet,All Week
 2062,2,612,2024-10-12,2024-10-18,PET612SIM,Simon,Pettifer,Sailboard,Foil,Foil Fleet,All Week
 1063,3,0,2024-10-12,2024-10-18,GIB0JEN,Jenna,Gibson,Sailboard,,Pro Fleet,All Week
@@ -91,7 +91,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1144,84,0,2024-10-12,2024-10-18,CAR0DAN,Danny,Cartridge,Sailboard,,Gold Fleet,All Week
 4145,85,0,2024-10-12,2024-10-13,MIL0JAY,Jay,Miller,Wingboard,,Freeride,Youth W/E
 3146,86,0,2024-10-12,2024-10-18,CAR0MAR,Martin,Carter,Kiteboard,,Open Class,All Week
-4146,86,0,2024-10-12,2024-10-18,CAR0MAR,Martin,Carter,Wingboard,,Open Class,All Week
+4146,86,0,2024-10-12,2024-10-18,CAR0MAR,Martin,Carter,Wingboard,,Freeride,All Week
 1147,87,0,2024-10-12,2024-10-18,HIL0IAN,Ian,Hill,Sailboard,,Gold Fleet,All Week
 1148,88,0,2024-10-12,2024-10-18,TOD0SIM,Simon,Todd,Sailboard,,Gold Fleet,All Week
 2149,89,0,2024-10-12,2024-10-18,STA0SCO,Scotty,Stallman,Sailboard,Foil,Foil Fleet,All Week

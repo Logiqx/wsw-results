@@ -45,7 +45,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 1099,39,Mr,Mark,Weller,United Kingdom,YES,Sailboard,,Amateur,Adult,,None,All Week,NO
 1100,40,Mr,Tim,Bate,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,Hamworthy Heroes,All Week,YES
 2100,40,Mr,Tim,Bate,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Hamworthy Heroes,All Week,YES
-4101,41,Mrs,Kate,Rogers,United Kingdom,YES,Wingboard,,Freeride,Adult,,None,All Week,NO
+4101,41,Mrs,Kate,Rogers,United Kingdom,YES,Wingboard,,Freeride,Adult,,None,All Week,YES
 1102,42,Mr,Andy,Stuart-William,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
 4102,42,Mr,Andy,Stuart-William,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
 1103,43,Miss,Lilia,Yelland,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,The OTC,All Week,YES
@@ -91,7 +91,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 1144,84,Mr,Danny,Cartridge,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,NO
 4145,85,Mr,Jay,Miller,United Kingdom,YES,Wingboard,,Freeride,Youth,,None,Youth W/E,NO
 3146,86,Mr,Martin,Carter,United Kingdom,NO,Kiteboard,,Open Class,Adult,,,All Week,N
-4146,86,Mr,Martin,Carter,United Kingdom,NO,Wingboard,,Open Class,Adult,,,All Week,NO
+4146,86,Mr,Martin,Carter,United Kingdom,NO,Wingboard,,Freeride,Adult,,,All Week,NO
 1147,87,Mr,Ian,Hill,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,Hamworthy Heroes,All Week,NO
 1148,88,Mr,Simon,Todd,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,NO
 2149,89,Mr,Scotty,Stallman,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,The OTC,All Week,YES
@@ -104,5 +104,5 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 157,97,Mr,Steven,McLean,United Kingdom,YES,Boat,,Boat Fleet,Adult,LED Low Energy Design,None,All Week,N
 1158,98,Mrs,Christine,Daffe,Belgium,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
 4159,99,Mr,Oscar,Dempsey,United Kingdom,NO,Wingboard,,Open Class,Youth,,None,Youth W/E,YES
-4160,100,Mr,Jowan,Vittle,United Kingdom,NO,Wingboard,,Freeride,Youth,,None,Youth W/E,YES
+4160,100,Mr,Jowan,Vittle,United Kingdom,NO,Wingboard,,Freeride,Youth,,None,Youth W/E,NO
 1031,102,Mr,Trevor,Whatford,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,Weekdays,YES
