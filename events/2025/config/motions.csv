@@ -32,6 +32,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 4082,22,607,2024-10-12,2024-10-13,COL607ANN,Anna,Collenette,Wingboard,,Open Class,Youth W/E
 1083,23,821,2024-10-12,2024-10-18,OWE821AND,Andrew,Owen,Sailboard,,Amateur,All Week
 1084,24,822,2024-10-12,2024-10-18,BRA822JAM,James,Brake,Sailboard,,Gold Fleet,All Week
+2084,24,1822,2024-10-12,2024-10-18,BRA1822JAM,James,Brake,Sailboard,Foil,Foil Fleet,All Week
 3085,25,662,2024-10-12,2024-10-18,MAR662PET,Peter,Martin,Kiteboard,,Freeride,All Week
 1086,26,823,2024-10-12,2024-10-18,BAR823SIM,Simon,Barker,Sailboard,,Amateur,All Week
 1087,27,824,2024-10-12,2024-10-18,SMI824BAR,Barry,Smith,Sailboard,,Amateur,All Week
@@ -71,7 +72,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1113,53,866,2024-10-12,2024-10-18,GRA866STE,Steven,Gray,Sailboard,,Amateur,All Week
 1114,54,867,2024-10-12,2024-10-18,DEB867JEA,Jean-Marc,De Bruyne,Sailboard,,Pro Fleet,All Week
 2114,54,1867,2024-10-12,2024-10-18,DEB1867JEA,Jean-Marc,De Bruyne,Sailboard,Foil,Foil Fleet,All Week
-4115,55,621,2024-10-12,2024-10-18,COL621AND,Andrew,Collenette,Wingboard,,Open Class,All Week
+4115,55,652,2024-10-12,2024-10-18,COL652AND,Andrew,Collenette,Wingboard,,Open Class,All Week
 1116,56,869,2024-10-12,2024-10-18,ING869MAR,Mark,Ingram,Sailboard,,Pro Fleet,All Week
 2116,56,1869,2024-10-12,2024-10-18,ING1869MAR,Mark,Ingram,Sailboard,Foil,Foil Fleet,All Week
 1117,57,870,2024-10-12,2024-10-18,ING870JON,Jonathan,Ingram,Sailboard,,Gold Fleet,All Week
