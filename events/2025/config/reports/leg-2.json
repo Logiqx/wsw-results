@@ -1,0 +1,63 @@
+{
+  "Suptitle": "UKWA Afternoon Results {Date}",
+  "Period": "Session",
+  "Fields": "Name,Nation,Age,Tally,Run 1 (kts),Run 2 (kts),Avg (kts)",
+  "Sort": "Avg (kts)=DSC,Run 1 (kts)=DSC",
+  "Series": "UKWA",
+  "Reports": [
+    {
+      "Title": "Overall Windsurf",
+      "Comment": "Results will only count towards the event rankings if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet,UKWA=Leg 2",
+      "Fleet": "Overall Windsurf"
+    },
+    {
+      "Title": "Male Windsurf",
+      "Comment": "Results will only count towards the event rankings if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet,Gender=M,UKWA=Leg 2",
+      "Fleet": "Male Windsurf"
+    },
+    {
+      "Title": "Female Windsurf",
+      "Comment": "Results will only count towards the event rankings if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,Status<>Foil Fleet,Gender=F,UKWA=Leg 2",
+      "Fleet": "Female Windsurf"
+    },
+    {
+      "Title": "Overall Windfoil",
+      "Comment": "Results will only count towards the event rankings if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,Status=Foil Fleet,UKWA=Leg 2",
+      "Fleet": "Overall Windfoil"
+    },
+    {
+      "Title": "Male Windfoil",
+      "Comment": "Results will only count towards the event rankings if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,Status=Foil Fleet,Gender=M,UKWA=Leg 2",
+      "Fleet": "Male Windfoil"
+    },
+    {
+      "Title": "Female Windfoil",
+      "Comment": "Results will only count towards the event rankings if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Sailboard,Status=Foil Fleet,Gender=F,UKWA=Leg 2",
+      "Fleet": "Female Windfoil"
+    },
+    {
+      "Title": "Overall Wingfoil",
+      "Comment": "Results will only count towards the event rankings if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Wingboard,UKWA=Leg 2",
+      "Fleet": "Overall Wingfoil"
+    },
+    {
+      "Title": "Male Wingfoil",
+      "Comment": "Results will only count towards the event rankings if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Wingboard,Gender=M,UKWA=Leg 2",
+      "Fleet": "Male Wingfoil"
+    },
+    {
+      "Title": "Female Wingfoil",
+      "Comment": "Results will only count towards the event rankings if they meet the criteria in the notice of race",
+      "Filter": "Craft Type=Wingboard,Gender=F,UKWA=Leg 2",
+      "Fleet": "Female Wingfoil"
+    }
+  ]
+}
