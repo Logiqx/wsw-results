@@ -275,12 +275,16 @@ table.grouping td:last-child {
 
 /* Name */
 table.legs td:nth-child(2),
+table.leg-1 td:nth-child(2),
+table.leg-2 td:nth-child(2),
 table.ukwa td:nth-child(2),
 table.iswc td:nth-child(2) {
   text-align: left;
 }
 /* Nation */
 table.legs td:nth-child(3),
+table.leg-1 td:nth-child(3),
+table.leg-2 td:nth-child(3),
 table.ukwa td:nth-child(3),
 table.iswc td:nth-child(3) {
   text-align: left;
@@ -290,6 +294,12 @@ table.iswc td:nth-child(3) {
 table.legs td:nth-last-child(1),
 table.legs td:nth-last-child(2),
 table.legs td:nth-last-child(3),
+table.leg-1 td:nth-last-child(1),
+table.leg-1 td:nth-last-child(2),
+table.leg-1 td:nth-last-child(3),
+table.leg-2 td:nth-last-child(1),
+table.leg-2 td:nth-last-child(2),
+table.leg-2 td:nth-last-child(3),
 table.ukwa td:nth-last-child(1),
 table.iswc td:nth-last-child(1),
 table.iswc td:nth-last-child(2),
