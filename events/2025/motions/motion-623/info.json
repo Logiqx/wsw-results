@@ -1,0 +1,27 @@
+{
+  "motion": {
+    "wifi": "station",
+    "username": "George Fulton",
+    "identifier": 623,
+    "hardware": {
+      "code": 106,
+      "name": "Wireless Mini M10"
+    },
+    "firmware": {
+      "code": 9010,
+      "name": "9010 (3232) Weymouth SW",
+      "special": "This firmware is event specific. Most settings are locked. Only runs faster than 3kn are logged. Please upgrade to the latest stable firmware after the event."
+    },
+    "filesystem": {
+      "level": 1
+    },
+    "battery": {
+      "level": 99,
+      "charging": false
+    },
+    "units": {
+      "speed": "kn",
+      "distance": "km"
+    }
+  }
+}

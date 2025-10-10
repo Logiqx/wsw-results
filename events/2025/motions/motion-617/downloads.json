@@ -219,5 +219,70 @@
     "10s_best": 16161,
     "500m_best": 13990,
     "status": "completed"
+  },
+  "BAR617NIC_617_20241012_110207.oao": {
+    "motion_file": "/logs/2024/10/0617_2024-10-12-1102.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/BAR617NIC_617_20241012_110207.oao",
+    "size": 1004252,
+    "start_date": 1728727327000,
+    "end_date": 1728751333000,
+    "duration": 24006000,
+    "distance": 29467193,
+    "2s_best": 10282,
+    "10s_best": 10089,
+    "500m_best": 9885,
+    "status": "completed"
+  },
+  "BAR617NIC_617_20241014_094518.oao": {
+    "motion_file": "/logs/2024/10/0617_2024-10-14-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/BAR617NIC_617_20241014_094518.oao",
+    "size": 12560,
+    "start_date": 1728895518000,
+    "end_date": 1728916667000,
+    "duration": 21149000,
+    "distance": 3250972,
+    "2s_best": 2232,
+    "10s_best": 1504,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "BAR617NIC_617_20241015_102755.oao": {
+    "motion_file": "/logs/2024/10/0617_2024-10-15-1027.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/BAR617NIC_617_20241015_102755.oao",
+    "size": 1156404,
+    "start_date": 1728984475000,
+    "end_date": 1729001043000,
+    "duration": 16568000,
+    "distance": 35168032,
+    "2s_best": 14837,
+    "10s_best": 14767,
+    "500m_best": 14351,
+    "status": "completed"
+  },
+  "BAR617NIC_617_20241016_110631.oao": {
+    "motion_file": "/logs/2024/10/0617_2024-10-16-1106.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241016/BAR617NIC_617_20241016_110631.oao",
+    "size": 1092080,
+    "start_date": 1729073191000,
+    "end_date": 1729081035000,
+    "duration": 7844000,
+    "distance": 33862226,
+    "2s_best": 17028,
+    "10s_best": 16161,
+    "500m_best": 13990,
+    "status": "completed"
+  },
+  "BAR617NIC_617_20241018_145407.oao": {
+    "motion_file": "/logs/2024/10/0617_2024-10-18-1454.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/BAR617NIC_617_20241018_145407.oao",
+    "size": 1536,
+    "start_date": 1729259647000,
+    "end_date": 1729262795000,
+    "duration": 3148000,
+    "distance": 150463,
+    "2s_best": 1105,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

@@ -102,5 +102,70 @@
     "10s_best": 11570,
     "500m_best": 11137,
     "status": "completed"
+  },
+  "MAR662PET_662_20241012_104039.oao": {
+    "motion_file": "/logs/2024/10/0662_2024-10-12-1040.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/MAR662PET_662_20241012_104039.oao",
+    "size": 1191296,
+    "start_date": 1728726039000,
+    "end_date": 1728748349000,
+    "duration": 22310000,
+    "distance": 30611871,
+    "2s_best": 12033,
+    "10s_best": 11720,
+    "500m_best": 11294,
+    "status": "completed"
+  },
+  "MAR662PET_662_20241013_135309.oao": {
+    "motion_file": "/logs/2024/10/0662_2024-10-13-1353.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241013/MAR662PET_662_20241013_135309.oao",
+    "size": 2784,
+    "start_date": 1728823989000,
+    "end_date": 1728826201000,
+    "duration": 2212000,
+    "distance": 326364,
+    "2s_best": 1675,
+    "10s_best": 1267,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "MAR662PET_662_20241014_094323.oao": {
+    "motion_file": "/logs/2024/10/0662_2024-10-14-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/MAR662PET_662_20241014_094323.oao",
+    "size": 1628928,
+    "start_date": 1728895403000,
+    "end_date": 1728917197000,
+    "duration": 21794000,
+    "distance": 25149268,
+    "2s_best": 10617,
+    "10s_best": 10505,
+    "500m_best": 9903,
+    "status": "completed"
+  },
+  "MAR662PET_662_20241015_094832.oao": {
+    "motion_file": "/logs/2024/10/0662_2024-10-15-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/MAR662PET_662_20241015_094832.oao",
+    "size": 799372,
+    "start_date": 1728982112000,
+    "end_date": 1729007233000,
+    "duration": 25121000,
+    "distance": 19649262,
+    "2s_best": 11098,
+    "10s_best": 10860,
+    "500m_best": 10538,
+    "status": "completed"
+  },
+  "MAR662PET_662_20241017_094939.oao": {
+    "motion_file": "/logs/2024/10/0662_2024-10-17-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241017/MAR662PET_662_20241017_094939.oao",
+    "size": 2179088,
+    "start_date": 1729154979000,
+    "end_date": 1729178613000,
+    "duration": 23634000,
+    "distance": 56671987,
+    "2s_best": 11854,
+    "10s_best": 11570,
+    "500m_best": 11137,
+    "status": "completed"
   }
 }

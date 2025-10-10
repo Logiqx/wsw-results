@@ -141,5 +141,83 @@
     "10s_best": 14222,
     "500m_best": 13890,
     "status": "completed"
+  },
+  "WIN810SIM_810_20241012_103631.oao": {
+    "motion_file": "/logs/2024/10/0810_2024-10-12-1036.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/WIN810SIM_810_20241012_103631.oao",
+    "size": 750856,
+    "start_date": 1728725791000,
+    "end_date": 1728751059000,
+    "duration": 25268000,
+    "distance": 25592628,
+    "2s_best": 14602,
+    "10s_best": 14290,
+    "500m_best": 13908,
+    "status": "completed"
+  },
+  "WIN810SIM_810_20241013_104703.oao": {
+    "motion_file": "/logs/2024/10/0810_2024-10-13-1047.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241013/WIN810SIM_810_20241013_104703.oao",
+    "size": 9284,
+    "start_date": 1728812823000,
+    "end_date": 1728825677000,
+    "duration": 12854000,
+    "distance": 2916460,
+    "2s_best": 2043,
+    "10s_best": 1176,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "WIN810SIM_810_20241014_124457.oao": {
+    "motion_file": "/logs/2024/10/0810_2024-10-14-1244.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/WIN810SIM_810_20241014_124457.oao",
+    "size": 7100,
+    "start_date": 1728906297000,
+    "end_date": 1728914465000,
+    "duration": 8168000,
+    "distance": 272655,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "WIN810SIM_810_20241015_100605.oao": {
+    "motion_file": "/logs/2024/10/0810_2024-10-15-1006.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/WIN810SIM_810_20241015_100605.oao",
+    "size": 684920,
+    "start_date": 1728983165000,
+    "end_date": 1729008893000,
+    "duration": 25728000,
+    "distance": 22595087,
+    "2s_best": 14784,
+    "10s_best": 14495,
+    "500m_best": 13922,
+    "status": "completed"
+  },
+  "WIN810SIM_810_20241016_113043.oao": {
+    "motion_file": "/logs/2024/10/0810_2024-10-16-1130.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241016/WIN810SIM_810_20241016_113043.oao",
+    "size": 17084,
+    "start_date": 1729074643000,
+    "end_date": 1729083087000,
+    "duration": 8444000,
+    "distance": 1419041,
+    "2s_best": 2105,
+    "10s_best": 1104,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "WIN810SIM_810_20241018_095201.oao": {
+    "motion_file": "/logs/2024/10/0810_2024-10-18-0952.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/WIN810SIM_810_20241018_095201.oao",
+    "size": 617008,
+    "start_date": 1729241521000,
+    "end_date": 1729264497000,
+    "duration": 22976000,
+    "distance": 20499944,
+    "2s_best": 14397,
+    "10s_best": 14222,
+    "500m_best": 13890,
+    "status": "completed"
   }
 }

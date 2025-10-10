@@ -24,5 +24,70 @@
     "10s_best": 11758,
     "500m_best": 11450,
     "status": "completed"
+  },
+  "STA1039SCO_1039_20241012_112731.oao": {
+    "motion_file": "/logs/2024/10/1039_2024-10-12-1127.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/STA1039SCO_1039_20241012_112731.oao",
+    "size": 2243412,
+    "start_date": 1728728851000,
+    "end_date": 1728751283000,
+    "duration": 22432000,
+    "distance": 63577495,
+    "2s_best": 12098,
+    "10s_best": 11758,
+    "500m_best": 11450,
+    "status": "completed"
+  },
+  "STA1039SCO_1039_20241014_121613.oao": {
+    "motion_file": "/logs/2024/10/1039_2024-10-14-1216.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/STA1039SCO_1039_20241014_121613.oao",
+    "size": 18956,
+    "start_date": 1728904573000,
+    "end_date": 1728914579000,
+    "duration": 10006000,
+    "distance": 2198766,
+    "2s_best": 2572,
+    "10s_best": 1311,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "STA1039SCO_1039_20241015_135355.oao": {
+    "motion_file": "/logs/2024/10/1039_2024-10-15-1353.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/STA1039SCO_1039_20241015_135355.oao",
+    "size": 3460,
+    "start_date": 1728996835000,
+    "end_date": 1729004741000,
+    "duration": 7906000,
+    "distance": 1228048,
+    "2s_best": 2447,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "STA1039SCO_1039_20241017_141323.oao": {
+    "motion_file": "/logs/2024/10/1039_2024-10-17-1413.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241017/STA1039SCO_1039_20241017_141323.oao",
+    "size": 1536,
+    "start_date": 1729170803000,
+    "end_date": 1729175881000,
+    "duration": 5078000,
+    "distance": 48776,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "STA1039SCO_1039_20241018_114951.oao": {
+    "motion_file": "/logs/2024/10/1039_2024-10-18-1149.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/STA1039SCO_1039_20241018_114951.oao",
+    "size": 5956,
+    "start_date": 1729248591000,
+    "end_date": 1729262929000,
+    "duration": 14338000,
+    "distance": 1918395,
+    "2s_best": 1981,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

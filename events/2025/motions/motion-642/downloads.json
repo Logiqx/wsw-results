@@ -193,5 +193,18 @@
     "10s_best": 12506,
     "500m_best": 12150,
     "status": "completed"
+  },
+  "DEM642OSC_642_20241012_120619.oao": {
+    "motion_file": "/logs/2024/10/0642_2024-10-12-1206.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/DEM642OSC_642_20241012_120619.oao",
+    "size": 1626068,
+    "start_date": 1728731179000,
+    "end_date": 1728751495000,
+    "duration": 20316000,
+    "distance": 44284210,
+    "2s_best": 13843,
+    "10s_best": 13661,
+    "500m_best": 13234,
+    "status": "completed"
   }
 }
