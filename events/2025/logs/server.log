@@ -2992,3 +2992,142 @@
 2025-10-10 15:20:32,DEBUG,DisconnectionThread #7 finished
 2025-10-10 15:20:32,DEBUG,DisconnectionThread #8 finished
 2025-10-10 15:20:32,INFO,Thread pools stopped
+2025-10-10 15:24:27,INFO,Starting thread pools
+2025-10-10 15:24:27,DEBUG,DetectionThreadPool starting
+2025-10-10 15:24:27,DEBUG,DetectionThread #1 starting
+2025-10-10 15:24:27,DEBUG,DetectionThread #2 starting
+2025-10-10 15:24:27,DEBUG,DetectionThread #3 starting
+2025-10-10 15:24:27,DEBUG,DetectionThread #4 starting
+2025-10-10 15:24:27,DEBUG,DetectionThread #5 starting
+2025-10-10 15:24:27,DEBUG,DetectionThread #6 starting
+2025-10-10 15:24:27,DEBUG,DetectionThread #7 starting
+2025-10-10 15:24:27,DEBUG,DetectionThread #8 starting
+2025-10-10 15:24:27,DEBUG,InspectionThreadPool starting
+2025-10-10 15:24:27,DEBUG,InspectionThread #1 starting
+2025-10-10 15:24:27,DEBUG,InspectionThread #2 starting
+2025-10-10 15:24:27,DEBUG,InspectionThread #3 starting
+2025-10-10 15:24:27,DEBUG,InspectionThread #4 starting
+2025-10-10 15:24:27,DEBUG,DownloadThreadPool starting
+2025-10-10 15:24:27,DEBUG,DownloadThread #1 starting
+2025-10-10 15:24:27,DEBUG,DownloadThread #2 starting
+2025-10-10 15:24:27,DEBUG,DownloadThread #3 starting
+2025-10-10 15:24:27,DEBUG,DownloadThread #4 starting
+2025-10-10 15:24:27,DEBUG,DisconnectionThreadPool starting
+2025-10-10 15:24:27,DEBUG,DisconnectionThread #1 starting
+2025-10-10 15:24:27,DEBUG,DisconnectionThread #2 starting
+2025-10-10 15:24:27,DEBUG,DisconnectionThread #3 starting
+2025-10-10 15:24:27,DEBUG,DisconnectionThread #4 starting
+2025-10-10 15:24:27,DEBUG,DisconnectionThread #5 starting
+2025-10-10 15:24:27,DEBUG,DisconnectionThread #6 starting
+2025-10-10 15:24:27,DEBUG,DisconnectionThread #7 starting
+2025-10-10 15:24:27,DEBUG,DisconnectionThread #8 starting
+2025-10-10 15:24:27,INFO,Thread pools started
+2025-10-10 15:26:07,INFO,Keyboard interrupt
+2025-10-10 15:26:07,INFO,Stopping thread pools
+2025-10-10 15:26:07,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-10 15:26:07,DEBUG,DetectionThreadPool finished
+2025-10-10 15:26:07,DEBUG,DetectionThread #1 finished
+2025-10-10 15:26:07,DEBUG,DetectionThread #2 finished
+2025-10-10 15:26:07,DEBUG,DetectionThread #3 finished
+2025-10-10 15:26:07,DEBUG,DetectionThread #4 finished
+2025-10-10 15:26:07,DEBUG,DetectionThread #5 finished
+2025-10-10 15:26:07,DEBUG,DetectionThread #6 finished
+2025-10-10 15:26:07,DEBUG,DetectionThread #7 finished
+2025-10-10 15:26:07,DEBUG,DetectionThread #8 finished
+2025-10-10 15:26:07,DEBUG,InspectionThreadPool finished
+2025-10-10 15:26:07,DEBUG,InspectionThread #1 finished
+2025-10-10 15:26:07,DEBUG,InspectionThread #2 finished
+2025-10-10 15:26:07,DEBUG,InspectionThread #3 finished
+2025-10-10 15:26:07,DEBUG,InspectionThread #4 finished
+2025-10-10 15:26:07,DEBUG,DownloadThreadPool finished
+2025-10-10 15:26:07,DEBUG,DownloadThread #1 finished
+2025-10-10 15:26:07,DEBUG,DownloadThread #2 finished
+2025-10-10 15:26:07,DEBUG,DownloadThread #3 finished
+2025-10-10 15:26:07,DEBUG,DownloadThread #4 finished
+2025-10-10 15:26:07,DEBUG,DisconnectionThreadPool finished
+2025-10-10 15:26:07,DEBUG,DisconnectionThread #1 finished
+2025-10-10 15:26:07,DEBUG,DisconnectionThread #2 finished
+2025-10-10 15:26:07,DEBUG,DisconnectionThread #3 finished
+2025-10-10 15:26:07,DEBUG,DisconnectionThread #4 finished
+2025-10-10 15:26:07,DEBUG,DisconnectionThread #5 finished
+2025-10-10 15:26:07,DEBUG,DisconnectionThread #6 finished
+2025-10-10 15:26:07,DEBUG,DisconnectionThread #7 finished
+2025-10-10 15:26:07,DEBUG,DisconnectionThread #8 finished
+2025-10-10 15:26:07,INFO,Thread pools stopped
+2025-10-10 15:29:12,INFO,Starting thread pools
+2025-10-10 15:29:12,DEBUG,DetectionThreadPool starting
+2025-10-10 15:29:12,DEBUG,DetectionThread #1 starting
+2025-10-10 15:29:12,DEBUG,DetectionThread #2 starting
+2025-10-10 15:29:12,DEBUG,DetectionThread #3 starting
+2025-10-10 15:29:12,DEBUG,DetectionThread #4 starting
+2025-10-10 15:29:12,DEBUG,DetectionThread #5 starting
+2025-10-10 15:29:12,DEBUG,DetectionThread #6 starting
+2025-10-10 15:29:12,DEBUG,DetectionThread #7 starting
+2025-10-10 15:29:12,DEBUG,DetectionThread #8 starting
+2025-10-10 15:29:12,DEBUG,InspectionThreadPool starting
+2025-10-10 15:29:12,DEBUG,InspectionThread #1 starting
+2025-10-10 15:29:12,DEBUG,InspectionThread #2 starting
+2025-10-10 15:29:12,DEBUG,InspectionThread #3 starting
+2025-10-10 15:29:12,DEBUG,InspectionThread #4 starting
+2025-10-10 15:29:12,DEBUG,DownloadThreadPool starting
+2025-10-10 15:29:12,DEBUG,DownloadThread #1 starting
+2025-10-10 15:29:12,DEBUG,DownloadThread #2 starting
+2025-10-10 15:29:12,DEBUG,DownloadThread #3 starting
+2025-10-10 15:29:12,DEBUG,DownloadThread #4 starting
+2025-10-10 15:29:12,DEBUG,DisconnectionThreadPool starting
+2025-10-10 15:29:12,DEBUG,DisconnectionThread #1 starting
+2025-10-10 15:29:12,DEBUG,DisconnectionThread #2 starting
+2025-10-10 15:29:12,DEBUG,DisconnectionThread #3 starting
+2025-10-10 15:29:12,DEBUG,DisconnectionThread #4 starting
+2025-10-10 15:29:12,DEBUG,DisconnectionThread #5 starting
+2025-10-10 15:29:12,DEBUG,DisconnectionThread #6 starting
+2025-10-10 15:29:12,DEBUG,DisconnectionThread #7 starting
+2025-10-10 15:29:12,DEBUG,DisconnectionThread #8 starting
+2025-10-10 15:29:12,INFO,Thread pools started
+2025-10-10 15:29:27,DEBUG,motion-631 detected at 192.168.0.194
+2025-10-10 15:29:29,DEBUG,motion-631 not accepting connections
+2025-10-10 15:29:29,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-10 15:29:29,DEBUG,motion-631 detected at 192.168.0.194
+2025-10-10 15:29:29,INFO,motion-631 is connected
+2025-10-10 15:29:30,DEBUG,motion-631 firmware is approved (9010 (3232) Weymouth SW)
+2025-10-10 15:29:30,DEBUG,motion-631 storage is 0% full
+2025-10-10 15:29:30,INFO,motion-631 battery level is 99%
+2025-10-10 15:29:31,DEBUG,motion-631 SAN631SIM_631_20241012_114205.oao skipped - 0.0 MiB, 4.4 hours, 1.9 km, 0.0 knots (500m)
+2025-10-10 15:29:31,INFO,motion-631 SAN631SIM_631_20241015_095501.oao queued - 1.9 MiB, 6.6 hours, 40.9 km, 22.5 knots (500m)
+2025-10-10 15:29:31,INFO,motion-631 SAN631SIM_631_20241017_144319.oao queued - 1.5 MiB, 1.9 hours, 27.2 km, 19.2 knots (500m)
+2025-10-10 15:29:31,INFO,motion-631 SAN631SIM_631_20241018_124939.oao queued - 1.4 MiB, 2.9 hours, 42.6 km, 24.2 knots (500m)
+2025-10-10 15:29:34,INFO,motion-631 SAN631SIM_631_20241015_095501.oao downloaded - 1.9 MiB, 6.6 hours, 40.9 km, 22.5 knots (500m)
+2025-10-10 15:29:36,INFO,motion-631 SAN631SIM_631_20241017_144319.oao downloaded - 1.5 MiB, 1.9 hours, 27.2 km, 19.2 knots (500m)
+2025-10-10 15:29:38,INFO,motion-631 SAN631SIM_631_20241018_124939.oao downloaded - 1.4 MiB, 2.9 hours, 42.6 km, 24.2 knots (500m)
+2025-10-10 15:29:38,INFO,motion-631 can be disconnected
+2025-10-10 15:29:43,INFO,Keyboard interrupt
+2025-10-10 15:29:43,INFO,Stopping thread pools
+2025-10-10 15:29:43,DEBUG,DetectionThreadPool finished
+2025-10-10 15:29:44,DEBUG,DetectionThread #1 finished
+2025-10-10 15:29:44,DEBUG,DetectionThread #2 finished
+2025-10-10 15:29:44,DEBUG,DetectionThread #3 finished
+2025-10-10 15:29:44,DEBUG,DetectionThread #4 finished
+2025-10-10 15:29:44,DEBUG,DetectionThread #5 finished
+2025-10-10 15:29:44,DEBUG,DetectionThread #6 finished
+2025-10-10 15:29:44,DEBUG,DetectionThread #7 finished
+2025-10-10 15:29:44,DEBUG,DetectionThread #8 finished
+2025-10-10 15:29:44,DEBUG,InspectionThreadPool finished
+2025-10-10 15:29:44,DEBUG,InspectionThread #1 finished
+2025-10-10 15:29:44,DEBUG,InspectionThread #2 finished
+2025-10-10 15:29:44,DEBUG,InspectionThread #3 finished
+2025-10-10 15:29:44,DEBUG,InspectionThread #4 finished
+2025-10-10 15:29:44,DEBUG,DownloadThreadPool finished
+2025-10-10 15:29:44,DEBUG,DownloadThread #1 finished
+2025-10-10 15:29:44,DEBUG,DownloadThread #2 finished
+2025-10-10 15:29:44,DEBUG,DownloadThread #3 finished
+2025-10-10 15:29:44,DEBUG,DownloadThread #4 finished
+2025-10-10 15:29:44,DEBUG,DisconnectionThreadPool finished
+2025-10-10 15:29:44,DEBUG,DisconnectionThread #1 finished
+2025-10-10 15:29:44,DEBUG,DisconnectionThread #2 finished
+2025-10-10 15:29:44,DEBUG,DisconnectionThread #3 finished
+2025-10-10 15:29:44,DEBUG,DisconnectionThread #4 finished
+2025-10-10 15:29:44,DEBUG,DisconnectionThread #5 finished
+2025-10-10 15:29:44,DEBUG,DisconnectionThread #6 finished
+2025-10-10 15:29:44,DEBUG,DisconnectionThread #7 finished
+2025-10-10 15:29:44,DEBUG,DisconnectionThread #8 finished
+2025-10-10 15:29:44,INFO,Thread pools stopped
