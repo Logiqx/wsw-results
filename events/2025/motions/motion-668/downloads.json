@@ -141,5 +141,83 @@
     "10s_best": 14293,
     "500m_best": 13634,
     "status": "completed"
+  },
+  "DAV668STE_668_20241012_143535.oao": {
+    "motion_file": "/logs/2024/10/0668_2024-10-12-1435.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/DAV668STE_668_20241012_143535.oao",
+    "size": 1210328,
+    "start_date": 1728740135000,
+    "end_date": 1728749521000,
+    "duration": 9386000,
+    "distance": 39873187,
+    "2s_best": 14227,
+    "10s_best": 13982,
+    "500m_best": 13551,
+    "status": "completed"
+  },
+  "DAV668STE_668_20241014_102625.oao": {
+    "motion_file": "/logs/2024/10/0668_2024-10-14-1026.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/DAV668STE_668_20241014_102625.oao",
+    "size": 1576148,
+    "start_date": 1728897985000,
+    "end_date": 1728915759000,
+    "duration": 17774000,
+    "distance": 49062272,
+    "2s_best": 11395,
+    "10s_best": 11242,
+    "500m_best": 11023,
+    "status": "completed"
+  },
+  "DAV668STE_668_20241015_123607.oao": {
+    "motion_file": "/logs/2024/10/0668_2024-10-15-1236.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/DAV668STE_668_20241015_123607.oao",
+    "size": 2439244,
+    "start_date": 1728992167000,
+    "end_date": 1729009907000,
+    "duration": 17740000,
+    "distance": 93169625,
+    "2s_best": 14084,
+    "10s_best": 13828,
+    "500m_best": 13601,
+    "status": "completed"
+  },
+  "DAV668STE_668_20241016_124537.oao": {
+    "motion_file": "/logs/2024/10/0668_2024-10-16-1245.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241016/DAV668STE_668_20241016_124537.oao",
+    "size": 521588,
+    "start_date": 1729079137000,
+    "end_date": 1729086191000,
+    "duration": 7054000,
+    "distance": 9342035,
+    "2s_best": 10438,
+    "10s_best": 9970,
+    "500m_best": 9553,
+    "status": "completed"
+  },
+  "DAV668STE_668_20241017_103441.oao": {
+    "motion_file": "/logs/2024/10/0668_2024-10-17-1034.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241017/DAV668STE_668_20241017_103441.oao",
+    "size": 3053780,
+    "start_date": 1729157681000,
+    "end_date": 1729182495000,
+    "duration": 24814000,
+    "distance": 83670004,
+    "2s_best": 12988,
+    "10s_best": 12786,
+    "500m_best": 12326,
+    "status": "completed"
+  },
+  "DAV668STE_668_20241018_095111.oao": {
+    "motion_file": "/logs/2024/10/0668_2024-10-18-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/DAV668STE_668_20241018_095111.oao",
+    "size": 2206752,
+    "start_date": 1729241471000,
+    "end_date": 1729266663000,
+    "duration": 25192000,
+    "distance": 73272880,
+    "2s_best": 14505,
+    "10s_best": 14293,
+    "500m_best": 13634,
+    "status": "completed"
   }
 }

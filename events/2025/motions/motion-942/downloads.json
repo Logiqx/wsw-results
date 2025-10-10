@@ -63,5 +63,70 @@
     "10s_best": 10440,
     "500m_best": 9758,
     "status": "completed"
+  },
+  "ARN942PAU_942_20241012_104907.oao": {
+    "motion_file": "/logs/2024/10/0942_2024-10-12-1049.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/ARN942PAU_942_20241012_104907.oao",
+    "size": 471096,
+    "start_date": 1728726547000,
+    "end_date": 1728750205000,
+    "duration": 23658000,
+    "distance": 13431421,
+    "2s_best": 10455,
+    "10s_best": 10119,
+    "500m_best": 9885,
+    "status": "completed"
+  },
+  "ARN942PAU_942_20241013_134617.oao": {
+    "motion_file": "/logs/2024/10/0942_2024-10-13-1346.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241013/ARN942PAU_942_20241013_134617.oao",
+    "size": 1536,
+    "start_date": 1728823577000,
+    "end_date": 1728825721000,
+    "duration": 2144000,
+    "distance": 47577,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "ARN942PAU_942_20241014_103707.oao": {
+    "motion_file": "/logs/2024/10/0942_2024-10-14-1037.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/ARN942PAU_942_20241014_103707.oao",
+    "size": 7620,
+    "start_date": 1728898627000,
+    "end_date": 1728914267000,
+    "duration": 15640000,
+    "distance": 1073279,
+    "2s_best": 1466,
+    "10s_best": 1058,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "ARN942PAU_942_20241015_113455.oao": {
+    "motion_file": "/logs/2024/10/0942_2024-10-15-1134.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/ARN942PAU_942_20241015_113455.oao",
+    "size": 850540,
+    "start_date": 1728988495000,
+    "end_date": 1729005589000,
+    "duration": 17094000,
+    "distance": 18611504,
+    "2s_best": 14610,
+    "10s_best": 13939,
+    "500m_best": 9729,
+    "status": "completed"
+  },
+  "ARN942PAU_942_20241018_110643.oao": {
+    "motion_file": "/logs/2024/10/0942_2024-10-18-1106.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/ARN942PAU_942_20241018_110643.oao",
+    "size": 1118236,
+    "start_date": 1729246003000,
+    "end_date": 1729268181000,
+    "duration": 22178000,
+    "distance": 20443993,
+    "2s_best": 10712,
+    "10s_best": 10440,
+    "500m_best": 9758,
+    "status": "completed"
   }
 }

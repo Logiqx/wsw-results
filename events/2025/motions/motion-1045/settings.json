@@ -5,7 +5,7 @@
       "name": "Wireless Mini M10"
     },
     "username": "",
-    "speed_unit": "km/h",
+    "speed_unit": "kn",
     "distance_unit": "km",
     "gnss_rate": "5",
     "one_log_per_day": "0",

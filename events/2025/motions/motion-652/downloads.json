@@ -167,5 +167,70 @@
     "10s_best": 13353,
     "500m_best": 12768,
     "status": "completed"
+  },
+  "COL652AND_652_20241012_105101.oao": {
+    "motion_file": "/logs/2024/10/0652_2024-10-12-1051.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/COL652AND_652_20241012_105101.oao",
+    "size": 2137384,
+    "start_date": 1728726661000,
+    "end_date": 1728749847000,
+    "duration": 23186000,
+    "distance": 38748390,
+    "2s_best": 13073,
+    "10s_best": 12686,
+    "500m_best": 12139,
+    "status": "completed"
+  },
+  "COL652AND_652_20241014_103049.oao": {
+    "motion_file": "/logs/2024/10/0652_2024-10-14-1030.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/COL652AND_652_20241014_103049.oao",
+    "size": 257792,
+    "start_date": 1728898249000,
+    "end_date": 1728916131000,
+    "duration": 17882000,
+    "distance": 6298362,
+    "2s_best": 8233,
+    "10s_best": 7867,
+    "500m_best": 7670,
+    "status": "completed"
+  },
+  "COL652AND_652_20241015_140148.oao": {
+    "motion_file": "/logs/2024/10/0652_2024-10-15-1401.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/COL652AND_652_20241015_140148.oao",
+    "size": 1317500,
+    "start_date": 1728997308000,
+    "end_date": 1729007221000,
+    "duration": 9913000,
+    "distance": 32978707,
+    "2s_best": 12577,
+    "10s_best": 12229,
+    "500m_best": 11806,
+    "status": "completed"
+  },
+  "COL652AND_652_20241017_111149.oao": {
+    "motion_file": "/logs/2024/10/0652_2024-10-17-1111.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241017/COL652AND_652_20241017_111149.oao",
+    "size": 1953564,
+    "start_date": 1729159909000,
+    "end_date": 1729182035000,
+    "duration": 22126000,
+    "distance": 33525625,
+    "2s_best": 12648,
+    "10s_best": 12440,
+    "500m_best": 12049,
+    "status": "completed"
+  },
+  "COL652AND_652_20241018_124307.oao": {
+    "motion_file": "/logs/2024/10/0652_2024-10-18-1243.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/COL652AND_652_20241018_124307.oao",
+    "size": 1267684,
+    "start_date": 1729251787000,
+    "end_date": 1729264475000,
+    "duration": 12688000,
+    "distance": 24821542,
+    "2s_best": 13469,
+    "10s_best": 13353,
+    "500m_best": 12768,
+    "status": "completed"
   }
 }

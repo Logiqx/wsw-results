@@ -167,5 +167,83 @@
     "10s_best": 15624,
     "500m_best": 15272,
     "status": "completed"
+  },
+  "ROG618KAT_618_20241012_104131.oao": {
+    "motion_file": "/logs/2024/10/0618_2024-10-12-1041.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/ROG618KAT_618_20241012_104131.oao",
+    "size": 1248236,
+    "start_date": 1728726091000,
+    "end_date": 1728751119000,
+    "duration": 25028000,
+    "distance": 48372930,
+    "2s_best": 15624,
+    "10s_best": 15431,
+    "500m_best": 15056,
+    "status": "completed"
+  },
+  "ROG618KAT_618_20241014_095132.oao": {
+    "motion_file": "/logs/2024/10/0618_2024-10-14-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/ROG618KAT_618_20241014_095132.oao",
+    "size": 1835524,
+    "start_date": 1728895892000,
+    "end_date": 1728915557000,
+    "duration": 19665000,
+    "distance": 58255030,
+    "2s_best": 13432,
+    "10s_best": 13204,
+    "500m_best": 12989,
+    "status": "completed"
+  },
+  "ROG618KAT_618_20241015_094836.oao": {
+    "motion_file": "/logs/2024/10/0618_2024-10-15-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/ROG618KAT_618_20241015_094836.oao",
+    "size": 1907232,
+    "start_date": 1728982116000,
+    "end_date": 1729008863000,
+    "duration": 26747000,
+    "distance": 78167856,
+    "2s_best": 15596,
+    "10s_best": 15230,
+    "500m_best": 15024,
+    "status": "completed"
+  },
+  "ROG618KAT_618_20241016_094643.oao": {
+    "motion_file": "/logs/2024/10/0618_2024-10-16-0946.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241016/ROG618KAT_618_20241016_094643.oao",
+    "size": 970816,
+    "start_date": 1729068403000,
+    "end_date": 1729087777000,
+    "duration": 19374000,
+    "distance": 28820597,
+    "2s_best": 15608,
+    "10s_best": 14977,
+    "500m_best": 14128,
+    "status": "completed"
+  },
+  "ROG618KAT_618_20241017_094901.oao": {
+    "motion_file": "/logs/2024/10/0618_2024-10-17-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241017/ROG618KAT_618_20241017_094901.oao",
+    "size": 2328484,
+    "start_date": 1729154941000,
+    "end_date": 1729181487000,
+    "duration": 26546000,
+    "distance": 69104151,
+    "2s_best": 13612,
+    "10s_best": 13390,
+    "500m_best": 13098,
+    "status": "completed"
+  },
+  "ROG618KAT_618_20241018_095202.oao": {
+    "motion_file": "/logs/2024/10/0618_2024-10-18-0952.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/ROG618KAT_618_20241018_095202.oao",
+    "size": 1995996,
+    "start_date": 1729241522000,
+    "end_date": 1729267253000,
+    "duration": 25731000,
+    "distance": 69619323,
+    "2s_best": 16031,
+    "10s_best": 15624,
+    "500m_best": 15272,
+    "status": "completed"
   }
 }

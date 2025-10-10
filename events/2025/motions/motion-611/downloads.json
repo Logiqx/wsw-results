@@ -180,5 +180,70 @@
     "10s_best": 22403,
     "500m_best": 22262,
     "status": "completed"
+  },
+  "MIL611JEZ_611_20241012_105319.oao": {
+    "motion_file": "/logs/2024/10/0611_2024-10-12-1053.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/MIL611JEZ_611_20241012_105319.oao",
+    "size": 1256816,
+    "start_date": 1728726799000,
+    "end_date": 1728749957000,
+    "duration": 23158000,
+    "distance": 19713425,
+    "2s_best": 13097,
+    "10s_best": 12923,
+    "500m_best": 12385,
+    "status": "completed"
+  },
+  "MIL611JEZ_611_20241014_094149.oao": {
+    "motion_file": "/logs/2024/10/0611_2024-10-14-0941.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/MIL611JEZ_611_20241014_094149.oao",
+    "size": 124412,
+    "start_date": 1728895309000,
+    "end_date": 1728916497000,
+    "duration": 21188000,
+    "distance": 6131693,
+    "2s_best": 19892,
+    "10s_best": 19750,
+    "500m_best": 19181,
+    "status": "completed"
+  },
+  "MIL611JEZ_611_20241015_095123.oao": {
+    "motion_file": "/logs/2024/10/0611_2024-10-15-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/MIL611JEZ_611_20241015_095123.oao",
+    "size": 1212980,
+    "start_date": 1728982283000,
+    "end_date": 1729004841000,
+    "duration": 22558000,
+    "distance": 15827238,
+    "2s_best": 11020,
+    "10s_best": 10513,
+    "500m_best": 9798,
+    "status": "completed"
+  },
+  "MIL611JEZ_611_20241016_112717.oao": {
+    "motion_file": "/logs/2024/10/0611_2024-10-16-1127.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241016/MIL611JEZ_611_20241016_112717.oao",
+    "size": 147864,
+    "start_date": 1729074437000,
+    "end_date": 1729082251000,
+    "duration": 7814000,
+    "distance": 6204148,
+    "2s_best": 20638,
+    "10s_best": 20337,
+    "500m_best": 19303,
+    "status": "completed"
+  },
+  "MIL611JEZ_611_20241017_094539.oao": {
+    "motion_file": "/logs/2024/10/0611_2024-10-17-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241017/MIL611JEZ_611_20241017_094539.oao",
+    "size": 1976964,
+    "start_date": 1729154739000,
+    "end_date": 1729176197000,
+    "duration": 21458000,
+    "distance": 20928981,
+    "2s_best": 22921,
+    "10s_best": 22403,
+    "500m_best": 22262,
+    "status": "completed"
   }
 }

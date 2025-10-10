@@ -12,8 +12,8 @@
     "timezone": "60",
     "wifi": [
       {
-        "login": "",
-        "password_length": "0",
+        "login": "PLUSNET-TZASQ8",
+        "password_length": "14",
         "trust": "0"
       },
       {

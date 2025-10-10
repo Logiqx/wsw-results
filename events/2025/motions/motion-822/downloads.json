@@ -37,5 +37,57 @@
     "10s_best": 3391,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "BRA822JAM_822_20241012_104813.oao": {
+    "motion_file": "/logs/2024/10/0822_2024-10-12-1048.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/BRA822JAM_822_20241012_104813.oao",
+    "size": 11780,
+    "start_date": 1728726493000,
+    "end_date": 1728747301000,
+    "duration": 20808000,
+    "distance": 761996,
+    "2s_best": 3732,
+    "10s_best": 3391,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "BRA822JAM_822_20241013_114609.oao": {
+    "motion_file": "/logs/2024/10/0822_2024-10-13-1146.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241013/BRA822JAM_822_20241013_114609.oao",
+    "size": 6476,
+    "start_date": 1728816369000,
+    "end_date": 1728826311000,
+    "duration": 9942000,
+    "distance": 1774922,
+    "2s_best": 2211,
+    "10s_best": 1202,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "BRA822JAM_822_20241014_105653.oao": {
+    "motion_file": "/logs/2024/10/0822_2024-10-14-1056.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/BRA822JAM_822_20241014_105653.oao",
+    "size": 19944,
+    "start_date": 1728899813000,
+    "end_date": 1728914249000,
+    "duration": 14436000,
+    "distance": 3576691,
+    "2s_best": 2238,
+    "10s_best": 1462,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "BRA822JAM_822_20241018_110811.oao": {
+    "motion_file": "/logs/2024/10/0822_2024-10-18-1108.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/BRA822JAM_822_20241018_110811.oao",
+    "size": 5956,
+    "start_date": 1729246091000,
+    "end_date": 1729262937000,
+    "duration": 16846000,
+    "distance": 1226739,
+    "2s_best": 1553,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

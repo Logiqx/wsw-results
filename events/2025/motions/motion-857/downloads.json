@@ -50,5 +50,70 @@
     "10s_best": 14038,
     "500m_best": 13388,
     "status": "completed"
+  },
+  "OLI857JOH_857_20241012_110831.oao": {
+    "motion_file": "/logs/2024/10/0857_2024-10-12-1108.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/OLI857JOH_857_20241012_110831.oao",
+    "size": 5436,
+    "start_date": 1728727711000,
+    "end_date": 1728745469000,
+    "duration": 17758000,
+    "distance": 3368493,
+    "2s_best": 1731,
+    "10s_best": 1253,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "OLI857JOH_857_20241013_104155.oao": {
+    "motion_file": "/logs/2024/10/0857_2024-10-13-1041.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241013/OLI857JOH_857_20241013_104155.oao",
+    "size": 20360,
+    "start_date": 1728812515000,
+    "end_date": 1728824985000,
+    "duration": 12470000,
+    "distance": 1294930,
+    "2s_best": 2588,
+    "10s_best": 1226,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "OLI857JOH_857_20241014_102909.oao": {
+    "motion_file": "/logs/2024/10/0857_2024-10-14-1029.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/OLI857JOH_857_20241014_102909.oao",
+    "size": 62116,
+    "start_date": 1728898149000,
+    "end_date": 1728914587000,
+    "duration": 16438000,
+    "distance": 3496289,
+    "2s_best": 4097,
+    "10s_best": 2467,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "OLI857JOH_857_20241015_122249.oao": {
+    "motion_file": "/logs/2024/10/0857_2024-10-15-1222.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/OLI857JOH_857_20241015_122249.oao",
+    "size": 1663872,
+    "start_date": 1728991369000,
+    "end_date": 1729006459000,
+    "duration": 15090000,
+    "distance": 53452396,
+    "2s_best": 13130,
+    "10s_best": 13060,
+    "500m_best": 12739,
+    "status": "completed"
+  },
+  "OLI857JOH_857_20241018_115841.oao": {
+    "motion_file": "/logs/2024/10/0857_2024-10-18-1158.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/OLI857JOH_857_20241018_115841.oao",
+    "size": 1262900,
+    "start_date": 1729249121000,
+    "end_date": 1729266957000,
+    "duration": 17836000,
+    "distance": 42216814,
+    "2s_best": 14152,
+    "10s_best": 14038,
+    "500m_best": 13388,
+    "status": "completed"
   }
 }

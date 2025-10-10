@@ -141,5 +141,18 @@
     "10s_best": 14734,
     "500m_best": 14405,
     "status": "completed"
+  },
+  "BER615FIN_615_20241012_105339.oao": {
+    "motion_file": "/logs/2024/10/0615_2024-10-12-1053.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/BER615FIN_615_20241012_105339.oao",
+    "size": 1397580,
+    "start_date": 1728726819000,
+    "end_date": 1728751369000,
+    "duration": 24550000,
+    "distance": 47593243,
+    "2s_best": 14323,
+    "10s_best": 13967,
+    "500m_best": 13648,
+    "status": "completed"
   }
 }

@@ -89,5 +89,83 @@
     "10s_best": 1628,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "LON854ROB_854_20241012_104511.oao": {
+    "motion_file": "/logs/2024/10/0854_2024-10-12-1045.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/LON854ROB_854_20241012_104511.oao",
+    "size": 9440,
+    "start_date": 1728726311000,
+    "end_date": 1728745477000,
+    "duration": 19166000,
+    "distance": 3861350,
+    "2s_best": 2174,
+    "10s_best": 1462,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "LON854ROB_854_20241013_112229.oao": {
+    "motion_file": "/logs/2024/10/0854_2024-10-13-1122.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241013/LON854ROB_854_20241013_112229.oao",
+    "size": 4188,
+    "start_date": 1728814949000,
+    "end_date": 1728825975000,
+    "duration": 11026000,
+    "distance": 552785,
+    "2s_best": 1555,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "LON854ROB_854_20241014_131555.oao": {
+    "motion_file": "/logs/2024/10/0854_2024-10-14-1315.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241014/LON854ROB_854_20241014_131555.oao",
+    "size": 1536,
+    "start_date": 1728908155000,
+    "end_date": 1728914241000,
+    "duration": 6086000,
+    "distance": 45799,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "LON854ROB_854_20241016_100201.oao": {
+    "motion_file": "/logs/2024/10/0854_2024-10-16-1002.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241016/LON854ROB_854_20241016_100201.oao",
+    "size": 1222860,
+    "start_date": 1729069321000,
+    "end_date": 1729082161000,
+    "duration": 12840000,
+    "distance": 45804877,
+    "2s_best": 17584,
+    "10s_best": 17380,
+    "500m_best": 15889,
+    "status": "completed"
+  },
+  "LON854ROB_854_20241017_112751.oao": {
+    "motion_file": "/logs/2024/10/0854_2024-10-17-1127.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241017/LON854ROB_854_20241017_112751.oao",
+    "size": 1588,
+    "start_date": 1729160871000,
+    "end_date": 1729175873000,
+    "duration": 15002000,
+    "distance": 87727,
+    "2s_best": 1543,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "LON854ROB_854_20241018_110005.oao": {
+    "motion_file": "/logs/2024/10/0854_2024-10-18-1100.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/LON854ROB_854_20241018_110005.oao",
+    "size": 19996,
+    "start_date": 1729245605000,
+    "end_date": 1729263291000,
+    "duration": 17686000,
+    "distance": 5012228,
+    "2s_best": 2121,
+    "10s_best": 1628,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

@@ -115,5 +115,70 @@
     "10s_best": 15830,
     "500m_best": 15398,
     "status": "completed"
+  },
+  "STA630JOH_630_20241012_110327.oao": {
+    "motion_file": "/logs/2024/10/0630_2024-10-12-1103.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/STA630JOH_630_20241012_110327.oao",
+    "size": 1651964,
+    "start_date": 1728727407000,
+    "end_date": 1728749835000,
+    "duration": 22428000,
+    "distance": 40801139,
+    "2s_best": 16536,
+    "10s_best": 15994,
+    "500m_best": 15444,
+    "status": "completed"
+  },
+  "STA630JOH_630_20241015_133911.oao": {
+    "motion_file": "/logs/2024/10/0630_2024-10-15-1339.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/STA630JOH_630_20241015_133911.oao",
+    "size": 2091936,
+    "start_date": 1728995951000,
+    "end_date": 1729007813000,
+    "duration": 11862000,
+    "distance": 73351160,
+    "2s_best": 15646,
+    "10s_best": 15276,
+    "500m_best": 14911,
+    "status": "completed"
+  },
+  "STA630JOH_630_20241016_115009.oao": {
+    "motion_file": "/logs/2024/10/0630_2024-10-16-1150.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241016/STA630JOH_630_20241016_115009.oao",
+    "size": 922612,
+    "start_date": 1729075809000,
+    "end_date": 1729082712000,
+    "duration": 6903000,
+    "distance": 18284932,
+    "2s_best": 15028,
+    "10s_best": 14724,
+    "500m_best": 13739,
+    "status": "completed"
+  },
+  "STA630JOH_630_20241017_095010.oao": {
+    "motion_file": "/logs/2024/10/0630_2024-10-17-0950.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241017/STA630JOH_630_20241017_095010.oao",
+    "size": 1416144,
+    "start_date": 1729155010000,
+    "end_date": 1729174073000,
+    "duration": 19063000,
+    "distance": 33070575,
+    "2s_best": 11656,
+    "10s_best": 11530,
+    "500m_best": 11361,
+    "status": "completed"
+  },
+  "STA630JOH_630_20241018_113649.oao": {
+    "motion_file": "/logs/2024/10/0630_2024-10-18-1136.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/STA630JOH_630_20241018_113649.oao",
+    "size": 1814360,
+    "start_date": 1729247809000,
+    "end_date": 1729267275000,
+    "duration": 19466000,
+    "distance": 43245359,
+    "2s_best": 15980,
+    "10s_best": 15830,
+    "500m_best": 15398,
+    "status": "completed"
   }
 }

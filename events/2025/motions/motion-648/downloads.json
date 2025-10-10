@@ -128,5 +128,70 @@
     "10s_best": 13289,
     "500m_best": 11425,
     "status": "completed"
+  },
+  "WIL648DAV_648_20241012_105141.oao": {
+    "motion_file": "/logs/2024/10/0648_2024-10-12-1051.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241012/WIL648DAV_648_20241012_105141.oao",
+    "size": 5592,
+    "start_date": 1728726701000,
+    "end_date": 1728749143000,
+    "duration": 22442000,
+    "distance": 515216,
+    "2s_best": 1967,
+    "10s_best": 1636,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "WIL648DAV_648_20241015_141807.oao": {
+    "motion_file": "/logs/2024/10/0648_2024-10-15-1418.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241015/WIL648DAV_648_20241015_141807.oao",
+    "size": 873836,
+    "start_date": 1728998287000,
+    "end_date": 1729007265000,
+    "duration": 8978000,
+    "distance": 17532499,
+    "2s_best": 9083,
+    "10s_best": 8728,
+    "500m_best": 8285,
+    "status": "completed"
+  },
+  "WIL648DAV_648_20241016_110819.oao": {
+    "motion_file": "/logs/2024/10/0648_2024-10-16-1108.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241016/WIL648DAV_648_20241016_110819.oao",
+    "size": 1536,
+    "start_date": 1729073299000,
+    "end_date": 1729083139000,
+    "duration": 9840000,
+    "distance": 142310,
+    "2s_best": 1147,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "WIL648DAV_648_20241017_102909.oao": {
+    "motion_file": "/logs/2024/10/0648_2024-10-17-1029.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241017/WIL648DAV_648_20241017_102909.oao",
+    "size": 187332,
+    "start_date": 1729157349000,
+    "end_date": 1729179677000,
+    "duration": 22328000,
+    "distance": 2319298,
+    "2s_best": 3600,
+    "10s_best": 2886,
+    "500m_best": 1002,
+    "status": "completed"
+  },
+  "WIL648DAV_648_20241018_120847.oao": {
+    "motion_file": "/logs/2024/10/0648_2024-10-18-1208.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20241018/WIL648DAV_648_20241018_120847.oao",
+    "size": 421436,
+    "start_date": 1729249727000,
+    "end_date": 1729264459000,
+    "duration": 14732000,
+    "distance": 7735729,
+    "2s_best": 13417,
+    "10s_best": 13289,
+    "500m_best": 11425,
+    "status": "completed"
   }
 }
