@@ -75,3 +75,73 @@
 2025-10-10 12:16:19,DEBUG,DisconnectionThread #7 finished
 2025-10-10 12:16:19,DEBUG,DisconnectionThread #8 finished
 2025-10-10 12:16:19,INFO,Thread pools stopped
+2025-10-10 12:27:37,INFO,Starting thread pools
+2025-10-10 12:27:37,DEBUG,DetectionThreadPool starting
+2025-10-10 12:27:37,DEBUG,DetectionThread #1 starting
+2025-10-10 12:27:37,DEBUG,DetectionThread #2 starting
+2025-10-10 12:27:37,DEBUG,DetectionThread #3 starting
+2025-10-10 12:27:37,DEBUG,DetectionThread #4 starting
+2025-10-10 12:27:37,DEBUG,DetectionThread #5 starting
+2025-10-10 12:27:37,DEBUG,DetectionThread #6 starting
+2025-10-10 12:27:37,DEBUG,DetectionThread #7 starting
+2025-10-10 12:27:37,DEBUG,DetectionThread #8 starting
+2025-10-10 12:27:37,DEBUG,InspectionThreadPool starting
+2025-10-10 12:27:37,DEBUG,InspectionThread #1 starting
+2025-10-10 12:27:37,DEBUG,InspectionThread #2 starting
+2025-10-10 12:27:37,DEBUG,InspectionThread #3 starting
+2025-10-10 12:27:37,DEBUG,InspectionThread #4 starting
+2025-10-10 12:27:37,DEBUG,DownloadThreadPool starting
+2025-10-10 12:27:37,DEBUG,DownloadThread #1 starting
+2025-10-10 12:27:37,DEBUG,DownloadThread #2 starting
+2025-10-10 12:27:37,DEBUG,DownloadThread #3 starting
+2025-10-10 12:27:37,DEBUG,DownloadThread #4 starting
+2025-10-10 12:27:37,DEBUG,DisconnectionThreadPool starting
+2025-10-10 12:27:37,DEBUG,DisconnectionThread #1 starting
+2025-10-10 12:27:37,DEBUG,DisconnectionThread #2 starting
+2025-10-10 12:27:37,DEBUG,DisconnectionThread #3 starting
+2025-10-10 12:27:37,DEBUG,DisconnectionThread #4 starting
+2025-10-10 12:27:37,DEBUG,DisconnectionThread #5 starting
+2025-10-10 12:27:37,DEBUG,DisconnectionThread #6 starting
+2025-10-10 12:27:37,DEBUG,DisconnectionThread #7 starting
+2025-10-10 12:27:37,DEBUG,DisconnectionThread #8 starting
+2025-10-10 12:27:37,INFO,Thread pools started
+2025-10-10 12:27:58,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-10 12:31:53,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-10 12:32:38,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-10 12:33:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-10 12:34:28,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-10 12:35:03,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-10 12:35:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-10 12:39:04,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-10 12:41:19,INFO,Keyboard interrupt
+2025-10-10 12:41:19,INFO,Stopping thread pools
+2025-10-10 12:41:24,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-10 12:41:24,DEBUG,DetectionThreadPool finished
+2025-10-10 12:41:24,DEBUG,DetectionThread #1 finished
+2025-10-10 12:41:24,DEBUG,DetectionThread #2 finished
+2025-10-10 12:41:24,DEBUG,DetectionThread #3 finished
+2025-10-10 12:41:24,DEBUG,DetectionThread #4 finished
+2025-10-10 12:41:24,DEBUG,DetectionThread #5 finished
+2025-10-10 12:41:24,DEBUG,DetectionThread #6 finished
+2025-10-10 12:41:24,DEBUG,DetectionThread #7 finished
+2025-10-10 12:41:24,DEBUG,DetectionThread #8 finished
+2025-10-10 12:41:24,DEBUG,InspectionThreadPool finished
+2025-10-10 12:41:24,DEBUG,InspectionThread #1 finished
+2025-10-10 12:41:24,DEBUG,InspectionThread #2 finished
+2025-10-10 12:41:24,DEBUG,InspectionThread #3 finished
+2025-10-10 12:41:24,DEBUG,InspectionThread #4 finished
+2025-10-10 12:41:24,DEBUG,DownloadThreadPool finished
+2025-10-10 12:41:24,DEBUG,DownloadThread #1 finished
+2025-10-10 12:41:24,DEBUG,DownloadThread #2 finished
+2025-10-10 12:41:24,DEBUG,DownloadThread #3 finished
+2025-10-10 12:41:24,DEBUG,DownloadThread #4 finished
+2025-10-10 12:41:24,DEBUG,DisconnectionThreadPool finished
+2025-10-10 12:41:24,DEBUG,DisconnectionThread #1 finished
+2025-10-10 12:41:24,DEBUG,DisconnectionThread #2 finished
+2025-10-10 12:41:24,DEBUG,DisconnectionThread #3 finished
+2025-10-10 12:41:24,DEBUG,DisconnectionThread #4 finished
+2025-10-10 12:41:24,DEBUG,DisconnectionThread #5 finished
+2025-10-10 12:41:24,DEBUG,DisconnectionThread #6 finished
+2025-10-10 12:41:24,DEBUG,DisconnectionThread #7 finished
+2025-10-10 12:41:24,DEBUG,DisconnectionThread #8 finished
+2025-10-10 12:41:24,INFO,Thread pools stopped
