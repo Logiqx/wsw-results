@@ -38,6 +38,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1087,27,824,2024-10-12,2024-10-18,SMI824BAR,Barry,Smith,Sailboard,,Amateur,All Week
 4088,28,611,2024-10-12,2024-10-18,MIL611JEZ,Jez,Milne,Wingboard,,Freeride,All Week
 1089,29,825,2024-10-12,2024-10-18,CRO825JIM,Jim,Crossley,Sailboard,,Pro Fleet,All Week
+4089,29,1825,2024-10-12,2024-10-18,CRO1825JIM,Jim,Crossley,Wingboard,,Freeride,All Week
 1090,30,826,2024-10-12,2024-10-18,LIL826MAT,Matthew,Lilley,Sailboard,,Amateur,All Week
 2090,30,1826,2024-10-12,2024-10-18,LIL1826MAT,Matthew,Lilley,Sailboard,Foil,Foil Fleet,All Week
 4091,31,940,2024-10-12,2024-10-18,DIC940ROD,Rod,Dickinson,Wingboard,,Open Class,All Week
@@ -113,7 +114,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1147,87,1035,2024-10-12,2024-10-18,HIL1035IAN,Ian,Hill,Sailboard,,Gold Fleet,All Week
 1148,88,1037,2024-10-12,2024-10-18,TOD1037SIM,Simon,Todd,Sailboard,,Gold Fleet,All Week
 1149,89,1039,2024-10-12,2024-10-18,STA1039SCO,Scotty,Stallman,Sailboard,,Pro Fleet,All Week
-2149,89,0,2024-10-12,2024-10-18,STA0SCO,Scotty,Stallman,Sailboard,Foil,Foil Fleet,All Week
+2149,89,645,2024-10-12,2024-10-18,STA645SCO,Scotty,Stallman,Sailboard,Foil,Foil Fleet,All Week
 1150,90,1040,2024-10-12,2024-10-18,HEN1040RIC,Richard,Henderson,Sailboard,,Amateur,All Week
 4151,91,639,2024-10-12,2024-10-13,MAL639REG,Reg,Mallett,Wingboard,,Freeride,Youth W/E
 4152,92,946,2024-10-12,2024-10-18,HOB946RIC,Richard,Hobson,Wingboard,,Open Class,All Week
