@@ -1,0 +1,77 @@
+2025-10-10 12:15:59,INFO,Starting thread pools
+2025-10-10 12:15:59,DEBUG,DetectionThreadPool starting
+2025-10-10 12:15:59,DEBUG,DetectionThread #1 starting
+2025-10-10 12:15:59,DEBUG,DetectionThread #2 starting
+2025-10-10 12:15:59,DEBUG,DetectionThread #3 starting
+2025-10-10 12:15:59,DEBUG,DetectionThread #4 starting
+2025-10-10 12:15:59,DEBUG,DetectionThread #5 starting
+2025-10-10 12:15:59,DEBUG,DetectionThread #6 starting
+2025-10-10 12:15:59,DEBUG,DetectionThread #7 starting
+2025-10-10 12:15:59,DEBUG,DetectionThread #8 starting
+2025-10-10 12:15:59,DEBUG,InspectionThreadPool starting
+2025-10-10 12:15:59,DEBUG,InspectionThread #1 starting
+2025-10-10 12:15:59,DEBUG,InspectionThread #2 starting
+2025-10-10 12:15:59,DEBUG,InspectionThread #3 starting
+2025-10-10 12:15:59,DEBUG,InspectionThread #4 starting
+2025-10-10 12:15:59,DEBUG,DownloadThreadPool starting
+2025-10-10 12:15:59,DEBUG,DownloadThread #1 starting
+2025-10-10 12:15:59,DEBUG,DownloadThread #2 starting
+2025-10-10 12:15:59,DEBUG,DownloadThread #3 starting
+2025-10-10 12:15:59,DEBUG,DownloadThread #4 starting
+2025-10-10 12:15:59,DEBUG,DisconnectionThreadPool starting
+2025-10-10 12:15:59,DEBUG,DisconnectionThread #1 starting
+2025-10-10 12:15:59,DEBUG,DisconnectionThread #2 starting
+2025-10-10 12:15:59,DEBUG,DisconnectionThread #3 starting
+2025-10-10 12:15:59,DEBUG,DisconnectionThread #4 starting
+2025-10-10 12:15:59,DEBUG,DisconnectionThread #5 starting
+2025-10-10 12:15:59,DEBUG,DisconnectionThread #6 starting
+2025-10-10 12:15:59,DEBUG,DisconnectionThread #7 starting
+2025-10-10 12:15:59,DEBUG,DisconnectionThread #8 starting
+2025-10-10 12:15:59,INFO,Thread pools started
+2025-10-10 12:15:59,DEBUG,motion-825 detected at 192.168.0.218
+2025-10-10 12:15:59,INFO,motion-825 is connected
+2025-10-10 12:15:59,DEBUG,motion-825 firmware is approved (9010 (3232) Weymouth SW)
+2025-10-10 12:15:59,DEBUG,motion-825 storage is 4% full
+2025-10-10 12:15:59,INFO,motion-825 battery level is 99%
+2025-10-10 12:16:03,INFO,motion-825 CRO825JIM_825_20241012_105339.oao queued - 1.3 MiB, 6.7 hours, 40.1 km, 21.8 knots (500m)
+2025-10-10 12:16:03,INFO,motion-825 CRO825JIM_825_20241014_094421.oao queued - 1.3 MiB, 5.7 hours, 41.2 km, 19.3 knots (500m)
+2025-10-10 12:16:03,DEBUG,motion-825 CRO825JIM_825_20241015_094731.oao skipped - 0.0 MiB, 7.5 hours, 0.1 km, 0.0 knots (500m)
+2025-10-10 12:16:03,INFO,motion-825 CRO825JIM_825_20241016_094255.oao queued - 0.5 MiB, 4.7 hours, 15.2 km, 19.4 knots (500m)
+2025-10-10 12:16:03,INFO,motion-825 CRO825JIM_825_20241017_094519.oao queued - 1.4 MiB, 7.4 hours, 46.0 km, 21.5 knots (500m)
+2025-10-10 12:16:03,DEBUG,motion-825 CRO825JIM_825_20241018_094319.oao skipped - 0.0 MiB, 7.1 hours, 0.2 km, 0.0 knots (500m)
+2025-10-10 12:16:05,INFO,motion-825 CRO825JIM_825_20241012_105339.oao downloaded - 1.3 MiB, 6.7 hours, 40.1 km, 21.8 knots (500m)
+2025-10-10 12:16:07,INFO,motion-825 CRO825JIM_825_20241014_094421.oao downloaded - 1.3 MiB, 5.7 hours, 41.2 km, 19.3 knots (500m)
+2025-10-10 12:16:08,INFO,motion-825 CRO825JIM_825_20241016_094255.oao downloaded - 0.5 MiB, 4.7 hours, 15.2 km, 19.4 knots (500m)
+2025-10-10 12:16:10,INFO,motion-825 CRO825JIM_825_20241017_094519.oao downloaded - 1.4 MiB, 7.4 hours, 46.0 km, 21.5 knots (500m)
+2025-10-10 12:16:10,INFO,motion-825 can be disconnected
+2025-10-10 12:16:18,INFO,Keyboard interrupt
+2025-10-10 12:16:18,INFO,Stopping thread pools
+2025-10-10 12:16:18,DEBUG,DetectionThreadPool finished
+2025-10-10 12:16:18,DEBUG,DetectionThread #1 finished
+2025-10-10 12:16:18,DEBUG,DetectionThread #2 finished
+2025-10-10 12:16:18,DEBUG,DetectionThread #3 finished
+2025-10-10 12:16:18,DEBUG,DetectionThread #4 finished
+2025-10-10 12:16:18,DEBUG,DetectionThread #5 finished
+2025-10-10 12:16:18,DEBUG,DetectionThread #6 finished
+2025-10-10 12:16:18,DEBUG,DetectionThread #7 finished
+2025-10-10 12:16:18,DEBUG,DetectionThread #8 finished
+2025-10-10 12:16:18,DEBUG,InspectionThreadPool finished
+2025-10-10 12:16:19,DEBUG,InspectionThread #1 finished
+2025-10-10 12:16:19,DEBUG,InspectionThread #2 finished
+2025-10-10 12:16:19,DEBUG,InspectionThread #3 finished
+2025-10-10 12:16:19,DEBUG,InspectionThread #4 finished
+2025-10-10 12:16:19,DEBUG,DownloadThreadPool finished
+2025-10-10 12:16:19,DEBUG,DownloadThread #1 finished
+2025-10-10 12:16:19,DEBUG,DownloadThread #2 finished
+2025-10-10 12:16:19,DEBUG,DownloadThread #3 finished
+2025-10-10 12:16:19,DEBUG,DownloadThread #4 finished
+2025-10-10 12:16:19,DEBUG,DisconnectionThreadPool finished
+2025-10-10 12:16:19,DEBUG,DisconnectionThread #1 finished
+2025-10-10 12:16:19,DEBUG,DisconnectionThread #2 finished
+2025-10-10 12:16:19,DEBUG,DisconnectionThread #3 finished
+2025-10-10 12:16:19,DEBUG,DisconnectionThread #4 finished
+2025-10-10 12:16:19,DEBUG,DisconnectionThread #5 finished
+2025-10-10 12:16:19,DEBUG,DisconnectionThread #6 finished
+2025-10-10 12:16:19,DEBUG,DisconnectionThread #7 finished
+2025-10-10 12:16:19,DEBUG,DisconnectionThread #8 finished
+2025-10-10 12:16:19,INFO,Thread pools stopped
