@@ -4,8 +4,8 @@
   },
   "Defaults": {
     "Entry Type": "All Week",
-    "Start Date": "2024-10-12",
-    "End Date": "2024-10-18",
+    "Start Date": "2025-10-11",
+    "End Date": "2025-10-17",
     "Withdrawn": "N"
   },
   "Mappings": {
@@ -22,14 +22,14 @@
   },
   "Derivations": {
     "Start Date": {
-      "2024-10-14": {
+      "2025-10-13": {
         "Filters": {
           "Weekdays": "YES"
         }
       }
     },
     "End Date": {
-      "2024-10-13": {
+      "2025-10-12": {
         "Filters": {
           "Youth Weekend": "YES"
         }
