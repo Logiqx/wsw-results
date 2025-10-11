@@ -32,7 +32,6 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 4082,22,Miss,Anna,Collenette,United Kingdom,NO,Wingboard,,Open Class,Youth,,None,Youth W/E,YES
 1083,23,Mr,Andrew,Owen,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
 1084,24,Mr,James,Brake,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
-2084,24,Mr,James,Brake,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,None,All Week,YES
 3085,25,Mr,Peter,Martin,United Kingdom,NO,Kiteboard,,Freeride,Adult,,None,All Week,N
 1086,26,Mr,Simon,Barker,United Kingdom,NO,Sailboard,,Amateur,Adult,,SW Marine,All Week,YES
 1087,27,Mr,Barry,Smith,United Kingdom,YES,Sailboard,,Amateur,Adult,,The Old Geezers,All Week,NO
@@ -49,6 +48,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 1096,36,Mr,Richard,Dudley,United Kingdom,YES,Sailboard,,Amateur,Adult,,SW Marine,All Week,NO
 2096,36,Mr,Richard,Dudley,United Kingdom,YES,Sailboard,Foil,Foil Fleet,Adult,,SW Marine,All Week,NO
 1097,37,Mr,Pavel,Dvoulety,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,NO
+2097,37,Mr,Pavel,Dvoulety,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,None,All Week,NO
 4098,38,Mr,Nick,Barrett,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
 1099,39,Mr,Mark,Weller,United Kingdom,YES,Sailboard,,Amateur,Adult,,None,All Week,NO
 2099,39,Mr,Mark,Weller,United Kingdom,YES,Sailboard,Foil,Foil Fleet,Adult,,None,All Week,NO
