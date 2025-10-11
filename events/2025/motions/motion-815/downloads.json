@@ -154,5 +154,18 @@
     "10s_best": 13364,
     "500m_best": 12981,
     "status": "completed"
+  },
+  "CRO815PET_815_20251011_135149.oao": {
+    "motion_file": "/logs/2025/10/0815_2025-10-11-1351.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251011/CRO815PET_815_20251011_135149.oao",
+    "size": 2576,
+    "start_date": 1760187109000,
+    "end_date": 1760189615000,
+    "duration": 2506000,
+    "distance": 103998,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

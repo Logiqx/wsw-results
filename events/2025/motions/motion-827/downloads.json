@@ -206,5 +206,18 @@
     "10s_best": 11451,
     "500m_best": 11072,
     "status": "completed"
+  },
+  "TRO827WIL_827_20251011_124815.oao": {
+    "motion_file": "/logs/2025/10/0827_2025-10-11-1248.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251011/TRO827WIL_827_20251011_124815.oao",
+    "size": 6424,
+    "start_date": 1760183295000,
+    "end_date": 1760188589000,
+    "duration": 5294000,
+    "distance": 1000853,
+    "2s_best": 2396,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

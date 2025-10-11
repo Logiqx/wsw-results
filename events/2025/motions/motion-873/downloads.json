@@ -167,5 +167,18 @@
     "10s_best": 13264,
     "500m_best": 12612,
     "status": "completed"
+  },
+  "BAR873ANT_873_20251011_135433.oao": {
+    "motion_file": "/logs/2025/10/0873_2025-10-11-1354.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251011/BAR873ANT_873_20251011_135433.oao",
+    "size": 3096,
+    "start_date": 1760187273000,
+    "end_date": 1760189133000,
+    "duration": 1860000,
+    "distance": 117208,
+    "2s_best": 1020,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

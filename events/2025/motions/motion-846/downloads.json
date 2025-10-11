@@ -1,0 +1,15 @@
+{
+  "BUR846EMI_846_20251011_110753.oao": {
+    "motion_file": "/logs/2025/10/0846_2025-10-11-1107.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251011/BUR846EMI_846_20251011_110753.oao",
+    "size": 859692,
+    "start_date": 1760177273000,
+    "end_date": 1760188703000,
+    "duration": 11430000,
+    "distance": 24242674,
+    "2s_best": 19304,
+    "10s_best": 19237,
+    "500m_best": 19004,
+    "status": "completed"
+  }
+}
