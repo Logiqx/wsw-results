@@ -128,5 +128,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "CHI871DYL_871_20251011_105837.oao": {
+    "motion_file": "/logs/2025/10/0871_2025-10-11-1058.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251011/CHI871DYL_871_20251011_105837.oao",
+    "size": 1147772,
+    "start_date": 1760176717000,
+    "end_date": 1760190097000,
+    "duration": 13380000,
+    "distance": 15034609,
+    "2s_best": 7341,
+    "10s_best": 7199,
+    "500m_best": 6491,
+    "status": "completed"
   }
 }

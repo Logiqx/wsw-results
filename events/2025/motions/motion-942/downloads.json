@@ -128,5 +128,18 @@
     "10s_best": 10440,
     "500m_best": 9758,
     "status": "completed"
+  },
+  "ARN942PAU_942_20251011_132911.oao": {
+    "motion_file": "/logs/2025/10/0942_2025-10-11-1329.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251011/ARN942PAU_942_20251011_132911.oao",
+    "size": 5748,
+    "start_date": 1760185751000,
+    "end_date": 1760189001000,
+    "duration": 3250000,
+    "distance": 376262,
+    "2s_best": 2452,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

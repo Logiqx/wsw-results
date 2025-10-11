@@ -167,5 +167,18 @@
     "10s_best": 15069,
     "500m_best": 14547,
     "status": "completed"
+  },
+  "BAK701CHA_701_20251011_122709.oao": {
+    "motion_file": "/logs/2025/10/0701_2025-10-11-1227.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251011/BAK701CHA_701_20251011_122709.oao",
+    "size": 916476,
+    "start_date": 1760182029000,
+    "end_date": 1760188281000,
+    "duration": 6252000,
+    "distance": 21056845,
+    "2s_best": 10852,
+    "10s_best": 10714,
+    "500m_best": 10318,
+    "status": "completed"
   }
 }
