@@ -193,5 +193,18 @@
     "10s_best": 10341,
     "500m_best": 10013,
     "status": "completed"
+  },
+  "GRA866STE_866_20251012_103509.oao": {
+    "motion_file": "/logs/2025/10/0866_2025-10-12-1035.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/GRA866STE_866_20251012_103509.oao",
+    "size": 8764,
+    "start_date": 1760261709000,
+    "end_date": 1760285601000,
+    "duration": 23892000,
+    "distance": 3599188,
+    "2s_best": 2310,
+    "10s_best": 2015,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

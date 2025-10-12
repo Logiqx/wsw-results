@@ -115,5 +115,18 @@
     "10s_best": 17404,
     "500m_best": 17377,
     "status": "completed"
+  },
+  "MAY998SCO_998_20251012_105053.oao": {
+    "motion_file": "/logs/2025/10/0998_2025-10-12-1050.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/MAY998SCO_998_20251012_105053.oao",
+    "size": 1054796,
+    "start_date": 1760262653000,
+    "end_date": 1760284111000,
+    "duration": 21458000,
+    "distance": 17395279,
+    "2s_best": 10824,
+    "10s_best": 10575,
+    "500m_best": 9840,
+    "status": "completed"
   }
 }

@@ -1,0 +1,28 @@
+{
+  "CON520GAR_520_20251011_102155.oao": {
+    "motion_file": "/logs/2025/10/0520_2025-10-11-1021.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251011/CON520GAR_520_20251011_102155.oao",
+    "size": 25040,
+    "start_date": 1760174515000,
+    "end_date": 1760198285000,
+    "duration": 23770000,
+    "distance": 700245,
+    "2s_best": 6235,
+    "10s_best": 5287,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "CON520GAR_520_20251012_121727.oao": {
+    "motion_file": "/logs/2025/10/0520_2025-10-12-1217.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/CON520GAR_520_20251012_121727.oao",
+    "size": 2079820,
+    "start_date": 1760267847000,
+    "end_date": 1760284581000,
+    "duration": 16734000,
+    "distance": 42557693,
+    "2s_best": 13484,
+    "10s_best": 13244,
+    "500m_best": 12999,
+    "status": "completed"
+  }
+}

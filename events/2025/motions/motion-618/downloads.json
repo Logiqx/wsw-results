@@ -245,5 +245,18 @@
     "10s_best": 15624,
     "500m_best": 15272,
     "status": "completed"
+  },
+  "ROG618KAT_618_20251012_094909.oao": {
+    "motion_file": "/logs/2025/10/0618_2025-10-12-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/ROG618KAT_618_20251012_094909.oao",
+    "size": 547328,
+    "start_date": 1760258949000,
+    "end_date": 1760284305000,
+    "duration": 25356000,
+    "distance": 16767925,
+    "2s_best": 9206,
+    "10s_best": 9024,
+    "500m_best": 8696,
+    "status": "completed"
   }
 }

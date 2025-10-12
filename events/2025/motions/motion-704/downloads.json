@@ -1,0 +1,15 @@
+{
+  "VER704SHA_704_20251012_103441.oao": {
+    "motion_file": "/logs/2025/10/0704_2025-10-12-1034.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/VER704SHA_704_20251012_103441.oao",
+    "size": 2653328,
+    "start_date": 1760261681000,
+    "end_date": 1760283979000,
+    "duration": 22298000,
+    "distance": 48460521,
+    "2s_best": 12818,
+    "10s_best": 12439,
+    "500m_best": 12040,
+    "status": "completed"
+  }
+}

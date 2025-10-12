@@ -180,5 +180,18 @@
     "10s_best": 7206,
     "500m_best": 6302,
     "status": "completed"
+  },
+  "CUL634DYL_634_20251012_094809.oao": {
+    "motion_file": "/logs/2025/10/0634_2025-10-12-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/CUL634DYL_634_20251012_094809.oao",
+    "size": 1172212,
+    "start_date": 1760258889000,
+    "end_date": 1760284845000,
+    "duration": 25956000,
+    "distance": 28005148,
+    "2s_best": 9678,
+    "10s_best": 9335,
+    "500m_best": 8915,
+    "status": "completed"
   }
 }

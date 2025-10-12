@@ -89,5 +89,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "CRO829JAC_829_20251012_093001.oao": {
+    "motion_file": "/logs/2025/10/0829_2025-10-12-0930.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/CRO829JAC_829_20251012_093001.oao",
+    "size": 1911652,
+    "start_date": 1760257801000,
+    "end_date": 1760284175000,
+    "duration": 26374000,
+    "distance": 42028918,
+    "2s_best": 10596,
+    "10s_best": 10311,
+    "500m_best": 9547,
+    "status": "completed"
   }
 }

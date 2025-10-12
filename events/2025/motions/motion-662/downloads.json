@@ -167,5 +167,18 @@
     "10s_best": 11570,
     "500m_best": 11137,
     "status": "completed"
+  },
+  "MAR662PET_662_20251012_094501.oao": {
+    "motion_file": "/logs/2025/10/0662_2025-10-12-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/MAR662PET_662_20251012_094501.oao",
+    "size": 1395604,
+    "start_date": 1760258701000,
+    "end_date": 1760284463000,
+    "duration": 25762000,
+    "distance": 35067752,
+    "2s_best": 18784,
+    "10s_best": 18557,
+    "500m_best": 18082,
+    "status": "completed"
   }
 }

@@ -89,5 +89,18 @@
     "10s_best": 13893,
     "500m_best": 12617,
     "status": "completed"
+  },
+  "DAF1043CHR_1043_20251012_100931.oao": {
+    "motion_file": "/logs/2025/10/1043_2025-10-12-1009.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/DAF1043CHR_1043_20251012_100931.oao",
+    "size": 1288588,
+    "start_date": 1760260171000,
+    "end_date": 1760281005000,
+    "duration": 20834000,
+    "distance": 16188050,
+    "2s_best": 4815,
+    "10s_best": 3981,
+    "500m_best": 2967,
+    "status": "completed"
   }
 }

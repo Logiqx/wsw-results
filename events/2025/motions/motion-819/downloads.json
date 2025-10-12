@@ -219,5 +219,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "NEW819MAR_819_20251012_095039.oao": {
+    "motion_file": "/logs/2025/10/0819_2025-10-12-0950.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/NEW819MAR_819_20251012_095039.oao",
+    "size": 2579800,
+    "start_date": 1760259039000,
+    "end_date": 1760284775000,
+    "duration": 25736000,
+    "distance": 74846239,
+    "2s_best": 12743,
+    "10s_best": 12281,
+    "500m_best": 11864,
+    "status": "completed"
   }
 }

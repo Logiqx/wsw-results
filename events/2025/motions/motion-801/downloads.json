@@ -245,5 +245,18 @@
     "10s_best": 1713,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "GEO801MIC_801_20251012_094319.oao": {
+    "motion_file": "/logs/2025/10/0801_2025-10-12-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/GEO801MIC_801_20251012_094319.oao",
+    "size": 2004,
+    "start_date": 1760258599000,
+    "end_date": 1760283803000,
+    "duration": 25204000,
+    "distance": 204677,
+    "2s_best": 1563,
+    "10s_best": 1417,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
