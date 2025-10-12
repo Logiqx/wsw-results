@@ -167,5 +167,18 @@
     "10s_best": 16857,
     "500m_best": 16495,
     "status": "completed"
+  },
+  "TWI952AND_952_20251012_114801.oao": {
+    "motion_file": "/logs/2025/10/0952_2025-10-12-1148.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/TWI952AND_952_20251012_114801.oao",
+    "size": 1567204,
+    "start_date": 1760266081000,
+    "end_date": 1760284911000,
+    "duration": 18830000,
+    "distance": 25431763,
+    "2s_best": 11502,
+    "10s_best": 11198,
+    "500m_best": 10848,
+    "status": "completed"
   }
 }

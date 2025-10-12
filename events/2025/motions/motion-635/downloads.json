@@ -258,5 +258,18 @@
     "10s_best": 1964,
     "500m_best": 1180,
     "status": "completed"
+  },
+  "MIL635JAY_635_20251012_094919.oao": {
+    "motion_file": "/logs/2025/10/0635_2025-10-12-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/MIL635JAY_635_20251012_094919.oao",
+    "size": 2995748,
+    "start_date": 1760258959000,
+    "end_date": 1760285055000,
+    "duration": 26096000,
+    "distance": 82191141,
+    "2s_best": 12344,
+    "10s_best": 12143,
+    "500m_best": 11544,
+    "status": "completed"
   }
 }

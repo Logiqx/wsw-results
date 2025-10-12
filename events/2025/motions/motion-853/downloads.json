@@ -206,5 +206,18 @@
     "10s_best": 1751,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "DIC853FIN_853_20251012_094351.oao": {
+    "motion_file": "/logs/2025/10/0853_2025-10-12-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/DIC853FIN_853_20251012_094351.oao",
+    "size": 3468896,
+    "start_date": 1760258631000,
+    "end_date": 1760284342000,
+    "duration": 25711000,
+    "distance": 68400209,
+    "2s_best": 11917,
+    "10s_best": 11751,
+    "500m_best": 11496,
+    "status": "completed"
   }
 }

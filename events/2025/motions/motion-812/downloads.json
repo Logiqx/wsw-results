@@ -193,5 +193,31 @@
     "10s_best": 9501,
     "500m_best": 9028,
     "status": "completed"
+  },
+  "CRO812RIC_812_20251012_094835.oao": {
+    "motion_file": "/logs/2025/10/0812_2025-10-12-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/CRO812RIC_812_20251012_094835.oao",
+    "size": 14172,
+    "start_date": 1760258915000,
+    "end_date": 1760281873000,
+    "duration": 22958000,
+    "distance": 4768652,
+    "2s_best": 2233,
+    "10s_best": 1914,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "CRO812RIC_812_20251012_161647.oao": {
+    "motion_file": "/logs/2025/10/0812_2025-10-12-1616.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/CRO812RIC_812_20251012_161647.oao",
+    "size": 14588,
+    "start_date": 1760282207000,
+    "end_date": 1760285515000,
+    "duration": 3308000,
+    "distance": 1470871,
+    "2s_best": 3182,
+    "10s_best": 2850,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

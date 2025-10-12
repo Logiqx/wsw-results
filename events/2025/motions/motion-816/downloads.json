@@ -245,5 +245,18 @@
     "10s_best": 13346,
     "500m_best": 12744,
     "status": "completed"
+  },
+  "BRA816PAU_816_20251012_135509.oao": {
+    "motion_file": "/logs/2025/10/0816_2025-10-12-1355.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/BRA816PAU_816_20251012_135509.oao",
+    "size": 2108,
+    "start_date": 1760273709000,
+    "end_date": 1760285471000,
+    "duration": 11762000,
+    "distance": 116105,
+    "2s_best": 0,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
