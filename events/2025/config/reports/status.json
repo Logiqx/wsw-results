@@ -58,6 +58,11 @@
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
     },
     {
+      "Title": "All Foil Fleet Sailboards",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Foil Fleet"
+    },
+    {
       "Title": "All Open Class Wingboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Wingboard,Status=Open Class"
