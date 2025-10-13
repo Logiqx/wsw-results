@@ -245,5 +245,18 @@
     "10s_best": 11400,
     "500m_best": 9701,
     "status": "completed"
+  },
+  "SPA811BOB_811_20251013_104839.oao": {
+    "motion_file": "/logs/2025/10/0811_2025-10-13-1048.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251013/SPA811BOB_811_20251013_104839.oao",
+    "size": 2321152,
+    "start_date": 1760348919000,
+    "end_date": 1760365521000,
+    "duration": 16602000,
+    "distance": 40761926,
+    "2s_best": 11910,
+    "10s_best": 11535,
+    "500m_best": 11092,
+    "status": "completed"
   }
 }

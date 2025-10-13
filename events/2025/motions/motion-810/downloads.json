@@ -232,5 +232,18 @@
     "10s_best": 11811,
     "500m_best": 11221,
     "status": "completed"
+  },
+  "WIN810SIM_810_20251013_105249.oao": {
+    "motion_file": "/logs/2025/10/0810_2025-10-13-1052.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251013/WIN810SIM_810_20251013_105249.oao",
+    "size": 1167532,
+    "start_date": 1760349169000,
+    "end_date": 1760369085000,
+    "duration": 19916000,
+    "distance": 28921262,
+    "2s_best": 12575,
+    "10s_best": 12220,
+    "500m_best": 12011,
+    "status": "completed"
   }
 }

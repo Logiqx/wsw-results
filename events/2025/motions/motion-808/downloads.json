@@ -232,5 +232,18 @@
     "10s_best": 11959,
     "500m_best": 11770,
     "status": "completed"
+  },
+  "HAR808SCO_808_20251013_114239.oao": {
+    "motion_file": "/logs/2025/10/0808_2025-10-13-1142.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251013/HAR808SCO_808_20251013_114239.oao",
+    "size": 1786384,
+    "start_date": 1760352159000,
+    "end_date": 1760365437000,
+    "duration": 13278000,
+    "distance": 56227953,
+    "2s_best": 12762,
+    "10s_best": 12561,
+    "500m_best": 12382,
+    "status": "completed"
   }
 }

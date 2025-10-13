@@ -245,5 +245,18 @@
     "10s_best": 5789,
     "500m_best": 5464,
     "status": "completed"
+  },
+  "SMI824BAR_824_20251013_095147.oao": {
+    "motion_file": "/logs/2025/10/0824_2025-10-13-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251013/SMI824BAR_824_20251013_095147.oao",
+    "size": 1952524,
+    "start_date": 1760345507000,
+    "end_date": 1760365493000,
+    "duration": 19986000,
+    "distance": 31234724,
+    "2s_best": 6277,
+    "10s_best": 6018,
+    "500m_best": 5179,
+    "status": "completed"
   }
 }

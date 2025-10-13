@@ -258,5 +258,18 @@
     "10s_best": 8179,
     "500m_best": 7262,
     "status": "completed"
+  },
+  "LOC807JAS_807_20251013_095201.oao": {
+    "motion_file": "/logs/2025/10/0807_2025-10-13-0952.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251013/LOC807JAS_807_20251013_095201.oao",
+    "size": 905192,
+    "start_date": 1760345521000,
+    "end_date": 1760369191000,
+    "duration": 23670000,
+    "distance": 14324537,
+    "2s_best": 8993,
+    "10s_best": 8462,
+    "500m_best": 6368,
+    "status": "completed"
   }
 }

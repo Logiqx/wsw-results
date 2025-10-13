@@ -63,5 +63,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "WHA1045TRE_1045_20251013_140602.oao": {
+    "motion_file": "/logs/2025/10/1045_2025-10-13-1406.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251013/WHA1045TRE_1045_20251013_140602.oao",
+    "size": 5280,
+    "start_date": 1760360762000,
+    "end_date": 1760362271000,
+    "duration": 1509000,
+    "distance": 322348,
+    "2s_best": 1700,
+    "10s_best": 1565,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
