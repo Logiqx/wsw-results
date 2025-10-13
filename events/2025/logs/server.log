@@ -10316,3 +10316,73 @@
 2025-10-13 15:52:11,DEBUG,DisconnectionThread #7 finished
 2025-10-13 15:52:11,DEBUG,DisconnectionThread #8 finished
 2025-10-13 15:52:11,INFO,Thread pools stopped
+2025-10-13 16:08:43,INFO,Starting thread pools
+2025-10-13 16:08:43,DEBUG,DetectionThreadPool starting
+2025-10-13 16:08:43,DEBUG,DetectionThread #1 starting
+2025-10-13 16:08:43,DEBUG,DetectionThread #2 starting
+2025-10-13 16:08:43,DEBUG,DetectionThread #3 starting
+2025-10-13 16:08:43,DEBUG,DetectionThread #4 starting
+2025-10-13 16:08:43,DEBUG,DetectionThread #5 starting
+2025-10-13 16:08:43,DEBUG,DetectionThread #6 starting
+2025-10-13 16:08:43,DEBUG,DetectionThread #7 starting
+2025-10-13 16:08:43,DEBUG,DetectionThread #8 starting
+2025-10-13 16:08:43,DEBUG,InspectionThreadPool starting
+2025-10-13 16:08:43,DEBUG,InspectionThread #1 starting
+2025-10-13 16:08:43,DEBUG,InspectionThread #2 starting
+2025-10-13 16:08:43,DEBUG,InspectionThread #3 starting
+2025-10-13 16:08:43,DEBUG,InspectionThread #4 starting
+2025-10-13 16:08:43,DEBUG,DownloadThreadPool starting
+2025-10-13 16:08:43,DEBUG,DownloadThread #1 starting
+2025-10-13 16:08:43,DEBUG,DownloadThread #2 starting
+2025-10-13 16:08:43,DEBUG,DownloadThread #3 starting
+2025-10-13 16:08:43,DEBUG,DownloadThread #4 starting
+2025-10-13 16:08:43,DEBUG,DisconnectionThreadPool starting
+2025-10-13 16:08:43,DEBUG,DisconnectionThread #1 starting
+2025-10-13 16:08:43,DEBUG,DisconnectionThread #2 starting
+2025-10-13 16:08:43,DEBUG,DisconnectionThread #3 starting
+2025-10-13 16:08:43,DEBUG,DisconnectionThread #4 starting
+2025-10-13 16:08:43,DEBUG,DisconnectionThread #5 starting
+2025-10-13 16:08:43,DEBUG,DisconnectionThread #6 starting
+2025-10-13 16:08:43,DEBUG,DisconnectionThread #7 starting
+2025-10-13 16:08:43,DEBUG,DisconnectionThread #8 starting
+2025-10-13 16:08:43,INFO,Thread pools started
+2025-10-13 16:09:23,DEBUG,motion-667 detected at 192.168.0.184
+2025-10-13 16:09:23,INFO,motion-667 is connected
+2025-10-13 16:09:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-13 16:09:24,DEBUG,motion-667 firmware is approved (9008 Weymouth SW (3232))
+2025-10-13 16:09:24,DEBUG,motion-667 storage is 0% full
+2025-10-13 16:09:24,INFO,motion-667 battery level is 87%
+2025-10-13 16:09:25,INFO,motion-667 REA667RAF_667_20251013_132001.oao queued - 0.4 MiB, 3.5 hours, 18.5 km, 29.9 knots (500m)
+2025-10-13 16:09:25,INFO,motion-667 REA667RAF_667_20251013_132001.oao downloaded - 0.4 MiB, 3.5 hours, 18.5 km, 29.9 knots (500m)
+2025-10-13 16:09:25,INFO,motion-667 can be disconnected
+2025-10-13 16:10:18,INFO,Keyboard interrupt
+2025-10-13 16:10:18,INFO,Stopping thread pools
+2025-10-13 16:10:18,DEBUG,DetectionThreadPool finished
+2025-10-13 16:10:18,DEBUG,DetectionThread #1 finished
+2025-10-13 16:10:18,DEBUG,DetectionThread #2 finished
+2025-10-13 16:10:18,DEBUG,DetectionThread #3 finished
+2025-10-13 16:10:18,DEBUG,DetectionThread #4 finished
+2025-10-13 16:10:18,DEBUG,DetectionThread #5 finished
+2025-10-13 16:10:18,DEBUG,DetectionThread #6 finished
+2025-10-13 16:10:18,DEBUG,DetectionThread #7 finished
+2025-10-13 16:10:18,DEBUG,DetectionThread #8 finished
+2025-10-13 16:10:18,DEBUG,InspectionThreadPool finished
+2025-10-13 16:10:19,DEBUG,InspectionThread #1 finished
+2025-10-13 16:10:19,DEBUG,InspectionThread #2 finished
+2025-10-13 16:10:19,DEBUG,InspectionThread #3 finished
+2025-10-13 16:10:19,DEBUG,InspectionThread #4 finished
+2025-10-13 16:10:19,DEBUG,DownloadThreadPool finished
+2025-10-13 16:10:19,DEBUG,DownloadThread #1 finished
+2025-10-13 16:10:19,DEBUG,DownloadThread #2 finished
+2025-10-13 16:10:19,DEBUG,DownloadThread #3 finished
+2025-10-13 16:10:19,DEBUG,DownloadThread #4 finished
+2025-10-13 16:10:19,DEBUG,DisconnectionThreadPool finished
+2025-10-13 16:10:19,DEBUG,DisconnectionThread #1 finished
+2025-10-13 16:10:19,DEBUG,DisconnectionThread #2 finished
+2025-10-13 16:10:19,DEBUG,DisconnectionThread #3 finished
+2025-10-13 16:10:19,DEBUG,DisconnectionThread #4 finished
+2025-10-13 16:10:19,DEBUG,DisconnectionThread #5 finished
+2025-10-13 16:10:19,DEBUG,DisconnectionThread #6 finished
+2025-10-13 16:10:19,DEBUG,DisconnectionThread #7 finished
+2025-10-13 16:10:19,DEBUG,DisconnectionThread #8 finished
+2025-10-13 16:10:19,INFO,Thread pools stopped
