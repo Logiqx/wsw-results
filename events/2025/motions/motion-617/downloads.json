@@ -297,5 +297,18 @@
     "10s_best": 10349,
     "500m_best": 10112,
     "status": "completed"
+  },
+  "BAR617NIC_617_20251013_095131.oao": {
+    "motion_file": "/logs/2025/10/0617_2025-10-13-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251013/BAR617NIC_617_20251013_095131.oao",
+    "size": 1686284,
+    "start_date": 1760345491000,
+    "end_date": 1760368919000,
+    "duration": 23428000,
+    "distance": 43770565,
+    "2s_best": 11022,
+    "10s_best": 10705,
+    "500m_best": 10305,
+    "status": "completed"
   }
 }

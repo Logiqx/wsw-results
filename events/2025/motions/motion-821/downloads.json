@@ -271,5 +271,18 @@
     "10s_best": 22536,
     "500m_best": 20837,
     "status": "completed"
+  },
+  "OWE821AND_821_20251013_095501.oao": {
+    "motion_file": "/logs/2025/10/0821_2025-10-13-0955.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251013/OWE821AND_821_20251013_095501.oao",
+    "size": 432044,
+    "start_date": 1760345701000,
+    "end_date": 1760360099000,
+    "duration": 14398000,
+    "distance": 6380770,
+    "2s_best": 22756,
+    "10s_best": 22392,
+    "500m_best": 21792,
+    "status": "completed"
   }
 }

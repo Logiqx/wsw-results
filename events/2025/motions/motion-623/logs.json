@@ -1679,6 +1679,27 @@
       "board": "",
       "sail": "",
       "fin": ""
+    },
+    {
+      "file": "/logs/2025/10/0623_2025-10-13-0951.oao",
+      "size": 1133160,
+      "timezone": 60,
+      "mode": 0,
+      "start_date": 1760345479000,
+      "end_date": 1760360207000,
+      "duration": 14728000,
+      "distance": 21010118,
+      "2s_best": 12485,
+      "10s_best": 12243,
+      "500m_best": 11329,
+      "1852m_best": 8103,
+      "a500m_best": 7352,
+      "1h_best": 0,
+      "spot": "",
+      "wind": "",
+      "board": "",
+      "sail": "",
+      "fin": ""
     }
   ]
 }

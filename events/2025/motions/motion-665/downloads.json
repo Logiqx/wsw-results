@@ -245,5 +245,18 @@
     "10s_best": 20393,
     "500m_best": 20205,
     "status": "completed"
+  },
+  "HOR665PHI_665_20251013_100103.oao": {
+    "motion_file": "/logs/2025/10/0665_2025-10-13-1001.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251013/HOR665PHI_665_20251013_100103.oao",
+    "size": 1432992,
+    "start_date": 1760346063000,
+    "end_date": 1760366735000,
+    "duration": 20672000,
+    "distance": 38390619,
+    "2s_best": 21674,
+    "10s_best": 21008,
+    "500m_best": 19908,
+    "status": "completed"
   }
 }
