@@ -141,5 +141,18 @@
     "10s_best": 19461,
     "500m_best": 19336,
     "status": "completed"
+  },
+  "CAM664SEB_664_20251014_095911.oao": {
+    "motion_file": "/logs/2025/10/0664_2025-10-14-0959.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251014/CAM664SEB_664_20251014_095911.oao",
+    "size": 1568400,
+    "start_date": 1760432351000,
+    "end_date": 1760446609000,
+    "duration": 14258000,
+    "distance": 49076782,
+    "2s_best": 21212,
+    "10s_best": 20794,
+    "500m_best": 20387,
+    "status": "completed"
   }
 }

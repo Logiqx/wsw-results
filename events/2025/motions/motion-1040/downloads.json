@@ -128,5 +128,18 @@
     "10s_best": 10392,
     "500m_best": 9860,
     "status": "completed"
+  },
+  "HEN1040RIC_1040_20251014_095651.oao": {
+    "motion_file": "/logs/2025/10/1040_2025-10-14-0956.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251014/HEN1040RIC_1040_20251014_095651.oao",
+    "size": 1999792,
+    "start_date": 1760432211000,
+    "end_date": 1760446399000,
+    "duration": 14188000,
+    "distance": 36758473,
+    "2s_best": 12719,
+    "10s_best": 12348,
+    "500m_best": 11774,
+    "status": "completed"
   }
 }

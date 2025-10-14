@@ -271,5 +271,18 @@
     "10s_best": 6812,
     "500m_best": 3444,
     "status": "completed"
+  },
+  "WEL841MAR_841_20251014_094348.oao": {
+    "motion_file": "/logs/2025/10/0841_2025-10-14-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251014/WEL841MAR_841_20251014_094348.oao",
+    "size": 1825904,
+    "start_date": 1760431428000,
+    "end_date": 1760442405000,
+    "duration": 10977000,
+    "distance": 21145656,
+    "2s_best": 9242,
+    "10s_best": 8957,
+    "500m_best": 8495,
+    "status": "completed"
   }
 }
