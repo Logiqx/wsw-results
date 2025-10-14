@@ -1,0 +1,54 @@
+{
+  "BUOY_621_621_20251011_093732.oao": {
+    "motion_file": "/logs/2025/10/0621_2025-10-11-0937.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251011/BUOY_621_621_20251011_093732.oao",
+    "size": 911380,
+    "start_date": 1760171852000,
+    "end_date": 1760189349000,
+    "duration": 17497000,
+    "distance": 6310288,
+    "2s_best": 4174,
+    "10s_best": 3996,
+    "500m_best": 3434,
+    "status": "completed"
+  },
+  "BUOY_621_621_20251012_105949.oao": {
+    "motion_file": "/logs/2025/10/0621_2025-10-12-1059.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251012/BUOY_621_621_20251012_105949.oao",
+    "size": 1172576,
+    "start_date": 1760263189000,
+    "end_date": 1760285709000,
+    "duration": 22520000,
+    "distance": 10147674,
+    "2s_best": 17909,
+    "10s_best": 17701,
+    "500m_best": 16425,
+    "status": "completed"
+  },
+  "BUOY_621_621_20251013_094319.oao": {
+    "motion_file": "/logs/2025/10/0621_2025-10-13-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251013/BUOY_621_621_20251013_094319.oao",
+    "size": 1401376,
+    "start_date": 1760344999000,
+    "end_date": 1760371919000,
+    "duration": 26920000,
+    "distance": 10074622,
+    "2s_best": 13069,
+    "10s_best": 12654,
+    "500m_best": 8075,
+    "status": "completed"
+  },
+  "BUOY_621_621_20251014_093659.oao": {
+    "motion_file": "/logs/2025/10/0621_2025-10-14-0936.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251014/BUOY_621_621_20251014_093659.oao",
+    "size": 1298936,
+    "start_date": 1760431019000,
+    "end_date": 1760455969000,
+    "duration": 24950000,
+    "distance": 10763346,
+    "2s_best": 17752,
+    "10s_best": 17616,
+    "500m_best": 14866,
+    "status": "completed"
+  }
+}

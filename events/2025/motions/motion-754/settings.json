@@ -1,0 +1,54 @@
+{
+  "settings": {
+    "hardware": {
+      "code": 107,
+      "name": "Wireless Mini M10"
+    },
+    "username": "AUS 098",
+    "speed_unit": "kn",
+    "distance_unit": "km",
+    "gnss_rate": "1",
+    "one_log_per_day": "0",
+    "timezone": "60",
+    "wifi": [
+      {
+        "login": "moto g(6) 6340",
+        "password_length": "12",
+        "trust": "0"
+      },
+      {
+        "login": "",
+        "password_length": "0",
+        "trust": "0"
+      },
+      {
+        "login": "",
+        "password_length": "0",
+        "trust": "0"
+      },
+      {
+        "login": "WSW",
+        "password_length": "8",
+        "trust": "0"
+      }
+    ],
+    "custom_led": {
+      "flash": "1",
+      "substract": "0",
+      "rows": [
+        {
+          "code": "34"
+        },
+        {
+          "code": "35"
+        },
+        {
+          "code": "100"
+        },
+        {
+          "code": "101"
+        }
+      ]
+    }
+  }
+}
