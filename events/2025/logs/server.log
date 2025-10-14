@@ -12607,3 +12607,138 @@
 2025-10-14 15:37:54,DEBUG,DisconnectionThread #7 finished
 2025-10-14 15:37:54,DEBUG,DisconnectionThread #8 finished
 2025-10-14 15:37:54,INFO,Thread pools stopped
+2025-10-14 15:58:37,INFO,Starting thread pools
+2025-10-14 15:58:37,DEBUG,DetectionThreadPool starting
+2025-10-14 15:58:37,DEBUG,DetectionThread #1 starting
+2025-10-14 15:58:37,DEBUG,DetectionThread #2 starting
+2025-10-14 15:58:37,DEBUG,DetectionThread #3 starting
+2025-10-14 15:58:37,DEBUG,DetectionThread #4 starting
+2025-10-14 15:58:37,DEBUG,DetectionThread #5 starting
+2025-10-14 15:58:37,DEBUG,DetectionThread #6 starting
+2025-10-14 15:58:37,DEBUG,DetectionThread #7 starting
+2025-10-14 15:58:37,DEBUG,DetectionThread #8 starting
+2025-10-14 15:58:37,DEBUG,InspectionThreadPool starting
+2025-10-14 15:58:37,DEBUG,InspectionThread #1 starting
+2025-10-14 15:58:37,DEBUG,InspectionThread #2 starting
+2025-10-14 15:58:37,DEBUG,InspectionThread #3 starting
+2025-10-14 15:58:37,DEBUG,InspectionThread #4 starting
+2025-10-14 15:58:37,DEBUG,DownloadThreadPool starting
+2025-10-14 15:58:37,DEBUG,DownloadThread #1 starting
+2025-10-14 15:58:37,DEBUG,DownloadThread #2 starting
+2025-10-14 15:58:37,DEBUG,DownloadThread #3 starting
+2025-10-14 15:58:37,DEBUG,DownloadThread #4 starting
+2025-10-14 15:58:37,DEBUG,DisconnectionThreadPool starting
+2025-10-14 15:58:37,DEBUG,DisconnectionThread #1 starting
+2025-10-14 15:58:37,DEBUG,DisconnectionThread #2 starting
+2025-10-14 15:58:37,DEBUG,DisconnectionThread #3 starting
+2025-10-14 15:58:37,DEBUG,DisconnectionThread #4 starting
+2025-10-14 15:58:37,DEBUG,DisconnectionThread #5 starting
+2025-10-14 15:58:37,DEBUG,DisconnectionThread #6 starting
+2025-10-14 15:58:37,DEBUG,DisconnectionThread #7 starting
+2025-10-14 15:58:37,DEBUG,DisconnectionThread #8 starting
+2025-10-14 15:58:37,INFO,Thread pools started
+2025-10-14 15:58:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-14 15:59:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-14 15:59:33,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-14 16:00:03,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-14 16:00:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-14 16:00:19,INFO,Keyboard interrupt
+2025-10-14 16:00:19,INFO,Stopping thread pools
+2025-10-14 16:00:19,DEBUG,DetectionThreadPool finished
+2025-10-14 16:00:19,DEBUG,DetectionThread #1 finished
+2025-10-14 16:00:19,DEBUG,DetectionThread #2 finished
+2025-10-14 16:00:19,DEBUG,DetectionThread #3 finished
+2025-10-14 16:00:19,DEBUG,DetectionThread #4 finished
+2025-10-14 16:00:19,DEBUG,DetectionThread #5 finished
+2025-10-14 16:00:19,DEBUG,DetectionThread #6 finished
+2025-10-14 16:00:19,DEBUG,DetectionThread #7 finished
+2025-10-14 16:00:19,DEBUG,DetectionThread #8 finished
+2025-10-14 16:00:19,DEBUG,InspectionThreadPool finished
+2025-10-14 16:00:19,DEBUG,InspectionThread #1 finished
+2025-10-14 16:00:19,DEBUG,InspectionThread #2 finished
+2025-10-14 16:00:19,DEBUG,InspectionThread #3 finished
+2025-10-14 16:00:19,DEBUG,InspectionThread #4 finished
+2025-10-14 16:00:19,DEBUG,DownloadThreadPool finished
+2025-10-14 16:00:19,DEBUG,DownloadThread #1 finished
+2025-10-14 16:00:19,DEBUG,DownloadThread #2 finished
+2025-10-14 16:00:19,DEBUG,DownloadThread #3 finished
+2025-10-14 16:00:19,DEBUG,DownloadThread #4 finished
+2025-10-14 16:00:19,DEBUG,DisconnectionThreadPool finished
+2025-10-14 16:00:19,DEBUG,DisconnectionThread #1 finished
+2025-10-14 16:00:19,DEBUG,DisconnectionThread #2 finished
+2025-10-14 16:00:19,DEBUG,DisconnectionThread #3 finished
+2025-10-14 16:00:19,DEBUG,DisconnectionThread #4 finished
+2025-10-14 16:00:19,DEBUG,DisconnectionThread #5 finished
+2025-10-14 16:00:19,DEBUG,DisconnectionThread #6 finished
+2025-10-14 16:00:19,DEBUG,DisconnectionThread #7 finished
+2025-10-14 16:00:19,DEBUG,DisconnectionThread #8 finished
+2025-10-14 16:00:19,INFO,Thread pools stopped
+2025-10-14 16:00:39,INFO,Starting thread pools
+2025-10-14 16:00:39,DEBUG,DetectionThreadPool starting
+2025-10-14 16:00:39,DEBUG,DetectionThread #1 starting
+2025-10-14 16:00:39,DEBUG,DetectionThread #2 starting
+2025-10-14 16:00:39,DEBUG,DetectionThread #3 starting
+2025-10-14 16:00:39,DEBUG,DetectionThread #4 starting
+2025-10-14 16:00:39,DEBUG,DetectionThread #5 starting
+2025-10-14 16:00:39,DEBUG,DetectionThread #6 starting
+2025-10-14 16:00:39,DEBUG,DetectionThread #7 starting
+2025-10-14 16:00:39,DEBUG,DetectionThread #8 starting
+2025-10-14 16:00:39,DEBUG,InspectionThreadPool starting
+2025-10-14 16:00:39,DEBUG,InspectionThread #1 starting
+2025-10-14 16:00:39,DEBUG,InspectionThread #2 starting
+2025-10-14 16:00:39,DEBUG,InspectionThread #3 starting
+2025-10-14 16:00:39,DEBUG,InspectionThread #4 starting
+2025-10-14 16:00:39,DEBUG,DownloadThreadPool starting
+2025-10-14 16:00:39,DEBUG,DownloadThread #1 starting
+2025-10-14 16:00:39,DEBUG,DownloadThread #2 starting
+2025-10-14 16:00:39,DEBUG,DownloadThread #3 starting
+2025-10-14 16:00:39,DEBUG,DownloadThread #4 starting
+2025-10-14 16:00:39,DEBUG,DisconnectionThreadPool starting
+2025-10-14 16:00:39,DEBUG,DisconnectionThread #1 starting
+2025-10-14 16:00:39,DEBUG,DisconnectionThread #2 starting
+2025-10-14 16:00:39,DEBUG,DisconnectionThread #3 starting
+2025-10-14 16:00:39,DEBUG,DisconnectionThread #4 starting
+2025-10-14 16:00:39,DEBUG,DisconnectionThread #5 starting
+2025-10-14 16:00:39,DEBUG,DisconnectionThread #6 starting
+2025-10-14 16:00:39,DEBUG,DisconnectionThread #7 starting
+2025-10-14 16:00:39,DEBUG,DisconnectionThread #8 starting
+2025-10-14 16:00:39,INFO,Thread pools started
+2025-10-14 16:00:39,DEBUG,motion-819 detected at 192.168.0.198
+2025-10-14 16:00:39,INFO,motion-819 is connected
+2025-10-14 16:00:40,DEBUG,motion-819 firmware is approved (9008 Weymouth SW (3232))
+2025-10-14 16:00:40,DEBUG,motion-819 storage is 0% full
+2025-10-14 16:00:40,INFO,motion-819 battery level is 99%
+2025-10-14 16:00:41,INFO,motion-819 can be disconnected
+2025-10-14 16:00:49,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-14 16:00:54,DEBUG,DetectionThreadPool has exceeded the interval time
+2025-10-14 16:01:00,INFO,Keyboard interrupt
+2025-10-14 16:01:00,INFO,Stopping thread pools
+2025-10-14 16:01:00,DEBUG,DetectionThreadPool finished
+2025-10-14 16:01:01,DEBUG,DetectionThread #1 finished
+2025-10-14 16:01:01,DEBUG,DetectionThread #2 finished
+2025-10-14 16:01:01,DEBUG,DetectionThread #3 finished
+2025-10-14 16:01:01,DEBUG,DetectionThread #4 finished
+2025-10-14 16:01:01,DEBUG,DetectionThread #5 finished
+2025-10-14 16:01:01,DEBUG,DetectionThread #6 finished
+2025-10-14 16:01:01,DEBUG,DetectionThread #7 finished
+2025-10-14 16:01:01,DEBUG,DetectionThread #8 finished
+2025-10-14 16:01:01,DEBUG,InspectionThreadPool finished
+2025-10-14 16:01:01,DEBUG,InspectionThread #1 finished
+2025-10-14 16:01:01,DEBUG,InspectionThread #2 finished
+2025-10-14 16:01:01,DEBUG,InspectionThread #3 finished
+2025-10-14 16:01:01,DEBUG,InspectionThread #4 finished
+2025-10-14 16:01:01,DEBUG,DownloadThreadPool finished
+2025-10-14 16:01:01,DEBUG,DownloadThread #1 finished
+2025-10-14 16:01:01,DEBUG,DownloadThread #2 finished
+2025-10-14 16:01:01,DEBUG,DownloadThread #3 finished
+2025-10-14 16:01:01,DEBUG,DownloadThread #4 finished
+2025-10-14 16:01:01,DEBUG,DisconnectionThreadPool finished
+2025-10-14 16:01:01,DEBUG,DisconnectionThread #1 finished
+2025-10-14 16:01:01,DEBUG,DisconnectionThread #2 finished
+2025-10-14 16:01:01,DEBUG,DisconnectionThread #3 finished
+2025-10-14 16:01:01,DEBUG,DisconnectionThread #4 finished
+2025-10-14 16:01:01,DEBUG,DisconnectionThread #5 finished
+2025-10-14 16:01:01,DEBUG,DisconnectionThread #6 finished
+2025-10-14 16:01:01,DEBUG,DisconnectionThread #7 finished
+2025-10-14 16:01:01,DEBUG,DisconnectionThread #8 finished
+2025-10-14 16:01:01,INFO,Thread pools stopped
