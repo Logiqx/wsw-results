@@ -271,5 +271,18 @@
     "10s_best": 13910,
     "500m_best": 13588,
     "status": "completed"
+  },
+  "GEO724MIC_724_20251014_094531.oao": {
+    "motion_file": "/logs/2025/10/0724_2025-10-14-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251014/GEO724MIC_724_20251014_094531.oao",
+    "size": 2068276,
+    "start_date": 1760431531000,
+    "end_date": 1760454155000,
+    "duration": 22624000,
+    "distance": 53174082,
+    "2s_best": 14199,
+    "10s_best": 14065,
+    "500m_best": 13475,
+    "status": "completed"
   }
 }

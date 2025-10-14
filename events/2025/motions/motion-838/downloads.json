@@ -245,5 +245,31 @@
     "10s_best": 13252,
     "500m_best": 12809,
     "status": "completed"
+  },
+  "DVO838PAV_838_20251014_094211.oao": {
+    "motion_file": "/logs/2025/10/0838_2025-10-14-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251014/DVO838PAV_838_20251014_094211.oao",
+    "size": 2375752,
+    "start_date": 1760431331000,
+    "end_date": 1760445161000,
+    "duration": 13830000,
+    "distance": 54940947,
+    "2s_best": 13056,
+    "10s_best": 12655,
+    "500m_best": 12274,
+    "status": "completed"
+  },
+  "DVO838PAV_838_20251014_133749.oao": {
+    "motion_file": "/logs/2025/10/0838_2025-10-14-1337.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251014/DVO838PAV_838_20251014_133749.oao",
+    "size": 1312040,
+    "start_date": 1760445469000,
+    "end_date": 1760455833000,
+    "duration": 10364000,
+    "distance": 43929497,
+    "2s_best": 12967,
+    "10s_best": 12906,
+    "500m_best": 12531,
+    "status": "completed"
   }
 }
