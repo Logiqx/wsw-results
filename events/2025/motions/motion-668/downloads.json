@@ -245,5 +245,18 @@
     "10s_best": 22633,
     "500m_best": 22325,
     "status": "completed"
+  },
+  "DAV668STE_668_20251014_094933.oao": {
+    "motion_file": "/logs/2025/10/0668_2025-10-14-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251014/DAV668STE_668_20251014_094933.oao",
+    "size": 745812,
+    "start_date": 1760431773000,
+    "end_date": 1760443089000,
+    "duration": 11316000,
+    "distance": 22884088,
+    "2s_best": 21905,
+    "10s_best": 21738,
+    "500m_best": 21220,
+    "status": "completed"
   }
 }

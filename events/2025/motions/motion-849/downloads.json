@@ -245,5 +245,18 @@
     "10s_best": 8938,
     "500m_best": 7591,
     "status": "completed"
+  },
+  "STU849AND_849_20251014_100609.oao": {
+    "motion_file": "/logs/2025/10/0849_2025-10-14-1006.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251014/STU849AND_849_20251014_100609.oao",
+    "size": 595896,
+    "start_date": 1760432769000,
+    "end_date": 1760444477000,
+    "duration": 11708000,
+    "distance": 9205254,
+    "2s_best": 9576,
+    "10s_best": 9400,
+    "500m_best": 7136,
+    "status": "completed"
   }
 }

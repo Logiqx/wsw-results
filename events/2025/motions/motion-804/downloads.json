@@ -232,5 +232,18 @@
     "10s_best": 11396,
     "500m_best": 11003,
     "status": "completed"
+  },
+  "WAT804STE_804_20251014_095619.oao": {
+    "motion_file": "/logs/2025/10/0804_2025-10-14-0956.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251014/WAT804STE_804_20251014_095619.oao",
+    "size": 1605372,
+    "start_date": 1760432179000,
+    "end_date": 1760446143000,
+    "duration": 13964000,
+    "distance": 32567692,
+    "2s_best": 12676,
+    "10s_best": 12189,
+    "500m_best": 11781,
+    "status": "completed"
   }
 }
