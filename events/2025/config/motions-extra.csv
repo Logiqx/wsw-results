@@ -1,1 +1,3 @@
-Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Type,Status,Entry Type
+Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Craft Type,Class,Status,Entry Type
+1001,1001,621,2025-10-11,2025-10-17,BUOY_621,Weymouth,Speed Week,Buoy,,,All Week
+1002,1002,754,2025-10-11,2025-10-17,BUOY_754,Weymouth,Speed Week,Buoy,,,All Week
