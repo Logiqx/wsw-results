@@ -258,5 +258,18 @@
     "10s_best": 13186,
     "500m_best": 12807,
     "status": "completed"
+  },
+  "ING869MAR_869_20251015_134023.oao": {
+    "motion_file": "/logs/2025/10/0869_2025-10-15-1340.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251015/ING869MAR_869_20251015_134023.oao",
+    "size": 8244,
+    "start_date": 1760532023000,
+    "end_date": 1760536545000,
+    "duration": 4522000,
+    "distance": 1032951,
+    "2s_best": 1767,
+    "10s_best": 1105,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
