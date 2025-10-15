@@ -219,5 +219,18 @@
     "10s_best": 8912,
     "500m_best": 8459,
     "status": "completed"
+  },
+  "LON854ROB_854_20251015_095049.oao": {
+    "motion_file": "/logs/2025/10/0854_2025-10-15-0950.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251015/LON854ROB_854_20251015_095049.oao",
+    "size": 971804,
+    "start_date": 1760518249000,
+    "end_date": 1760534955000,
+    "duration": 16706000,
+    "distance": 25962022,
+    "2s_best": 10865,
+    "10s_best": 10717,
+    "500m_best": 10306,
+    "status": "completed"
   }
 }

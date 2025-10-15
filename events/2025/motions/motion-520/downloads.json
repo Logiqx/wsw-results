@@ -50,5 +50,18 @@
     "10s_best": 14315,
     "500m_best": 13893,
     "status": "completed"
+  },
+  "CON520GAR_520_20251015_094311.oao": {
+    "motion_file": "/logs/2025/10/0520_2025-10-15-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251015/CON520GAR_520_20251015_094311.oao",
+    "size": 1765532,
+    "start_date": 1760517791000,
+    "end_date": 1760538603000,
+    "duration": 20812000,
+    "distance": 48119327,
+    "2s_best": 13950,
+    "10s_best": 13805,
+    "500m_best": 13430,
+    "status": "completed"
   }
 }

@@ -206,5 +206,18 @@
     "10s_best": 11996,
     "500m_best": 10164,
     "status": "completed"
+  },
+  "CRO825JIM_825_20251015_135029.oao": {
+    "motion_file": "/logs/2025/10/0825_2025-10-15-1350.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251015/CRO825JIM_825_20251015_135029.oao",
+    "size": 7984,
+    "start_date": 1760532629000,
+    "end_date": 1760536355000,
+    "duration": 3726000,
+    "distance": 1040490,
+    "2s_best": 2504,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
