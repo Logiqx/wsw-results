@@ -28,6 +28,9 @@ fix_all ",Robert,Longstaff," ",Rob,Longstaff,"
 fix_all ",Robert,Spagnoletti," ",Bob,Spagnoletti,"
 fix_all ",Stephen,Thompson," ",Steve,Thompson,"
 
+# Fix countries for individuals
+fix_all ",Scott,Harrison,United Kingdom," ",Scott,Harrison,Ireland,"
+
 # Fix groups
 fix_all "Weymouth and Portland Kitesurfing Club" ""
 
