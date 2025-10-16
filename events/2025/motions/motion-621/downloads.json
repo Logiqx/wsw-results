@@ -63,5 +63,18 @@
     "10s_best": 10498,
     "500m_best": 9018,
     "status": "completed"
+  },
+  "BUOY_621_621_20251016_084639.oao": {
+    "motion_file": "/logs/2025/10/0621_2025-10-16-0846.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251016/BUOY_621_621_20251016_084639.oao",
+    "size": 699896,
+    "start_date": 1760600799000,
+    "end_date": 1760614229000,
+    "duration": 13430000,
+    "distance": 6830982,
+    "2s_best": 8164,
+    "10s_best": 7985,
+    "500m_best": 6179,
+    "status": "completed"
   }
 }

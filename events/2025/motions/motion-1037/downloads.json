@@ -232,5 +232,18 @@
     "10s_best": 23900,
     "500m_best": 22404,
     "status": "completed"
+  },
+  "TOD1037SIM_1037_20251016_094340.oao": {
+    "motion_file": "/logs/2025/10/1037_2025-10-16-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251016/TOD1037SIM_1037_20251016_094340.oao",
+    "size": 42928,
+    "start_date": 1760604220000,
+    "end_date": 1760614341000,
+    "duration": 10121000,
+    "distance": 2695141,
+    "2s_best": 2241,
+    "10s_best": 1685,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

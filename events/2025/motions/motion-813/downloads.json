@@ -258,5 +258,18 @@
     "10s_best": 9524,
     "500m_best": 6892,
     "status": "completed"
+  },
+  "SMI813PAU_813_20251016_101039.oao": {
+    "motion_file": "/logs/2025/10/0813_2025-10-16-1010.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251016/SMI813PAU_813_20251016_101039.oao",
+    "size": 31488,
+    "start_date": 1760605839000,
+    "end_date": 1760613601000,
+    "duration": 7762000,
+    "distance": 2052089,
+    "2s_best": 4452,
+    "10s_best": 4260,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

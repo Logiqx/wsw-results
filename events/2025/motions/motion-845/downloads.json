@@ -297,5 +297,18 @@
     "10s_best": 13239,
     "500m_best": 12898,
     "status": "completed"
+  },
+  "BAT845TIM_845_20251016_094225.oao": {
+    "motion_file": "/logs/2025/10/0845_2025-10-16-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251016/BAT845TIM_845_20251016_094225.oao",
+    "size": 1193064,
+    "start_date": 1760604145000,
+    "end_date": 1760614067000,
+    "duration": 9922000,
+    "distance": 18727527,
+    "2s_best": 12121,
+    "10s_best": 12048,
+    "500m_best": 11405,
+    "status": "completed"
   }
 }

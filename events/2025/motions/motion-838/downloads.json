@@ -284,5 +284,18 @@
     "10s_best": 12801,
     "500m_best": 12643,
     "status": "completed"
+  },
+  "DVO838PAV_838_20251016_094601.oao": {
+    "motion_file": "/logs/2025/10/0838_2025-10-16-0946.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251016/DVO838PAV_838_20251016_094601.oao",
+    "size": 1220780,
+    "start_date": 1760604361000,
+    "end_date": 1760613745000,
+    "duration": 9384000,
+    "distance": 12760599,
+    "2s_best": 11183,
+    "10s_best": 10963,
+    "500m_best": 10429,
+    "status": "completed"
   }
 }
