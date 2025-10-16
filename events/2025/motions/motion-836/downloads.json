@@ -284,5 +284,18 @@
     "10s_best": 1500,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "DUD836RIC_836_20251016_100409.oao": {
+    "motion_file": "/logs/2025/10/0836_2025-10-16-1004.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251016/DUD836RIC_836_20251016_100409.oao",
+    "size": 975964,
+    "start_date": 1760605449000,
+    "end_date": 1760613763000,
+    "duration": 8314000,
+    "distance": 9998380,
+    "2s_best": 7235,
+    "10s_best": 6927,
+    "500m_best": 2626,
+    "status": "completed"
   }
 }

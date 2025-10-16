@@ -37,5 +37,18 @@
     "10s_best": 13933,
     "500m_best": 13592,
     "status": "completed"
+  },
+  "DIC940ROD_940_20251016_093955.oao": {
+    "motion_file": "/logs/2025/10/0940_2025-10-16-0939.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251016/DIC940ROD_940_20251016_093955.oao",
+    "size": 11572,
+    "start_date": 1760603995000,
+    "end_date": 1760614455000,
+    "duration": 10460000,
+    "distance": 3616798,
+    "2s_best": 2323,
+    "10s_best": 1728,
+    "500m_best": 1079,
+    "status": "completed"
   }
 }

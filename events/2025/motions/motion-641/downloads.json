@@ -258,5 +258,18 @@
     "10s_best": 14266,
     "500m_best": 14000,
     "status": "completed"
+  },
+  "REA641RAF_641_20251016_094032.oao": {
+    "motion_file": "/logs/2025/10/0641_2025-10-16-0940.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251016/REA641RAF_641_20251016_094032.oao",
+    "size": 545924,
+    "start_date": 1760604032000,
+    "end_date": 1760615829000,
+    "duration": 11797000,
+    "distance": 18388681,
+    "2s_best": 13460,
+    "10s_best": 13209,
+    "500m_best": 12678,
+    "status": "completed"
   }
 }

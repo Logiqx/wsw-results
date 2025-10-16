@@ -271,5 +271,18 @@
     "10s_best": 13707,
     "500m_best": 13375,
     "status": "completed"
+  },
+  "COL652AND_652_20251016_095239.oao": {
+    "motion_file": "/logs/2025/10/0652_2025-10-16-0952.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251016/COL652AND_652_20251016_095239.oao",
+    "size": 353472,
+    "start_date": 1760604759000,
+    "end_date": 1760613579000,
+    "duration": 8820000,
+    "distance": 12007502,
+    "2s_best": 12183,
+    "10s_best": 12036,
+    "500m_best": 11731,
+    "status": "completed"
   }
 }
