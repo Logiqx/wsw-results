@@ -16,6 +16,3 @@ run_py_script entries.py
 
 # Run the daily results
 run_py_script results.py
-
-# Update the event rankings
-run_py_script rankings.py
