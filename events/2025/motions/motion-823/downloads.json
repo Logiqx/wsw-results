@@ -323,5 +323,18 @@
     "10s_best": 10971,
     "500m_best": 10610,
     "status": "completed"
+  },
+  "BAR823SIM_823_20251017_094839.oao": {
+    "motion_file": "/logs/2025/10/0823_2025-10-17-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251017/BAR823SIM_823_20251017_094839.oao",
+    "size": 2127244,
+    "start_date": 1760690919000,
+    "end_date": 1760715393000,
+    "duration": 24474000,
+    "distance": 37445408,
+    "2s_best": 10754,
+    "10s_best": 10603,
+    "500m_best": 10196,
+    "status": "completed"
   }
 }

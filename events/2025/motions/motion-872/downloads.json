@@ -219,5 +219,18 @@
     "10s_best": 10020,
     "500m_best": 9661,
     "status": "completed"
+  },
+  "MEY872NEI_872_20251017_094039.oao": {
+    "motion_file": "/logs/2025/10/0872_2025-10-17-0940.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251017/MEY872NEI_872_20251017_094039.oao",
+    "size": 2006292,
+    "start_date": 1760690439000,
+    "end_date": 1760713445000,
+    "duration": 23006000,
+    "distance": 53869354,
+    "2s_best": 12785,
+    "10s_best": 12574,
+    "500m_best": 12332,
+    "status": "completed"
   }
 }

@@ -63,5 +63,18 @@
     "10s_best": 13147,
     "500m_best": 12837,
     "status": "completed"
+  },
+  "HIL1035IAN_1035_20251017_102609.oao": {
+    "motion_file": "/logs/2025/10/1035_2025-10-17-1026.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251017/HIL1035IAN_1035_20251017_102609.oao",
+    "size": 75168,
+    "start_date": 1760693169000,
+    "end_date": 1760715983000,
+    "duration": 22814000,
+    "distance": 7094400,
+    "2s_best": 4183,
+    "10s_best": 4001,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

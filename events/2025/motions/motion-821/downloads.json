@@ -284,5 +284,31 @@
     "10s_best": 22392,
     "500m_best": 21792,
     "status": "completed"
+  },
+  "OWE821AND_821_20251016_104059.oao": {
+    "motion_file": "/logs/2025/10/0821_2025-10-16-1040.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251016/OWE821AND_821_20251016_104059.oao",
+    "size": 2472,
+    "start_date": 1760607659000,
+    "end_date": 1760612833000,
+    "duration": 5174000,
+    "distance": 286985,
+    "2s_best": 1448,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "OWE821AND_821_20251017_105047.oao": {
+    "motion_file": "/logs/2025/10/0821_2025-10-17-1050.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251017/OWE821AND_821_20251017_105047.oao",
+    "size": 16356,
+    "start_date": 1760694647000,
+    "end_date": 1760716241000,
+    "duration": 21594000,
+    "distance": 576868,
+    "2s_best": 2365,
+    "10s_best": 0,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
