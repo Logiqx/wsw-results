@@ -271,5 +271,18 @@
     "10s_best": 0,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "BIN814NEI_814_20251017_102409.oao": {
+    "motion_file": "/logs/2025/10/0814_2025-10-17-1024.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251017/BIN814NEI_814_20251017_102409.oao",
+    "size": 1482548,
+    "start_date": 1760693049000,
+    "end_date": 1760710015000,
+    "duration": 16966000,
+    "distance": 17906023,
+    "2s_best": 11574,
+    "10s_best": 11191,
+    "500m_best": 7968,
+    "status": "completed"
   }
 }

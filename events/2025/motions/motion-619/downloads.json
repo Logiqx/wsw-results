@@ -310,5 +310,18 @@
     "10s_best": 1417,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "NIC619JON_619_20251017_094249.oao": {
+    "motion_file": "/logs/2025/10/0619_2025-10-17-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251017/NIC619JON_619_20251017_094249.oao",
+    "size": 3052272,
+    "start_date": 1760690569000,
+    "end_date": 1760713959000,
+    "duration": 23390000,
+    "distance": 101294575,
+    "2s_best": 13570,
+    "10s_best": 13363,
+    "500m_best": 12997,
+    "status": "completed"
   }
 }

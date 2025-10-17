@@ -258,5 +258,18 @@
     "10s_best": 12382,
     "500m_best": 12087,
     "status": "completed"
+  },
+  "YEL852LIL_852_20251017_094109.oao": {
+    "motion_file": "/logs/2025/10/0852_2025-10-17-0941.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251017/YEL852LIL_852_20251017_094109.oao",
+    "size": 22752,
+    "start_date": 1760690469000,
+    "end_date": 1760716229000,
+    "duration": 25760000,
+    "distance": 5536610,
+    "2s_best": 2746,
+    "10s_best": 2232,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

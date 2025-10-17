@@ -24,5 +24,18 @@
     "10s_best": 2815,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "GIB610JEN_610_20251017_095119.oao": {
+    "motion_file": "/logs/2025/10/0610_2025-10-17-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251017/GIB610JEN_610_20251017_095119.oao",
+    "size": 1076012,
+    "start_date": 1760691079000,
+    "end_date": 1760714483000,
+    "duration": 23404000,
+    "distance": 42343104,
+    "2s_best": 14902,
+    "10s_best": 14744,
+    "500m_best": 14360,
+    "status": "completed"
   }
 }

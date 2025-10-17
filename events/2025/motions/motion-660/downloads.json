@@ -141,5 +141,18 @@
     "10s_best": 21590,
     "500m_best": 21101,
     "status": "completed"
+  },
+  "CAR660MAR_660_20251017_092823.oao": {
+    "motion_file": "/logs/2025/10/0660_2025-10-17-0928.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251017/CAR660MAR_660_20251017_092823.oao",
+    "size": 2053612,
+    "start_date": 1760689703000,
+    "end_date": 1760715077000,
+    "duration": 25374000,
+    "distance": 68349076,
+    "2s_best": 20131,
+    "10s_best": 19987,
+    "500m_best": 19810,
+    "status": "completed"
   }
 }
