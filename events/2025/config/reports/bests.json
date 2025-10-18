@@ -9,7 +9,7 @@
       "Period": "Event"
     }
   ],
-  "Fields": "Name,Nation,Craft Type,Status,First Timer,Speed (kts),Other Run Speeds (kts)",
+  "Fields": "Name,Nation,Craft Type,Status,Speed (kts),Other Run Speeds (kts)",
   "ShowSpeeds": 10,
   "Reports": [
     {
