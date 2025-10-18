@@ -13,7 +13,8 @@
   "ShowSpeeds": 10,
   "Reports": [
     {
-      "Title": "All Craft"
+      "Title": "All Craft",
+      "Comment": "(bested viewed in landscape on mobile phones)"
     }
   ]
 }
