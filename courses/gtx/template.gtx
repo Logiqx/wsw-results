@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<gatePositions version="1.0" creator="Logiqx - https://github.com/Logiqx/wsw-results">
+    <tracklength>{{ track_length }}</tracklength>
+    <gatewidth>{{ gate_width }}</gatewidth>
+    <start>
+        <position lat="{{ start_lat }}" lon="{{ start_lon }}" />
+    </start>
+    <finish>
+        <position lat="{{ finish_lat }}" lon="{{ finish_lon }}" />
+    </finish>
+    <corners>
+        <position lat_lon="{{ corners_lat_lon }}" />
+    </corners>
+</gatePositions>
