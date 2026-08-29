@@ -232,5 +232,18 @@
     "10s_best": 6748,
     "500m_best": 3498,
     "status": "completed"
+  },
+  "WHI861JON_861_20251017_200755.oao": {
+    "motion_file": "/logs/2025/10/0861_2025-10-17-2007.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2025/gpslogs/20251017/WHI861JON_861_20251017_200755.oao",
+    "size": 28472,
+    "start_date": 1760728075000,
+    "end_date": 1760787237000,
+    "duration": 59162000,
+    "distance": 1505803,
+    "2s_best": 19134,
+    "10s_best": 2988,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }
