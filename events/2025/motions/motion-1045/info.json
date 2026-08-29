@@ -1,7 +1,7 @@
 {
   "motion": {
     "wifi": "station",
-    "username": "",
+    "username": "WSW",
     "identifier": 1045,
     "hardware": {
       "code": 108,
@@ -16,7 +16,7 @@
       "level": 0
     },
     "battery": {
-      "level": 80,
+      "level": 61,
       "charging": false
     },
     "units": {
