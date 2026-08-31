@@ -1,0 +1,88 @@
+{
+  "Suptitle": "Entrant List",
+  "Period": "Event",
+  "Runs": false,
+  "Sort": "Name=ASC",
+  "Reports": [
+    {
+      "Title": "All Boats",
+      "Fields": "Name,Nation,Boat Name,Entry Type,PB (kts)",
+      "Filter": "Craft Type=Boat"
+    },
+    {
+      "Title": "Open Class Kiteboards",
+      "Fields": "Name,Nation,Status,Entry Type,PB (kts)",
+      "Filter": "Craft Type=Kiteboard,Status=Open Class"
+    },
+    {
+      "Title": "Freeride Kiteboards",
+      "Fields": "Name,Nation,Status,Entry Type,PB (kts)",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride"
+    },
+    {
+      "Title": "First Time Freeride Kiteboards",
+      "Fields": "Name,Nation,Status,Entry Type,PB (kts)",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y"
+    },
+    {
+      "Title": "Pro Fleet Fin Sailboards",
+      "Comment": "(excluding foils)",
+      "Fields": "Name,Nation,Status,Entry Type,UKWA,PB (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
+    },
+    {
+      "Title": "Gold Fleet Fin Sailboards",
+      "Comment": "(excluding foils)",
+      "Fields": "Name,Nation,Status,Entry Type,UKWA,PB (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
+    },
+    {
+      "Title": "Amateur Fin Sailboards",
+      "Comment": "(excluding foils)",
+      "Fields": "Name,Nation,Status,Entry Type,UKWA,PB (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Amateur"
+    },
+    {
+      "Title": "First Time Amateur Fin Sailboards",
+      "Comment": "(excluding foils)",
+      "Fields": "Name,Nation,Status,Entry Type,UKWA,PB (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
+    },
+    {
+      "Title": "Foil Fleet Sailboards",
+      "Fields": "Name,Nation,Status,Entry Type,UKWA,PB (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Foil Fleet"
+    },
+    {
+      "Title": "Open Class Wingboards",
+      "Fields": "Name,Nation,Status,Entry Type,UKWA,PB (kts)",
+      "Filter": "Craft Type=Wingboard,Status=Open Class"
+    },
+    {
+      "Title": "Freeride Wingboards",
+      "Fields": "Name,Nation,Status,Entry Type,UKWA,PB (kts)",
+      "Filter": "Craft Type=Wingboard,Status=Freeride"
+    },
+    {
+      "Title": "First Time Freeride Wingboards",
+      "Fields": "Name,Nation,Status,Entry Type,UKWA,PB (kts)",
+      "Filter": "Craft Type=Wingboard,Status=Freeride,First Timer=Y"
+    },
+    {
+      "Title": "All Females",
+      "Fields": "Name,Nation,Craft Type,Status,Entry Type,PB (kts)",
+      "Filter": "Gender=F"
+    },
+    {
+      "Title": "All Youths",
+      "Comment": "(age <18 for both days of the event)",
+      "Fields": "Name,Nation,Craft Type,Status,Entry Type,PB (kts)",
+      "Filter": "Age=Youth"
+    },
+    {
+      "Title": "All Craft TBCs",
+      "Fields": "Name,Nation,Craft Type,Status,Entry Type,PB (kts)",
+      "Filter": "Craft Type=TBC"
+    }
+  ]
+}
