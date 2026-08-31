@@ -1,0 +1,94 @@
+{
+  "Periods": [
+    {
+      "Suptitle": "Day Rankings by Status - {Date}",
+      "Period": "Session",
+      "HideFields": "Course"
+    },
+    {
+      "Suptitle": "Overall Rankings by Status",
+      "Period": "Event",
+      "HideFields": "Course,Time"
+    }
+  ],
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "All Females",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
+      "Filter": "Gender=F"
+    },
+    {
+      "Title": "All Open Class Kiteboards",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,Status=Open Class"
+    },
+    {
+      "Title": "All Freeride Kiteboards",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride"
+    },
+    {
+      "Title": "All First Time Freeride Kiteboards",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,Status=Freeride,First Timer=Y"
+    },
+    {
+      "Title": "All Pro Fleet Fin Sailboards",
+      "Comment": "(excluding foils)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Pro Fleet"
+    },
+    {
+      "Title": "All Gold Fleet Fin Sailboards",
+      "Comment": "(excluding foils)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Gold Fleet"
+    },
+    {
+      "Title": "All Amateur Fin Sailboards",
+      "Comment": "(excluding foils)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Amateur"
+    },
+    {
+      "Title": "All First Time Amateur Fin Sailboards",
+      "Comment": "(excluding foils)",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y"
+    },
+    {
+      "Title": "All Foil Fleet Sailboards",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Status=Foil Fleet"
+    },
+    {
+      "Title": "All Open Class Wingboards",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Wingboard,Status=Open Class"
+    },
+    {
+      "Title": "All Freeride Wingboards",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Wingboard,Status=Freeride"
+    },
+    {
+      "Title": "All First Time Freeride Wingboards",
+      "Fields": "Name,Nation,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Wingboard,Status=Freeride,First Timer=Y"
+    },
+    {
+      "Title": "All Female Sailboards",
+      "Comment": "(excluding pros)",
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Status<>Pro Fleet,Name<>Jenna Gibson,Gender=F"
+    },
+    {
+      "Title": "All Youths",
+      "Comment": "(age <18 for both days of the event)",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
+      "Filter": "Age=Youth,Weekend=Y",
+      "Sort": "Speed (kts)=DSC"
+    }
+  ]
+}
