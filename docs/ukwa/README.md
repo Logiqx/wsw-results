@@ -1,18 +1,136 @@
-## UKWA Speed Champions
+![img](../img/wsw-2025/web-banner-1.png)
 
-### Official Documents
+## UKWA Speed Champions 2026
 
-The following documents describe how Weymouth Speed Week results will be used by the UKWA.
+[Weymouth Speed Week](https://www.weymouthspeedweek.com/) is an independent event, organised and run according to its own Event Guide and Policy Documents. All participants must comply with the policy, procedures and guidance of the Weymouth Speed Week event and the [WPNSA](https://www.wpnsa.org.uk/).
 
-- [UKWA Speed Champions 2025](2025.md)
+Weymouth Speed Week provides the [ISWC](https://www.internationalwindsurfing.com/), [UKWA](https://ukwindsurfing.com/) and [BKSA](https://britishkitesports.org/) with access to the results of the members of those organisations, so they can separately adjudicate any results that they may wish to use for their own purposes.
+
+The UKWA does not organise or sanction Weymouth Speed Week, but recognises the results achieved by its members during the event. The UKWA will crown "Speed Champions" in Windsurf, Windfoil and Wingfoil disciplines based on those performances. 
+
+Ideally the UKWA "Speed Champions" will be crowned during the Grand Prize Giving of Weymouth Speed Week, but this may not be possible. If the UKWA rankings are unavailable the "Speed Champion" trophies will be awarded at the next available opportunity.
 
 
 
-### Proposals
+### Schedule
 
-Two proposals have been written for the UKWA Windsurfing Speed Championships:
+The Weymouth Speed Week course(s) are scheduled to open at 10:00 and close at 16:00. Exceptions to this are the first day of Weymouth Speed Week when the course(s) open at 11:00 and Sunday and Friday when the course may close earlier to allow for prize giving. If exceptionally good conditions are being experienced the organisers will endeavour to take advantage of these by extending the normal session a further 30 or 60 minutes.
 
-- [Second proposal](proposal-2/README.md) - 14 Aug 2024
-- [First proposal](proposal-1/README.md) - 8 Nov 2023
+The UKWA will consider each day to comprise of two heats, each heat lasting for 2.5 hours:
 
-The second proposal follows the discussions between Pete Davis, Zara Davis, and Michael George.
+- First heat - 10:00 to 12:30
+- Lunchtime - 12:30 to 13:30
+- Second heat - 13:30 to 16:00
+
+All runs between 12:30 and 13:30 will be used by Weymouth Speed Week, but will not contribute to the UKWA rankings.
+
+
+
+### Scoring
+
+The following sections describe how the UKWA will use Weymouth Speed Week results, without depending on ISWC rules.
+
+Part F of the [ISWC Championship Rulebook 2010](https://www.internationalwindsurfing.com/userfiles/documents/ISWC_Rulebook_2010.pdf) has provided a framework, but it has been adapted to suit the UKWA requirements.
+
+
+
+#### Validity of Heats
+
+The UKWA will assess the validity of heats for each specific discipline; Windsurf, Windfoil and Wingfoil.
+
+A heat for a specific discipline will be considered valid for the UKWA rankings if it meets either of the following criteria:
+
+- At least **25%** of the UKWA adults who finish the heat achieve the required speed (e.g.  27 kts) at least **2 times**
+- At least **50%** of the UKWA adults who finish the heat achieve the required speed (e.g.  25 kts) at least **2 times**
+
+Heats for the specific disciplines will be validated in the same way, but they each have different speed requirements.
+
+| Discipline | 25%    | 50%    |
+| ---------- | ------ | ------ |
+| Windsurf   | 27 kts | 25 kts |
+| Windfoil   | 24 kts | 22 kts |
+| Wingfoil   | 22 kts | 20 kts |
+
+In addition at least **four** UKWA **adults** must finish the heat for the specific discipline (i.e. complete at least **2 runs**).
+
+"Adults" refers to male and female competitors who are not in the "Youth" category, according to Weymouth Speed Week.
+
+
+
+#### Scoring of Heats
+
+Rankings for each heat will be based on the average speed of the two fastest runs of each participant. If a heat is considered valid, all competitors are awarded points equivalent to their finishing position, except the first place, which is awarded 0.7 points.
+
+All competitors who do not start in a heat, who start and thereafter retire, who do not finish, who finish and thereafter retire or who are disqualified, score the points awarded to the last possible finishing position in that heat.
+
+
+
+#### Discards
+
+Section F5 of the [ISWC Championship Rulebook 2010](https://www.internationalwindsurfing.com/userfiles/documents/ISWC_Rulebook_2010.pdf) will be used by the UKWA.
+
+| Number of heats | Number of scores discarded |
+| --------------- | -------------------------- |
+| 1 - 3           | 0                          |
+| 4 - 6           | 1                          |
+| 7 - 10          | 2                          |
+| 11 - 14         | 3                          |
+
+The net points for each participant will exclude their worst score(s) and provide the basis for the overall UKWA rankings.
+
+
+
+#### Ties
+
+In the event of a tie (i.e. equal points in the overall rankings), it shall be decided in favour of the competitor who has achieved the best speed during the event. If the tie remains, it shall be decided in favour of the competitor who has the greater number of firsts, seconds, and so on including discards. If the tie remains, it shall stand as the final result. 
+
+
+
+### Rankings
+
+The event rankings will show the points awarded for each heat, plus the highest speed achieved during the whole event.
+
+- Windsurf
+  - Overall Windsurf
+  - Male Windsurf
+  - Female Windsurf
+- Windfoil
+  - Overall Windfoil
+  - Male Windfoil
+  - Female Windfoil
+- Wingfoil
+  - Overall Wingfoil
+  - Male Wingfoil
+  - Female Wingfoil
+
+
+
+### Trophies
+
+The following trophies will be awarded to the "Speed Champions" once the rankings have been produced.
+
+- Windsurf
+  - Male Windsurf
+  - Female Windsurf
+- Wingfoil
+  - Male Wingfoil
+  - Female Wingfoil
+
+Due to the limited number of entrants competing in the windfoil category there will be no trophies.
+
+
+
+### Revision History
+
+| Date       | Version | Comment                                |
+| ---------- | ------- | -------------------------------------- |
+| 2026-09-02 | 1.1     | Updated year for 2026                  |
+| 2025-10-19 | 1.0     | Final version for 2025                 |
+| 2025-10-19 | 0.7     | Clarify discards during tie resolution |
+| 2025-10-03 | 0.6     | Two heats per day and other tweaks     |
+| 2025-10-01 | 0.5     | Simplify phrasing in some places       |
+| 2025-10-01 | 0.4     | Rename legs to heats                   |
+| 2025-10-01 | 0.3     | Add links to ISWC, UKWA and BKSA       |
+| 2025-10-01 | 0.2     | Clarify the position of the UKWA       |
+| 2025-10-01 | 0.1     | First draft                            |
+
