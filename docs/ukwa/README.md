@@ -1,4 +1,4 @@
-![img](../img/wsw-2025/web-banner-1.png)
+![img](../img/wswhdr_2026.jpg)
 
 ## UKWA Speed Champions 2026
 
