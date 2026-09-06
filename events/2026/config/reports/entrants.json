@@ -75,7 +75,7 @@
     },
     {
       "Title": "All Legends",
-      "Comment": "(age 65+ for both days of the event)",
+      "Comment": "(age 65+ for all days of the event)",
       "Fields": "Name,Nation,Craft Type,Status,Entry Type,PB (kts)",
       "Filter": "Age=Legend"
     },
