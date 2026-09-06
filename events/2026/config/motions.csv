@@ -77,8 +77,8 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 4070,58,0,2025-10-11,2025-10-17,WIL0DAV,Dave,Williams,Wingboard,,Open Class,All Week
 1071,59,0,2025-10-11,2025-10-17,PAL0MAR,Mark,Palmer,Sailboard,,Gold Fleet,All Week
 4072,60,0,2025-10-11,2025-10-17,SAN0SIM,Simon,Sanderson,Wingboard,,Open Class,All Week
-1073,61,0,2025-10-11,2025-10-17,NEW0MAR,Mark,NEWMAN,Sailboard,,Pro Fleet,All Week
-2073,61,0,2025-10-11,2025-10-17,NEW0MAR,Mark,NEWMAN,Sailboard,Foil,Foil Fleet,All Week
+1073,61,0,2025-10-11,2025-10-17,NEW0MAR,Mark,Newman,Sailboard,,Pro Fleet,All Week
+2073,61,0,2025-10-11,2025-10-17,NEW0MAR,Mark,Newman,Sailboard,Foil,Foil Fleet,All Week
 1075,63,0,2025-10-11,2025-10-17,MAR0EDD,Eddie,Marsh,Sailboard,,Gold Fleet,All Week
 1076,64,0,2025-10-11,2025-10-17,STU0AND,Andy,Stuart-William,Sailboard,,Gold Fleet,All Week
 3077,65,0,2025-10-11,2025-10-17,LON0JAM,James,Longmuir,Kiteboard,,Open Class,All Week
@@ -95,5 +95,11 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 2086,74,0,2025-10-11,2025-10-17,TWI0AND,Andrew,Twinn,Sailboard,Foil,Foil Fleet,All Week
 1087,75,0,2025-10-13,2025-10-17,HUM0TIM,Tim,Humphreys,Sailboard,,Gold Fleet,Weekdays
 1088,76,0,2025-10-11,2025-10-17,GOO0GAR,Garry,Goodwin,Sailboard,,Gold Fleet,All Week
+1089,77,0,2025-10-11,2025-10-17,WHA0TRE,Trevor,Whatford,Sailboard,,Gold Fleet,All Week
+1090,78,0,2025-10-11,2025-10-12,KIE0OLI,Oliver,Kiernan,Sailboard,,Amateur,Youth W/E
+1091,79,0,2025-10-11,2025-10-17,NEA0IAI,Iain, Neary,Sailboard,,Gold Fleet,All Week
+3092,80,0,2025-10-11,2025-10-17,CAR0MAR,martin,carter,Kiteboard,,Open Class,All Week
+1093,81,0,2025-10-13,2025-10-17,VER0SHA,Shane,Verrion,Sailboard,,Gold Fleet,Weekdays
+1094,82,0,2025-10-11,2025-10-17,BRA0PAU,Paul,Bran,Sailboard,,Amateur,All Week
 1001,1001,621,2025-10-11,2025-10-17,BUOY_621,Weymouth,Speed Week,Buoy,,,All Week
 1002,1002,754,2025-10-11,2025-10-17,BUOY_754,Weymouth,Speed Week,Buoy,,,All Week

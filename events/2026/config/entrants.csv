@@ -77,8 +77,8 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 4070,58,Mr,Dave,Williams,United Kingdom,NO,Wingboard,,Open Class,Adult,,,All Week,NO
 1071,59,Mr,Mark,Palmer,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
 4072,60,Mr,Simon,Sanderson,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,NO
-1073,61,Mr,Mark,NEWMAN,United Kingdom,NO,Sailboard,,Pro Fleet,Adult,,Portland Pirates,All Week,NO
-2073,61,Mr,Mark,NEWMAN,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Portland Pirates,All Week,NO
+1073,61,Mr,Mark,Newman,United Kingdom,NO,Sailboard,,Pro Fleet,Adult,,Portland Pirates,All Week,NO
+2073,61,Mr,Mark,Newman,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Portland Pirates,All Week,NO
 1075,63,Mr,Eddie,Marsh,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
 1076,64,Mr,Andy,Stuart-William,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
 3077,65,Mr,James,Longmuir,United Kingdom,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
@@ -95,3 +95,9 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 2086,74,Mr,Andrew,Twinn,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,None,All Week,YES
 1087,75,Mr,Tim,Humphreys,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,Weekdays,NO
 1088,76,Mr,Garry,Goodwin,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
+1089,77,Mr,Trevor,Whatford,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
+1090,78,Mr,Oliver,Kiernan,United Kingdom,YES,Sailboard,,Amateur,Youth,,None,Youth W/E,NO
+1091,79,Mr,Iain, Neary,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
+3092,80,Mr,martin,carter,United Kingdom,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
+1093,81,Mr,Shane,Verrion,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,Weekdays,YES
+1094,82,Mr,Paul,Bran,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO

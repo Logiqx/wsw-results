@@ -9,8 +9,8 @@
     "Withdrawn": "N"
   },
   "Mappings": {
-    "ID": "Id",
-    "Entrant ID": "Id",
+    "ID": "ID",
+    "Entrant ID": "ID",
     "Created": "Created",
     "Title": "Title",
     "First Name": "First Name",
