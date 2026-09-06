@@ -129,7 +129,7 @@
     },
     {
       "Category": "Female Sailboard",
-      "Filter": "Craft Type=Sailboard,Status<>Pro Fleet,Gender=F",
+      "Filter": "Craft Type=Sailboard,Status<>Pro Fleet,Name<>Jenna Gibson,Gender=F",
       "Places": 1
     },
     {
