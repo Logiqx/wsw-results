@@ -14,11 +14,6 @@
   "Profile": true,
   "Reports": [
     {
-      "Title": "All Females",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
-      "Filter": "Gender=F"
-    },
-    {
       "Title": "All Open Class Kiteboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,Status=Open Class"
@@ -76,6 +71,11 @@
       "Title": "All First Time Freeride Wingboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Wingboard,Status=Freeride,First Timer=Y"
+    },
+    {
+      "Title": "All Females",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
+      "Filter": "Gender=F"
     },
     {
       "Title": "All Female Sailboards",
