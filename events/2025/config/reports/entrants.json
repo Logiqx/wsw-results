@@ -77,7 +77,7 @@
       "Title": "All Youths",
       "Comment": "(age <18 for both days of the event)",
       "Fields": "Name,Nation,Craft Type,Status,Entry Type,PB (kts)",
-      "Filter": "Age=Youth"
+      "Filter": "Age=Youth,Weekend=Y"
     },
     {
       "Title": "All Craft TBCs",
