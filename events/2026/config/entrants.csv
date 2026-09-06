@@ -11,7 +11,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 2018,6,Mr,Dylan,CHICK,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Youth,,None,Youth W/E,NO
 1019,7,Mr,Richard,Henderson,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
 4020,8,Mr,Rod,Dickinson,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,YES
-1021,9,Mr,Jean-Marc,De Bruyne,Belgium,NO,Sailboard,,Pro Fleet,Adult,,None,All Week,NO
+1021,9,Mr,Jean-Marc,De Bruyne,Belgium,NO,Sailboard,,Pro Fleet,Legend,,None,All Week,NO
 1022,10,Mr,Richard,Dudley,United Kingdom,NO,Sailboard,,Amateur,Adult,,SW Marine,Weekdays,NO
 2022,10,Mr,Richard,Dudley,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,SW Marine,Weekdays,NO
 1023,11,Mr,Ben,Meyerhoff,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,YES
@@ -45,7 +45,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 1045,33,Mr,Francois,Lorho,France,YES,Sailboard,,Amateur,Adult,,None,All Week,NO
 1046,34,Mr,Fin,Dickinson,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,NO
 2046,34,Mr,Fin,Dickinson,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,None,All Week,NO
-1047,35,Mr,George,Fulton,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,Portland Pirates,All Week,YES
+1047,35,Mr,George,Fulton,United Kingdom,NO,Sailboard,,Gold Fleet,Legend,,Portland Pirates,All Week,YES
 1048,36,Mr,Bob,Spagnoletti,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,NO
 1049,37,Mr,Paul,Arnold,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,Portland Pirates,Weekdays,NO
 1050,38,Mr,Steve,Thompson,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO

@@ -115,6 +115,12 @@
       "Filter": "Craft Type=Sailboard,Status<>Pro Fleet,Name<>Jenna Gibson,Gender=F"
     },
     {
+      "Title": "All Legends",
+      "Comment": "(age 65+ for both days of the event)",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
+      "Filter": "Age=Legend"
+    },
+    {
       "Title": "Fastest Youths",
       "Comment": "(age <18 for both days of the event)",
       "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",

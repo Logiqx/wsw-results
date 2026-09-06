@@ -48,6 +48,11 @@
       }
     },
     "Age": {
+      "Legend": {
+        "Filters": {
+          "Legend": "Yes"
+        }
+      },
       "Adult": {
         "Filters": {
           "Adult": "YES"
