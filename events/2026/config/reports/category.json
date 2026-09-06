@@ -1,0 +1,41 @@
+{
+  "Periods": [
+    {
+      "Suptitle": "Day Rankings by Category - {Date}",
+      "Period": "Session",
+      "HideFields": "Course"
+    },
+    {
+      "Suptitle": "Overall Rankings by Category",
+      "Period": "Event",
+      "HideFields": "Course,Time"
+    }
+  ],
+  "Profile": true,
+  "Reports": [
+    {
+      "Title": "All Females",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
+      "Filter": "Gender=F"
+    },
+    {
+      "Title": "All Female Sailboards",
+      "Comment": "(excluding pros)",
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Sailboard,Status<>Pro Fleet,Name<>Jenna Gibson,Gender=F"
+    },
+    {
+      "Title": "All Legends",
+      "Comment": "(age 65+ for all days of the event)",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
+      "Filter": "Age=Legend"
+    },
+    {
+      "Title": "All Youths",
+      "Comment": "(age <18 for both days of the event)",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
+      "Filter": "Age=Youth,Weekend=Y",
+      "Sort": "Speed (kts)=DSC"
+    }
+  ]
+}

@@ -195,14 +195,16 @@ table.tallies td:nth-child(3) {
 table.fastest td:nth-child(2),
 table.rankings td:nth-child(2),
 table.craft td:nth-child(2),
-table.status td:nth-child(2) {
+table.status td:nth-child(2),
+table.category td:nth-child(2) {
   text-align: left;
 }
 /* Nation */
 table.fastest td:nth-child(3),
 table.rankings td:nth-child(3),
 table.craft td:nth-child(3),
-table.status td:nth-child(3) {
+table.status td:nth-child(3),
+table.category td:nth-child(3) {
   text-align: left;
   white-space: nowrap;
 }
@@ -210,7 +212,8 @@ table.fastest td:last-child,
 table.rankings td:last-child,
 table.craft td:last-child,
 /* Speed */
-table.status td:last-child {
+table.status td:last-child,
+table.category td:last-child {
   text-align: right;
 }
 
