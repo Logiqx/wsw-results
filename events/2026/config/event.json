@@ -153,6 +153,11 @@
       "Places": 1
     },
     {
+      "Category": "Foil Sailboard",
+      "Filter": "Craft Type=Sailboard,Status=Foil Fleet",
+      "Places": 1
+    },
+    {
       "Category": "Boat",
       "Filter": "Craft Type=Boat",
       "Places": 1
