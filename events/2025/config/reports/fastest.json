@@ -45,11 +45,6 @@
       "Filter": "Craft Type=TBC"
     },
     {
-      "Title": "Fastest Females",
-      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
-      "Filter": "Gender=F"
-    },
-    {
       "Title": "Fastest Open Class Kiteboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Kiteboard,Status=Open Class"
@@ -107,6 +102,11 @@
       "Title": "Fastest First Time Freeride Wingboards",
       "Fields": "Name,Nation,Course,Time,Speed (kts)",
       "Filter": "Craft Type=Wingboard,Status=Freeride,First Timer=Y"
+    },
+    {
+      "Title": "Fastest Females",
+      "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
+      "Filter": "Gender=F"
     },
     {
       "Title": "Fastest Female Sailboards",
