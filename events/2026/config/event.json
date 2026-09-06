@@ -133,6 +133,11 @@
       "Places": 1
     },
     {
+      "Category": "Legend",
+      "Filter": "Age=Legend",
+      "Places": 1
+    },
+    {
       "Category": "First Time Amateur Sailboard",
       "Filter": "Craft Type=Sailboard,Status=Amateur,First Timer=Y",
       "Places": 1
