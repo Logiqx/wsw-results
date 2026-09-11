@@ -7,8 +7,8 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 2015,3,0,2025-10-11,2025-10-17,GIB0JEN,Jenna,Gibson,Sailboard,Foil,Foil Fleet,All Week
 3016,4,0,2025-10-11,2025-10-17,VAS0STA,Stacey,Vass,Kiteboard,,Open Class,All Week
 3017,5,0,2025-10-11,2025-10-17,EIF0AYA,Aya,Eiffel,Kiteboard,,Open Class,All Week
-1018,6,0,2025-10-11,2025-10-12,CHI0DYL,Dylan,CHICK,Sailboard,,Amateur,Youth W/E
-2018,6,0,2025-10-11,2025-10-12,CHI0DYL,Dylan,CHICK,Sailboard,Foil,Foil Fleet,Youth W/E
+1018,6,0,2025-10-11,2025-10-12,CHI0DYL,Dylan,Chick,Sailboard,,Amateur,Youth W/E
+2018,6,0,2025-10-11,2025-10-12,CHI0DYL,Dylan,Chick,Sailboard,Foil,Foil Fleet,Youth W/E
 1019,7,0,2025-10-11,2025-10-17,HEN0RIC,Richard,Henderson,Sailboard,,Amateur,All Week
 4020,8,0,2025-10-11,2025-10-17,DIC0ROD,Rod,Dickinson,Wingboard,,Open Class,All Week
 1021,9,0,2025-10-11,2025-10-17,DEB0JEA,Jean-Marc,De Bruyne,Sailboard,,Pro Fleet,All Week
@@ -50,7 +50,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1049,37,0,2025-10-13,2025-10-17,ARN0PAU,Paul,Arnold,Sailboard,,Gold Fleet,Weekdays
 1050,38,0,2025-10-11,2025-10-17,THO0STE,Steve,Thompson,Sailboard,,Amateur,All Week
 1051,39,0,2025-10-13,2025-10-17,WAT0JOE,Joey,Watts,Sailboard,,Amateur,Weekdays
-1052,40,0,2025-10-11,2025-10-17,DAF0CHR,Christine,DAFFE,Sailboard,,Amateur,All Week
+1052,40,0,2025-10-11,2025-10-17,DAF0CHR,Christine,Daffe,Sailboard,,Amateur,All Week
 1053,41,0,2025-10-11,2025-10-17,WIL0JON,Jonathan,Wills,Sailboard,,Amateur,All Week
 4054,42,0,2025-10-11,2025-10-17,SHE0IAN,Ian,Shellcock,Wingboard,,Open Class,All Week
 3055,43,0,2025-10-11,2025-10-17,BUR0EMI,Emile,Burnaby Lautier,Kiteboard,,Open Class,All Week
@@ -97,9 +97,11 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1088,76,0,2025-10-11,2025-10-17,GOO0GAR,Garry,Goodwin,Sailboard,,Gold Fleet,All Week
 1089,77,0,2025-10-11,2025-10-17,WHA0TRE,Trevor,Whatford,Sailboard,,Gold Fleet,All Week
 1090,78,0,2025-10-11,2025-10-12,KIE0OLI,Oliver,Kiernan,Sailboard,,Amateur,Youth W/E
-1091,79,0,2025-10-11,2025-10-17,NEA0IAI,Iain, Neary,Sailboard,,Gold Fleet,All Week
+1091,79,0,2025-10-11,2025-10-17,NEA0IAI,Iain,Neary,Sailboard,,Gold Fleet,All Week
 3092,80,0,2025-10-11,2025-10-17,CAR0MAR,martin,carter,Kiteboard,,Open Class,All Week
 1093,81,0,2025-10-13,2025-10-17,VER0SHA,Shane,Verrion,Sailboard,,Gold Fleet,Weekdays
 1094,82,0,2025-10-11,2025-10-17,BRA0PAU,Paul,Bran,Sailboard,,Amateur,All Week
+1096,84,0,2025-10-13,2025-10-17,CRO0ALL,Allan,Cross,Sailboard,,Gold Fleet,Weekdays
+2096,84,0,2025-10-13,2025-10-17,CRO0ALL,Allan,Cross,Sailboard,Foil,Foil Fleet,Weekdays
 1001,1001,621,2025-10-11,2025-10-17,BUOY_621,Weymouth,Speed Week,Buoy,,,All Week
 1002,1002,754,2025-10-11,2025-10-17,BUOY_754,Weymouth,Speed Week,Buoy,,,All Week

@@ -4,17 +4,17 @@ ID,Created,Title,First Name,Family Name,Country,Legend,Wingboard Fleet,Wingboard
 15,2026-08-26 12:58:43,Miss,Jenna,Gibson,United Kingdom,,,,Pro Fleet,"HolidayExtras, F-HOT fins, DUOTONE",YES,,,,,000,NO,Hamworthy Heroes,,YES,,YES,,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,3,,1,1,,,0,7,2026
 16,2026-08-29 00:04:26,Mr,Stacey,Vass,United Kingdom,,,,,,,,Open Class,Core kites SABfoil,,,NO,None,,YES,,YES,,,,,Kiteboard Motion,,4,,,,1,,1,7,2026
 17,2026-08-29 00:08:00,Ms,Aya,Eiffel,Germany,,,,,,,,Open Class,"Ozone Kiteboarding, Highspeed Carving, WOO Sportskite, WAY Watersports, Kitelement",,,NO,None,,YES,,YES,,,,,Kiteboard Motion,,5,,,,1,,1,7,2026
-18,2026-08-29 00:08:19,Mr,Dylan,CHICK,United Kingdom,,,,Amateur,,NO,,,,,,NO,None,YES,,YES,,,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,6,,1,1,,,1,2,2026
-19,2026-08-29 00:16:01,Mr,Richard,Henderson,United Kingdom,,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,7,,,1,,,1,7,2026
+18,2026-08-29 00:08:19,Mr,Dylan,Chick,United Kingdom,,,,Amateur,,NO,,,,,,NO,None,YES,,YES,,,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,6,,1,1,,,1,2,2026
+19,2026-08-29 00:16:01,Mr,Richard,Henderson,United Kingdom,Yes,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,7,,,1,,,1,7,2026
 20,2026-08-29 00:27:13,Mr,Rod,Dickinson,United Kingdom,,Open Class,PPC foiling uk,,,YES,,,,,000123,NO,None,,YES,,YES,,Wingboard Motion,,,,,8,1,,,,,0,7,2026
-21,2026-08-29 05:43:48,Mr,Jean-Marc,De Bruyne,Belgium,Yes,,,Pro Fleet,GUN SAILS,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,9,,,1,,,1,7,2026
+21,2026-08-29 05:43:48,Mr,Jean-Marc,De Bruyne,Belgium,No,,,Pro Fleet,GUN SAILS,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,9,,,1,,,1,7,2026
 22,2026-08-29 05:50:48,Mr,Richard,Dudley,United Kingdom,,,,Amateur,,NO,,,,,,NO,SW Marine,,YES,,,YES,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,10,,1,1,,,1,5,2026
 23,2026-08-29 06:26:31,Mr,Ben,Meyerhoff,United Kingdom,,,,Amateur,,YES,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,11,,,1,,,1,7,2026
 24,2026-08-29 06:34:26,Mr,Jez,Milne,United Kingdom,,Freeride,,,,YES,,,,,,NO,None,,YES,,YES,,Wingboard Motion,,,,,12,1,,,,,1,7,2026
 25,2026-08-29 06:38:54,Mr,Mark,Reeves,United Kingdom,,,,Amateur,,YES,,,,,,YES,None,,YES,,,YES,,,Sailboard (Fin) Motion,,,13,,,1,,,1,5,2026
 26,2026-08-29 06:42:15,Mr,Rob,Longstaff,United Kingdom,,,,Amateur,,YES,,,,,,NO,The Old Geezers,,YES,,YES,,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,14,,1,1,,,1,7,2026
 27,2026-08-29 07:05:04,Mrs,Kate,Rogers,United Kingdom,,Freeride,,,,YES,,,,,,NO,None,,YES,,YES,,Wingboard Motion,,,,,15,1,,,,,1,7,2026
-28,2026-08-29 07:15:29,Mr,Barry,Smith,United Kingdom,,,,Amateur,,NO,,,,,,NO,The Old Geezers,,YES,,YES,,,,Sailboard (Fin) Motion,,,16,,,1,,,1,7,2026
+28,2026-08-29 07:15:29,Mr,Barry,Smith,United Kingdom,Yes,,,Amateur,,NO,,,,,,NO,The Old Geezers,,YES,,YES,,,,Sailboard (Fin) Motion,,,16,,,1,,,1,7,2026
 29,2026-08-29 07:19:29,Mr,Richard,Crosby,United Kingdom,,,,Gold Fleet,,YES,,,,,,NO,Surf Hogs,,YES,,YES,,,,Sailboard (Fin) Motion,,,17,,,1,,,1,7,2026
 30,2026-08-29 07:34:20,Mr,Peter,Crosby,United Kingdom,,,,Gold Fleet,,NO,,,,,,NO,Surf Hogs,,YES,,YES,,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,18,,1,1,,,1,7,2026
 31,2026-08-29 07:34:21,Mr,Simon,Barker,United Kingdom,,,,Amateur,,YES,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,19,,,1,,,1,7,2026
@@ -24,7 +24,7 @@ ID,Created,Title,First Name,Family Name,Country,Legend,Wingboard Fleet,Wingboard
 35,2026-08-29 07:38:47,Mr,Jonathan,Ingram,United Kingdom,,,,Pro Fleet,GA / Tabou,YES,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,23,,,1,,,1,7,2026
 36,2026-08-29 07:40:12,Mr,Mark,Salvage,United Kingdom,,,,Amateur,,YES,,,,,,NO,The Old Geezers,,YES,,YES,,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,24,,1,1,,,1,7,2026
 37,2026-08-29 07:47:22,Mr,Andrew,Owen,United Kingdom,,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,25,,,1,,,1,7,2026
-38,2026-08-29 07:47:28,Mr,Matthew,Lilley,United Kingdom,,,,Amateur,,YES,,,,,,NO,Surf Hogs,,YES,,YES,,,,Sailboard (Fin) Motion,,,26,,,1,,,1,7,2026
+38,2026-08-29 07:47:28,Mr,Matthew,Lilley,United Kingdom,Yes,,,Amateur,,YES,,,,,,NO,Surf Hogs,,YES,,YES,,,,Sailboard (Fin) Motion,,,26,,,1,,,1,7,2026
 39,2026-08-29 07:48:31,Mr,Denis,Gordo,United Kingdom,,Open Class,PPC Foiling,,,YES,,,,,707,NO,None,,YES,,YES,,Wingboard Motion,,,,,27,1,,,,,0,7,2026
 40,2026-08-29 07:51:20,Mr,Scott,Harrison,Ireland,,,,Gold Fleet,JP / Neil Pryde,YES,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,28,,,1,,,1,7,2026
 41,2026-08-29 07:55:10,Mrs,Sian,Harrison,United Kingdom,,,,Amateur,,YES,,,,,,YES,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,29,,,1,,,1,7,2026
@@ -34,12 +34,12 @@ ID,Created,Title,First Name,Family Name,Country,Legend,Wingboard Fleet,Wingboard
 45,2026-08-29 08:06:00,Mr,Francois,Lorho,France,,,,Amateur,,NO,,,,,,YES,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,33,,,1,,,1,7,2026
 46,2026-08-29 08:07:35,Mr,Fin,Dickinson,United Kingdom,,,,Gold Fleet,,NO,,,,,,NO,None,,YES,,YES,,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,34,,1,1,,,1,7,2026
 47,2026-08-29 08:09:08,Mr,George,Fulton,United Kingdom,Yes,,,Gold Fleet,,YES,,,,,000,NO,Portland Pirates,,YES,,YES,,,,Sailboard (Fin) Motion,,,35,,,1,,,0,7,2026
-48,2026-08-29 08:10:35,Mr,Bob,Spagnoletti,United Kingdom,,,,Gold Fleet,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,36,,,1,,,1,7,2026
+48,2026-08-29 08:10:35,Mr,Bob,Spagnoletti,United Kingdom,Yes,,,Gold Fleet,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,36,,,1,,,1,7,2026
 49,2026-08-29 08:13:53,Mr,Paul,Arnold,United Kingdom,,,,Gold Fleet,,NO,,,,,,NO,Portland Pirates,,YES,,,YES,,,Sailboard (Fin) Motion,,,37,,,1,,,1,5,2026
-50,2026-08-29 08:15:39,Mr,Steve,Thompson,United Kingdom,,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,38,,,1,,,1,7,2026
+50,2026-08-29 08:15:39,Mr,Steve,Thompson,United Kingdom,Yes,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,38,,,1,,,1,7,2026
 51,2026-08-29 08:16:25,Mrs,Joey,Watts,United Kingdom,,,,Amateur,,NO,,,,,,NO,Surf Hogs,,YES,,,YES,,,Sailboard (Fin) Motion,,,39,,,1,,,1,5,2026
-52,2026-08-29 08:17:19,Mrs,Christine,DAFFE,Belgium,,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,40,,,1,,,1,7,2026
-53,2026-08-29 08:29:23,Mr,Jonathan,Wills,United Kingdom,,,,Amateur,,NO,,,,,,NO,The OTC,,YES,,YES,,,,Sailboard (Fin) Motion,,,41,,,1,,,1,7,2026
+52,2026-08-29 08:17:19,Mrs,Christine,Daffe,Belgium,,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,40,,,1,,,1,7,2026
+53,2026-08-29 08:29:23,Mr,Jonathan,Wills,United Kingdom,,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,41,,,1,,,1,7,2026
 54,2026-08-29 08:49:56,Mr,Ian,Shellcock,United Kingdom,,Open Class,PPC Tralee coastal oarke,,,NO,,,,,,YES,None,,YES,,YES,,Wingboard Motion,,,,,42,1,,,,,1,7,2026
 55,2026-08-29 08:58:36,Mr,Emile,Burnaby Lautier,Netherlands,,,,,,,,Open Class,,,000,NO,None,,YES,,YES,,,,,Kiteboard Motion,,43,,,,1,,0,7,2026
 56,2026-08-29 09:01:59,Mr,Pavel,Dvoulety,United Kingdom,,,,Gold Fleet,,NO,,,,,,NO,None,,YES,,YES,,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,44,,1,1,,,1,7,2026
@@ -76,7 +76,8 @@ ID,Created,Title,First Name,Family Name,Country,Legend,Wingboard Fleet,Wingboard
 88,2026-08-30 17:41:16,Mr,Garry,Goodwin,United Kingdom,,,,Gold Fleet,,YES,,,,,1002,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,76,,,1,,,0,7,2026
 89,2026-08-31 15:31:10,Mr,Trevor,Whatford,United Kingdom,,,,Gold Fleet,None,YES,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,77,,,1,,,1,7,2026
 90,2026-08-31 22:27:56,Mr,Oliver,Kiernan,United Kingdom,,,,Amateur,,NO,,,,,,YES,None,YES,,YES,,,,,Sailboard (Fin) Motion,,,78,,,1,,,1,2,2026
-91,2026-09-01 09:39:02,Mr,Iain, Neary,United Kingdom,,,,Gold Fleet,,YES,,,,,676,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,79,,,1,,,0,7,2026
+91,2026-09-01 09:39:02,Mr,Iain,Neary,United Kingdom,,,,Gold Fleet,,YES,,,,,676,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,79,,,1,,,0,7,2026
 92,2026-09-02 20:49:22,Mr,martin,carter,United Kingdom,,,,,,,,Open Class,,,,NO,None,,YES,,YES,,,,,Kiteboard Motion,,80,,,,1,,1,7,2026
 93,2026-09-04 17:53:44,Mr,Shane,Verrion,United Kingdom,,,,Gold Fleet,None,YES,,,,,704,NO,None,,YES,,,YES,,,Sailboard (Fin) Motion,,,81,,,1,,,0,5,2026
 94,2026-09-05 00:41:46,Mr,Paul,Bran,United Kingdom,,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,82,,,1,,,1,7,2026
+96,2026-09-10 11:39:08,Mr,Allan,Cross,United Kingdom,No,,,Gold Fleet,"Starboard, Severne",NO,,,,,,NO,None,,YES,,,YES,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,84,,1,1,,,1,5,2026

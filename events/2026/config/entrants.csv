@@ -7,11 +7,11 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 2015,3,Miss,Jenna,Gibson,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Hamworthy Heroes,All Week,YES
 3016,4,Mr,Stacey,Vass,United Kingdom,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
 3017,5,Ms,Aya,Eiffel,Germany,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
-1018,6,Mr,Dylan,CHICK,United Kingdom,NO,Sailboard,,Amateur,Youth,,None,Youth W/E,NO
-2018,6,Mr,Dylan,CHICK,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Youth,,None,Youth W/E,NO
-1019,7,Mr,Richard,Henderson,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
+1018,6,Mr,Dylan,Chick,United Kingdom,NO,Sailboard,,Amateur,Youth,,None,Youth W/E,NO
+2018,6,Mr,Dylan,Chick,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Youth,,None,Youth W/E,NO
+1019,7,Mr,Richard,Henderson,United Kingdom,NO,Sailboard,,Amateur,Legend,,None,All Week,NO
 4020,8,Mr,Rod,Dickinson,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,YES
-1021,9,Mr,Jean-Marc,De Bruyne,Belgium,NO,Sailboard,,Pro Fleet,Legend,,None,All Week,NO
+1021,9,Mr,Jean-Marc,De Bruyne,Belgium,NO,Sailboard,,Pro Fleet,Adult,,None,All Week,NO
 1022,10,Mr,Richard,Dudley,United Kingdom,NO,Sailboard,,Amateur,Adult,,SW Marine,Weekdays,NO
 2022,10,Mr,Richard,Dudley,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,SW Marine,Weekdays,NO
 1023,11,Mr,Ben,Meyerhoff,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,YES
@@ -20,7 +20,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 1026,14,Mr,Rob,Longstaff,United Kingdom,NO,Sailboard,,Amateur,Adult,,The Old Geezers,All Week,YES
 2026,14,Mr,Rob,Longstaff,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,The Old Geezers,All Week,YES
 4027,15,Mrs,Kate,Rogers,United Kingdom,NO,Wingboard,,Freeride,Adult,,None,All Week,YES
-1028,16,Mr,Barry,Smith,United Kingdom,NO,Sailboard,,Amateur,Adult,,The Old Geezers,All Week,NO
+1028,16,Mr,Barry,Smith,United Kingdom,NO,Sailboard,,Amateur,Legend,,The Old Geezers,All Week,NO
 1029,17,Mr,Richard,Crosby,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,Surf Hogs,All Week,YES
 1030,18,Mr,Peter,Crosby,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,Surf Hogs,All Week,NO
 2030,18,Mr,Peter,Crosby,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,Surf Hogs,All Week,NO
@@ -34,7 +34,7 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 1036,24,Mr,Mark,Salvage,United Kingdom,NO,Sailboard,,Amateur,Adult,,The Old Geezers,All Week,YES
 2036,24,Mr,Mark,Salvage,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,The Old Geezers,All Week,YES
 1037,25,Mr,Andrew,Owen,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
-1038,26,Mr,Matthew,Lilley,United Kingdom,NO,Sailboard,,Amateur,Adult,,Surf Hogs,All Week,YES
+1038,26,Mr,Matthew,Lilley,United Kingdom,NO,Sailboard,,Amateur,Legend,,Surf Hogs,All Week,YES
 4039,27,Mr,Denis,Gordo,United Kingdom,NO,Wingboard,,Open Class,Adult,,None,All Week,YES
 1040,28,Mr,Scott,Harrison,Ireland,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
 1041,29,Mrs,Sian,Harrison,United Kingdom,YES,Sailboard,,Amateur,Adult,,None,All Week,YES
@@ -46,12 +46,12 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 1046,34,Mr,Fin,Dickinson,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,NO
 2046,34,Mr,Fin,Dickinson,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,None,All Week,NO
 1047,35,Mr,George,Fulton,United Kingdom,NO,Sailboard,,Gold Fleet,Legend,,Portland Pirates,All Week,YES
-1048,36,Mr,Bob,Spagnoletti,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,NO
+1048,36,Mr,Bob,Spagnoletti,United Kingdom,NO,Sailboard,,Gold Fleet,Legend,,None,All Week,NO
 1049,37,Mr,Paul,Arnold,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,Portland Pirates,Weekdays,NO
-1050,38,Mr,Steve,Thompson,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
+1050,38,Mr,Steve,Thompson,United Kingdom,NO,Sailboard,,Amateur,Legend,,None,All Week,NO
 1051,39,Mrs,Joey,Watts,United Kingdom,NO,Sailboard,,Amateur,Adult,,Surf Hogs,Weekdays,NO
-1052,40,Mrs,Christine,DAFFE,Belgium,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
-1053,41,Mr,Jonathan,Wills,United Kingdom,NO,Sailboard,,Amateur,Adult,,The OTC,All Week,NO
+1052,40,Mrs,Christine,Daffe,Belgium,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
+1053,41,Mr,Jonathan,Wills,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
 4054,42,Mr,Ian,Shellcock,United Kingdom,YES,Wingboard,,Open Class,Adult,,None,All Week,NO
 3055,43,Mr,Emile,Burnaby Lautier,Netherlands,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
 1056,44,Mr,Pavel,Dvoulety,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,NO
@@ -97,7 +97,9 @@ ID,Tally,Title,First Name,Family Name,Country,First Timer,Craft Type,Class,Statu
 1088,76,Mr,Garry,Goodwin,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
 1089,77,Mr,Trevor,Whatford,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
 1090,78,Mr,Oliver,Kiernan,United Kingdom,YES,Sailboard,,Amateur,Youth,,None,Youth W/E,NO
-1091,79,Mr,Iain, Neary,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
+1091,79,Mr,Iain,Neary,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,All Week,YES
 3092,80,Mr,martin,carter,United Kingdom,NO,Kiteboard,,Open Class,Adult,,None,All Week,N
 1093,81,Mr,Shane,Verrion,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,Weekdays,YES
 1094,82,Mr,Paul,Bran,United Kingdom,NO,Sailboard,,Amateur,Adult,,None,All Week,NO
+1096,84,Mr,Allan,Cross,United Kingdom,NO,Sailboard,,Gold Fleet,Adult,,None,Weekdays,NO
+2096,84,Mr,Allan,Cross,United Kingdom,NO,Sailboard,Foil,Foil Fleet,Adult,,None,Weekdays,NO
