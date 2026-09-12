@@ -47,6 +47,17 @@
       "Filter": "Craft Type=Wingboard"
     },
     {
+      "Title": "All Ladies",
+      "Fields": "Name,Nation,Craft Type,Entry Type,First Timer,Tally",
+      "Filter": "Gender=F"
+    },
+    {
+      "Title": "All Youths",
+      "Comment": "(age <18 on 31st Oct)",
+      "Fields": "Name,Nation,Craft Type,Entry Type,First Timer,Tally",
+      "Filter": "Status=Youth Fleet,Weekend=Y"
+    },
+    {
       "Title": "All Craft TBCs",
       "Fields": "Name,Nation,Craft Type,Status,Entry Type,First Timer,Tally",
       "Filter": "Craft Type=TBC"

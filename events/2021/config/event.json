@@ -108,13 +108,23 @@
   ],
   "Prizes": [
     {
-      "Category": "Youth Sailboards",
-      "Filter": "Craft Type=Sailboard,Status=Youth Fleet,Weekend=Y",
+      "Category": "Overall",
+      "Filter": "",
+      "Places": 1
+    },
+    {
+      "Category": "Youths",
+      "Filter": "Status=Youth Fleet,Weekend=Y",
       "Places": 3
     },
     {
       "Category": "Lady Sailboard",
       "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet,Status<>Youth Fleet",
+      "Places": 1
+    },
+    {
+      "Category": "Lady",
+      "Filter": "Gender=F",
       "Places": 1
     },
     {

@@ -119,6 +119,11 @@
   ],
   "Prizes": [
     {
+      "Category": "Overall",
+      "Filter": "",
+      "Places": 1
+    },
+    {
       "Category": "Youths",
       "Filter": "Age=Youth,Weekend=Y",
       "Places": 3
@@ -126,6 +131,11 @@
     {
       "Category": "Lady Sailboard",
       "Filter": "Craft Type=Sailboard,Gender=F,Status<>Pro Fleet",
+      "Places": 1
+    },
+    {
+      "Category": "Lady",
+      "Filter": "Gender=F",
       "Places": 1
     },
     {

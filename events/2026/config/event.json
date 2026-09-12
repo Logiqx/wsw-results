@@ -123,6 +123,11 @@
   ],
   "Prizes": [
     {
+      "Category": "Overall",
+      "Filter": "",
+      "Places": 1
+    },
+    {
       "Category": "Youths",
       "Filter": "Age=Youth,Weekend=Y",
       "Places": 3
@@ -130,6 +135,11 @@
     {
       "Category": "Female Sailboard",
       "Filter": "Craft Type=Sailboard,Status<>Pro Fleet,Name<>Jenna Gibson,Gender=F",
+      "Places": 1
+    },
+    {
+      "Category": "Female",
+      "Filter": "Gender=F",
       "Places": 1
     },
     {

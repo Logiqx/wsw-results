@@ -5,13 +5,13 @@
   "Reports": [
     {
       "Title": "All Tallies",
-      "Comment": "Sorted by Tally Number",
+      "Comment": "(tallies sorted by number)",
       "Fields": "Tally,Name,Nation,Craft Type,Status,Entry Type,First Timer",
       "Sort": "Tally=ASC,Craft Type=ASC"
     },
     {
       "Title": "All Entrants",
-      "Comment": "Sorted by Name",
+      "Comment": "(entrants sorted by name)",
       "Fields": "Tally,Name,Nation,Craft Type,Status,Entry Type,First Timer",
       "Sort": "Name=ASC,Craft Type=ASC"
     }
