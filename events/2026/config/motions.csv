@@ -62,8 +62,6 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1059,47,0,2025-10-11,2025-10-17,OLI0JOH,John,Oliver,Sailboard,,Pro Fleet,All Week
 1060,48,0,2025-10-11,2025-10-17,BAR0ANT,Anthony,Barber,Sailboard,,Gold Fleet,All Week
 61,49,0,2025-10-11,2025-10-17,MAR0PET,Peter,Martin,Boat,,Boat Fleet,All Week
-1062,50,0,2025-10-11,2025-10-17,BAT0TIM,Tim,Bate,Sailboard,,Gold Fleet,All Week
-2062,50,0,2025-10-11,2025-10-17,BAT0TIM,Tim,Bate,Sailboard,Foil,Foil Fleet,All Week
 4063,51,0,2025-10-11,2025-10-12,BER0FIN,Fin,Bernie,Wingboard,,Open Class,Youth W/E
 4064,52,0,2025-10-11,2025-10-17,COL0AND,Andrew,Collenette,Wingboard,,Open Class,All Week
 4065,53,0,2025-10-11,2025-10-17,COL0ANN,Anna,Collenette,Wingboard,,Open Class,All Week
@@ -103,5 +101,10 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 1094,82,0,2025-10-11,2025-10-17,BRA0PAU,Paul,Bran,Sailboard,,Amateur,All Week
 1096,84,0,2025-10-13,2025-10-17,CRO0ALL,Allan,Cross,Sailboard,,Gold Fleet,Weekdays
 2096,84,0,2025-10-13,2025-10-17,CRO0ALL,Allan,Cross,Sailboard,Foil,Foil Fleet,Weekdays
+4097,85,0,2025-10-11,2025-10-12,MIL0JAY,Jay,Miller,Wingboard,,Open Class,Youth W/E
+1098,86,0,2025-10-11,2025-10-17,PEN0ROB,Robin,Penna,Sailboard,,Gold Fleet,All Week
+1099,87,0,2025-10-13,2025-10-17,DAV0STE,Steve,Davison,Sailboard,,Amateur,Weekdays
+3099,87,0,2025-10-13,2025-10-17,DAV0STE,Steve,Davison,Kiteboard,,Freeride,Weekdays
+1100,88,0,2025-10-11,2025-10-12,VIC0MIT,Mitchell,Vickers,Sailboard,,Amateur,Youth W/E
 1001,1001,621,2025-10-11,2025-10-17,BUOY_621,Weymouth,Speed Week,Buoy,,,All Week
 1002,1002,754,2025-10-11,2025-10-17,BUOY_754,Weymouth,Speed Week,Buoy,,,All Week
