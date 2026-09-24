@@ -33,7 +33,7 @@ ID,Created,Title,First Name,Family Name,Country,Legend,Wingboard Fleet,Wingboard
 44,2026-08-29 08:03:51,Mr,Brendan,Lorho,France,,,,Pro Fleet,s2maui,NO,,,,,,YES,None,,YES,,YES,,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,32,,1,1,,,1,7,2026
 45,2026-08-29 08:06:00,Mr,Francois,Lorho,France,,,,Amateur,,NO,,,,,,YES,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,33,,,1,,,1,7,2026
 46,2026-08-29 08:07:35,Mr,Fin,Dickinson,United Kingdom,,,,Gold Fleet,,NO,,,,,,NO,None,,YES,,YES,,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,34,,1,1,,,1,7,2026
-47,2026-08-29 08:09:08,Mr,George,Fulton,United Kingdom,Yes,,,Gold Fleet,,YES,,,,,000,NO,Portland Pirates,,YES,,YES,,,,Sailboard (Fin) Motion,,,35,,,1,,,0,7,2026
+47,2026-08-29 08:09:08,Mr,George,Fulton,United Kingdom,Yes,,,Gold Fleet,,YES,,,,,623,NO,Portland Pirates,,YES,,YES,,,,Sailboard (Fin) Motion,,,35,,,1,,,0,7,2026
 48,2026-08-29 08:10:35,Mr,Bob,Spagnoletti,United Kingdom,Yes,,,Gold Fleet,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,36,,,1,,,1,7,2026
 49,2026-08-29 08:13:53,Mr,Paul,Arnold,United Kingdom,,,,Gold Fleet,,NO,,,,,,NO,Portland Pirates,,YES,,,YES,,,Sailboard (Fin) Motion,,,37,,,1,,,1,5,2026
 50,2026-08-29 08:15:39,Mr,Steve,Thompson,United Kingdom,Yes,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,38,,,1,,,1,7,2026
@@ -41,7 +41,7 @@ ID,Created,Title,First Name,Family Name,Country,Legend,Wingboard Fleet,Wingboard
 52,2026-08-29 08:17:19,Mrs,Christine,Daffe,Belgium,,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,40,,,1,,,1,7,2026
 53,2026-08-29 08:29:23,Mr,Jonathan,Wills,United Kingdom,,,,Amateur,,NO,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,41,,,1,,,1,7,2026
 54,2026-08-29 08:49:56,Mr,Ian,Shellcock,United Kingdom,,Open Class,PPC Tralee coastal oarke,,,NO,,,,,,YES,None,,YES,,YES,,Wingboard Motion,,,,,42,1,,,,,1,7,2026
-55,2026-08-29 08:58:36,Mr,Emile,Burnaby Lautier,Netherlands,,,,,,,,Open Class,,,000,NO,None,,YES,,YES,,,,,Kiteboard Motion,,43,,,,1,,0,7,2026
+55,2026-08-29 08:58:36,Mr,Emile,Burnaby Lautier,Netherlands,,,,,,,,Open Class,,,846,NO,None,,YES,,YES,,,,,Kiteboard Motion,,43,,,,1,,0,7,2026
 56,2026-08-29 09:01:59,Mr,Pavel,Dvoulety,United Kingdom,,,,Gold Fleet,,NO,,,,,,NO,None,,YES,,YES,,,Sailboard (Foil) Motion,Sailboard (Fin) Motion,,,44,,1,1,,,1,7,2026
 57,2026-08-29 09:03:22,Mr,Robin,Russell,United Kingdom,,,,Gold Fleet,,NO,,,,Ioda,,NO,Surf Hogs,,YES,,YES,,,,Sailboard (Fin) Motion,,Boat Motion,45,,,1,,1,1,7,2026
 58,2026-08-29 09:08:03,Mr,James,Brake,United Kingdom,,,,Gold Fleet,,YES,,,,,,NO,None,,YES,,YES,,,,Sailboard (Fin) Motion,,,46,,,1,,,1,7,2026
