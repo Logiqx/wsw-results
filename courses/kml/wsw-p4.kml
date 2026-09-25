@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Weymouth Speed Week - P4</name>
+	<open>1</open>
+	<Style id="boundaries">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Start</name>
+		<Point>
+			<coordinates>-2.4546928,50.5769987,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Finish</name>
+		<Point>
+			<coordinates>-2.4583625,50.581047,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Boundaries</name>
+		<styleUrl>#boundaries</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-2.4638630,50.5736284,0 -2.4675335,50.5776767,0 -2.4491914,50.5844174,0 -2.4455226,50.5803691,0 -2.4638630,50.5736284,0
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

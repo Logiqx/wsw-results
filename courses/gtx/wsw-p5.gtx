@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<gatePositions version="1.0" creator="Logiqx - https://github.com/Logiqx/wsw-results">
+    <tracklength>-500</tracklength>
+    <gatewidth>1500</gatewidth>
+    <start>
+        <position lat="50.5766873" lon="-2.4544105" />
+    </start>
+    <finish>
+        <position lat="50.5805799" lon="-2.457939" />
+    </finish>
+    <corners>
+        <position lat_lon="50.5733170 -2.4635807 50.5800577 -2.4452403 50.5772096 -2.4671100 50.5839503 -2.4487681" />
+    </corners>
+</gatePositions>
