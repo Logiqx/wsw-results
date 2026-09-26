@@ -43,7 +43,7 @@ ID,Created,Title,First Name,Family Name,Country,Legend,Wingboard Fleet,Wingboard
 54,2026-08-29 08:49:56,Mr,Ian,Shellcock,United Kingdom,,Open Class,PPC Tralee coastal oarke,,,NO,,,,,,YES,None,,YES,,YES,,42,1,,,,,1,7,2026,Motion 643,,,,
 55,2026-08-29 08:58:36,Mr,Emile,Burnaby Lautier,Netherlands,,,,,,,,Open Class,,,846,NO,None,,YES,,YES,,43,,,,1,,0,7,2026,,,,Motion 846,
 56,2026-08-29 09:01:59,Mr,Pavel,Dvoulety,United Kingdom,,,,Gold Fleet,,NO,,,,,,NO,None,,YES,,YES,,44,,1,1,,,1,7,2026,,Motion 4854,Motion 854,,
-57,2026-08-29 09:03:22,Mr,Robin,Russell,United Kingdom,,,,Gold Fleet,,NO,,,,Ioda,,NO,Surf Hogs,,YES,,YES,,45,,,1,,1,1,7,2026,,,Motion 4641,,Motion 1641
+57,2026-08-29 09:03:22,Mr,Robin,Russell,United Kingdom,,,,Gold Fleet,,NO,,,,Ioda,,NO,Surf Hogs,,YES,,YES,,45,,,1,,1,1,7,2026,,,Motion 641,,Motion 1641
 58,2026-08-29 09:08:03,Mr,James,Brake,United Kingdom,,,,Gold Fleet,,YES,,,,,,NO,None,,YES,,YES,,46,,,1,,,1,7,2026,,,Motion 1020,,
 59,2026-08-29 09:15:43,Mr,John,Oliver,United Kingdom,,,,Pro Fleet,,YES,,,,,,NO,Surf Hogs,,YES,,YES,,47,,,1,,,1,7,2026,,,Motion 858,,
 60,2026-08-29 09:23:36,Mr,Anthony,Barber,United Kingdom,,,,Gold Fleet,,NO,,,,,,NO,Portland Pirates,,YES,,YES,,48,,,1,,,1,7,2026,,,Motion 869,,
@@ -82,5 +82,5 @@ ID,Created,Title,First Name,Family Name,Country,Legend,Wingboard Fleet,Wingboard
 96,2026-09-10 11:39:08,Mr,Allan,Cross,United Kingdom,No,,,Gold Fleet,"Starboard, Severne",NO,,,,,,NO,None,,YES,,,YES,84,,1,1,,,1,5,2026,,Motion 4866,Motion 866,,
 97,2026-09-13 15:09:47,Mr,Jay,Miller,United Kingdom,,Open Class,"Gaastra, Tabou, Sungod",,,YES,,,,,,NO,None,YES,,YES,,,85,1,,,,,1,2,2026,Motion 825,,,,
 98,2026-09-13 21:06:50,Mr,Robin,Penna,United Kingdom,Yes,,,Gold Fleet,None,NO,,,,,,NO,None,,YES,,YES,,86,,,1,,,1,7,2026,,,Motion 633,,
-99,2026-09-18 15:07:05,Mr,Steve,Davison,United Kingdom,No,,,Amateur,,NO,,Freeride,,,,NO,None,,YES,,,YES,87,,,1,1,,1,5,2026,,,Motion 4695,Motion 2695,
+99,2026-09-18 15:07:05,Mr,Steve,Davison,United Kingdom,No,,,Amateur,,NO,,Freeride,,,,NO,None,,YES,,,YES,87,,,1,1,,1,5,2026,,,Motion 695,Motion 2695,
 100,2026-09-24 21:21:06,Mr,Mitchell,Vickers,United Kingdom,,,,Amateur,,NO,,,,,,YES,None,YES,,YES,,,88,,,1,,,1,2,2026,,,Motion 823,,

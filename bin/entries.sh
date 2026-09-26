@@ -11,6 +11,9 @@ done
 YEAR=$(date +%Y)
 $(dirname $0)/fix_$YEAR.sh
 
+# Apply assigned Motion IDs
+$(dirname $0)/patch_entries.sh
+
 # Process the entries
 run_py_script entries.py
 
