@@ -1,0 +1,15 @@
+{
+  "BAR849SIM_849_20261003_125033.oao": {
+    "motion_file": "/logs/2026/10/0849_2026-10-03-1250.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261003/BAR849SIM_849_20261003_125033.oao",
+    "size": 906440,
+    "start_date": 1791028233000,
+    "end_date": 1791039207000,
+    "duration": 10974000,
+    "distance": 10266169,
+    "2s_best": 3052,
+    "10s_best": 2833,
+    "500m_best": 2403,
+    "status": "completed"
+  }
+}

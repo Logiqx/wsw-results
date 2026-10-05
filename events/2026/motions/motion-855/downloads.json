@@ -1,0 +1,15 @@
+{
+  "SMI855BAR_855_20261005_114801.oao": {
+    "motion_file": "/logs/2026/10/0855_2026-10-05-1148.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261005/SMI855BAR_855_20261005_114801.oao",
+    "size": 284364,
+    "start_date": 1791197281000,
+    "end_date": 1791210319000,
+    "duration": 13038000,
+    "distance": 3453613,
+    "2s_best": 2635,
+    "10s_best": 2447,
+    "500m_best": 1997,
+    "status": "completed"
+  }
+}

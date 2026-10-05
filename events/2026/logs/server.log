@@ -1,0 +1,987 @@
+2026-10-03 12:28:46,INFO,Starting thread pools
+2026-10-03 12:28:46,DEBUG,DetectionThreadPool starting
+2026-10-03 12:28:46,DEBUG,DetectionThread #1 starting
+2026-10-03 12:28:46,DEBUG,DetectionThread #2 starting
+2026-10-03 12:28:46,DEBUG,DetectionThread #3 starting
+2026-10-03 12:28:46,DEBUG,DetectionThread #4 starting
+2026-10-03 12:28:46,DEBUG,DetectionThread #5 starting
+2026-10-03 12:28:46,DEBUG,DetectionThread #6 starting
+2026-10-03 12:28:46,DEBUG,DetectionThread #7 starting
+2026-10-03 12:28:46,DEBUG,DetectionThread #8 starting
+2026-10-03 12:28:46,DEBUG,InspectionThreadPool starting
+2026-10-03 12:28:46,DEBUG,InspectionThread #1 starting
+2026-10-03 12:28:46,DEBUG,InspectionThread #2 starting
+2026-10-03 12:28:46,DEBUG,InspectionThread #3 starting
+2026-10-03 12:28:46,DEBUG,InspectionThread #4 starting
+2026-10-03 12:28:46,DEBUG,DownloadThreadPool starting
+2026-10-03 12:28:46,DEBUG,DownloadThread #1 starting
+2026-10-03 12:28:46,DEBUG,DownloadThread #2 starting
+2026-10-03 12:28:46,DEBUG,DownloadThread #3 starting
+2026-10-03 12:28:46,DEBUG,DownloadThread #4 starting
+2026-10-03 12:28:46,DEBUG,DisconnectionThreadPool starting
+2026-10-03 12:28:46,DEBUG,DisconnectionThread #1 starting
+2026-10-03 12:28:46,DEBUG,DisconnectionThread #2 starting
+2026-10-03 12:28:46,DEBUG,DisconnectionThread #3 starting
+2026-10-03 12:28:46,DEBUG,DisconnectionThread #4 starting
+2026-10-03 12:28:46,DEBUG,DisconnectionThread #5 starting
+2026-10-03 12:28:46,DEBUG,DisconnectionThread #6 starting
+2026-10-03 12:28:46,DEBUG,DisconnectionThread #7 starting
+2026-10-03 12:28:46,DEBUG,DisconnectionThread #8 starting
+2026-10-03 12:28:46,INFO,Thread pools started
+2026-10-03 12:29:16,DEBUG,motion-869 detected at 192.168.0.142
+2026-10-03 12:29:16,INFO,motion-869 is connected
+2026-10-03 12:29:17,DEBUG,motion-869 firmware is approved (9010 (3232) Weymouth SW)
+2026-10-03 12:29:17,DEBUG,motion-869 storage is 0% full
+2026-10-03 12:29:17,INFO,motion-869 battery level is 99%
+2026-10-03 12:29:18,INFO,motion-869 can be disconnected
+2026-10-03 12:29:31,DEBUG,motion-869 has been disconnected
+2026-10-03 12:29:36,DEBUG,motion-869 detected at 192.168.0.142
+2026-10-03 12:29:37,DEBUG,motion-869 not accepting connections
+2026-10-03 12:29:41,DEBUG,motion-869 detected at 192.168.0.142
+2026-10-03 12:29:42,DEBUG,motion-869 not accepting connections
+2026-10-03 12:29:46,DEBUG,motion-869 detected at 192.168.0.142
+2026-10-03 12:29:47,DEBUG,motion-869 not accepting connections
+2026-10-03 12:29:51,DEBUG,motion-869 detected at 192.168.0.142
+2026-10-03 12:29:52,DEBUG,motion-869 not accepting connections
+2026-10-03 12:29:56,DEBUG,motion-869 detected at 192.168.0.142
+2026-10-03 12:29:57,DEBUG,motion-869 not accepting connections
+2026-10-03 12:30:01,DEBUG,motion-869 detected at 192.168.0.142
+2026-10-03 12:30:02,DEBUG,motion-869 not accepting connections
+2026-10-03 12:30:06,DEBUG,motion-869 detected at 192.168.0.142
+2026-10-03 12:30:07,DEBUG,motion-869 not accepting connections
+2026-10-03 12:30:11,DEBUG,motion-869 detected at 192.168.0.142
+2026-10-03 12:30:12,DEBUG,motion-869 not accepting connections
+2026-10-03 12:33:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 12:36:03,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 12:52:03,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 12:56:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 12:57:54,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 12:59:09,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:03:34,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:05:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:08:29,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:08:39,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:10:59,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:12:39,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:13:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:13:59,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:18:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:18:34,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:20:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:26:36,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:28:31,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:30:26,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:33:17,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:35:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:35:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:39:33,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:40:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:40:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:41:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:42:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:45:38,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:46:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:47:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:47:53,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:49:26,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:51:11,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:52:06,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:53:06,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:53:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:56:01,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 13:59:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:11:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:12:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:17:56,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:18:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:20:01,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:20:26,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:22:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:24:26,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:26:47,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:28:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:29:02,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:30:27,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:31:27,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:37:47,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:38:12,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:43:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:44:32,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:44:37,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:45:22,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:47:28,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:48:33,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:52:34,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:52:39,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:53:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:54:09,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 14:56:09,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-03 14:56:09,INFO,motion-841 is connected
+2026-10-03 14:56:09,DEBUG,motion-601 detected at 192.168.0.162
+2026-10-03 14:56:09,INFO,motion-601 is connected
+2026-10-03 14:56:10,DEBUG,motion-601 firmware is approved (9008 Weymouth SW (3232))
+2026-10-03 14:56:10,DEBUG,motion-601 storage is 0% full
+2026-10-03 14:56:10,INFO,motion-601 battery level is 94%
+2026-10-03 14:56:10,DEBUG,motion-841 firmware is approved (9008 Weymouth SW (3232))
+2026-10-03 14:56:10,DEBUG,motion-841 storage is 0% full
+2026-10-03 14:56:10,INFO,motion-841 battery level is 89%
+2026-10-03 14:56:11,DEBUG,motion-601 DEM601OSC_601_20261003_094823.oao skipped - 0.0 MiB, 5.4 hours, 0.1 km, 0.0 knots (500m)
+2026-10-03 14:56:11,INFO,motion-601 can be disconnected
+2026-10-03 14:56:11,DEBUG,motion-841 SAL841MAR_841_20261003_105611.oao skipped - 0.0 MiB, 4.9 hours, 0.4 km, 0.0 knots (500m)
+2026-10-03 14:56:11,INFO,motion-841 can be disconnected
+2026-10-03 14:56:28,DEBUG,motion-841 has been disconnected
+2026-10-03 14:56:28,DEBUG,motion-601 has been disconnected
+2026-10-03 14:56:29,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-03 14:56:29,DEBUG,motion-601 detected at 192.168.0.162
+2026-10-03 14:56:30,DEBUG,motion-841 not accepting connections
+2026-10-03 14:56:30,DEBUG,motion-601 not accepting connections
+2026-10-03 14:56:34,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-03 14:56:34,DEBUG,motion-601 detected at 192.168.0.162
+2026-10-03 14:56:35,DEBUG,motion-841 not accepting connections
+2026-10-03 14:56:35,DEBUG,motion-601 not accepting connections
+2026-10-03 14:56:39,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-03 14:56:39,DEBUG,motion-601 detected at 192.168.0.162
+2026-10-03 14:56:40,DEBUG,motion-841 not accepting connections
+2026-10-03 14:56:40,DEBUG,motion-601 not accepting connections
+2026-10-03 14:56:44,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-03 14:56:44,DEBUG,motion-601 detected at 192.168.0.162
+2026-10-03 14:56:45,DEBUG,motion-841 not accepting connections
+2026-10-03 14:56:45,DEBUG,motion-601 not accepting connections
+2026-10-03 14:56:49,DEBUG,motion-849 detected at 192.168.0.224
+2026-10-03 14:56:49,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-03 14:56:49,INFO,motion-849 is connected
+2026-10-03 14:56:49,DEBUG,motion-601 detected at 192.168.0.162
+2026-10-03 14:56:50,DEBUG,motion-841 not accepting connections
+2026-10-03 14:56:50,DEBUG,motion-849 firmware is approved (9008 Weymouth SW (3232))
+2026-10-03 14:56:50,DEBUG,motion-849 storage is 0% full
+2026-10-03 14:56:50,INFO,motion-849 battery level is 93%
+2026-10-03 14:56:50,DEBUG,motion-601 not accepting connections
+2026-10-03 14:56:51,INFO,motion-849 BAR849SIM_849_20261003_125033.oao queued - 0.9 MiB, 3.0 hours, 10.3 km, 4.7 knots (500m)
+2026-10-03 14:56:53,INFO,motion-849 BAR849SIM_849_20261003_125033.oao downloaded - 0.9 MiB, 3.0 hours, 10.3 km, 4.7 knots (500m)
+2026-10-03 14:56:53,INFO,motion-849 can be disconnected
+2026-10-03 14:56:54,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-03 14:56:54,DEBUG,motion-601 detected at 192.168.0.162
+2026-10-03 14:56:55,DEBUG,motion-841 not accepting connections
+2026-10-03 14:56:55,DEBUG,motion-601 not accepting connections
+2026-10-03 14:56:59,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-03 14:56:59,DEBUG,motion-601 detected at 192.168.0.162
+2026-10-03 14:57:00,DEBUG,motion-841 not accepting connections
+2026-10-03 14:57:00,DEBUG,motion-601 not accepting connections
+2026-10-03 14:57:04,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-03 14:57:04,DEBUG,motion-601 detected at 192.168.0.162
+2026-10-03 14:57:05,DEBUG,motion-841 not accepting connections
+2026-10-03 14:57:05,DEBUG,motion-601 not accepting connections
+2026-10-03 14:57:08,DEBUG,motion-849 has been disconnected
+2026-10-03 14:57:09,DEBUG,motion-849 detected at 192.168.0.224
+2026-10-03 14:57:10,DEBUG,motion-849 not accepting connections
+2026-10-03 14:57:14,DEBUG,motion-849 detected at 192.168.0.224
+2026-10-03 14:57:15,DEBUG,motion-849 not accepting connections
+2026-10-03 14:57:19,DEBUG,motion-849 detected at 192.168.0.224
+2026-10-03 14:57:20,DEBUG,motion-849 not accepting connections
+2026-10-03 14:57:24,DEBUG,motion-849 detected at 192.168.0.224
+2026-10-03 14:57:25,DEBUG,motion-849 not accepting connections
+2026-10-03 14:57:29,DEBUG,motion-849 detected at 192.168.0.224
+2026-10-03 14:57:30,DEBUG,motion-849 not accepting connections
+2026-10-03 14:57:34,DEBUG,motion-849 detected at 192.168.0.224
+2026-10-03 14:57:35,DEBUG,motion-849 not accepting connections
+2026-10-03 14:57:39,DEBUG,motion-849 detected at 192.168.0.224
+2026-10-03 14:57:40,DEBUG,motion-849 not accepting connections
+2026-10-03 14:57:44,DEBUG,motion-849 detected at 192.168.0.224
+2026-10-03 14:57:45,DEBUG,motion-849 not accepting connections
+2026-10-03 14:58:54,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-03 14:58:54,INFO,motion-664 is connected
+2026-10-03 14:58:55,WARNING,motion-664 firmware is not approved (3232 Release)
+2026-10-03 14:58:55,DEBUG,motion-664 storage is 0% full
+2026-10-03 14:58:55,INFO,motion-664 battery level is 76%
+2026-10-03 14:58:56,INFO,motion-664 BUOY_664_664_20261003_095407.oao queued - 5.4 MiB, 6.1 hours, 5.0 km, 5.8 knots (500m)
+2026-10-03 14:59:04,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-03 14:59:04,INFO,motion-668 is connected
+2026-10-03 14:59:05,WARNING,motion-668 firmware is not approved (3232 Release)
+2026-10-03 14:59:05,DEBUG,motion-668 storage is 0% full
+2026-10-03 14:59:05,INFO,motion-668 battery level is 73%
+2026-10-03 14:59:06,INFO,motion-664 BUOY_664_664_20261003_095407.oao downloaded - 5.4 MiB, 6.1 hours, 5.0 km, 5.8 knots (500m)
+2026-10-03 14:59:06,INFO,motion-664 can be disconnected
+2026-10-03 14:59:06,INFO,motion-668 BUOY_668_668_20261003_095124.oao queued - 5.5 MiB, 6.1 hours, 5.4 km, 5.8 knots (500m)
+2026-10-03 14:59:09,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-03 14:59:09,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-03 14:59:09,INFO,motion-667 is connected
+2026-10-03 14:59:10,INFO,motion-663 is connected
+2026-10-03 14:59:10,WARNING,motion-667 firmware is not approved (3232 Release)
+2026-10-03 14:59:10,DEBUG,motion-667 storage is 0% full
+2026-10-03 14:59:10,INFO,motion-667 battery level is 76%
+2026-10-03 14:59:10,WARNING,motion-667 GNSS rate is incorrect (10)
+2026-10-03 14:59:10,WARNING,motion-663 firmware is not approved (3232 Release)
+2026-10-03 14:59:10,DEBUG,motion-663 storage is 0% full
+2026-10-03 14:59:10,WARNING,motion-663 battery level is 10%
+2026-10-03 14:59:11,WARNING,motion-663 GNSS rate is incorrect (10)
+2026-10-03 14:59:11,INFO,motion-667 BUOY_667_667_20261003_095240.oao queued - 10.9 MiB, 6.1 hours, 5.5 km, 5.8 knots (500m)
+2026-10-03 14:59:12,INFO,motion-663 BUOY_663_663_20261003_095137.oao queued - 10.9 MiB, 6.1 hours, 5.4 km, 5.8 knots (500m)
+2026-10-03 14:59:17,INFO,motion-668 BUOY_668_668_20261003_095124.oao downloaded - 5.5 MiB, 6.1 hours, 5.4 km, 5.8 knots (500m)
+2026-10-03 14:59:17,INFO,motion-668 can be disconnected
+2026-10-03 14:59:36,INFO,motion-663 BUOY_663_663_20261003_095137.oao downloaded - 10.9 MiB, 6.1 hours, 5.4 km, 5.8 knots (500m)
+2026-10-03 14:59:36,INFO,motion-663 can be disconnected
+2026-10-03 14:59:37,INFO,motion-667 BUOY_667_667_20261003_095240.oao downloaded - 10.9 MiB, 6.1 hours, 5.5 km, 5.8 knots (500m)
+2026-10-03 14:59:37,INFO,motion-667 can be disconnected
+2026-10-03 15:00:58,DEBUG,motion-664 has been disconnected
+2026-10-03 15:00:59,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-03 15:01:00,DEBUG,motion-664 not accepting connections
+2026-10-03 15:01:04,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 15:01:05,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-03 15:01:06,DEBUG,motion-664 not accepting connections
+2026-10-03 15:01:10,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-03 15:01:11,DEBUG,motion-664 not accepting connections
+2026-10-03 15:01:15,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-03 15:01:16,DEBUG,motion-664 not accepting connections
+2026-10-03 15:01:20,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-03 15:01:21,DEBUG,motion-664 not accepting connections
+2026-10-03 15:01:25,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-03 15:01:26,DEBUG,motion-664 not accepting connections
+2026-10-03 15:01:28,DEBUG,motion-663 has been disconnected
+2026-10-03 15:01:30,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-03 15:01:30,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-03 15:01:31,DEBUG,motion-663 not accepting connections
+2026-10-03 15:01:31,DEBUG,motion-664 not accepting connections
+2026-10-03 15:01:35,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-03 15:01:35,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-03 15:01:36,DEBUG,motion-664 not accepting connections
+2026-10-03 15:01:36,DEBUG,motion-663 not accepting connections
+2026-10-03 15:01:38,DEBUG,motion-667 has been disconnected
+2026-10-03 15:01:40,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-03 15:01:40,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-03 15:01:40,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-03 15:01:41,DEBUG,motion-663 not accepting connections
+2026-10-03 15:01:41,DEBUG,motion-664 not accepting connections
+2026-10-03 15:01:41,DEBUG,motion-667 not accepting connections
+2026-10-03 15:01:45,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-03 15:01:45,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-03 15:01:45,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-03 15:01:46,DEBUG,motion-663 not accepting connections
+2026-10-03 15:01:46,DEBUG,motion-667 not accepting connections
+2026-10-03 15:01:46,DEBUG,motion-664 not accepting connections
+2026-10-03 15:01:51,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-03 15:01:51,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-03 15:01:52,DEBUG,motion-663 not accepting connections
+2026-10-03 15:01:52,DEBUG,motion-667 not accepting connections
+2026-10-03 15:01:55,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-03 15:01:55,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-03 15:01:56,DEBUG,motion-663 not accepting connections
+2026-10-03 15:01:56,DEBUG,motion-667 not accepting connections
+2026-10-03 15:02:00,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-03 15:02:00,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-03 15:02:01,DEBUG,motion-663 not accepting connections
+2026-10-03 15:02:01,DEBUG,motion-667 not accepting connections
+2026-10-03 15:02:05,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-03 15:02:06,DEBUG,motion-667 not accepting connections
+2026-10-03 15:02:10,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-03 15:02:11,DEBUG,motion-667 not accepting connections
+2026-10-03 15:02:15,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-03 15:02:16,DEBUG,motion-667 not accepting connections
+2026-10-03 15:02:20,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-03 15:02:21,DEBUG,motion-667 not accepting connections
+2026-10-03 15:02:25,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-03 15:02:26,DEBUG,motion-667 not accepting connections
+2026-10-03 15:02:38,DEBUG,motion-668 has been disconnected
+2026-10-03 15:02:40,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-03 15:02:41,DEBUG,motion-668 not accepting connections
+2026-10-03 15:02:47,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-03 15:02:48,DEBUG,motion-668 not accepting connections
+2026-10-03 15:02:50,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-03 15:02:51,DEBUG,motion-668 not accepting connections
+2026-10-03 15:02:55,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-03 15:02:56,DEBUG,motion-668 not accepting connections
+2026-10-03 15:03:00,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-03 15:03:01,DEBUG,motion-668 not accepting connections
+2026-10-03 15:03:05,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-03 15:03:06,DEBUG,motion-668 not accepting connections
+2026-10-03 15:03:10,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-03 15:03:11,DEBUG,motion-668 not accepting connections
+2026-10-03 15:03:15,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-03 15:03:16,DEBUG,motion-668 not accepting connections
+2026-10-03 15:04:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 15:10:00,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-03 15:12:30,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 03:15:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 07:56:35,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 07:59:05,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:01:35,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:04:05,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:06:35,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:09:05,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:11:36,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:14:06,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:16:36,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:19:06,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:21:36,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:24:06,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:26:36,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:29:07,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:31:37,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:34:07,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:36:37,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:39:07,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:41:37,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:44:07,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:46:38,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:49:08,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:51:38,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:54:08,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:56:38,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 08:59:08,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:01:39,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:04:09,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:06:39,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:09:09,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:11:39,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:14:09,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:16:39,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:19:10,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:21:40,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:24:10,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:26:40,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:29:10,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:31:40,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:34:10,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:36:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:39:11,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:41:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:44:11,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:46:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:49:11,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:51:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:54:12,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:56:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 09:59:12,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:01:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:04:12,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:06:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:09:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:11:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:14:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:16:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:19:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:21:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:24:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:26:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:29:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:31:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:34:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:36:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:39:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:41:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:44:15,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:46:45,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:49:15,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:51:45,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:54:15,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:56:45,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 10:59:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:01:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:04:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:06:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:09:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:11:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:14:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:16:47,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:19:17,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:21:47,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:24:17,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:26:47,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:29:17,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:31:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:34:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:36:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:39:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:41:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:44:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:46:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:49:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:51:49,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:54:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:56:49,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 11:59:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:01:49,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:04:20,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:06:50,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:09:20,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:11:50,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:14:20,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:16:50,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:19:20,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:21:51,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:24:21,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:26:51,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:29:21,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:31:51,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:34:21,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:36:51,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:39:22,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:41:52,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:44:22,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:46:52,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:49:22,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:51:52,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:54:22,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:56:53,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 12:59:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:01:53,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:04:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:06:53,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:09:23,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:11:54,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:14:24,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:16:54,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:19:24,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:21:54,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:24:24,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:26:54,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:29:25,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:31:55,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:34:25,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:36:55,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:39:25,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:41:55,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:44:26,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:46:56,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:49:26,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:51:56,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:54:26,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:56:56,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 13:59:26,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:01:57,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:04:27,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:06:57,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:09:27,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:11:57,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:14:27,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:16:57,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:19:28,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:21:58,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:24:28,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:26:58,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:29:28,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:31:58,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:34:29,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:36:59,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:39:29,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:41:59,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:44:29,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:46:59,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:49:29,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:52:00,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:54:30,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:57:00,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 14:59:30,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:02:00,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:04:30,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:07:00,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:09:31,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:12:01,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:14:31,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:17:01,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:19:31,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:22:01,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:24:31,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:27:02,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:29:32,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:32:02,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:34:32,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:37:02,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:39:32,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:42:03,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:44:33,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:47:03,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:49:33,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:52:03,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:54:33,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:57:03,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 15:59:34,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:02:04,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:04:34,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:07:04,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:09:34,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:12:04,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:14:35,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:17:05,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:19:35,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:22:05,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:24:35,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:27:05,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:29:36,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:32:06,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:34:36,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:37:06,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:39:36,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:42:06,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:44:36,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:47:07,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:49:37,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:52:07,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:54:37,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:57:07,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 16:59:37,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:02:08,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:04:38,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:07:08,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:09:38,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:12:08,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:14:38,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:17:08,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:19:39,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:22:09,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:24:39,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:27:09,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:29:39,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:32:09,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:34:40,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:37:10,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:39:40,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:42:10,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:44:40,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:47:10,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:49:40,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:52:11,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:54:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:57:11,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 17:59:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:02:11,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:04:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:07:12,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:09:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:12:12,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:14:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:17:12,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:19:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:22:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:24:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:27:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:29:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:32:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:34:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:37:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:39:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:42:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:44:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:47:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:49:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:52:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:54:45,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:57:15,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 18:59:45,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:02:15,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:04:45,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:07:15,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:09:45,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:12:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:14:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:17:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:19:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:22:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:24:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:27:17,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:29:47,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:32:17,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:34:47,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:37:17,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:39:47,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:42:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:44:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:47:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:49:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:52:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:54:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:57:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 19:59:49,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:02:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:04:49,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:07:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:09:49,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:12:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:14:50,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:17:20,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:19:50,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:22:20,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:24:50,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:27:20,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:29:51,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:32:21,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:34:51,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:37:21,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:39:51,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:42:21,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:44:51,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:47:22,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:49:52,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-04 20:52:22,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:29:10,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:31:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:34:11,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:36:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:39:11,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:41:41,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:44:11,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:46:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:49:12,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:51:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:54:12,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:56:42,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 09:59:12,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:01:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:04:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:06:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:09:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:11:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:14:13,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:16:43,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:19:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:21:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:24:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:26:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:29:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:31:44,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:34:14,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:36:45,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:39:15,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:41:45,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:44:15,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:46:45,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:49:15,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:51:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:54:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:56:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 10:59:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:01:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:04:16,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:06:46,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:09:17,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:11:47,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:14:17,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:16:47,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:19:17,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:21:47,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:24:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:26:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:29:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:31:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:34:18,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:36:48,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:39:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:41:49,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:44:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:46:49,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:49:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:51:49,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:54:19,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:56:50,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 11:59:20,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:01:50,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:04:20,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:06:50,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:09:20,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:11:51,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:14:21,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:16:51,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:19:21,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:21:51,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:24:21,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:26:52,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:28:18,INFO,Keyboard interrupt
+2026-10-05 12:28:18,INFO,Stopping thread pools
+2026-10-05 12:28:22,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 12:28:22,DEBUG,DetectionThreadPool finished
+2026-10-05 12:28:22,DEBUG,DetectionThread #1 finished
+2026-10-05 12:28:22,DEBUG,DetectionThread #2 finished
+2026-10-05 12:28:22,DEBUG,DetectionThread #3 finished
+2026-10-05 12:28:22,DEBUG,DetectionThread #4 finished
+2026-10-05 12:28:22,DEBUG,DetectionThread #5 finished
+2026-10-05 12:28:22,DEBUG,DetectionThread #6 finished
+2026-10-05 12:28:22,DEBUG,DetectionThread #7 finished
+2026-10-05 12:28:22,DEBUG,DetectionThread #8 finished
+2026-10-05 12:28:22,DEBUG,InspectionThreadPool finished
+2026-10-05 12:28:22,DEBUG,InspectionThread #1 finished
+2026-10-05 12:28:22,DEBUG,InspectionThread #2 finished
+2026-10-05 12:28:22,DEBUG,InspectionThread #3 finished
+2026-10-05 12:28:22,DEBUG,InspectionThread #4 finished
+2026-10-05 12:28:22,DEBUG,DownloadThreadPool finished
+2026-10-05 12:28:22,DEBUG,DownloadThread #1 finished
+2026-10-05 12:28:22,DEBUG,DownloadThread #2 finished
+2026-10-05 12:28:22,DEBUG,DownloadThread #3 finished
+2026-10-05 12:28:22,DEBUG,DownloadThread #4 finished
+2026-10-05 12:28:22,DEBUG,DisconnectionThreadPool finished
+2026-10-05 12:28:22,DEBUG,DisconnectionThread #1 finished
+2026-10-05 12:28:22,DEBUG,DisconnectionThread #2 finished
+2026-10-05 12:28:22,DEBUG,DisconnectionThread #3 finished
+2026-10-05 12:28:22,DEBUG,DisconnectionThread #4 finished
+2026-10-05 12:28:22,DEBUG,DisconnectionThread #5 finished
+2026-10-05 12:28:22,DEBUG,DisconnectionThread #6 finished
+2026-10-05 12:28:22,DEBUG,DisconnectionThread #7 finished
+2026-10-05 12:28:22,DEBUG,DisconnectionThread #8 finished
+2026-10-05 12:28:22,INFO,Thread pools stopped
+2026-10-05 14:46:28,INFO,Starting thread pools
+2026-10-05 14:46:28,DEBUG,DetectionThreadPool starting
+2026-10-05 14:46:28,DEBUG,DetectionThread #1 starting
+2026-10-05 14:46:28,DEBUG,DetectionThread #2 starting
+2026-10-05 14:46:28,DEBUG,DetectionThread #3 starting
+2026-10-05 14:46:28,DEBUG,DetectionThread #4 starting
+2026-10-05 14:46:28,DEBUG,DetectionThread #5 starting
+2026-10-05 14:46:28,DEBUG,DetectionThread #6 starting
+2026-10-05 14:46:28,DEBUG,DetectionThread #7 starting
+2026-10-05 14:46:28,DEBUG,DetectionThread #8 starting
+2026-10-05 14:46:28,DEBUG,InspectionThreadPool starting
+2026-10-05 14:46:28,DEBUG,InspectionThread #1 starting
+2026-10-05 14:46:28,DEBUG,InspectionThread #2 starting
+2026-10-05 14:46:28,DEBUG,InspectionThread #3 starting
+2026-10-05 14:46:28,DEBUG,InspectionThread #4 starting
+2026-10-05 14:46:28,DEBUG,DownloadThreadPool starting
+2026-10-05 14:46:28,DEBUG,DownloadThread #1 starting
+2026-10-05 14:46:28,DEBUG,DownloadThread #2 starting
+2026-10-05 14:46:28,DEBUG,DownloadThread #3 starting
+2026-10-05 14:46:28,DEBUG,DownloadThread #4 starting
+2026-10-05 14:46:28,DEBUG,DisconnectionThreadPool starting
+2026-10-05 14:46:28,DEBUG,DisconnectionThread #1 starting
+2026-10-05 14:46:28,DEBUG,DisconnectionThread #2 starting
+2026-10-05 14:46:28,DEBUG,DisconnectionThread #3 starting
+2026-10-05 14:46:28,DEBUG,DisconnectionThread #4 starting
+2026-10-05 14:46:28,DEBUG,DisconnectionThread #5 starting
+2026-10-05 14:46:28,DEBUG,DisconnectionThread #6 starting
+2026-10-05 14:46:28,DEBUG,DisconnectionThread #7 starting
+2026-10-05 14:46:28,DEBUG,DisconnectionThread #8 starting
+2026-10-05 14:46:28,INFO,Thread pools started
+2026-10-05 14:48:54,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 14:48:54,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-05 14:48:54,INFO,motion-664 is connected
+2026-10-05 14:48:55,WARNING,motion-664 firmware is not approved (3232 Release)
+2026-10-05 14:48:55,DEBUG,motion-664 storage is 0% full
+2026-10-05 14:48:55,INFO,motion-664 battery level is 80%
+2026-10-05 14:48:55,WARNING,motion-664 GNSS rate is incorrect (1)
+2026-10-05 14:48:56,INFO,motion-664 BUOY_664_664_20261005_104849.oao queued - 0.9 MiB, 4.9 hours, 4.0 km, 6.6 knots (500m)
+2026-10-05 14:48:57,INFO,motion-664 BUOY_664_664_20261005_104849.oao downloaded - 0.9 MiB, 4.9 hours, 4.0 km, 6.6 knots (500m)
+2026-10-05 14:48:57,INFO,motion-664 can be disconnected
+2026-10-05 14:49:24,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-05 14:49:24,INFO,motion-663 is connected
+2026-10-05 14:49:25,WARNING,motion-663 firmware is not approved (3232 Release)
+2026-10-05 14:49:25,DEBUG,motion-663 storage is 0% full
+2026-10-05 14:49:25,INFO,motion-663 battery level is 78%
+2026-10-05 14:49:25,WARNING,motion-663 GNSS rate is incorrect (1)
+2026-10-05 14:49:26,INFO,motion-663 BUOY_663_663_20261005_105019.oao queued - 0.9 MiB, 4.9 hours, 4.0 km, 6.6 knots (500m)
+2026-10-05 14:49:27,INFO,motion-663 BUOY_663_663_20261005_105019.oao downloaded - 0.9 MiB, 4.9 hours, 4.0 km, 6.6 knots (500m)
+2026-10-05 14:49:27,INFO,motion-663 can be disconnected
+2026-10-05 14:49:33,DEBUG,motion-664 has been disconnected
+2026-10-05 14:49:34,DEBUG,motion-871 detected at 192.168.0.206
+2026-10-05 14:49:34,INFO,motion-871 is connected
+2026-10-05 14:49:34,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-05 14:49:35,DEBUG,motion-871 firmware is approved (9010 (3232) Weymouth SW)
+2026-10-05 14:49:35,DEBUG,motion-871 storage is 0% full
+2026-10-05 14:49:35,INFO,motion-871 battery level is 98%
+2026-10-05 14:49:35,DEBUG,motion-664 not accepting connections
+2026-10-05 14:49:35,INFO,motion-871 can be disconnected
+2026-10-05 14:49:39,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-05 14:49:40,DEBUG,motion-664 not accepting connections
+2026-10-05 14:49:43,DEBUG,motion-663 has been disconnected
+2026-10-05 14:49:44,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-05 14:49:44,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-05 14:49:45,DEBUG,motion-664 not accepting connections
+2026-10-05 14:49:45,DEBUG,motion-663 not accepting connections
+2026-10-05 14:49:49,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-05 14:49:49,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-05 14:49:50,DEBUG,motion-663 not accepting connections
+2026-10-05 14:49:50,DEBUG,motion-664 not accepting connections
+2026-10-05 14:49:53,DEBUG,motion-871 has been disconnected
+2026-10-05 14:49:54,DEBUG,motion-871 detected at 192.168.0.206
+2026-10-05 14:49:54,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-05 14:49:54,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-05 14:49:55,DEBUG,motion-871 not accepting connections
+2026-10-05 14:49:55,DEBUG,motion-663 not accepting connections
+2026-10-05 14:49:55,DEBUG,motion-664 not accepting connections
+2026-10-05 14:49:59,DEBUG,motion-871 detected at 192.168.0.206
+2026-10-05 14:49:59,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-05 14:49:59,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-05 14:50:00,DEBUG,motion-871 not accepting connections
+2026-10-05 14:50:00,DEBUG,motion-663 not accepting connections
+2026-10-05 14:50:00,DEBUG,motion-664 not accepting connections
+2026-10-05 14:50:04,DEBUG,motion-871 detected at 192.168.0.206
+2026-10-05 14:50:04,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-05 14:50:04,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-05 14:50:05,DEBUG,motion-871 not accepting connections
+2026-10-05 14:50:05,DEBUG,motion-663 not accepting connections
+2026-10-05 14:50:05,DEBUG,motion-664 not accepting connections
+2026-10-05 14:50:09,DEBUG,motion-871 detected at 192.168.0.206
+2026-10-05 14:50:09,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-05 14:50:09,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-05 14:50:10,DEBUG,motion-871 not accepting connections
+2026-10-05 14:50:10,DEBUG,motion-663 not accepting connections
+2026-10-05 14:50:10,DEBUG,motion-664 not accepting connections
+2026-10-05 14:50:14,DEBUG,motion-871 detected at 192.168.0.206
+2026-10-05 14:50:14,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-05 14:50:14,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-05 14:50:15,DEBUG,motion-871 not accepting connections
+2026-10-05 14:50:15,DEBUG,motion-664 not accepting connections
+2026-10-05 14:50:15,DEBUG,motion-663 not accepting connections
+2026-10-05 14:50:19,DEBUG,motion-871 detected at 192.168.0.206
+2026-10-05 14:50:19,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-05 14:50:19,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-05 14:50:20,DEBUG,motion-871 not accepting connections
+2026-10-05 14:50:20,DEBUG,motion-663 not accepting connections
+2026-10-05 14:50:20,DEBUG,motion-664 not accepting connections
+2026-10-05 14:50:24,DEBUG,motion-871 detected at 192.168.0.206
+2026-10-05 14:50:25,DEBUG,motion-871 not accepting connections
+2026-10-05 14:50:29,DEBUG,motion-871 detected at 192.168.0.206
+2026-10-05 14:50:30,DEBUG,motion-871 not accepting connections
+2026-10-05 14:50:34,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-05 14:50:34,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-05 14:50:34,INFO,motion-667 is connected
+2026-10-05 14:50:34,INFO,motion-668 is connected
+2026-10-05 14:50:35,WARNING,motion-668 firmware is not approved (3232 Release)
+2026-10-05 14:50:35,DEBUG,motion-668 storage is 0% full
+2026-10-05 14:50:35,INFO,motion-668 battery level is 99%
+2026-10-05 14:50:35,WARNING,motion-667 firmware is not approved (3232 Release)
+2026-10-05 14:50:35,DEBUG,motion-667 storage is 0% full
+2026-10-05 14:50:35,INFO,motion-667 battery level is 99%
+2026-10-05 14:50:35,WARNING,motion-668 GNSS rate is incorrect (1)
+2026-10-05 14:50:35,WARNING,motion-667 GNSS rate is incorrect (1)
+2026-10-05 14:50:36,INFO,motion-667 BUOY_667_667_20261005_104929.oao queued - 0.8 MiB, 4.4 hours, 4.0 km, 6.6 knots (500m)
+2026-10-05 14:50:36,INFO,motion-668 BUOY_668_668_20261005_104919.oao queued - 0.8 MiB, 4.4 hours, 4.0 km, 6.6 knots (500m)
+2026-10-05 14:50:37,INFO,motion-667 BUOY_667_667_20261005_104929.oao downloaded - 0.8 MiB, 4.4 hours, 4.0 km, 6.6 knots (500m)
+2026-10-05 14:50:37,INFO,motion-667 can be disconnected
+2026-10-05 14:50:37,INFO,motion-668 BUOY_668_668_20261005_104919.oao downloaded - 0.8 MiB, 4.4 hours, 4.0 km, 6.6 knots (500m)
+2026-10-05 14:50:37,INFO,motion-668 can be disconnected
+2026-10-05 14:50:49,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-05 14:51:23,DEBUG,motion-667 has been disconnected
+2026-10-05 14:51:23,DEBUG,motion-668 has been disconnected
+2026-10-05 14:51:24,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-05 14:51:24,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-05 14:51:25,DEBUG,motion-668 not accepting connections
+2026-10-05 14:51:25,DEBUG,motion-667 not accepting connections
+2026-10-05 14:51:29,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-05 14:51:29,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-05 14:51:30,DEBUG,motion-667 not accepting connections
+2026-10-05 14:51:30,DEBUG,motion-668 not accepting connections
+2026-10-05 14:51:34,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-05 14:51:34,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-05 14:51:35,DEBUG,motion-667 not accepting connections
+2026-10-05 14:51:35,DEBUG,motion-668 not accepting connections
+2026-10-05 14:51:39,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-05 14:51:39,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-05 14:51:40,DEBUG,motion-667 not accepting connections
+2026-10-05 14:51:40,DEBUG,motion-668 not accepting connections
+2026-10-05 14:51:44,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-05 14:51:44,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-05 14:51:45,DEBUG,motion-667 not accepting connections
+2026-10-05 14:51:45,DEBUG,motion-668 not accepting connections
+2026-10-05 14:51:49,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-05 14:51:49,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-05 14:51:50,DEBUG,motion-667 not accepting connections
+2026-10-05 14:51:50,DEBUG,motion-668 not accepting connections
+2026-10-05 14:51:54,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-05 14:51:54,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-05 14:51:55,DEBUG,motion-667 not accepting connections
+2026-10-05 14:51:55,DEBUG,motion-668 not accepting connections
+2026-10-05 14:51:59,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-05 14:51:59,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-05 14:52:00,DEBUG,motion-667 not accepting connections
+2026-10-05 14:52:00,DEBUG,motion-668 not accepting connections
+2026-10-05 14:52:24,DEBUG,motion-855 detected at 192.168.0.102
+2026-10-05 14:52:24,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-05 14:52:24,INFO,motion-841 is connected
+2026-10-05 14:52:24,INFO,motion-855 is connected
+2026-10-05 14:52:25,DEBUG,motion-855 firmware is approved (9010 (3232) Weymouth SW)
+2026-10-05 14:52:25,DEBUG,motion-855 storage is 2% full
+2026-10-05 14:52:25,INFO,motion-855 battery level is 99%
+2026-10-05 14:52:25,DEBUG,motion-841 firmware is approved (9008 Weymouth SW (3232))
+2026-10-05 14:52:25,DEBUG,motion-841 storage is 0% full
+2026-10-05 14:52:25,INFO,motion-841 battery level is 99%
+2026-10-05 14:52:26,INFO,motion-841 SAL841MAR_841_20261005_144501.oao queued - 0.4 MiB, 1.0 hours, 5.0 km, 15.1 knots (500m)
+2026-10-05 14:52:26,INFO,motion-841 SAL841MAR_841_20261005_144501.oao downloaded - 0.4 MiB, 1.0 hours, 5.0 km, 15.1 knots (500m)
+2026-10-05 14:52:26,INFO,motion-841 can be disconnected
+2026-10-05 14:52:27,INFO,motion-855 SMI855BAR_855_20261005_114801.oao queued - 0.3 MiB, 3.6 hours, 3.5 km, 3.9 knots (500m)
+2026-10-05 14:52:27,INFO,motion-855 SMI855BAR_855_20261005_114801.oao downloaded - 0.3 MiB, 3.6 hours, 3.5 km, 3.9 knots (500m)
+2026-10-05 14:52:27,INFO,motion-855 can be disconnected
+2026-10-05 14:52:29,DEBUG,motion-805 detected at 192.168.0.132
+2026-10-05 14:52:29,INFO,motion-805 is connected
+2026-10-05 14:52:30,DEBUG,motion-805 firmware is approved (9008 Weymouth SW (3232))
+2026-10-05 14:52:30,DEBUG,motion-805 storage is 0% full
+2026-10-05 14:52:30,INFO,motion-805 battery level is 75%
+2026-10-05 14:52:31,DEBUG,motion-805 LON805ROB_805_20261003_104913.oao skipped - 0.0 MiB, 4.7 hours, 0.1 km, 0.0 knots (500m)
+2026-10-05 14:52:31,DEBUG,motion-805 LON805ROB_805_20261004_130207.oao skipped - 0.0 MiB, 0.2 hours, 0.4 km, 0.0 knots (500m)
+2026-10-05 14:52:31,INFO,motion-805 LON805ROB_805_20261005_111159.oao queued - 1.6 MiB, 4.6 hours, 18.5 km, 6.8 knots (500m)
+2026-10-05 14:52:33,INFO,motion-805 LON805ROB_805_20261005_111159.oao downloaded - 1.6 MiB, 4.6 hours, 18.5 km, 6.8 knots (500m)
+2026-10-05 14:52:33,INFO,motion-805 can be disconnected
+2026-10-05 14:53:23,DEBUG,motion-805 has been disconnected
+2026-10-05 14:53:23,DEBUG,motion-855 has been disconnected
+2026-10-05 14:53:24,DEBUG,motion-805 detected at 192.168.0.132
+2026-10-05 14:53:24,DEBUG,motion-855 detected at 192.168.0.102
+2026-10-05 14:53:25,DEBUG,motion-805 not accepting connections
+2026-10-05 14:53:25,DEBUG,motion-855 not accepting connections
+2026-10-05 14:53:29,DEBUG,motion-805 detected at 192.168.0.132
+2026-10-05 14:53:29,DEBUG,motion-855 detected at 192.168.0.102
+2026-10-05 14:53:30,DEBUG,motion-805 not accepting connections
+2026-10-05 14:53:30,DEBUG,motion-855 not accepting connections
+2026-10-05 14:53:33,DEBUG,motion-841 has been disconnected
+2026-10-05 14:53:34,DEBUG,motion-805 detected at 192.168.0.132
+2026-10-05 14:53:34,DEBUG,motion-855 detected at 192.168.0.102
+2026-10-05 14:53:34,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-05 14:53:35,DEBUG,motion-805 not accepting connections
+2026-10-05 14:53:35,DEBUG,motion-855 not accepting connections
+2026-10-05 14:53:35,DEBUG,motion-841 not accepting connections
+2026-10-05 14:53:39,DEBUG,motion-805 detected at 192.168.0.132
+2026-10-05 14:53:39,DEBUG,motion-855 detected at 192.168.0.102
+2026-10-05 14:53:39,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-05 14:53:40,DEBUG,motion-855 not accepting connections
+2026-10-05 14:53:40,DEBUG,motion-805 not accepting connections
+2026-10-05 14:53:40,DEBUG,motion-841 not accepting connections
+2026-10-05 14:53:44,DEBUG,motion-805 detected at 192.168.0.132
+2026-10-05 14:53:44,DEBUG,motion-855 detected at 192.168.0.102
+2026-10-05 14:53:44,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-05 14:53:45,DEBUG,motion-805 not accepting connections
+2026-10-05 14:53:45,DEBUG,motion-855 not accepting connections
+2026-10-05 14:53:45,DEBUG,motion-841 not accepting connections
+2026-10-05 14:53:49,DEBUG,motion-805 detected at 192.168.0.132
+2026-10-05 14:53:49,DEBUG,motion-855 detected at 192.168.0.102
+2026-10-05 14:53:49,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-05 14:53:50,DEBUG,motion-805 not accepting connections
+2026-10-05 14:53:50,DEBUG,motion-855 not accepting connections
+2026-10-05 14:53:50,DEBUG,motion-841 not accepting connections
+2026-10-05 14:53:54,DEBUG,motion-805 detected at 192.168.0.132
+2026-10-05 14:53:54,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-05 14:53:55,DEBUG,motion-805 not accepting connections
+2026-10-05 14:53:55,DEBUG,motion-841 not accepting connections
+2026-10-05 14:53:59,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-05 14:54:00,DEBUG,motion-841 not accepting connections
+2026-10-05 14:54:04,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-05 14:54:05,DEBUG,motion-841 not accepting connections
+2026-10-05 14:54:09,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-05 14:54:10,DEBUG,motion-841 not accepting connections
+2026-10-05 14:54:14,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-05 14:54:15,DEBUG,motion-841 not accepting connections
+2026-10-05 14:54:19,DEBUG,motion-841 detected at 192.168.0.208
+2026-10-05 14:54:20,DEBUG,motion-841 not accepting connections
+2026-10-05 14:56:52,INFO,Keyboard interrupt
+2026-10-05 14:56:52,INFO,Stopping thread pools
+2026-10-05 14:56:52,DEBUG,DetectionThreadPool finished
+2026-10-05 14:56:53,DEBUG,DetectionThread #1 finished
+2026-10-05 14:56:53,DEBUG,DetectionThread #2 finished
+2026-10-05 14:56:53,DEBUG,DetectionThread #3 finished
+2026-10-05 14:56:53,DEBUG,DetectionThread #4 finished
+2026-10-05 14:56:53,DEBUG,DetectionThread #5 finished
+2026-10-05 14:56:53,DEBUG,DetectionThread #6 finished
+2026-10-05 14:56:53,DEBUG,DetectionThread #7 finished
+2026-10-05 14:56:53,DEBUG,DetectionThread #8 finished
+2026-10-05 14:56:53,DEBUG,InspectionThreadPool finished
+2026-10-05 14:56:53,DEBUG,InspectionThread #1 finished
+2026-10-05 14:56:53,DEBUG,InspectionThread #2 finished
+2026-10-05 14:56:53,DEBUG,InspectionThread #3 finished
+2026-10-05 14:56:53,DEBUG,InspectionThread #4 finished
+2026-10-05 14:56:53,DEBUG,DownloadThreadPool finished
+2026-10-05 14:56:53,DEBUG,DownloadThread #1 finished
+2026-10-05 14:56:53,DEBUG,DownloadThread #2 finished
+2026-10-05 14:56:53,DEBUG,DownloadThread #3 finished
+2026-10-05 14:56:53,DEBUG,DownloadThread #4 finished
+2026-10-05 14:56:53,DEBUG,DisconnectionThreadPool finished
+2026-10-05 14:56:53,DEBUG,DisconnectionThread #1 finished
+2026-10-05 14:56:53,DEBUG,DisconnectionThread #2 finished
+2026-10-05 14:56:53,DEBUG,DisconnectionThread #3 finished
+2026-10-05 14:56:53,DEBUG,DisconnectionThread #4 finished
+2026-10-05 14:56:53,DEBUG,DisconnectionThread #5 finished
+2026-10-05 14:56:53,DEBUG,DisconnectionThread #6 finished
+2026-10-05 14:56:53,DEBUG,DisconnectionThread #7 finished
+2026-10-05 14:56:53,DEBUG,DisconnectionThread #8 finished
+2026-10-05 14:56:53,INFO,Thread pools stopped

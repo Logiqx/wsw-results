@@ -1,0 +1,15 @@
+{
+  "DEM601OSC_601_20261003_094823.oao": {
+    "motion_file": "/logs/2026/10/0601_2026-10-03-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261003/DEM601OSC_601_20261003_094823.oao",
+    "size": 2992,
+    "start_date": 1791017303000,
+    "end_date": 1791036787000,
+    "duration": 19484000,
+    "distance": 70018,
+    "2s_best": 1762,
+    "10s_best": 1569,
+    "500m_best": 0,
+    "status": "skipped"
+  }
+}
