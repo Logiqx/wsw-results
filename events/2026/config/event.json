@@ -88,7 +88,7 @@
     {
       "Name": "'Fastest Youth' Trophy",
       "Category": "Youth Sailboard",
-      "Filter": "Craft Type=Sailboard,Age=Youth,Weekend=Y"
+      "Filter": "Craft Type=Sailboard,Age=Youth"
     },
     {
       "Name": "'Fastest Female' Shield",
@@ -129,7 +129,7 @@
     },
     {
       "Category": "Youths",
-      "Filter": "Age=Youth,Weekend=Y",
+      "Filter": "Age=Youth",
       "Places": 3
     },
     {
