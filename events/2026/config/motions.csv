@@ -77,6 +77,7 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 5072,60,631,2026-10-03,2026-10-09,SAN631SIM,Simon,Sanderson,Wingboard,,Open Class,All Week
 3073,61,810,2026-10-03,2026-10-09,NEW810MAR,Mark,Newman,Sailboard,,Pro Fleet,All Week
 4073,61,4810,2026-10-03,2026-10-09,NEW4810MAR,Mark,Newman,Sailboard,Foil,Foil Fleet,All Week
+5074,62,946,2026-10-03,2026-10-09,HOB946RIC,Richard,Hobson,Wingboard,,Open Class,All Week
 3075,63,817,2026-10-03,2026-10-09,MAR817EDD,Eddie,Marsh,Sailboard,,Gold Fleet,All Week
 3076,64,803,2026-10-03,2026-10-09,STU803AND,Andy,Stuart-William,Sailboard,,Gold Fleet,All Week
 2077,65,699,2026-10-03,2026-10-09,LON699JAM,James,Longmuir,Kiteboard,,Open Class,All Week
@@ -107,6 +108,13 @@ Entrant ID,Tally,Motion ID,Start Date,End Date,File ID,First Name,Family Name,Cr
 3099,87,695,2026-10-05,2026-10-09,DAV695STE,Steve,Davison,Sailboard,,Amateur,Weekdays
 3100,88,823,2026-10-03,2026-10-04,VIC823MIT,Mitchell,Vickers,Sailboard,,Amateur,Youth W/E
 5101,89,601,2026-10-03,2026-10-04,DEM601OSC,Oscar,Dempsey,Wingboard,,Open Class,Youth W/E
+3102,90,619,2026-10-05,2026-10-09,BUK619MAC,Maciej,Bukolt,Sailboard,,Gold Fleet,Weekdays
+3103,91,724,2026-10-05,2026-10-09,LAT724SAM,Sam,Latham,Sailboard,,Pro Fleet,Weekdays
+5103,91,5724,2026-10-05,2026-10-09,LAT5724SAM,Sam,Latham,Wingboard,,Freeride,Weekdays
+3104,92,705,2026-10-05,2026-10-09,STA705SCO,Scotty,Stallman,Sailboard,,Pro Fleet,Weekdays
+4104,92,4705,2026-10-05,2026-10-09,STA4705SCO,Scotty,Stallman,Sailboard,Foil,Foil Fleet,Weekdays
+3105,93,700,2026-10-05,2026-10-09,YEL700LIL,Lilia,Yelland,Sailboard,,Gold Fleet,Weekdays
+5106,94,617,2026-10-05,2026-10-09,STA617KUB,Kuba,Staite,Wingboard,,Open Class,Weekdays
 1,1001,663,2026-10-03,2026-10-09,BUOY_663,Weymouth,Speed Week,Buoy,,,All Week
 2,1002,664,2026-10-03,2026-10-09,BUOY_664,Weymouth,Speed Week,Buoy,,,All Week
 3,1003,667,2026-10-03,2026-10-09,BUOY_667,Weymouth,Speed Week,Buoy,,,All Week
