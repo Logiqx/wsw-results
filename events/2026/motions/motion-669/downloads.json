@@ -1,0 +1,41 @@
+{
+  "WIL669DAV_669_20261007_095319.oao": {
+    "motion_file": "/logs/2026/10/0669_2026-10-07-0953.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/WIL669DAV_669_20261007_095319.oao",
+    "size": 439844,
+    "start_date": 1791363199000,
+    "end_date": 1791375567000,
+    "duration": 12368000,
+    "distance": 14237910,
+    "2s_best": 14191,
+    "10s_best": 13863,
+    "500m_best": 13451,
+    "status": "completed"
+  },
+  "WIL669DAV_669_20261007_132435.oao": {
+    "motion_file": "/logs/2026/10/0669_2026-10-07-1324.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/WIL669DAV_669_20261007_132435.oao",
+    "size": 924536,
+    "start_date": 1791375875000,
+    "end_date": 1791385301000,
+    "duration": 9426000,
+    "distance": 29265607,
+    "2s_best": 17427,
+    "10s_best": 17045,
+    "500m_best": 16529,
+    "status": "completed"
+  },
+  "WIL669DAV_669_20261007_160647.oao": {
+    "motion_file": "/logs/2026/10/0669_2026-10-07-1606.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/WIL669DAV_669_20261007_160647.oao",
+    "size": 38664,
+    "start_date": 1791385607000,
+    "end_date": 1791385925000,
+    "duration": 318000,
+    "distance": 1878176,
+    "2s_best": 22376,
+    "10s_best": 22238,
+    "500m_best": 21870,
+    "status": "completed"
+  }
+}
