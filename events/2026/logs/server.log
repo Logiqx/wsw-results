@@ -3472,3 +3472,421 @@
 2026-10-07 15:57:15,DEBUG,DisconnectionThread #7 finished
 2026-10-07 15:57:15,DEBUG,DisconnectionThread #8 finished
 2026-10-07 15:57:15,INFO,Thread pools stopped
+2026-10-07 16:02:21,INFO,Starting thread pools
+2026-10-07 16:02:21,DEBUG,DetectionThreadPool starting
+2026-10-07 16:02:21,DEBUG,DetectionThread #1 starting
+2026-10-07 16:02:21,DEBUG,DetectionThread #2 starting
+2026-10-07 16:02:21,DEBUG,DetectionThread #3 starting
+2026-10-07 16:02:21,DEBUG,DetectionThread #4 starting
+2026-10-07 16:02:21,DEBUG,DetectionThread #5 starting
+2026-10-07 16:02:21,DEBUG,DetectionThread #6 starting
+2026-10-07 16:02:21,DEBUG,DetectionThread #7 starting
+2026-10-07 16:02:21,DEBUG,DetectionThread #8 starting
+2026-10-07 16:02:21,DEBUG,InspectionThreadPool starting
+2026-10-07 16:02:21,DEBUG,InspectionThread #1 starting
+2026-10-07 16:02:21,DEBUG,InspectionThread #2 starting
+2026-10-07 16:02:21,DEBUG,InspectionThread #3 starting
+2026-10-07 16:02:21,DEBUG,InspectionThread #4 starting
+2026-10-07 16:02:21,DEBUG,DownloadThreadPool starting
+2026-10-07 16:02:21,DEBUG,DownloadThread #1 starting
+2026-10-07 16:02:21,DEBUG,DownloadThread #2 starting
+2026-10-07 16:02:21,DEBUG,DownloadThread #3 starting
+2026-10-07 16:02:21,DEBUG,DownloadThread #4 starting
+2026-10-07 16:02:21,DEBUG,DisconnectionThreadPool starting
+2026-10-07 16:02:21,DEBUG,DisconnectionThread #1 starting
+2026-10-07 16:02:21,DEBUG,DisconnectionThread #2 starting
+2026-10-07 16:02:21,DEBUG,DisconnectionThread #3 starting
+2026-10-07 16:02:21,DEBUG,DisconnectionThread #4 starting
+2026-10-07 16:02:21,DEBUG,DisconnectionThread #5 starting
+2026-10-07 16:02:21,DEBUG,DisconnectionThread #6 starting
+2026-10-07 16:02:21,DEBUG,DisconnectionThread #7 starting
+2026-10-07 16:02:21,DEBUG,DisconnectionThread #8 starting
+2026-10-07 16:02:21,INFO,Thread pools started
+2026-10-07 16:02:21,DEBUG,motion-946 detected at 192.168.0.239
+2026-10-07 16:02:21,INFO,motion-946 is connected
+2026-10-07 16:02:22,DEBUG,motion-946 firmware is approved (9010 (3232) Weymouth SW)
+2026-10-07 16:02:22,DEBUG,motion-946 storage is 0% full
+2026-10-07 16:02:22,INFO,motion-946 battery level is 76%
+2026-10-07 16:02:22,INFO,motion-946 HOB946RIC_946_20261005_145425.oao queued - 0.1 MiB, 1.3 hours, 4.8 km, 3.0 knots (500m)
+2026-10-07 16:02:22,INFO,motion-946 HOB946RIC_946_20261007_095549.oao queued - 1.8 MiB, 7.0 hours, 63.3 km, 38.1 knots (500m)
+2026-10-07 16:02:22,INFO,motion-946 HOB946RIC_946_20261005_145425.oao downloaded - 0.1 MiB, 1.3 hours, 4.8 km, 3.0 knots (500m)
+2026-10-07 16:02:25,INFO,motion-946 HOB946RIC_946_20261007_095549.oao downloaded - 1.8 MiB, 7.0 hours, 63.3 km, 38.1 knots (500m)
+2026-10-07 16:02:25,INFO,motion-946 can be disconnected
+2026-10-07 16:02:46,DEBUG,motion-946 has been disconnected
+2026-10-07 16:02:51,DEBUG,motion-946 detected at 192.168.0.239
+2026-10-07 16:02:52,DEBUG,motion-946 not accepting connections
+2026-10-07 16:02:56,DEBUG,motion-946 detected at 192.168.0.239
+2026-10-07 16:02:57,DEBUG,motion-946 not accepting connections
+2026-10-07 16:03:01,DEBUG,motion-946 detected at 192.168.0.239
+2026-10-07 16:03:02,DEBUG,motion-946 not accepting connections
+2026-10-07 16:03:06,DEBUG,motion-946 detected at 192.168.0.239
+2026-10-07 16:03:07,DEBUG,motion-946 not accepting connections
+2026-10-07 16:03:11,DEBUG,motion-946 detected at 192.168.0.239
+2026-10-07 16:03:12,DEBUG,motion-946 not accepting connections
+2026-10-07 16:03:16,DEBUG,motion-946 detected at 192.168.0.239
+2026-10-07 16:03:17,DEBUG,motion-946 not accepting connections
+2026-10-07 16:03:21,DEBUG,motion-946 detected at 192.168.0.239
+2026-10-07 16:03:22,DEBUG,motion-946 not accepting connections
+2026-10-07 16:03:26,DEBUG,motion-946 detected at 192.168.0.239
+2026-10-07 16:03:27,DEBUG,motion-946 not accepting connections
+2026-10-07 16:04:11,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-07 16:04:41,DEBUG,motion-935 detected at 192.168.0.182
+2026-10-07 16:04:41,DEBUG,motion-872 detected at 192.168.0.178
+2026-10-07 16:04:42,DEBUG,motion-935 not accepting connections
+2026-10-07 16:04:42,DEBUG,motion-872 not accepting connections
+2026-10-07 16:04:46,DEBUG,motion-935 detected at 192.168.0.182
+2026-10-07 16:04:46,INFO,motion-935 is connected
+2026-10-07 16:04:46,DEBUG,motion-872 detected at 192.168.0.178
+2026-10-07 16:04:46,INFO,motion-872 is connected
+2026-10-07 16:04:47,DEBUG,motion-872 firmware is approved (9010 (3232) Weymouth SW)
+2026-10-07 16:04:47,DEBUG,motion-872 storage is 0% full
+2026-10-07 16:04:47,INFO,motion-872 battery level is 76%
+2026-10-07 16:04:47,DEBUG,motion-935 firmware is approved (9010 (3232) Weymouth SW)
+2026-10-07 16:04:47,DEBUG,motion-935 storage is 0% full
+2026-10-07 16:04:47,WARNING,motion-935 battery level is 48%
+2026-10-07 16:04:48,INFO,motion-935 GIB935JEN_935_20261007_094148.oao queued - 2.2 MiB, 7.4 hours, 84.2 km, 31.4 knots (500m)
+2026-10-07 16:04:48,INFO,motion-872 LOR872BRE_872_20261007_094443.oao queued - 1.2 MiB, 3.9 hours, 46.7 km, 29.3 knots (500m)
+2026-10-07 16:04:48,INFO,motion-872 LOR872BRE_872_20261007_134321.oao queued - 2.0 MiB, 3.4 hours, 67.8 km, 32.5 knots (500m)
+2026-10-07 16:04:50,INFO,motion-872 LOR872BRE_872_20261007_094443.oao downloaded - 1.2 MiB, 3.9 hours, 46.7 km, 29.3 knots (500m)
+2026-10-07 16:04:51,INFO,motion-935 GIB935JEN_935_20261007_094148.oao downloaded - 2.2 MiB, 7.4 hours, 84.2 km, 31.4 knots (500m)
+2026-10-07 16:04:51,INFO,motion-935 can be disconnected
+2026-10-07 16:04:53,INFO,motion-872 LOR872BRE_872_20261007_134321.oao downloaded - 2.0 MiB, 3.4 hours, 67.8 km, 32.5 knots (500m)
+2026-10-07 16:04:53,INFO,motion-872 can be disconnected
+2026-10-07 16:05:16,DEBUG,motion-935 has been disconnected
+2026-10-07 16:05:16,DEBUG,motion-872 has been disconnected
+2026-10-07 16:05:16,DEBUG,motion-935 detected at 192.168.0.182
+2026-10-07 16:05:16,DEBUG,motion-872 detected at 192.168.0.178
+2026-10-07 16:05:17,DEBUG,motion-935 not accepting connections
+2026-10-07 16:05:17,DEBUG,motion-872 not accepting connections
+2026-10-07 16:05:21,DEBUG,motion-935 detected at 192.168.0.182
+2026-10-07 16:05:21,DEBUG,motion-872 detected at 192.168.0.178
+2026-10-07 16:05:22,DEBUG,motion-935 not accepting connections
+2026-10-07 16:05:22,DEBUG,motion-872 not accepting connections
+2026-10-07 16:05:26,DEBUG,motion-935 detected at 192.168.0.182
+2026-10-07 16:05:26,DEBUG,motion-872 detected at 192.168.0.178
+2026-10-07 16:05:27,DEBUG,motion-935 not accepting connections
+2026-10-07 16:05:27,DEBUG,motion-872 not accepting connections
+2026-10-07 16:05:31,DEBUG,motion-935 detected at 192.168.0.182
+2026-10-07 16:05:31,DEBUG,motion-872 detected at 192.168.0.178
+2026-10-07 16:05:32,DEBUG,motion-935 not accepting connections
+2026-10-07 16:05:32,DEBUG,motion-872 not accepting connections
+2026-10-07 16:05:36,DEBUG,motion-935 detected at 192.168.0.182
+2026-10-07 16:05:36,DEBUG,motion-872 detected at 192.168.0.178
+2026-10-07 16:05:37,DEBUG,motion-935 not accepting connections
+2026-10-07 16:05:37,DEBUG,motion-872 not accepting connections
+2026-10-07 16:11:26,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-07 16:14:06,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-07 16:15:01,DEBUG,motion-656 detected at 192.168.0.162
+2026-10-07 16:15:01,INFO,motion-656 is connected
+2026-10-07 16:15:01,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-07 16:15:01,DEBUG,motion-822 detected at 192.168.0.226
+2026-10-07 16:15:02,INFO,motion-822 is connected
+2026-10-07 16:15:02,DEBUG,motion-656 firmware is approved (9010 (3232) Weymouth SW)
+2026-10-07 16:15:02,DEBUG,motion-656 storage is 0% full
+2026-10-07 16:15:02,INFO,motion-656 battery level is 66%
+2026-10-07 16:15:03,DEBUG,motion-822 firmware is approved (9008 Weymouth SW (3232))
+2026-10-07 16:15:03,DEBUG,motion-822 storage is 0% full
+2026-10-07 16:15:03,INFO,motion-822 battery level is 69%
+2026-10-07 16:15:03,INFO,motion-656 THO656RUS_656_20261007_150325.oao queued - 1.0 MiB, 2.2 hours, 23.4 km, 23.2 knots (500m)
+2026-10-07 16:15:03,DEBUG,motion-822 PET822SIM_822_20261003_141831.oao skipped - 0.0 MiB, 1.7 hours, 0.7 km, 0.0 knots (500m)
+2026-10-07 16:15:03,INFO,motion-822 PET822SIM_822_20261007_094317.oao queued - 2.2 MiB, 7.5 hours, 64.1 km, 31.6 knots (500m)
+2026-10-07 16:15:05,INFO,motion-656 THO656RUS_656_20261007_150325.oao downloaded - 1.0 MiB, 2.2 hours, 23.4 km, 23.2 knots (500m)
+2026-10-07 16:15:05,INFO,motion-656 can be disconnected
+2026-10-07 16:15:07,INFO,motion-822 PET822SIM_822_20261007_094317.oao downloaded - 2.2 MiB, 7.5 hours, 64.1 km, 31.6 knots (500m)
+2026-10-07 16:15:07,INFO,motion-822 can be disconnected
+2026-10-07 16:16:06,DEBUG,motion-822 has been disconnected
+2026-10-07 16:16:06,INFO,Keyboard interrupt
+2026-10-07 16:16:06,INFO,Stopping thread pools
+2026-10-07 16:16:06,DEBUG,DetectionThreadPool finished
+2026-10-07 16:16:07,DEBUG,DetectionThread #1 finished
+2026-10-07 16:16:07,DEBUG,DetectionThread #2 finished
+2026-10-07 16:16:07,DEBUG,DetectionThread #3 finished
+2026-10-07 16:16:07,DEBUG,DetectionThread #4 finished
+2026-10-07 16:16:07,DEBUG,DetectionThread #5 finished
+2026-10-07 16:16:07,DEBUG,DetectionThread #6 finished
+2026-10-07 16:16:07,DEBUG,DetectionThread #7 finished
+2026-10-07 16:16:07,DEBUG,DetectionThread #8 finished
+2026-10-07 16:16:07,DEBUG,InspectionThreadPool finished
+2026-10-07 16:16:07,DEBUG,InspectionThread #1 finished
+2026-10-07 16:16:07,DEBUG,InspectionThread #2 finished
+2026-10-07 16:16:07,DEBUG,InspectionThread #3 finished
+2026-10-07 16:16:07,DEBUG,InspectionThread #4 finished
+2026-10-07 16:16:07,DEBUG,DownloadThreadPool finished
+2026-10-07 16:16:07,DEBUG,DownloadThread #1 finished
+2026-10-07 16:16:07,DEBUG,DownloadThread #2 finished
+2026-10-07 16:16:07,DEBUG,DownloadThread #3 finished
+2026-10-07 16:16:07,DEBUG,DownloadThread #4 finished
+2026-10-07 16:16:07,DEBUG,DisconnectionThreadPool finished
+2026-10-07 16:16:07,DEBUG,DisconnectionThread #1 finished
+2026-10-07 16:16:07,DEBUG,DisconnectionThread #2 finished
+2026-10-07 16:16:07,DEBUG,DisconnectionThread #3 finished
+2026-10-07 16:16:07,DEBUG,DisconnectionThread #4 finished
+2026-10-07 16:16:07,DEBUG,DisconnectionThread #5 finished
+2026-10-07 16:16:07,DEBUG,DisconnectionThread #6 finished
+2026-10-07 16:16:07,DEBUG,DisconnectionThread #7 finished
+2026-10-07 16:16:07,DEBUG,DisconnectionThread #8 finished
+2026-10-07 16:16:07,INFO,Thread pools stopped
+2026-10-07 16:17:34,INFO,Starting thread pools
+2026-10-07 16:17:34,DEBUG,DetectionThreadPool starting
+2026-10-07 16:17:34,DEBUG,DetectionThread #1 starting
+2026-10-07 16:17:34,DEBUG,DetectionThread #2 starting
+2026-10-07 16:17:34,DEBUG,DetectionThread #3 starting
+2026-10-07 16:17:34,DEBUG,DetectionThread #4 starting
+2026-10-07 16:17:34,DEBUG,DetectionThread #5 starting
+2026-10-07 16:17:34,DEBUG,DetectionThread #6 starting
+2026-10-07 16:17:34,DEBUG,DetectionThread #7 starting
+2026-10-07 16:17:34,DEBUG,DetectionThread #8 starting
+2026-10-07 16:17:34,DEBUG,InspectionThreadPool starting
+2026-10-07 16:17:34,DEBUG,InspectionThread #1 starting
+2026-10-07 16:17:34,DEBUG,InspectionThread #2 starting
+2026-10-07 16:17:34,DEBUG,InspectionThread #3 starting
+2026-10-07 16:17:34,DEBUG,InspectionThread #4 starting
+2026-10-07 16:17:34,DEBUG,DownloadThreadPool starting
+2026-10-07 16:17:34,DEBUG,DownloadThread #1 starting
+2026-10-07 16:17:34,DEBUG,DownloadThread #2 starting
+2026-10-07 16:17:34,DEBUG,DownloadThread #3 starting
+2026-10-07 16:17:34,DEBUG,DownloadThread #4 starting
+2026-10-07 16:17:34,DEBUG,DisconnectionThreadPool starting
+2026-10-07 16:17:34,DEBUG,DisconnectionThread #1 starting
+2026-10-07 16:17:34,DEBUG,DisconnectionThread #2 starting
+2026-10-07 16:17:34,DEBUG,DisconnectionThread #3 starting
+2026-10-07 16:17:34,DEBUG,DisconnectionThread #4 starting
+2026-10-07 16:17:34,DEBUG,DisconnectionThread #5 starting
+2026-10-07 16:17:34,DEBUG,DisconnectionThread #6 starting
+2026-10-07 16:17:34,DEBUG,DisconnectionThread #7 starting
+2026-10-07 16:17:34,DEBUG,DisconnectionThread #8 starting
+2026-10-07 16:17:34,INFO,Thread pools started
+2026-10-07 16:18:04,INFO,Keyboard interrupt
+2026-10-07 16:18:04,INFO,Stopping thread pools
+2026-10-07 16:18:04,DEBUG,DetectionThreadPool finished
+2026-10-07 16:18:05,DEBUG,DetectionThread #1 finished
+2026-10-07 16:18:05,DEBUG,DetectionThread #2 finished
+2026-10-07 16:18:05,DEBUG,DetectionThread #3 finished
+2026-10-07 16:18:05,DEBUG,DetectionThread #4 finished
+2026-10-07 16:18:05,DEBUG,DetectionThread #5 finished
+2026-10-07 16:18:05,DEBUG,DetectionThread #6 finished
+2026-10-07 16:18:05,DEBUG,DetectionThread #7 finished
+2026-10-07 16:18:05,DEBUG,DetectionThread #8 finished
+2026-10-07 16:18:05,DEBUG,InspectionThreadPool finished
+2026-10-07 16:18:05,DEBUG,InspectionThread #1 finished
+2026-10-07 16:18:05,DEBUG,InspectionThread #2 finished
+2026-10-07 16:18:05,DEBUG,InspectionThread #3 finished
+2026-10-07 16:18:05,DEBUG,InspectionThread #4 finished
+2026-10-07 16:18:05,DEBUG,DownloadThreadPool finished
+2026-10-07 16:18:05,DEBUG,DownloadThread #1 finished
+2026-10-07 16:18:05,DEBUG,DownloadThread #2 finished
+2026-10-07 16:18:05,DEBUG,DownloadThread #3 finished
+2026-10-07 16:18:05,DEBUG,DownloadThread #4 finished
+2026-10-07 16:18:05,DEBUG,DisconnectionThreadPool finished
+2026-10-07 16:18:05,DEBUG,DisconnectionThread #1 finished
+2026-10-07 16:18:05,DEBUG,DisconnectionThread #2 finished
+2026-10-07 16:18:05,DEBUG,DisconnectionThread #3 finished
+2026-10-07 16:18:05,DEBUG,DisconnectionThread #4 finished
+2026-10-07 16:18:05,DEBUG,DisconnectionThread #5 finished
+2026-10-07 16:18:05,DEBUG,DisconnectionThread #6 finished
+2026-10-07 16:18:05,DEBUG,DisconnectionThread #7 finished
+2026-10-07 16:18:05,DEBUG,DisconnectionThread #8 finished
+2026-10-07 16:18:05,INFO,Thread pools stopped
+2026-10-07 16:18:15,INFO,Starting thread pools
+2026-10-07 16:18:15,DEBUG,DetectionThreadPool starting
+2026-10-07 16:18:15,DEBUG,DetectionThread #1 starting
+2026-10-07 16:18:15,DEBUG,DetectionThread #2 starting
+2026-10-07 16:18:15,DEBUG,DetectionThread #3 starting
+2026-10-07 16:18:15,DEBUG,DetectionThread #4 starting
+2026-10-07 16:18:15,DEBUG,DetectionThread #5 starting
+2026-10-07 16:18:15,DEBUG,DetectionThread #6 starting
+2026-10-07 16:18:15,DEBUG,DetectionThread #7 starting
+2026-10-07 16:18:15,DEBUG,DetectionThread #8 starting
+2026-10-07 16:18:15,DEBUG,InspectionThreadPool starting
+2026-10-07 16:18:15,DEBUG,InspectionThread #1 starting
+2026-10-07 16:18:15,DEBUG,InspectionThread #2 starting
+2026-10-07 16:18:15,DEBUG,InspectionThread #3 starting
+2026-10-07 16:18:15,DEBUG,InspectionThread #4 starting
+2026-10-07 16:18:15,DEBUG,DownloadThreadPool starting
+2026-10-07 16:18:15,DEBUG,DownloadThread #1 starting
+2026-10-07 16:18:15,DEBUG,DownloadThread #2 starting
+2026-10-07 16:18:15,DEBUG,DownloadThread #3 starting
+2026-10-07 16:18:15,DEBUG,DownloadThread #4 starting
+2026-10-07 16:18:15,DEBUG,DisconnectionThreadPool starting
+2026-10-07 16:18:15,DEBUG,DisconnectionThread #1 starting
+2026-10-07 16:18:15,DEBUG,DisconnectionThread #2 starting
+2026-10-07 16:18:15,DEBUG,DisconnectionThread #3 starting
+2026-10-07 16:18:15,DEBUG,DisconnectionThread #4 starting
+2026-10-07 16:18:15,DEBUG,DisconnectionThread #5 starting
+2026-10-07 16:18:15,DEBUG,DisconnectionThread #6 starting
+2026-10-07 16:18:15,DEBUG,DisconnectionThread #7 starting
+2026-10-07 16:18:15,DEBUG,DisconnectionThread #8 starting
+2026-10-07 16:18:15,INFO,Thread pools started
+2026-10-07 16:18:15,DEBUG,motion-1035 detected at 192.168.0.150
+2026-10-07 16:18:15,INFO,motion-1035 is connected
+2026-10-07 16:18:15,DEBUG,motion-1035 firmware is approved (9010 (3232) Weymouth SW)
+2026-10-07 16:18:15,DEBUG,motion-1035 storage is 0% full
+2026-10-07 16:18:15,INFO,motion-1035 battery level is 70%
+2026-10-07 16:18:16,INFO,motion-1035 HIL1035IAN_1035_20261007_130032.oao queued - 0.9 MiB, 4.2 hours, 24.8 km, 26.5 knots (500m)
+2026-10-07 16:18:17,INFO,motion-1035 HIL1035IAN_1035_20261007_130032.oao downloaded - 0.9 MiB, 4.2 hours, 24.8 km, 26.5 knots (500m)
+2026-10-07 16:18:17,INFO,motion-1035 can be disconnected
+2026-10-07 16:18:30,DEBUG,motion-1035 has been disconnected
+2026-10-07 16:18:35,DEBUG,motion-1035 detected at 192.168.0.150
+2026-10-07 16:18:36,DEBUG,motion-1035 not accepting connections
+2026-10-07 16:18:40,DEBUG,motion-1035 detected at 192.168.0.150
+2026-10-07 16:18:41,DEBUG,motion-1035 not accepting connections
+2026-10-07 16:18:45,DEBUG,motion-1035 detected at 192.168.0.150
+2026-10-07 16:18:46,DEBUG,motion-1035 not accepting connections
+2026-10-07 16:18:50,DEBUG,motion-1035 detected at 192.168.0.150
+2026-10-07 16:18:51,DEBUG,motion-1035 not accepting connections
+2026-10-07 16:18:55,DEBUG,motion-1035 detected at 192.168.0.150
+2026-10-07 16:18:56,DEBUG,motion-1035 not accepting connections
+2026-10-07 16:19:00,DEBUG,motion-1035 detected at 192.168.0.150
+2026-10-07 16:19:01,DEBUG,motion-1035 not accepting connections
+2026-10-07 16:19:05,DEBUG,motion-1035 detected at 192.168.0.150
+2026-10-07 16:19:06,DEBUG,motion-1035 not accepting connections
+2026-10-07 16:19:10,DEBUG,motion-1035 detected at 192.168.0.150
+2026-10-07 16:19:11,DEBUG,motion-1035 not accepting connections
+2026-10-07 16:19:15,DEBUG,motion-1035 detected at 192.168.0.150
+2026-10-07 16:19:16,DEBUG,motion-1035 not accepting connections
+2026-10-07 16:19:55,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-07 16:20:45,DEBUG,motion-836 detected at 192.168.0.188
+2026-10-07 16:20:46,DEBUG,motion-836 not accepting connections
+2026-10-07 16:20:50,DEBUG,motion-836 detected at 192.168.0.188
+2026-10-07 16:20:50,INFO,motion-836 is connected
+2026-10-07 16:20:51,DEBUG,motion-836 firmware is approved (9008 Weymouth SW (3232))
+2026-10-07 16:20:51,DEBUG,motion-836 storage is 0% full
+2026-10-07 16:20:51,INFO,motion-836 battery level is 68%
+2026-10-07 16:20:52,INFO,motion-836 CRO836JIM_836_20261007_121811.oao queued - 1.5 MiB, 5.0 hours, 47.7 km, 39.9 knots (500m)
+2026-10-07 16:20:54,INFO,motion-836 CRO836JIM_836_20261007_121811.oao downloaded - 1.5 MiB, 5.0 hours, 47.7 km, 39.9 knots (500m)
+2026-10-07 16:20:54,INFO,motion-836 can be disconnected
+2026-10-07 16:20:55,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-07 16:20:55,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-07 16:20:55,INFO,motion-668 is connected
+2026-10-07 16:20:56,DEBUG,motion-663 not accepting connections
+2026-10-07 16:20:56,WARNING,motion-668 firmware is not approved (3232 Release)
+2026-10-07 16:20:56,DEBUG,motion-668 storage is 0% full
+2026-10-07 16:20:56,INFO,motion-668 battery level is 69%
+2026-10-07 16:20:56,WARNING,motion-668 GNSS rate is incorrect (1)
+2026-10-07 16:20:57,INFO,motion-668 BUOY_668_668_20261007_093039.oao queued - 1.4 MiB, 7.8 hours, 11.6 km, 9.5 knots (500m)
+2026-10-07 16:20:59,INFO,motion-668 BUOY_668_668_20261007_093039.oao downloaded - 1.4 MiB, 7.8 hours, 11.6 km, 9.5 knots (500m)
+2026-10-07 16:20:59,INFO,motion-668 can be disconnected
+2026-10-07 16:21:00,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-07 16:21:00,INFO,motion-663 is connected
+2026-10-07 16:21:01,WARNING,motion-663 firmware is not approved (3232 Release)
+2026-10-07 16:21:01,DEBUG,motion-663 storage is 0% full
+2026-10-07 16:21:01,INFO,motion-663 battery level is 67%
+2026-10-07 16:21:01,WARNING,motion-663 GNSS rate is incorrect (1)
+2026-10-07 16:21:02,INFO,motion-663 BUOY_663_663_20261007_093039.oao queued - 1.4 MiB, 7.8 hours, 10.1 km, 9.4 knots (500m)
+2026-10-07 16:21:04,INFO,motion-663 BUOY_663_663_20261007_093039.oao downloaded - 1.4 MiB, 7.8 hours, 10.1 km, 9.4 knots (500m)
+2026-10-07 16:21:04,INFO,motion-663 can be disconnected
+2026-10-07 16:21:05,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-07 16:21:05,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-07 16:21:05,INFO,motion-667 is connected
+2026-10-07 16:21:06,DEBUG,motion-664 not accepting connections
+2026-10-07 16:21:06,WARNING,motion-667 firmware is not approved (3232 Release)
+2026-10-07 16:21:06,DEBUG,motion-667 storage is 0% full
+2026-10-07 16:21:06,INFO,motion-667 battery level is 80%
+2026-10-07 16:21:06,WARNING,motion-667 GNSS rate is incorrect (1)
+2026-10-07 16:21:07,INFO,motion-667 BUOY_667_667_20261007_093029.oao queued - 1.4 MiB, 7.8 hours, 11.6 km, 9.4 knots (500m)
+2026-10-07 16:21:09,INFO,motion-667 BUOY_667_667_20261007_093029.oao downloaded - 1.4 MiB, 7.8 hours, 11.6 km, 9.4 knots (500m)
+2026-10-07 16:21:09,INFO,motion-667 can be disconnected
+2026-10-07 16:21:10,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-07 16:21:10,INFO,motion-664 is connected
+2026-10-07 16:21:11,WARNING,motion-664 firmware is not approved (3232 Release)
+2026-10-07 16:21:11,DEBUG,motion-664 storage is 0% full
+2026-10-07 16:21:11,INFO,motion-664 battery level is 73%
+2026-10-07 16:21:11,WARNING,motion-664 GNSS rate is incorrect (1)
+2026-10-07 16:21:12,INFO,motion-664 BUOY_664_664_20261007_093029.oao queued - 1.4 MiB, 7.8 hours, 10.0 km, 9.4 knots (500m)
+2026-10-07 16:21:14,INFO,motion-664 BUOY_664_664_20261007_093029.oao downloaded - 1.4 MiB, 7.8 hours, 10.0 km, 9.4 knots (500m)
+2026-10-07 16:21:14,INFO,motion-664 can be disconnected
+2026-10-07 16:21:20,DEBUG,motion-836 has been disconnected
+2026-10-07 16:21:20,DEBUG,motion-836 detected at 192.168.0.188
+2026-10-07 16:21:21,DEBUG,motion-836 not accepting connections
+2026-10-07 16:21:25,DEBUG,motion-836 detected at 192.168.0.188
+2026-10-07 16:21:26,DEBUG,motion-836 not accepting connections
+2026-10-07 16:21:30,DEBUG,motion-836 detected at 192.168.0.188
+2026-10-07 16:21:31,DEBUG,motion-836 not accepting connections
+2026-10-07 16:21:35,DEBUG,motion-836 detected at 192.168.0.188
+2026-10-07 16:21:36,DEBUG,motion-836 not accepting connections
+2026-10-07 16:21:40,DEBUG,motion-667 has been disconnected
+2026-10-07 16:21:40,DEBUG,motion-664 has been disconnected
+2026-10-07 16:21:40,DEBUG,motion-836 detected at 192.168.0.188
+2026-10-07 16:21:40,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-07 16:21:40,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-07 16:21:41,DEBUG,motion-836 not accepting connections
+2026-10-07 16:21:41,DEBUG,motion-664 not accepting connections
+2026-10-07 16:21:41,DEBUG,motion-667 not accepting connections
+2026-10-07 16:21:45,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-07 16:21:45,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-07 16:21:46,DEBUG,motion-664 not accepting connections
+2026-10-07 16:21:46,DEBUG,motion-667 not accepting connections
+2026-10-07 16:21:50,DEBUG,motion-663 has been disconnected
+2026-10-07 16:21:50,DEBUG,motion-668 has been disconnected
+2026-10-07 16:21:50,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-07 16:21:50,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-07 16:21:50,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-07 16:21:50,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-07 16:21:51,DEBUG,motion-663 not accepting connections
+2026-10-07 16:21:51,DEBUG,motion-664 not accepting connections
+2026-10-07 16:21:51,DEBUG,motion-667 not accepting connections
+2026-10-07 16:21:51,DEBUG,motion-668 not accepting connections
+2026-10-07 16:21:55,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-07 16:21:55,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-07 16:21:55,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-07 16:21:55,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-07 16:21:56,DEBUG,motion-663 not accepting connections
+2026-10-07 16:21:56,DEBUG,motion-664 not accepting connections
+2026-10-07 16:21:56,DEBUG,motion-667 not accepting connections
+2026-10-07 16:21:56,DEBUG,motion-668 not accepting connections
+2026-10-07 16:22:00,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-07 16:22:00,DEBUG,motion-667 detected at 192.168.0.184
+2026-10-07 16:22:00,DEBUG,motion-664 detected at 192.168.0.120
+2026-10-07 16:22:00,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-07 16:22:01,DEBUG,motion-663 not accepting connections
+2026-10-07 16:22:01,DEBUG,motion-664 not accepting connections
+2026-10-07 16:22:01,DEBUG,motion-667 not accepting connections
+2026-10-07 16:22:01,DEBUG,motion-668 not accepting connections
+2026-10-07 16:22:05,DEBUG,DetectionThreadPool has exceeded the interval time
+2026-10-07 16:22:05,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-07 16:22:05,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-07 16:22:06,DEBUG,motion-663 not accepting connections
+2026-10-07 16:22:06,DEBUG,motion-668 not accepting connections
+2026-10-07 16:22:10,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-07 16:22:10,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-07 16:22:11,DEBUG,motion-663 not accepting connections
+2026-10-07 16:22:11,DEBUG,motion-668 not accepting connections
+2026-10-07 16:22:15,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-07 16:22:15,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-07 16:22:16,DEBUG,motion-663 not accepting connections
+2026-10-07 16:22:16,DEBUG,motion-668 not accepting connections
+2026-10-07 16:22:20,DEBUG,motion-663 detected at 192.168.0.168
+2026-10-07 16:22:20,DEBUG,motion-668 detected at 192.168.0.148
+2026-10-07 16:22:21,DEBUG,motion-663 not accepting connections
+2026-10-07 16:22:21,DEBUG,motion-668 not accepting connections
+2026-10-07 16:22:23,INFO,Keyboard interrupt
+2026-10-07 16:22:23,INFO,Stopping thread pools
+2026-10-07 16:22:23,DEBUG,DetectionThreadPool finished
+2026-10-07 16:22:23,DEBUG,DetectionThread #1 finished
+2026-10-07 16:22:23,DEBUG,DetectionThread #2 finished
+2026-10-07 16:22:23,DEBUG,DetectionThread #3 finished
+2026-10-07 16:22:23,DEBUG,DetectionThread #4 finished
+2026-10-07 16:22:23,DEBUG,DetectionThread #5 finished
+2026-10-07 16:22:23,DEBUG,DetectionThread #6 finished
+2026-10-07 16:22:23,DEBUG,DetectionThread #7 finished
+2026-10-07 16:22:23,DEBUG,DetectionThread #8 finished
+2026-10-07 16:22:23,DEBUG,InspectionThreadPool finished
+2026-10-07 16:22:24,DEBUG,InspectionThread #1 finished
+2026-10-07 16:22:24,DEBUG,InspectionThread #2 finished
+2026-10-07 16:22:24,DEBUG,InspectionThread #3 finished
+2026-10-07 16:22:24,DEBUG,InspectionThread #4 finished
+2026-10-07 16:22:24,DEBUG,DownloadThreadPool finished
+2026-10-07 16:22:24,DEBUG,DownloadThread #1 finished
+2026-10-07 16:22:24,DEBUG,DownloadThread #2 finished
+2026-10-07 16:22:24,DEBUG,DownloadThread #3 finished
+2026-10-07 16:22:24,DEBUG,DownloadThread #4 finished
+2026-10-07 16:22:24,DEBUG,DisconnectionThreadPool finished
+2026-10-07 16:22:24,DEBUG,DisconnectionThread #1 finished
+2026-10-07 16:22:24,DEBUG,DisconnectionThread #2 finished
+2026-10-07 16:22:24,DEBUG,DisconnectionThread #3 finished
+2026-10-07 16:22:24,DEBUG,DisconnectionThread #4 finished
+2026-10-07 16:22:24,DEBUG,DisconnectionThread #5 finished
+2026-10-07 16:22:24,DEBUG,DisconnectionThread #6 finished
+2026-10-07 16:22:24,DEBUG,DisconnectionThread #7 finished
+2026-10-07 16:22:24,DEBUG,DisconnectionThread #8 finished
+2026-10-07 16:22:24,INFO,Thread pools stopped

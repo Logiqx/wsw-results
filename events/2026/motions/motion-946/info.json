@@ -1,8 +1,8 @@
 {
   "motion": {
     "wifi": "station",
-    "username": "WSW",
-    "identifier": 872,
+    "username": "Richard Hobson",
+    "identifier": 946,
     "hardware": {
       "code": 108,
       "name": "Wireless Mini M10"
@@ -21,7 +21,7 @@
     },
     "units": {
       "speed": "kn",
-      "distance": "km"
+      "distance": "nm"
     }
   }
 }

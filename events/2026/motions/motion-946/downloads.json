@@ -1,0 +1,28 @@
+{
+  "HOB946RIC_946_20261005_145425.oao": {
+    "motion_file": "/logs/2026/10/0946_2026-10-05-1454.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261005/HOB946RIC_946_20261005_145425.oao",
+    "size": 103508,
+    "start_date": 1791208465000,
+    "end_date": 1791213123000,
+    "duration": 4658000,
+    "distance": 4836054,
+    "2s_best": 3205,
+    "10s_best": 2717,
+    "500m_best": 1532,
+    "status": "completed"
+  },
+  "HOB946RIC_946_20261007_095549.oao": {
+    "motion_file": "/logs/2026/10/0946_2026-10-07-0955.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/HOB946RIC_946_20261007_095549.oao",
+    "size": 1883988,
+    "start_date": 1791363349000,
+    "end_date": 1791388551000,
+    "duration": 25202000,
+    "distance": 63318777,
+    "2s_best": 20371,
+    "10s_best": 20027,
+    "500m_best": 19584,
+    "status": "completed"
+  }
+}

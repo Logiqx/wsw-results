@@ -1,0 +1,15 @@
+{
+  "HIL1035IAN_1035_20261007_130032.oao": {
+    "motion_file": "/logs/2026/10/1035_2026-10-07-1300.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/HIL1035IAN_1035_20261007_130032.oao",
+    "size": 893804,
+    "start_date": 1791374432000,
+    "end_date": 1791389679000,
+    "duration": 15247000,
+    "distance": 24826371,
+    "2s_best": 15076,
+    "10s_best": 14394,
+    "500m_best": 13608,
+    "status": "completed"
+  }
+}

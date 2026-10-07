@@ -1,0 +1,28 @@
+{
+  "PET822SIM_822_20261003_141831.oao": {
+    "motion_file": "/logs/2026/10/0822_2026-10-03-1418.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261003/PET822SIM_822_20261003_141831.oao",
+    "size": 3408,
+    "start_date": 1791033511000,
+    "end_date": 1791039503000,
+    "duration": 5992000,
+    "distance": 675714,
+    "2s_best": 1895,
+    "10s_best": 1631,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "PET822SIM_822_20261007_094317.oao": {
+    "motion_file": "/logs/2026/10/0822_2026-10-07-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/PET822SIM_822_20261007_094317.oao",
+    "size": 2307580,
+    "start_date": 1791362597000,
+    "end_date": 1791389683000,
+    "duration": 27086000,
+    "distance": 64126673,
+    "2s_best": 17099,
+    "10s_best": 16805,
+    "500m_best": 16241,
+    "status": "completed"
+  }
+}

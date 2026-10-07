@@ -1,0 +1,15 @@
+{
+  "THO656RUS_656_20261007_150325.oao": {
+    "motion_file": "/logs/2026/10/0656_2026-10-07-1503.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/THO656RUS_656_20261007_150325.oao",
+    "size": 1076532,
+    "start_date": 1791381805000,
+    "end_date": 1791389677000,
+    "duration": 7872000,
+    "distance": 23446552,
+    "2s_best": 13411,
+    "10s_best": 12999,
+    "500m_best": 11921,
+    "status": "completed"
+  }
+}
