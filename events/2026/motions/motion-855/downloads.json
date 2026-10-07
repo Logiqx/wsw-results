@@ -11,5 +11,18 @@
     "10s_best": 2447,
     "500m_best": 1997,
     "status": "completed"
+  },
+  "SMI855BAR_855_20261007_103431.oao": {
+    "motion_file": "/logs/2026/10/0855_2026-10-07-1034.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/SMI855BAR_855_20261007_103431.oao",
+    "size": 1194572,
+    "start_date": 1791365671000,
+    "end_date": 1791383725000,
+    "duration": 18054000,
+    "distance": 22206051,
+    "2s_best": 7504,
+    "10s_best": 7165,
+    "500m_best": 6247,
+    "status": "completed"
   }
 }

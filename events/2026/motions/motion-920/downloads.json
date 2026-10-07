@@ -1,0 +1,15 @@
+{
+  "PAL920MAR_920_20261007_124915.oao": {
+    "motion_file": "/logs/2026/10/0920_2026-10-07-1249.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/PAL920MAR_920_20261007_124915.oao",
+    "size": 1877696,
+    "start_date": 1791373755000,
+    "end_date": 1791386064000,
+    "duration": 12309000,
+    "distance": 59880326,
+    "2s_best": 14620,
+    "10s_best": 14295,
+    "500m_best": 13971,
+    "status": "completed"
+  }
+}

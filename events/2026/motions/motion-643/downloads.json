@@ -1,0 +1,15 @@
+{
+  "SHE643IAN_643_20261007_094509.oao": {
+    "motion_file": "/logs/2026/10/0643_2026-10-07-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/SHE643IAN_643_20261007_094509.oao",
+    "size": 1445316,
+    "start_date": 1791362709000,
+    "end_date": 1791386193000,
+    "duration": 23484000,
+    "distance": 43330790,
+    "2s_best": 12684,
+    "10s_best": 12440,
+    "500m_best": 12032,
+    "status": "completed"
+  }
+}

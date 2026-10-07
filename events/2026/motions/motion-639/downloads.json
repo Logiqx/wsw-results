@@ -1,0 +1,15 @@
+{
+  "COL639AND_639_20261007_094725.oao": {
+    "motion_file": "/logs/2026/10/0639_2026-10-07-0947.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/COL639AND_639_20261007_094725.oao",
+    "size": 1710672,
+    "start_date": 1791362845000,
+    "end_date": 1791385715000,
+    "duration": 22870000,
+    "distance": 55192947,
+    "2s_best": 14501,
+    "10s_best": 14217,
+    "500m_best": 13787,
+    "status": "completed"
+  }
+}

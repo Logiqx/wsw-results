@@ -1,0 +1,15 @@
+{
+  "OLI858JOH_858_20261007_095655.oao": {
+    "motion_file": "/logs/2026/10/0858_2026-10-07-0956.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/OLI858JOH_858_20261007_095655.oao",
+    "size": 1188852,
+    "start_date": 1791363415000,
+    "end_date": 1791383003000,
+    "duration": 19588000,
+    "distance": 40662458,
+    "2s_best": 14756,
+    "10s_best": 14351,
+    "500m_best": 13775,
+    "status": "completed"
+  }
+}

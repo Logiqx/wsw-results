@@ -1,0 +1,15 @@
+{
+  "DUD978RIC_978_20261007_115019.oao": {
+    "motion_file": "/logs/2026/10/0978_2026-10-07-1150.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/DUD978RIC_978_20261007_115019.oao",
+    "size": 1718992,
+    "start_date": 1791370219000,
+    "end_date": 1791385625000,
+    "duration": 15406000,
+    "distance": 41268491,
+    "2s_best": 13827,
+    "10s_best": 13491,
+    "500m_best": 13002,
+    "status": "completed"
+  }
+}

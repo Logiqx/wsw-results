@@ -1,0 +1,15 @@
+{
+  "REE813MAR_813_20261007_132425.oao": {
+    "motion_file": "/logs/2026/10/0813_2026-10-07-1324.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/REE813MAR_813_20261007_132425.oao",
+    "size": 1096084,
+    "start_date": 1791375865000,
+    "end_date": 1791386219000,
+    "duration": 10354000,
+    "distance": 23773237,
+    "2s_best": 11579,
+    "10s_best": 11004,
+    "500m_best": 10350,
+    "status": "completed"
+  }
+}

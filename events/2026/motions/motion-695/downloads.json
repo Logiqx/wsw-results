@@ -1,0 +1,15 @@
+{
+  "DAV695STE_695_20261007_094422.oao": {
+    "motion_file": "/logs/2026/10/0695_2026-10-07-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/DAV695STE_695_20261007_094422.oao",
+    "size": 1486396,
+    "start_date": 1791362662000,
+    "end_date": 1791382027000,
+    "duration": 19365000,
+    "distance": 44492055,
+    "2s_best": 22789,
+    "10s_best": 22271,
+    "500m_best": 21883,
+    "status": "completed"
+  }
+}

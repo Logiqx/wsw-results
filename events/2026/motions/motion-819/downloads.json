@@ -1,0 +1,15 @@
+{
+  "WAT819JOE_819_20261007_094819.oao": {
+    "motion_file": "/logs/2026/10/0819_2026-10-07-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/WAT819JOE_819_20261007_094819.oao",
+    "size": 1044552,
+    "start_date": 1791362899000,
+    "end_date": 1791382979000,
+    "duration": 20080000,
+    "distance": 28234851,
+    "2s_best": 11062,
+    "10s_best": 10563,
+    "500m_best": 10378,
+    "status": "completed"
+  }
+}

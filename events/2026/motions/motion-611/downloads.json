@@ -1,0 +1,15 @@
+{
+  "COL611ANN_611_20261007_094606.oao": {
+    "motion_file": "/logs/2026/10/0611_2026-10-07-0946.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/COL611ANN_611_20261007_094606.oao",
+    "size": 1378444,
+    "start_date": 1791362766000,
+    "end_date": 1791385753000,
+    "duration": 22987000,
+    "distance": 37877802,
+    "2s_best": 13420,
+    "10s_best": 13100,
+    "500m_best": 12877,
+    "status": "completed"
+  }
+}

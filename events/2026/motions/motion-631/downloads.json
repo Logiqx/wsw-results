@@ -1,0 +1,15 @@
+{
+  "SAN631SIM_631_20261007_101905.oao": {
+    "motion_file": "/logs/2026/10/0631_2026-10-07-1019.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/SAN631SIM_631_20261007_101905.oao",
+    "size": 134084,
+    "start_date": 1791364745000,
+    "end_date": 1791380891000,
+    "duration": 16146000,
+    "distance": 7531387,
+    "2s_best": 26057,
+    "10s_best": 25638,
+    "500m_best": 24703,
+    "status": "completed"
+  }
+}

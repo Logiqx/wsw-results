@@ -1,0 +1,15 @@
+{
+  "MAY806SCO_806_20261007_094549.oao": {
+    "motion_file": "/logs/2026/10/0806_2026-10-07-0945.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/MAY806SCO_806_20261007_094549.oao",
+    "size": 1697360,
+    "start_date": 1791362749000,
+    "end_date": 1791384823000,
+    "duration": 22074000,
+    "distance": 43921925,
+    "2s_best": 14183,
+    "10s_best": 13733,
+    "500m_best": 13309,
+    "status": "completed"
+  }
+}

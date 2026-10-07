@@ -1,0 +1,15 @@
+{
+  "ING801MAR_801_20261007_094807.oao": {
+    "motion_file": "/logs/2026/10/0801_2026-10-07-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/ING801MAR_801_20261007_094807.oao",
+    "size": 901656,
+    "start_date": 1791362887000,
+    "end_date": 1791388007000,
+    "duration": 25120000,
+    "distance": 32321645,
+    "2s_best": 15651,
+    "10s_best": 15050,
+    "500m_best": 13892,
+    "status": "completed"
+  }
+}

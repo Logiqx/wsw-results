@@ -1,0 +1,28 @@
+{
+  "DIN812JAM_812_20261007_094831.oao": {
+    "motion_file": "/logs/2026/10/0812_2026-10-07-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/DIN812JAM_812_20261007_094831.oao",
+    "size": 1595232,
+    "start_date": 1791362911000,
+    "end_date": 1791379479000,
+    "duration": 16568000,
+    "distance": 58746603,
+    "2s_best": 15680,
+    "10s_best": 15297,
+    "500m_best": 15021,
+    "status": "completed"
+  },
+  "DIN812JAM_812_20261007_142953.oao": {
+    "motion_file": "/logs/2026/10/0812_2026-10-07-1429.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/DIN812JAM_812_20261007_142953.oao",
+    "size": 703848,
+    "start_date": 1791379793000,
+    "end_date": 1791385053000,
+    "duration": 5260000,
+    "distance": 22674295,
+    "2s_best": 16108,
+    "10s_best": 15704,
+    "500m_best": 14997,
+    "status": "completed"
+  }
+}

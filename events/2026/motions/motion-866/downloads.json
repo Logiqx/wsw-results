@@ -1,0 +1,15 @@
+{
+  "CRO866ALL_866_20261007_094419.oao": {
+    "motion_file": "/logs/2026/10/0866_2026-10-07-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/CRO866ALL_866_20261007_094419.oao",
+    "size": 205584,
+    "start_date": 1791362659000,
+    "end_date": 1791378585000,
+    "duration": 15926000,
+    "distance": 5124548,
+    "2s_best": 8922,
+    "10s_best": 8458,
+    "500m_best": 7420,
+    "status": "completed"
+  }
+}

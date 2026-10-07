@@ -1,0 +1,15 @@
+{
+  "MAR817EDD_817_20261007_132131.oao": {
+    "motion_file": "/logs/2026/10/0817_2026-10-07-1321.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/MAR817EDD_817_20261007_132131.oao",
+    "size": 359036,
+    "start_date": 1791375691000,
+    "end_date": 1791384253000,
+    "duration": 8562000,
+    "distance": 9944905,
+    "2s_best": 13968,
+    "10s_best": 13737,
+    "500m_best": 13259,
+    "status": "completed"
+  }
+}

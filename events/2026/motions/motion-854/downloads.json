@@ -1,0 +1,15 @@
+{
+  "DVO854PAV_854_20261007_094341.oao": {
+    "motion_file": "/logs/2026/10/0854_2026-10-07-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/DVO854PAV_854_20261007_094341.oao",
+    "size": 2604812,
+    "start_date": 1791362621000,
+    "end_date": 1791386413000,
+    "duration": 23792000,
+    "distance": 74905550,
+    "2s_best": 15713,
+    "10s_best": 15070,
+    "500m_best": 14666,
+    "status": "completed"
+  }
+}

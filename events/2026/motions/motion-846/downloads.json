@@ -1,0 +1,28 @@
+{
+  "BUR846EMI_846_20261005_132039.oao": {
+    "motion_file": "/logs/2026/10/0846_2026-10-05-1320.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261005/BUR846EMI_846_20261005_132039.oao",
+    "size": 779404,
+    "start_date": 1791202839000,
+    "end_date": 1791214885000,
+    "duration": 12046000,
+    "distance": 18377803,
+    "2s_best": 22053,
+    "10s_best": 21864,
+    "500m_best": 21166,
+    "status": "completed"
+  },
+  "BUR846EMI_846_20261007_115717.oao": {
+    "motion_file": "/logs/2026/10/0846_2026-10-07-1157.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/BUR846EMI_846_20261007_115717.oao",
+    "size": 808264,
+    "start_date": 1791370637000,
+    "end_date": 1791384113000,
+    "duration": 13476000,
+    "distance": 25784423,
+    "2s_best": 19395,
+    "10s_best": 19124,
+    "500m_best": 18488,
+    "status": "completed"
+  }
+}

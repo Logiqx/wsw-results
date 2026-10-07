@@ -1,0 +1,15 @@
+{
+  "LIL804MAT_804_20261007_095419.oao": {
+    "motion_file": "/logs/2026/10/0804_2026-10-07-0954.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/LIL804MAT_804_20261007_095419.oao",
+    "size": 883404,
+    "start_date": 1791363259000,
+    "end_date": 1791381793000,
+    "duration": 18534000,
+    "distance": 23045338,
+    "2s_best": 12444,
+    "10s_best": 12245,
+    "500m_best": 11495,
+    "status": "completed"
+  }
+}

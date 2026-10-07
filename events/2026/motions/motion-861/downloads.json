@@ -1,0 +1,15 @@
+{
+  "HAR861SIA_861_20261007_104241.oao": {
+    "motion_file": "/logs/2026/10/0861_2026-10-07-1042.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/HAR861SIA_861_20261007_104241.oao",
+    "size": 904256,
+    "start_date": 1791366161000,
+    "end_date": 1791381763000,
+    "duration": 15602000,
+    "distance": 19975903,
+    "2s_best": 11202,
+    "10s_best": 10893,
+    "500m_best": 10564,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "DIC998FIN_998_20261007_111617.oao": {
+    "motion_file": "/logs/2026/10/0998_2026-10-07-1116.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/DIC998FIN_998_20261007_111617.oao",
+    "size": 2108524,
+    "start_date": 1791368177000,
+    "end_date": 1791384975000,
+    "duration": 16798000,
+    "distance": 59605888,
+    "2s_best": 14840,
+    "10s_best": 14297,
+    "500m_best": 13363,
+    "status": "completed"
+  }
+}

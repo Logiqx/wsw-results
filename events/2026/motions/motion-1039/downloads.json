@@ -1,0 +1,15 @@
+{
+  "MEY1039NEI_1039_20261007_094149.oao": {
+    "motion_file": "/logs/2026/10/1039_2026-10-07-0941.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/MEY1039NEI_1039_20261007_094149.oao",
+    "size": 1663560,
+    "start_date": 1791362509000,
+    "end_date": 1791384609000,
+    "duration": 22100000,
+    "distance": 46317479,
+    "2s_best": 15537,
+    "10s_best": 15072,
+    "500m_best": 14398,
+    "status": "completed"
+  }
+}

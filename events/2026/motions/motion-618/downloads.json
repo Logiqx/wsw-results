@@ -1,0 +1,15 @@
+{
+  "MAR618PET_618_20261007_095139.oao": {
+    "motion_file": "/logs/2026/10/0618_2026-10-07-0951.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/MAR618PET_618_20261007_095139.oao",
+    "size": 481756,
+    "start_date": 1791363099000,
+    "end_date": 1791378789000,
+    "duration": 15690000,
+    "distance": 13253120,
+    "2s_best": 16025,
+    "10s_best": 14694,
+    "500m_best": 13401,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ARN1033PAU_1033_20261007_135239.oao": {
+    "motion_file": "/logs/2026/10/1033_2026-10-07-1352.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/ARN1033PAU_1033_20261007_135239.oao",
+    "size": 349104,
+    "start_date": 1791377559000,
+    "end_date": 1791385215000,
+    "duration": 7656000,
+    "distance": 10173570,
+    "2s_best": 13730,
+    "10s_best": 13243,
+    "500m_best": 11054,
+    "status": "completed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "KIR651JON_651_20261007_121031.oao": {
+    "motion_file": "/logs/2026/10/0651_2026-10-07-1210.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/KIR651JON_651_20261007_121031.oao",
+    "size": 1165140,
+    "start_date": 1791371431000,
+    "end_date": 1791386015000,
+    "duration": 14584000,
+    "distance": 25768327,
+    "2s_best": 13020,
+    "10s_best": 12802,
+    "500m_best": 12030,
+    "status": "completed"
+  }
+}

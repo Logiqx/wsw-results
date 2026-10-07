@@ -1,0 +1,15 @@
+{
+  "HAR852SCO_852_20261007_104219.oao": {
+    "motion_file": "/logs/2026/10/0852_2026-10-07-1042.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/HAR852SCO_852_20261007_104219.oao",
+    "size": 1728508,
+    "start_date": 1791366139000,
+    "end_date": 1791385651000,
+    "duration": 19512000,
+    "distance": 56842133,
+    "2s_best": 14494,
+    "10s_best": 14344,
+    "500m_best": 13799,
+    "status": "completed"
+  }
+}

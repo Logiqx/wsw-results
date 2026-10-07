@@ -1,0 +1,15 @@
+{
+  "CRO952PET_952_20261007_094918.oao": {
+    "motion_file": "/logs/2026/10/0952_2026-10-07-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/CRO952PET_952_20261007_094918.oao",
+    "size": 1250316,
+    "start_date": 1791362958000,
+    "end_date": 1791383899000,
+    "duration": 20941000,
+    "distance": 38522260,
+    "2s_best": 14092,
+    "10s_best": 13911,
+    "500m_best": 13404,
+    "status": "completed"
+  }
+}

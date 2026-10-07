@@ -1,0 +1,15 @@
+{
+  "EIF662AYA_662_20261007_095615.oao": {
+    "motion_file": "/logs/2026/10/0662_2026-10-07-0956.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/EIF662AYA_662_20261007_095615.oao",
+    "size": 610352,
+    "start_date": 1791363375000,
+    "end_date": 1791386041000,
+    "duration": 22666000,
+    "distance": 16251261,
+    "2s_best": 22357,
+    "10s_best": 22222,
+    "500m_best": 21875,
+    "status": "completed"
+  }
+}

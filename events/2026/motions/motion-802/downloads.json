@@ -1,0 +1,15 @@
+{
+  "DEB802JEA_802_20261007_094418.oao": {
+    "motion_file": "/logs/2026/10/0802_2026-10-07-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/DEB802JEA_802_20261007_094418.oao",
+    "size": 1649780,
+    "start_date": 1791362658000,
+    "end_date": 1791385199000,
+    "duration": 22541000,
+    "distance": 41480887,
+    "2s_best": 14132,
+    "10s_best": 13914,
+    "500m_best": 12921,
+    "status": "completed"
+  }
+}

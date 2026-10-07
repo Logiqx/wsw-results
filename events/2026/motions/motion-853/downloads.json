@@ -1,0 +1,15 @@
+{
+  "DAF853CHR_853_20261007_094917.oao": {
+    "motion_file": "/logs/2026/10/0853_2026-10-07-0949.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/DAF853CHR_853_20261007_094917.oao",
+    "size": 210940,
+    "start_date": 1791362957000,
+    "end_date": 1791386549000,
+    "duration": 23592000,
+    "distance": 6348126,
+    "2s_best": 5495,
+    "10s_best": 4545,
+    "500m_best": 2107,
+    "status": "completed"
+  }
+}

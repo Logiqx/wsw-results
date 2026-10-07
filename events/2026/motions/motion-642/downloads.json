@@ -1,0 +1,15 @@
+{
+  "MIL642JEZ_642_20261007_094725.oao": {
+    "motion_file": "/logs/2026/10/0642_2026-10-07-0947.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/MIL642JEZ_642_20261007_094725.oao",
+    "size": 1100556,
+    "start_date": 1791362845000,
+    "end_date": 1791383063000,
+    "duration": 20218000,
+    "distance": 33117897,
+    "2s_best": 20827,
+    "10s_best": 20628,
+    "500m_best": 20216,
+    "status": "completed"
+  }
+}

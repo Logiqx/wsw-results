@@ -1,0 +1,15 @@
+{
+  "ILI807NIK_807_20261007_094319.oao": {
+    "motion_file": "/logs/2026/10/0807_2026-10-07-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/ILI807NIK_807_20261007_094319.oao",
+    "size": 1033788,
+    "start_date": 1791362599000,
+    "end_date": 1791386173000,
+    "duration": 23574000,
+    "distance": 20071869,
+    "2s_best": 10941,
+    "10s_best": 10274,
+    "500m_best": 8742,
+    "status": "completed"
+  }
+}

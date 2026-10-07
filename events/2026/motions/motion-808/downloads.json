@@ -1,0 +1,15 @@
+{
+  "OWE808AND_808_20261007_100232.oao": {
+    "motion_file": "/logs/2026/10/0808_2026-10-07-1002.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/OWE808AND_808_20261007_100232.oao",
+    "size": 105900,
+    "start_date": 1791363752000,
+    "end_date": 1791378509000,
+    "duration": 14757000,
+    "distance": 5479434,
+    "2s_best": 22455,
+    "10s_best": 22191,
+    "500m_best": 22092,
+    "status": "completed"
+  }
+}

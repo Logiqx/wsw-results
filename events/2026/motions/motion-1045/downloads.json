@@ -1,0 +1,15 @@
+{
+  "MEY1045BEN_1045_20261007_094341.oao": {
+    "motion_file": "/logs/2026/10/1045_2026-10-07-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/MEY1045BEN_1045_20261007_094341.oao",
+    "size": 673636,
+    "start_date": 1791362621000,
+    "end_date": 1791384595000,
+    "duration": 21974000,
+    "distance": 25821514,
+    "2s_best": 14997,
+    "10s_best": 14676,
+    "500m_best": 14075,
+    "status": "completed"
+  }
+}

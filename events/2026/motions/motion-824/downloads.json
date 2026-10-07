@@ -1,0 +1,15 @@
+{
+  "CRO824RIC_824_20261007_094825.oao": {
+    "motion_file": "/logs/2026/10/0824_2026-10-07-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261007/CRO824RIC_824_20261007_094825.oao",
+    "size": 1291968,
+    "start_date": 1791362905000,
+    "end_date": 1791383517000,
+    "duration": 20612000,
+    "distance": 36382730,
+    "2s_best": 14234,
+    "10s_best": 13775,
+    "500m_best": 12872,
+    "status": "completed"
+  }
+}
