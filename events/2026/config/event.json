@@ -138,6 +138,16 @@
       "Places": 1
     },
     {
+      "Category": "Female Wingboard",
+      "Filter": "Craft Type=Wingboard,Gender=F",
+      "Places": 1
+    },
+    {
+      "Category": "Female Kiteboard",
+      "Filter": "Craft Type=Kiteboard,Gender=F",
+      "Places": 1
+    },
+    {
       "Category": "Female",
       "Filter": "Gender=F",
       "Places": 1

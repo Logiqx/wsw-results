@@ -25,6 +25,16 @@
       "Filter": "Craft Type=Sailboard,Status<>Pro Fleet,Name<>Jenna Gibson,Gender=F"
     },
     {
+      "Title": "All Female Wingboards",
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Wingboard,Gender=F"
+    },
+    {
+      "Title": "All Female Kiteboards",
+      "Fields": "Name,Nation,Status,Course,Time,Speed (kts)",
+      "Filter": "Craft Type=Kiteboard,Gender=F"
+    },
+    {
       "Title": "All Legends",
       "Comment": "(age 65+ for all days of the event)",
       "Fields": "Name,Nation,Craft Type,Status,Course,Time,Speed (kts)",
