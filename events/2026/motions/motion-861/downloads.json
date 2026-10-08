@@ -11,5 +11,18 @@
     "10s_best": 10893,
     "500m_best": 10564,
     "status": "completed"
+  },
+  "HAR861SIA_861_20261008_112817.oao": {
+    "motion_file": "/logs/2026/10/0861_2026-10-08-1128.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/HAR861SIA_861_20261008_112817.oao",
+    "size": 1900,
+    "start_date": 1791455297000,
+    "end_date": 1791469387000,
+    "duration": 14090000,
+    "distance": 187920,
+    "2s_best": 1878,
+    "10s_best": 1451,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

@@ -11,5 +11,18 @@
     "10s_best": 11310,
     "500m_best": 10374,
     "status": "completed"
+  },
+  "GOO1001GAR_1001_20261008_111755.oao": {
+    "motion_file": "/logs/2026/10/1001_2026-10-08-1117.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/GOO1001GAR_1001_20261008_111755.oao",
+    "size": 868272,
+    "start_date": 1791454675000,
+    "end_date": 1791468869000,
+    "duration": 14194000,
+    "distance": 12961183,
+    "2s_best": 9689,
+    "10s_best": 9365,
+    "500m_best": 6144,
+    "status": "completed"
   }
 }

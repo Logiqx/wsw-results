@@ -11,5 +11,18 @@
     "10s_best": 13187,
     "500m_best": 12124,
     "status": "completed"
+  },
+  "THO838STE_838_20261008_123109.oao": {
+    "motion_file": "/logs/2026/10/0838_2026-10-08-1231.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/THO838STE_838_20261008_123109.oao",
+    "size": 1333152,
+    "start_date": 1791459069000,
+    "end_date": 1791468381000,
+    "duration": 9312000,
+    "distance": 17010370,
+    "2s_best": 11374,
+    "10s_best": 11028,
+    "500m_best": 9855,
+    "status": "completed"
   }
 }

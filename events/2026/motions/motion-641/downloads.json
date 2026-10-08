@@ -11,5 +11,18 @@
     "10s_best": 8238,
     "500m_best": 7316,
     "status": "completed"
+  },
+  "RUS641ROB_641_20261008_125835.oao": {
+    "motion_file": "/logs/2026/10/0641_2026-10-08-1258.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/RUS641ROB_641_20261008_125835.oao",
+    "size": 1844260,
+    "start_date": 1791460715000,
+    "end_date": 1791469897000,
+    "duration": 9182000,
+    "distance": 24303839,
+    "2s_best": 8956,
+    "10s_best": 8503,
+    "500m_best": 6504,
+    "status": "completed"
   }
 }

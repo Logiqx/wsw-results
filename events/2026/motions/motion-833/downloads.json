@@ -11,5 +11,18 @@
     "10s_best": 13694,
     "500m_best": 12920,
     "status": "completed"
+  },
+  "TWI833AND_833_20261008_112549.oao": {
+    "motion_file": "/logs/2026/10/0833_2026-10-08-1125.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/TWI833AND_833_20261008_112549.oao",
+    "size": 863384,
+    "start_date": 1791455149000,
+    "end_date": 1791472041000,
+    "duration": 16892000,
+    "distance": 11188286,
+    "2s_best": 9819,
+    "10s_best": 9475,
+    "500m_best": 5289,
+    "status": "completed"
   }
 }

@@ -11,5 +11,18 @@
     "10s_best": 11844,
     "500m_best": 11133,
     "status": "completed"
+  },
+  "STU803AND_803_20261008_114319.oao": {
+    "motion_file": "/logs/2026/10/0803_2026-10-08-1143.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/STU803AND_803_20261008_114319.oao",
+    "size": 209172,
+    "start_date": 1791456199000,
+    "end_date": 1791473781000,
+    "duration": 17582000,
+    "distance": 5091098,
+    "2s_best": 7660,
+    "10s_best": 7451,
+    "500m_best": 7121,
+    "status": "completed"
   }
 }

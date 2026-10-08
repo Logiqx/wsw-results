@@ -1,1 +1,15 @@
-{}
+{
+  "NEW810MAR_810_20261008_112251.oao": {
+    "motion_file": "/logs/2026/10/0810_2026-10-08-1122.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/NEW810MAR_810_20261008_112251.oao",
+    "size": 1281048,
+    "start_date": 1791454971000,
+    "end_date": 1791467787000,
+    "duration": 12816000,
+    "distance": 19345730,
+    "2s_best": 13148,
+    "10s_best": 13096,
+    "500m_best": 12619,
+    "status": "completed"
+  }
+}

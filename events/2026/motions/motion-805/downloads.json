@@ -76,5 +76,18 @@
     "10s_best": 10014,
     "500m_best": 9684,
     "status": "completed"
+  },
+  "LON805ROB_805_20261008_103101.oao": {
+    "motion_file": "/logs/2026/10/0805_2026-10-08-1031.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/LON805ROB_805_20261008_103101.oao",
+    "size": 908260,
+    "start_date": 1791451861000,
+    "end_date": 1791467301000,
+    "duration": 15440000,
+    "distance": 22493702,
+    "2s_best": 11446,
+    "10s_best": 11251,
+    "500m_best": 10584,
+    "status": "completed"
   }
 }

@@ -11,5 +11,18 @@
     "10s_best": 15032,
     "500m_best": 14398,
     "status": "completed"
+  },
+  "ING1043JON_1043_20261008_113041.oao": {
+    "motion_file": "/logs/2026/10/1043_2026-10-08-1130.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/ING1043JON_1043_20261008_113041.oao",
+    "size": 6268,
+    "start_date": 1791455441000,
+    "end_date": 1791468549000,
+    "duration": 13108000,
+    "distance": 233240,
+    "2s_best": 1792,
+    "10s_best": 1617,
+    "500m_best": 0,
+    "status": "skipped"
   }
 }

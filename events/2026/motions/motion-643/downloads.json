@@ -11,5 +11,18 @@
     "10s_best": 12440,
     "500m_best": 12032,
     "status": "completed"
+  },
+  "SHE643IAN_643_20261008_094241.oao": {
+    "motion_file": "/logs/2026/10/0643_2026-10-08-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/SHE643IAN_643_20261008_094241.oao",
+    "size": 1279124,
+    "start_date": 1791448961000,
+    "end_date": 1791471163000,
+    "duration": 22202000,
+    "distance": 43780599,
+    "2s_best": 12575,
+    "10s_best": 12310,
+    "500m_best": 11997,
+    "status": "completed"
   }
 }

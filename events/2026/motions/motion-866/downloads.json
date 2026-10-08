@@ -11,5 +11,18 @@
     "10s_best": 8458,
     "500m_best": 7420,
     "status": "completed"
+  },
+  "CRO866ALL_866_20261008_112013.oao": {
+    "motion_file": "/logs/2026/10/0866_2026-10-08-1120.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/CRO866ALL_866_20261008_112013.oao",
+    "size": 724180,
+    "start_date": 1791454813000,
+    "end_date": 1791467281000,
+    "duration": 12468000,
+    "distance": 12664613,
+    "2s_best": 9029,
+    "10s_best": 8837,
+    "500m_best": 7996,
+    "status": "completed"
   }
 }
