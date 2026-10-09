@@ -1,0 +1,15 @@
+{
+  "CRO818GEO_818_20261009_094231.oao": {
+    "motion_file": "/logs/2026/10/0818_2026-10-09-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/CRO818GEO_818_20261009_094231.oao",
+    "size": 888864,
+    "start_date": 1791535351000,
+    "end_date": 1791556521000,
+    "duration": 21170000,
+    "distance": 35708897,
+    "2s_best": 16252,
+    "10s_best": 16002,
+    "500m_best": 15479,
+    "status": "completed"
+  }
+}

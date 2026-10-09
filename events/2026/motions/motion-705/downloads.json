@@ -1,0 +1,15 @@
+{
+  "STA705SCO_705_20261009_094435.oao": {
+    "motion_file": "/logs/2026/10/0705_2026-10-09-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/STA705SCO_705_20261009_094435.oao",
+    "size": 1994280,
+    "start_date": 1791535475000,
+    "end_date": 1791557257000,
+    "duration": 21782000,
+    "distance": 88887906,
+    "2s_best": 19638,
+    "10s_best": 19173,
+    "500m_best": 18766,
+    "status": "completed"
+  }
+}

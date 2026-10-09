@@ -1,0 +1,15 @@
+{
+  "BUK619MAC_619_20261009_092641.oao": {
+    "motion_file": "/logs/2026/10/0619_2026-10-09-0926.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/BUK619MAC_619_20261009_092641.oao",
+    "size": 644360,
+    "start_date": 1791534401000,
+    "end_date": 1791556961000,
+    "duration": 22560000,
+    "distance": 26994134,
+    "2s_best": 16801,
+    "10s_best": 16210,
+    "500m_best": 15346,
+    "status": "completed"
+  }
+}

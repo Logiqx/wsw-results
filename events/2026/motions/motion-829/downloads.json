@@ -1,0 +1,15 @@
+{
+  "TRO829WIL_829_20261009_090031.oao": {
+    "motion_file": "/logs/2026/10/0829_2026-10-09-0900.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/TRO829WIL_829_20261009_090031.oao",
+    "size": 497720,
+    "start_date": 1791532831000,
+    "end_date": 1791553949000,
+    "duration": 21118000,
+    "distance": 21857756,
+    "2s_best": 16723,
+    "10s_best": 16259,
+    "500m_best": 15578,
+    "status": "completed"
+  }
+}

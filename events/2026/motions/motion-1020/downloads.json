@@ -1,0 +1,15 @@
+{
+  "BRA1020JAM_1020_20261009_094139.oao": {
+    "motion_file": "/logs/2026/10/1020_2026-10-09-0941.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/BRA1020JAM_1020_20261009_094139.oao",
+    "size": 671400,
+    "start_date": 1791535299000,
+    "end_date": 1791554529000,
+    "duration": 19230000,
+    "distance": 25892841,
+    "2s_best": 16563,
+    "10s_best": 16063,
+    "500m_best": 15771,
+    "status": "completed"
+  }
+}

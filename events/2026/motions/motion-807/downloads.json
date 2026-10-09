@@ -24,5 +24,18 @@
     "10s_best": 3205,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "ILI807NIK_807_20261009_094801.oao": {
+    "motion_file": "/logs/2026/10/0807_2026-10-09-0948.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/ILI807NIK_807_20261009_094801.oao",
+    "size": 815232,
+    "start_date": 1791535681000,
+    "end_date": 1791555789000,
+    "duration": 20108000,
+    "distance": 19005826,
+    "2s_best": 12635,
+    "10s_best": 12063,
+    "500m_best": 10397,
+    "status": "completed"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "LAT724SAM_724_20261009_090849.oao": {
+    "motion_file": "/logs/2026/10/0724_2026-10-09-0908.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/LAT724SAM_724_20261009_090849.oao",
+    "size": 817312,
+    "start_date": 1791533329000,
+    "end_date": 1791555939000,
+    "duration": 22610000,
+    "distance": 33424476,
+    "2s_best": 16428,
+    "10s_best": 16097,
+    "500m_best": 15826,
+    "status": "completed"
+  }
+}

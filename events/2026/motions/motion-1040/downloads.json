@@ -1,0 +1,15 @@
+{
+  "KIE1040OLI_1040_20261009_095341.oao": {
+    "motion_file": "/logs/2026/10/1040_2026-10-09-0953.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/KIE1040OLI_1040_20261009_095341.oao",
+    "size": 672440,
+    "start_date": 1791536021000,
+    "end_date": 1791547887000,
+    "duration": 11866000,
+    "distance": 24130067,
+    "2s_best": 13400,
+    "10s_best": 13028,
+    "500m_best": 12397,
+    "status": "completed"
+  }
+}

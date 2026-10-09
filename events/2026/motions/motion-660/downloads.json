@@ -1,0 +1,15 @@
+{
+  "CAR660MAR_660_20261009_121026.oao": {
+    "motion_file": "/logs/2026/10/0660_2026-10-09-1210.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/CAR660MAR_660_20261009_121026.oao",
+    "size": 1282972,
+    "start_date": 1791544226000,
+    "end_date": 1791557451000,
+    "duration": 13225000,
+    "distance": 42211192,
+    "2s_best": 19533,
+    "10s_best": 19339,
+    "500m_best": 18988,
+    "status": "completed"
+  }
+}

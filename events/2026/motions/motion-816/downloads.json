@@ -1,0 +1,15 @@
+{
+  "CRO816JAC_816_20261009_094211.oao": {
+    "motion_file": "/logs/2026/10/0816_2026-10-09-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/CRO816JAC_816_20261009_094211.oao",
+    "size": 1038728,
+    "start_date": 1791535331000,
+    "end_date": 1791556407000,
+    "duration": 21076000,
+    "distance": 37986787,
+    "2s_best": 16145,
+    "10s_best": 15705,
+    "500m_best": 15177,
+    "status": "completed"
+  }
+}

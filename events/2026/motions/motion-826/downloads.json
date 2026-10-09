@@ -1,0 +1,15 @@
+{
+  "BER826ARL_826_20261009_085539.oao": {
+    "motion_file": "/logs/2026/10/0826_2026-10-09-0855.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/BER826ARL_826_20261009_085539.oao",
+    "size": 1156144,
+    "start_date": 1791532539000,
+    "end_date": 1791553433000,
+    "duration": 20894000,
+    "distance": 33604271,
+    "2s_best": 12369,
+    "10s_best": 11997,
+    "500m_best": 11535,
+    "status": "completed"
+  }
+}

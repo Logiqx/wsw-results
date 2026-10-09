@@ -24,5 +24,18 @@
     "10s_best": 24262,
     "500m_best": 23633,
     "status": "completed"
+  },
+  "VAS665STA_665_20261009_094247.oao": {
+    "motion_file": "/logs/2026/10/0665_2026-10-09-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/VAS665STA_665_20261009_094247.oao",
+    "size": 757460,
+    "start_date": 1791535367000,
+    "end_date": 1791551513000,
+    "duration": 16146000,
+    "distance": 26355070,
+    "2s_best": 20666,
+    "10s_best": 20543,
+    "500m_best": 20248,
+    "status": "completed"
   }
 }

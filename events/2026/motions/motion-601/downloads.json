@@ -11,5 +11,18 @@
     "10s_best": 1569,
     "500m_best": 0,
     "status": "skipped"
+  },
+  "DEM601OSC_601_20261009_112833.oao": {
+    "motion_file": "/logs/2026/10/0601_2026-10-09-1128.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/DEM601OSC_601_20261009_112833.oao",
+    "size": 798384,
+    "start_date": 1791541713000,
+    "end_date": 1791551955000,
+    "duration": 10242000,
+    "distance": 23647549,
+    "2s_best": 16083,
+    "10s_best": 15463,
+    "500m_best": 14008,
+    "status": "completed"
   }
 }

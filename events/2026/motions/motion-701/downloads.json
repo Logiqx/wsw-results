@@ -63,5 +63,18 @@
     "10s_best": 18619,
     "500m_best": 17781,
     "status": "completed"
+  },
+  "CAM701SBA_701_20261009_092437.oao": {
+    "motion_file": "/logs/2026/10/0701_2026-10-09-0924.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/CAM701SBA_701_20261009_092437.oao",
+    "size": 1786644,
+    "start_date": 1791534277000,
+    "end_date": 1791554821000,
+    "duration": 20544000,
+    "distance": 63010946,
+    "2s_best": 20312,
+    "10s_best": 20135,
+    "500m_best": 19568,
+    "status": "completed"
   }
 }

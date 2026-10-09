@@ -24,5 +24,18 @@
     "10s_best": 21547,
     "500m_best": 21223,
     "status": "completed"
+  },
+  "EIF662AYA_662_20261009_095209.oao": {
+    "motion_file": "/logs/2026/10/0662_2026-10-09-0952.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/EIF662AYA_662_20261009_095209.oao",
+    "size": 1705056,
+    "start_date": 1791535929000,
+    "end_date": 1791554861000,
+    "duration": 18932000,
+    "distance": 56584809,
+    "2s_best": 20313,
+    "10s_best": 20131,
+    "500m_best": 19563,
+    "status": "completed"
   }
 }

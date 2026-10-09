@@ -1,0 +1,15 @@
+{
+  "BER827FIN_827_20261009_085719.oao": {
+    "motion_file": "/logs/2026/10/0827_2026-10-09-0857.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/BER827FIN_827_20261009_085719.oao",
+    "size": 2031928,
+    "start_date": 1791532639000,
+    "end_date": 1791553403000,
+    "duration": 20764000,
+    "distance": 57148147,
+    "2s_best": 16078,
+    "10s_best": 15795,
+    "500m_best": 14318,
+    "status": "completed"
+  }
+}

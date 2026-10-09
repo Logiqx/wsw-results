@@ -11,5 +11,31 @@
     "10s_best": 13775,
     "500m_best": 12872,
     "status": "completed"
+  },
+  "CRO824RIC_824_20261008_124321.oao": {
+    "motion_file": "/logs/2026/10/0824_2026-10-08-1243.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261008/CRO824RIC_824_20261008_124321.oao",
+    "size": 2524,
+    "start_date": 1791459801000,
+    "end_date": 1791466563000,
+    "duration": 6762000,
+    "distance": 414249,
+    "2s_best": 1458,
+    "10s_best": 1148,
+    "500m_best": 0,
+    "status": "skipped"
+  },
+  "CRO824RIC_824_20261009_094241.oao": {
+    "motion_file": "/logs/2026/10/0824_2026-10-09-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/CRO824RIC_824_20261009_094241.oao",
+    "size": 1070396,
+    "start_date": 1791535361000,
+    "end_date": 1791555603000,
+    "duration": 20242000,
+    "distance": 41311861,
+    "2s_best": 15972,
+    "10s_best": 15801,
+    "500m_best": 15311,
+    "status": "completed"
   }
 }

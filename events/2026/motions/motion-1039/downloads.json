@@ -11,5 +11,18 @@
     "10s_best": 15072,
     "500m_best": 14398,
     "status": "completed"
+  },
+  "MEY1039NEI_1039_20261009_091109.oao": {
+    "motion_file": "/logs/2026/10/1039_2026-10-09-0911.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/MEY1039NEI_1039_20261009_091109.oao",
+    "size": 711232,
+    "start_date": 1791533469000,
+    "end_date": 1791554283000,
+    "duration": 20814000,
+    "distance": 30664020,
+    "2s_best": 16128,
+    "10s_best": 15615,
+    "500m_best": 14854,
+    "status": "completed"
   }
 }

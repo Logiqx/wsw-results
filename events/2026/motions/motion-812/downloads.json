@@ -37,5 +37,18 @@
     "10s_best": 13478,
     "500m_best": 12391,
     "status": "completed"
+  },
+  "DIN812JAM_812_20261009_094221.oao": {
+    "motion_file": "/logs/2026/10/0812_2026-10-09-0942.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/DIN812JAM_812_20261009_094221.oao",
+    "size": 1586652,
+    "start_date": 1791535341000,
+    "end_date": 1791556871000,
+    "duration": 21530000,
+    "distance": 68114468,
+    "2s_best": 17612,
+    "10s_best": 17203,
+    "500m_best": 16793,
+    "status": "completed"
   }
 }

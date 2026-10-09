@@ -1,1 +1,15 @@
-{}
+{
+  "NOR942SCO_942_20261009_094309.oao": {
+    "motion_file": "/logs/2026/10/0942_2026-10-09-0943.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/NOR942SCO_942_20261009_094309.oao",
+    "size": 1547756,
+    "start_date": 1791535389000,
+    "end_date": 1791556649000,
+    "duration": 21260000,
+    "distance": 64118843,
+    "2s_best": 17526,
+    "10s_best": 16958,
+    "500m_best": 16315,
+    "status": "completed"
+  }
+}

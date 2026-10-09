@@ -11,5 +11,18 @@
     "10s_best": 11375,
     "500m_best": 10730,
     "status": "completed"
+  },
+  "HUM811TIM_811_20261009_094411.oao": {
+    "motion_file": "/logs/2026/10/0811_2026-10-09-0944.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/HUM811TIM_811_20261009_094411.oao",
+    "size": 155300,
+    "start_date": 1791535451000,
+    "end_date": 1791551933000,
+    "duration": 16482000,
+    "distance": 9201757,
+    "2s_best": 15813,
+    "10s_best": 15251,
+    "500m_best": 14081,
+    "status": "completed"
   }
 }

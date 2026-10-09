@@ -16,8 +16,8 @@
       "level": 2
     },
     "battery": {
-      "level": 78,
-      "charging": true
+      "level": 70,
+      "charging": false
     },
     "units": {
       "speed": "kn",

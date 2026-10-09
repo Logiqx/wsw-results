@@ -37,5 +37,18 @@
     "10s_best": 20669,
     "500m_best": 19985,
     "status": "completed"
+  },
+  "PEN633ROB_633_20261009_084139.oao": {
+    "motion_file": "/logs/2026/10/0633_2026-10-09-0841.oao",
+    "local_file": "/home/jovyan/work/sse-results/events/2026/gpslogs/20261009/PEN633ROB_633_20261009_084139.oao",
+    "size": 89572,
+    "start_date": 1791531699000,
+    "end_date": 1791543315000,
+    "duration": 11616000,
+    "distance": 4404760,
+    "2s_best": 19635,
+    "10s_best": 19377,
+    "500m_best": 19153,
+    "status": "completed"
   }
 }
