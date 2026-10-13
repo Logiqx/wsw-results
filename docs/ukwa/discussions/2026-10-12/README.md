@@ -54,7 +54,7 @@ The final afternoon would have been deemed valid if using a criteria of 50% of t
   - Avoid requirement for lightweights to be using an 85 cm board + 8.5 m
   - ... or formula boards winning the UKWA titles simply because of their kit
 - Can it be based on windspeed?
-  - Tricky... how to we measure it given what we know about readings from the harbour wall
+  - Tricky... how do we measure it given what we know about readings from the harbour wall
   - Didn't see an easy way to do it, without it being too complicated / onerous
 - Perhaps use different speed requirements for beach and harbour courses?
   - Perhaps based on a few top riders... top 2, 3, or 4?
@@ -82,7 +82,7 @@ The final afternoon would have been deemed valid if using a criteria of 50% of t
 
 Instead of looking at how many people finished the heat, perhaps have requirements based on the number of entrants.
 
-This can be determined beforehand, and the speed requirement could simply be "X riders doing Y knots at least 2 times".
+This can be determined beforehand, and the speed requirement could simply be "**X riders** doing **Y knots** at least **2 times**".
 
 Some stats for UKWA fin entrants in recent years:
 
@@ -95,9 +95,9 @@ Some stats for UKWA fin entrants in recent years:
 
 These stats were produced after the discussion, and show that circa 30 "all week" UKWA fin entrants is fairly typical.
 
-Perhaps we can have a simple rule of "**3 riders** doing **X knots** at least **2 times**" for the various craft... fin, foil, and wing?
+Perhaps we can have a fixed rule of "**3 riders** doing **X knots** at least **2 times**" for the various craft... fin, foil, and wing?
 
-e.g. In 2026, 3 fin riders equates to 10% of the UKWA fin entries (all week), and 25% of the UKWA Pro fleet.
+e.g. In 2026, 3 fin riders equated to 10% of the UKWA fin entries (all week), and 25% of the UKWA Pro fleet.
 
 
 
@@ -107,11 +107,11 @@ e.g. In 2026, 3 fin riders equates to 10% of the UKWA fin entries (all week), an
 
 The [morning](https://results.weymouthspeedweek.com/events/2026/20261007/leg-1.html) of Wed 7 Oct 2026 was an anomaly because the course opened very late, and riders had trouble getting to it.
 
-Had everyone been competing, it may have been a valid UKWA heat, but the limited number of people was the main issue.
+Had everyone been competing, it may have been a valid UKWA heat, and the limited number of participants was an issue.
 
-We discussed the number of participants for a heat to be valid. Perhaps it could be 25% of the "all week" UKWA adults?
+We discussed the number of participants for a heat to be valid. Perhaps **25%** of the **"all week" UKWA adults** would be suitable?
 
-e.g. 8 people would need to complete at least 2 runs on the fin, if there are 32 "all week" UKWA adults for the fin.
+e.g. **8 people** would need at least **2 runs** on the fin for a valid heat, if there are **32 "all week" UKWA adults** for the fin.
 
 
 
@@ -119,7 +119,7 @@ e.g. 8 people would need to complete at least 2 runs on the fin, if there are 32
 
 We discussed whether it makes sense to dedicate some UKWA sessions solely to the fin, and some to the foil.
 
-Foil rounds can potentially be a bit shorter because it is often easier to do the runs and get back to the start.
+Notice for foil rounds can potentially be a bit shorter, because it is usually easier to get to and from the course.
 
 Maximum of 2 heats per craft, per day. Need to be mindful that longer sessions may help to ensure validity.
 
@@ -134,11 +134,11 @@ A number of factors may cause a decent day not to be deemed valid if the rules a
 - Some people don't come on the less windy days, opting to work instead.
   - This should not result in decent conditions being wasted when 1 or 2 fast riders are absent.
 - Some people work on the non-winning days of Weymouth Speed Week.
-  - These days could still be good for UKWA competition though, and opportunities should be taken.
+  - These days could still be good for UKWA competition though, and opportunities maximised.
 - Some people sit on small kit, and wait for the magic gust in the hopes of winning a pot or WSW.
   - If a fast rider chooses this tactic then it should not cause the UKWA heat to be deemed invalid.
-- Some people might chose to sail on the foil, even though it is a fin round.
-  - The dependence on just 3 riders should mitigate the risk of foilers impacting the fin results.
+- Some people might chose to sail on the foil, even though it is intended to be a fin heat.
+  - The dependency on just 3 riders should mitigate the risk of foilers impacting the fin results.
 
 
 
@@ -171,7 +171,7 @@ Investigate the efficacy of the following rules:
   - Beach - At least **3 of the finishers** must achieve the required speed of **30 knots** at least **2 times**
     - This is usually not an issue for the faster riders in the fleet
   - ... and at least **X riders** must complete at least **2 runs**
-    - Calculate X in advance - e.g. 25% of 32 UKWA fin entries (all week) would equate to **8 riders**
+    - Calculate X in advance - e.g. **25% of 32** UKWA fin entries (all week) would equate to **8 riders**
 
 Recent years may be tricky to interpret because of people using a mixture of fins and foils.
 
