@@ -37,7 +37,7 @@ The final afternoon would have been deemed valid if using a criteria of 50% of t
 #### Review of 2026
 
 - Wed 7 Oct - Fin [results](https://results.weymouthspeedweek.com/events/2026/20261007/index.html) from the afternoon were worthy of recognition, but deemed invalid
-  - Perhaps worth noting that 25% at 26 kt, or 50% at 24 kt would have been valid
+  - Failed because Garry needed one more run > 27 kt, or Mike needed two runs over 25 kt
 
 - Thu 8 Oct - Fin [results](https://results.weymouthspeedweek.com/events/2026/20261008/index.html) not worthy of UKWA rankings. Good for foiling, but only 3 in each session
   - Clearly a foiling day, but no counting results due to only 3 people in the morning
